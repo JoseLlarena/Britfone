@@ -2431,16 +2431,18 @@ UPLOAD, ˈɐ p l ˌəʊ d
 UPLOADED, ˈɐ p l ˌəʊ d ɪ d
 URUGUAY, ˈjʊə ɹ ə g w ˌaɪ
 USAGE, ˈjuː s ɪ dʒ
-UTAH, ˈjuː t ˌɔː
-UTAH, ˈjuː t ˌɔː
+UTAH(1), ˈjuː t ˌɑː
+UTAH(2), ˈjuː t ˌɔː
 UTILITIES, juː t ˈɪ l ɪ t iː z
 UTILITY, juː t ˈɪ l ɪ t iː
-VACATION, v eɪ k ˈeɪ ʃ ə n
-VACATIONS, v eɪ k ˈeɪ ʃ ə n z
-VACCINE, v ˌæ k s ˈiː n
+VACATION(1), v eɪ k ˈeɪ ʃ ə n
+VACATION(2), v ə k ˈeɪ ʃ ə n
+VACATIONS(1), v eɪ k ˈeɪ ʃ ə n z
+VACATIONS(2), v ə k ˈeɪ ʃ ə n z
+VACCINE, v ˈæ k s iː n
 VALENTINE, v ˈæ l ə n t ˌaɪ n
 VALIDATION, v ˌæ l ɪ d ˈeɪ ʃ ə n
-VALIUM, v ˈeɪ l ɪə m
+VALIUM, v ˈæ l ɪə m
 VALVE, v ˈæ l v
 VANCOUVER, v æ n k ˈuː v ə
 VARIABLE, v ˈɛə ɹ ɪə b ə l
@@ -2458,14 +2460,11 @@ VERIFIED, v ˈɛ ɹ ɪ f ˌaɪ d
 VERIFY, v ˈɛ ɹ ɪ f ˌaɪ
 VERMONT, v ə m ˈɒ n t
 VERSUS, v ˈɜː s ə s
-VERSUS, v ˈɜː s ə z
 VESSEL, v ˈɛ s ə l
-VETERAN, v ˈɛ t əɹ ə n
-VETERAN, v ˈɛ t ɹ ə n
-VETERANS, v ˈɛ t əɹ ə n z
-VETERANS, v ˈɛ t ɹ ə n z
-VETERINARY, v ˈɛ t ɹ ə n ə ɹ iː
-VIAGRA, v ɪ ˈæ g ɹ ə
+VETERAN, v ˈɛ t ə ɹ ə n
+VETERANS, v ˈɛ t ə ɹ ə n z
+VETERINARY, v ˈɛ t ə ɹ ɪ n ə ɹ iː
+VIAGRA, v aɪ ˈæ g ɹ ə
 VIBRATOR, v ˈaɪ b ɹ eɪ t ə
 VICTOR, v ˈɪ k t ə
 VIENNA, v ɪ ˈɛ n ə
@@ -2491,26 +2490,23 @@ VOCATIONAL, v əʊ k ˈeɪ ʃ ə n ə l
 VOID, v ˈɔɪ d
 VOLKSWAGEN, v ˈəʊ l k s w ˌæ g ə n
 VOLLEYBALL, v ˈɒ l iː b ˌɔː l
-VOLTAGE, v ˈəʊ l t ə dʒ
 VOLTAGE, v ˈəʊ l t ɪ dʒ
 VOLUNTEER, v ˌɒ l ə n t ˈɪə
 VOLVO, v ˈəʊ l v əʊ
 VOTED, v ˈəʊ t ɪ d
-VOTED, v ˈəʊ t ə d
-VOYEUR, v ˈəʊ ˈɑː
-VULNERABILITY, v ˌɐ l n əɹ ə b ˈɪ l ɪ t iː
-WALLACE, w ˈɔː l ə s
+VOYEUR(1), v w aɪ ˈɜː
+VOYEUR(2), v ɔɪ ˈɜː
+VULNERABILITY, v ˌɐ l n ə ɹ ə b ˈɪ l ɪ t iː
 WALLACE, w ˈɔː l ɪ s
 WALLPAPERS, w ˈɔː l p ˌeɪ p ə z
 WANNA, w ˈɒ n ə
 WARMING, w ˈɔː m ɪ ŋ
 WARNER, w ˈɔː n ə
 WARNINGS, w ˈɔː n ɪ ŋ z
-WARRANT, w ˈɔː ɹ ə n t
-WARRANTIES, w ˈɔː ɹ ə n t iː z
-WARRANTY, w ˈɔː ɹ ə n t iː
-WARRIOR, w ˈɔː ɹ j ə
-WARRIOR, w ˈɔː ɹ ɪ ə
+WARRANT, w ˈɒ ɹ ə n t
+WARRANTIES, w ˈɒ ɹ ə n t iː z
+WARRANTY, w ˈɒ ɹ ə n t iː
+WARRIOR, w ˈɒ ɹ ɪ ə
 WATCHES, w ˈɒ tʃ ɪ z
 WATSON, w ˈɒ t s ə n
 WATT, w ˈɒ t
@@ -2520,9 +2516,8 @@ WEBSTER, w ˈɛ b s t ə
 WELLINGTON, w ˈɛ l ɪ ŋ t ə n
 WELLNESS, w ˈɛ l n ə s
 WHEAT, w ˈiː t
-WHEAT, h w ˈiː t
 WHOLESALE, h ˈəʊ l s ˌeɪ l
-WICHITA, w ˈɪ tʃ ɪ t ə
+WICHITA, w ˈɪ tʃ ɪ t ˌɔː
 WIKI, w ˈɪ k iː
 WIKIPEDIA, w ˈɪ k ɪ p ˌiː d ɪə
 WILDERNESS, w ˈɪ l d ə n ə s
@@ -2537,13 +2532,15 @@ WORKSHOPS, w ˈɜː k ʃ ˌɒ p s
 WORLDS, w ˈɜː l d z
 WORLDWIDE, w ˈɜː l d w ˈaɪ d
 WYOMING, w ˌaɪ ˈəʊ m ɪ ŋ
-XANAX, z ˈæ n æ k s
-YAHOO, j ˈɑː h ˌuː
-YAMAHA, j ə m ɑː h ˌɑː
+YAHOO(1), j ˈɑː h ˌuː
+YAHOO(2), j ə h ˈuː
+YAMAHA(1), j ˈɑː m ə h ə
+YAMAHA(2), j ə m ˈɑː h ə
 YIELD, j ˈiː l d
 YOGA, j ˈəʊ g ə
 ZAMBIA, z ˈæ m b ɪə
-ZIMBABWE, z ɪ m b ˈɒ b w eɪ
+ZIMBABWE(1), z ɪ m b ˈɑː b w eɪ
+ZIMBABWE(2), z ɪ m b ˈɑː b w iː
 ZONES, z ˈəʊ n z
 ZONING, z ˈəʊ n ɪ ŋ
 ZOO, z ˈuː

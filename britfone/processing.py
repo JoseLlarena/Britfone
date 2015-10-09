@@ -125,7 +125,7 @@ google_ignore = \
         'HWY', 'NAM', 'IX', 'UNA', 'FT', 'SRC', 'AP', 'MN', 'UTC', 'NH', 'QTY', 'BIO', 'VI', 'SB', 'SM', 'ZUS',
         'FOTOS', 'HB', 'TC', 'MINS', 'OEM', 'POR', 'MEM', 'IDE', 'PD', 'WP', 'YRS',
         'LYCOS','MINOLTA','MULTI','NANO','NIKON','POLY','RHODE','SALEM','SCOTIA',
-        'SOLARIS','TIFFANY','TRIVIA','TROY'
+        'SOLARIS','TIFFANY','TRIVIA','TROY','XANAX'
 
     }
 
