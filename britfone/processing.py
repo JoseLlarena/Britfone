@@ -123,7 +123,9 @@ google_ignore = \
         'COL', 'DX', 'SK', 'BIOL', 'YU', 'SQ', 'OC', 'AJ', 'TREO', 'UNE', 'TEXS', 'SUBLIMEDIRECTORY', 'OM',
         'TP', 'JM', 'DPI', 'GIS', 'LOC', 'CN', 'VER', 'RN', 'DIS', 'CG', 'SER', 'HREF', 'FWD', 'AUS', 'ENDIF',
         'HWY', 'NAM', 'IX', 'UNA', 'FT', 'SRC', 'AP', 'MN', 'UTC', 'NH', 'QTY', 'BIO', 'VI', 'SB', 'SM', 'ZUS',
-        'FOTOS', 'HB', 'TC', 'MINS', 'OEM', 'POR', 'MEM', 'IDE', 'PD', 'WP', 'YRS'
+        'FOTOS', 'HB', 'TC', 'MINS', 'OEM', 'POR', 'MEM', 'IDE', 'PD', 'WP', 'YRS',
+        'LYCOS','MINOLTA','MULTI','NANO','NIKON','POLY','RHODE','SALEM','SCOTIA',
+        'SOLARIS','TIFFANY','TRIVIA','TROY'
 
     }
 
