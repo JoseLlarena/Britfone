@@ -94,7 +94,7 @@ def vocabulary2():
 
 def finds_multiples():
 
-    word_sound = lines_from(SEED_FILE, lambda line: [col.strip() for col in line.split(',')])
+    word_sound = lines_from(DIR+'new_vocabulary.csv', lambda line: [col.strip() for col in line.split(',')])
 
     word_to_sounds = defaultdict(set)
     for w, s in word_sound:

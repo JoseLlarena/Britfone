@@ -865,7 +865,7 @@ CAMP, k ˈæ m p
 CAMPAIGN, k æ m p ˈeɪ n
 CAMPBELL, k ˈæ m b ə l
 CAN(1), k ə n
-CAN(1), k ˈæ n
+CAN(2), k ˈæ n
 CANADA, k ˈæ n ə d ə
 CANAL, k ə n ˈæ l
 CANCEL, k ˈæ n s ə l
@@ -1241,7 +1241,7 @@ COMMUNION, k ə m ˈjuː n j ə n
 COMMUNIST, k ˈɒ m jʊ n ɪ s t
 COMMUNITIES, k ə m ˈjuː n ɪ t iː z
 COMMUNITY(1), k ə m ˈjuː n ə t iː
-COMMUNITY(1), k ə m ˈjuː n ɪ t iː
+COMMUNITY(2), k ə m ˈjuː n ɪ t iː
 COMPANIES, k ˈɐ m p ə n iː z
 COMPANION, k ə m p ˈæ n j ə n
 COMPANY, k ˈɐ m p ə n iː
@@ -3013,13 +3013,13 @@ HILARIOUS, h ɪ l ˈɛə ɹ ɪə s
 HILL, h ˈɪ l
 HILLS, h ˈɪ l z
 HIM(1), ɪ m
-HIM(1), h ˈɪ m
+HIM(2), h ˈɪ m
 HIMSELF, h ɪ m s ˈɛ l f
 HIP, h ˈɪ p
 HIRE, h ˈaɪ ə
 HIRE, h ˈaɪ ə
-HIS, h ɪ z
-HIS, h ˈɪ z
+HIS(1), h ɪ z
+HIS(2), h ˈɪ z
 HISTORIANS, h ɪ s t ˈɔː ɹ ɪə n z
 HISTORIC, h ɪ s t ˈɒ ɹ ɪ k
 HISTORICAL, h ɪ s t ˈɒ ɹ ɪ k ə l
@@ -3104,7 +3104,7 @@ HUMAN, h ˈjuː m ə n
 HUMANS, h ˈjuː m ə n z
 HUMOUR, h ˈjuː m ə
 HUNDRED(1), h ˈɐ n d ɹ ə d
-HUNDRED(1), h ˈɐ n d ɹ ɪ d
+HUNDRED(2), h ˈɐ n d ɹ ɪ d
 HUNDREDS, h ˈɐ n d ɹ ə d z
 HUNG, h ˈɐ ŋ
 HUNGARY, h ˈɐ ŋ g ə ɹ iː
@@ -3336,8 +3336,8 @@ ITALIAN, ɪ t ˈæ l j ə n
 ITALY, ˈɪ t ə l iː
 ITEM, ˈaɪ t ə m
 ITEMS, ˈaɪ t ə m z
-ITS, ɪ t s
-ITS, ˈɪ t s
+ITS(1), ɪ t s
+ITS(2), ˈɪ t s
 ITSELF, ɪ t s ˈɛ l f
 IVY, ˈaɪ v iː
 JA, j ˈɑː
@@ -3450,7 +3450,7 @@ JUNIOR, dʒ ˈuː n j ə
 JURISDICTION, dʒ ˌʊə ɹ ɪ s d ˈɪ k ʃ ə n
 JURY, dʒ ˈʊə ɹ iː
 JUS(1), dʒ ˈuː
-JUS(1), dʒ ˈɐ s
+JUS(2), dʒ ˈɐ s
 JUST(1), dʒ ə s t
 JUST(2), dʒ ˈɐ s t
 JUSTICE, dʒ ˈɐ s t ɪ s
@@ -3499,9 +3499,9 @@ KILLING, k ˈɪ l ɪ ŋ
 KILLS, k ˈɪ l z
 KILO, k ˈiː l ˌəʊ
 KILOMETRE(1), k ˌɪ l ə m ˈiː t ə
-KILOMETRE(2) k ˌɪ l ˈɒ m ˌɪ t ə
+KILOMETRE(2), k ˌɪ l ˈɒ m ˌɪ t ə
 KILOMETRES(1), k ˌɪ l ə m ˈiː t ə z
-KILOMETRES(2) k ˌɪ l ˈɒ m ˌɪ t ə z
+KILOMETRES(2), k ˌɪ l ˈɒ m ˌɪ t ə z
 KILOS, k ˈiː l ˌəʊ z
 KIM, k ˈɪ m
 KIND, k ˈaɪ n d
@@ -4034,7 +4034,7 @@ MINORITY(2), m ɪ n ˈɒ ɹ ɪ t iː
 MINT, m ˈɪ n t
 MINUS, m ˈaɪ n ə s
 MINUTE(1), m ˈɪ n ɪ t
-MINUTE(1), m aɪ n ˈjuː t
+MINUTE(2), m aɪ n ˈjuː t
 MINUTES, m ˈɪ n ɪ t s
 MIRROR, m ˈɪ ɹ ə
 MIRRORS, m ˈɪ ɹ ə z
@@ -4204,7 +4204,7 @@ NEIGHBOUR, n ˈeɪ b ə
 NEIGHBOURS, n ˈeɪ b ə z
 NEIL, n ˈiː l
 NEITHER(1), n ˈaɪ ð ə
-NEITHER(1), n ˈiː ð ə
+NEITHER(2), n ˈiː ð ə
 NEPHEW, n ˈɛ f juː
 NERVE, n ˈɜː v
 NERVES, n ˈɜː v z
@@ -5277,8 +5277,8 @@ REQUIREMENT, ɹ ɪ k w ˈaɪ ə m ə n t
 REQUIREMENTS, ɹ ɪ k w ˈaɪ ə m ə n t s
 REQUIRES, ɹ ɪ k w ˈaɪ ə z
 REQUIRING, ɹ ɪ k w ˈaɪ ə ɪ ŋ
-RESEARCH, ɹ ɪ s ˈɜː tʃ
-RESEARCH, ɹ ˈiː s ɜː tʃ
+RESEARCH(1), ɹ ɪ s ˈɜː tʃ
+RESEARCH(2), ɹ ˈiː s ɜː tʃ
 RESEARCHERS, ɹ ˈiː s ɜː tʃ ə z
 RESIDENCE, ɹ ˈɛ z ɪ d ə n s
 RESIDENTIAL, ɹ ˌɛ z ɪ d ˈɛ n ʃ ə l
@@ -5288,9 +5288,9 @@ RESIST, ɹ ɪ z ˈɪ s t
 RESISTANCE, ɹ ɪ z ˈɪ s t ə n s
 RESOLUTION, ɹ ˌɛ z ə l ˈuː ʃ ə n
 RESORT, ɹ ɪ z ˈɔː t
-RESOURCE, ɹ ɪ s ˈɔː s
-RESOURCE, ɹ ɪ z ˈɔː s
-RESOURCE, ɹ ˈiː s ɔː s
+RESOURCE(1), ɹ ɪ s ˈɔː s
+RESOURCE(2), ɹ ɪ z ˈɔː s
+RESOURCE(3), ɹ ˈiː s ɔː s
 RESOURCES, ɹ ɪ s ˈɔː s ɪ z
 RESPECT, ɹ ɪ s p ˈɛ k t
 RESPECTIVELY, ɹ ɪ s p ˈɛ k t ɪ v l iː
@@ -5302,10 +5302,10 @@ RESPONSIBILITIES, ɹ ɪ s p ˌɒ n s ɪ b ˈɪ l ɪ t iː z
 RESPONSIBILITY, ɹ ɪ s p ˌɒ n s ɪ b ˈɪ l ɪ t iː
 RESPONSIBLE, ɹ ɪ s p ˈɒ n s ɪ b ə l
 REST, ɹ ˈɛ s t
-RESTAURANT, ɹ ˈɛ s t ə ɹ ˌɒ n t
-RESTAURANT, ɹ ˈɛ s t ɹ ˌɒ n t
-RESTAURANTS, ɹ ˈɛ s t ə ɹ ˌɒ n t s
-RESTAURANTS, ɹ ˈɛ s t ɹ ˌɒ n t s
+RESTAURANT(1), ɹ ˈɛ s t ɹ ˌɒ n t
+RESTAURANT(2), ɹ ˈɛ s t ə ɹ ˌɒ n t
+RESTAURANTS(1), ɹ ˈɛ s t ɹ ˌɒ n t s
+RESTAURANTS(2), ɹ ˈɛ s t ə ɹ ˌɒ n t s
 RESTING, ɹ ˈɛ s t ɪ ŋ
 RESTORATION, ɹ ˌɛ s t ə ɹ ˈeɪ ʃ ə n
 RESTORE, ɹ ɪ s t ˈɔː
@@ -5380,13 +5380,15 @@ ROLLING, ɹ ˈəʊ l ɪ ŋ
 ROLLS, ɹ ˈəʊ l z
 ROM, ɹ ˈɒ m
 ROMAN, ɹ ˈəʊ m ə n
-ROMANTIC, ɹ ə m ˈæ n t ɪ k
-ROMANTIC, ɹ əʊ m ˈæ n t ɪ k
+ROMANTIC(1), ɹ ə m ˈæ n t ɪ k
+ROMANTIC(2), ɹ əʊ m ˈæ n t ɪ k
 ROME, ɹ ˈəʊ m
 ROMS, ɹ ˈɒ m z
 RON, ɹ ˈɒ n
-ROOF, ɹ ˈuː f
-ROOF, ɹ ˈʊ f
+ROOF(1), ɹ ˈuː f
+ROOF(2), ɹ ˈʊ f
+ROOFS(1), ɹ ˈuː f s
+ROOFS(2), ɹ ˈʊ f s
 ROOM, ɹ ˈuː m
 ROOMS, ɹ ˈuː m z
 ROOT, ɹ ˈuː t
@@ -5408,10 +5410,10 @@ ROUTE, ɹ ˈuː t
 ROUTES, ɹ ˈuː t s
 ROUTINE, ɹ uː t ˈiː n
 ROVER, ɹ ˈəʊ v ə
-ROW, ɹ ˈaʊ
-ROW, ɹ ˈəʊ
-ROWS, ɹ ˈaʊ z
-ROWS, ɹ ˈəʊ z
+ROW(1), ɹ ˈəʊ
+ROW(2), ɹ ˈaʊ
+ROWS(1), ɹ ˈəʊ z
+ROWS(2), ɹ ˈaʊ z
 ROY, ɹ ˈɔɪ
 ROYAL, ɹ ˈɔɪ ə l
 RU, ɹ ˈuː
@@ -5469,12 +5471,12 @@ SAMPLES, s ˈæ m p ə l z
 SAN, s ˈæ n
 SAND, s ˈæ n d
 SANDRA, s ˈɑː n d ɹ ə
-SANDWICH, s ˈæ m w ɪ tʃ
-SANDWICH, s ˈæ n d w ɪ tʃ
-SANDWICH, s ˈæ n w ɪ tʃ
-SANDWICHES, s ˈæ m w ɪ tʃ ɪ z
-SANDWICHES, s ˈæ n d w ɪ tʃ ɪ z
-SANDWICHES, s ˈæ n w ɪ tʃ ɪ z
+SANDWICH(1), s ˈæ m w ɪ tʃ
+SANDWICH(2), s ˈæ n w ɪ tʃ
+SANDWICH(3), s ˈæ n d w ɪ tʃ
+SANDWICHES(1), s ˈæ m w ɪ tʃ ɪ z
+SANDWICHES(2), s ˈæ n w ɪ tʃ ɪ z
+SANDWICHES(3), s ˈæ n d w ɪ tʃ ɪ z
 SANDY, s ˈæ n d iː
 SANG, s ˈæ ŋ
 SARA, s ˈɛə ɹ ə
@@ -5482,14 +5484,14 @@ SARAH, s ˈɛə ɹ ə
 SAT, s ˈæ t
 SATELLITE, s ˈæ t ə l ˌaɪ t
 SATISFACTION, s ˌæ t ɪ s f ˈæ k ʃ ə n
-SATISFACTORY, s ˌæ t ɪ s f ˈæ k t ə ɹ iː
-SATISFACTORY, s ˌæ t ɪ s f ˈæ k t ɹ iː
+SATISFACTORY(1), s ˌæ t ɪ s f ˈæ k t ɹ iː
+SATISFACTORY(2), s ˌæ t ɪ s f ˈæ k t ə ɹ iː
 SATISFIED, s ˈæ t ɪ s f ˌaɪ d
 SATISFY, s ˈæ t ɪ s f ˌaɪ
-SATURDAY, s ˈæ t ə d iː
-SATURDAY, s ˈæ t ˌɪ d ˌeɪ
-SATURDAYS, s ˈæ t ə d eɪ z
-SATURDAYS, s ˈæ t ə d iː z
+SATURDAY(1), s ˈæ t ə d iː
+SATURDAY(2), s ˈæ t ˌɪ d ˌeɪ
+SATURDAYS(1), s ˈæ t ə d iː z
+SATURDAYS(2), s ˈæ t ə d eɪ z
 SAUCE, s ˈɔː s
 SAUCEPAN, s ˈɔː s p ˌæ n
 SAUCER, s ˈɔː s ə
@@ -5513,8 +5515,8 @@ SCARF, s k ˈɑː f
 SCARY, s k ˈɛə ɹ iː
 SCENE, s ˈiː n
 SCENES, s ˈiː n z
-SCHEDULE, s k ˈɛ dʒ ʊə l
-SCHEDULE, ʃ ˈɛ dʒ uː l
+SCHEDULE(1), ʃ ˈɛ dʒ uː l
+SCHEDULE(2), s k ˈɛ dʒ ʊə l
 SCHEME, s k ˈiː m
 SCHEMES, s k ˈiː m z
 SCHOOL, s k ˈuː l
@@ -5554,11 +5556,11 @@ SECOND, s ˈɛ k ə n d
 SECONDARY, s ˈɛ k ə n d ə ɹ iː
 SECONDLY, s ˈɛ k ə n d l iː
 SECONDS, s ˈɛ k ə n d z
-SECRET, s ˈiː k ɹ ɪ t
-SECRET, s ˈiː k ɹ ə t
+SECRET(1), s ˈiː k ɹ ə t
+SECRET(2), s ˈiː k ɹ ɪ t
 SECRETARY, s ˈɛ k ɹ ə t ə ɹ iː
-SECRETS, s ˈiː k ɹ ɪ t s
-SECRETS, s ˈiː k ɹ ə t s
+SECRETS(1), s ˈiː k ɹ ə t s
+SECRETS(2), s ˈiː k ɹ ɪ t s
 SECTION, s ˈɛ k ʃ ə n
 SECTIONS, s ˈɛ k ʃ ə n z
 SECTOR, s ˈɛ k t ə
@@ -5599,10 +5601,10 @@ SENSITIVITY, s ˌɛ n s ɪ t ˈɪ v ɪ t iː
 SENT, s ˈɛ n t
 SENTENCE, s ˈɛ n t ə n s
 SENTENCES, s ˈɛ n t ə n s ɪ z
-SEPARATE, s ˈɛ p ə ɹ ˌeɪ t
-SEPARATE, s ˈɛ p ɹ ə t
-SEPARATELY, s ˈɛ p ə ɹ ə t l iː
-SEPARATELY, s ˈɛ p ɹ ə t l iː
+SEPARATE(1), s ˈɛ p ɹ ə t
+SEPARATE(2), s ˈɛ p ə ɹ ˌeɪ t
+SEPARATELY(1), s ˈɛ p ɹ ə t l iː
+SEPARATELY(2), s ˈɛ p ə ɹ ə t l iː
 SEPARATION, s ˌɛ p ə ɹ ˈeɪ ʃ ə n
 SEPTEMBER, s ɛ p t ˈɛ m b ə
 SEQUENCE, s ˈiː k w ə n s
@@ -5634,8 +5636,8 @@ SEVENTEEN, s ˈɛ v ə n t ˈiː n
 SEVENTH, s ˈɛ v ə n θ
 SEVENTIES, s ˈɛ v ə n t iː z
 SEVENTY, s ˈɛ v ə n t iː
-SEVERAL, s ˈɛ v ə ɹ ə l
-SEVERAL, s ˈɛ v ɹ ə l
+SEVERAL(1), s ˈɛ v ɹ ə l
+SEVERAL(2), s ˈɛ v ə ɹ ə l
 SEVERE, s ə v ˈɪə
 SEVERELY, s ə v ˈɪə l iː
 SEX, s ˈɛ k s
@@ -5658,8 +5660,8 @@ SHARED, ʃ ˈɛə d
 SHAREHOLDERS, ʃ ˈɛə h ˌəʊ l d ə z
 SHARES, ʃ ˈɛə z
 SHARING, ʃ ˈɛə ɹ ɪ ŋ
-SHARON, ʃ ə ɹ ˈɒ n
-SHARON, ʃ ˈæ ɹ ə n
+SHARON(1), ʃ ˈæ ɹ ə n
+SHARON(2), ʃ ə ɹ ˈɒ n
 SHARP, ʃ ˈɑː p
 SHARPLY, ʃ ˈɑː p l iː
 SHAUN, ʃ ˈɔː n
@@ -5771,8 +5773,8 @@ SITUATION, s ˌɪ tʃ ʊ ˈeɪ ʃ ə n
 SITUATIONS, s ˌɪ tʃ ʊ ˈeɪ ʃ ə n z
 SIX, s ˈɪ k s
 SIXES, s ˈɪ k s ɪ z
-SIXTEEN, s ɪ k s t ˈiː n
-SIXTEEN, s ˈɪ k s t ˈiː n
+SIXTEEN(1), s ɪ k s t ˈiː n
+SIXTEEN(2), s ˈɪ k s t ˌiː n
 SIXTH, s ˈɪ k s θ
 SIXTIES, s ˈɪ k s t iː z
 SIXTY, s ˈɪ k s t iː
@@ -5851,8 +5853,8 @@ SOFA, s ˈəʊ f ə
 SOFT, s ˈɒ f t
 SOFT, s ˈɒ f t
 SOFTLY, s ˈɒ f t l iː
-SOFTWARE, s ˈɒ f t w ˌɛə
-SOFTWARE, s ˈɒ f w ˌɛə
+SOFTWARE(1), s ˈɒ f w ˌɛə
+SOFTWARE(2), s ˈɒ f t w ˌɛə
 SOIL, s ˈɔɪ l
 SOLD, s ˈəʊ l d
 SOLDIER, s ˈəʊ l dʒ ə
@@ -5866,14 +5868,14 @@ SOLUTION, s ə l ˈuː ʃ ə n
 SOLUTIONS, s ə l ˈuː ʃ ə n z
 SOLVE, s ˈɒ l v
 SOME, s ˈɐ m
-SOMEBODY, s ˈɐ m b ə d iː
-SOMEBODY, s ˈɐ m b ˌɒ d iː
+SOMEBODY(1), s ˈɐ m b ə d iː
+SOMEBODY(2), s ˈɐ m b ˌɒ d iː
 SOMEHOW, s ˈɐ m h ˌaʊ
 SOMEONE, s ˈɐ m w ˌɐ n
 SOMETHING, s ˈɐ m θ ɪ ŋ
 SOMETIME, s ˈɐ m t ˌaɪ m
-SOMETIMES, s ə m t ˈaɪ m z
-SOMETIMES, s ˈɐ m t ˌaɪ m z
+SOMETIMES(1), s ə m t ˈaɪ m z
+SOMETIMES(2), s ˈɐ m t ˌaɪ m z
 SOMEWHAT, s ˌɐ m w ˈɒ t
 SOMEWHERE, s ˈɐ m w ˌɛə
 SON, s ˈɐ n
@@ -5919,11 +5921,11 @@ SPEAKING, s p ˈiː k ɪ ŋ
 SPEAKS, s p ˈiː k s
 SPECIAL, s p ˈɛ ʃ ə l
 SPECIALIST, s p ˈɛ ʃ ə l ɪ s t
-SPECIALLY, s p ˈɛ ʃ l iː
-SPECIALLY, s p ˈɛ ʃ ə l iː
+SPECIALLY(1), s p ˈɛ ʃ l iː
+SPECIALLY(2), s p ˈɛ ʃ ə l iː
 SPECIES, s p ˈiː ʃ iː z
-SPECIFIC, s p ə s ˈɪ f ɪ k
-SPECIFIC, s p ɪ s ˈɪ f ɪ k
+SPECIFIC(1), s p ə s ˈɪ f ɪ k
+SPECIFIC(2), s p ɪ s ˈɪ f ɪ k
 SPECIFICALLY, s p ə s ˈɪ f ɪ k l iː
 SPECIMEN, s p ˈɛ s ɪ m ə n
 SPECIMENS, s p ˈɛ s ɪ m ə n z
@@ -6076,8 +6078,8 @@ STRAWBERRY, s t ɹ ˈɔː b ə ɹ iː
 STREAM, s t ɹ ˈiː m
 STREET, s t ɹ ˈiː t
 STREETS, s t ɹ ˈiː t s
-STRENGTH, s t ɹ ˈɛ ŋ k θ
-STRENGTH, s t ɹ ˈɛ ŋ θ
+STRENGTH(1), s t ɹ ˈɛ ŋ θ
+STRENGTH(2), s t ɹ ˈɛ ŋ k θ
 STRESS, s t ɹ ˈɛ s
 STRETCH, s t ɹ ˈɛ tʃ
 STRICT, s t ɹ ˈɪ k t
@@ -6095,7 +6097,6 @@ STRUCTURE, s t ɹ ˈɐ k tʃ ə
 STRUCTURES, s t ɹ ˈɐ k tʃ ə z
 STRUGGLE, s t ɹ ˈɐ g ə l
 STRUGGLING, s t ɹ ˈɐ g l ɪ ŋ
-STRUGGLING, s t ɹ ˈɐ g ə l ɪ ŋ
 STUART, s t ˈjʊə t
 STUCK, s t ˈɐ k
 STUDENT, s t ˈjuː d ə n t
@@ -6110,10 +6111,10 @@ STUPID, s t ˈjuː p ɪ d
 STYLE, s t ˈaɪ l
 STYLES, s t ˈaɪ l z
 SU, s ˈuː
-SUBJECT, s ə b dʒ ˈɛ k t
-SUBJECT, s ˈɐ b dʒ ɪ k t
-SUBJECTS, s ə b dʒ ˈɛ k t s
-SUBJECTS, s ˈɐ b dʒ ɪ k t s
+SUBJECT(1), s ə b dʒ ˈɛ k t
+SUBJECT(2), s ˈɐ b dʒ ɪ k t
+SUBJECTS(1), s ə b dʒ ˈɛ k t s
+SUBJECTS(2), s ˈɐ b dʒ ɪ k t s
 SUBSEQUENT, s ˈɐ b s ɪ k w ə n t
 SUBSEQUENTLY, s ˈɐ b s ɪ k w ə n t l iː
 SUBSTANCE, s ˈɐ b s t ə n s
@@ -6134,8 +6135,8 @@ SUDDENLY, s ˈɐ d ə n l iː
 SUE, s ˈuː
 SUFFER, s ˈɐ f ə
 SUFFERED, s ˈɐ f ə d
-SUFFERING, s ˈɐ f ə ɹ ɪ ŋ
-SUFFERING, s ˈɐ f ɹ ɪ ŋ
+SUFFERING(1), s ˈɐ f ɹ ɪ ŋ
+SUFFERING(2), s ˈɐ f ə ɹ ɪ ŋ
 SUFFICIENT, s ə f ˈɪ ʃ ə n t
 SUFFICIENTLY, s ə f ˈɪ ʃ ə n t l iː
 SUGAR, ʃ ˈʊ g ə
@@ -6156,10 +6157,10 @@ SUMMER, s ˈɐ m ə
 SUMMIT, s ˈɐ m ɪ t
 SUMS, s ˈɐ m z
 SUN, s ˈɐ n
-SUNDAY, s ˈɐ n d ˌeɪ
-SUNDAY, s ˈɐ n d ˌiː
-SUNDAYS, s ˈɐ n d ˌeɪ z
-SUNDAYS, s ˈɐ n d ˌiː z
+SUNDAY(1), s ˈɐ n d ˌiː
+SUNDAY(2), s ˈɐ n d ˌeɪ
+SUNDAYS(1), s ˈɐ n d ˌiː z
+SUNDAYS(2), s ˈɐ n d ˌeɪ z
 SUNDERLAND, s ˈɐ n d ə l ə n d
 SUNNY, s ˈɐ n iː
 SUNSHINE, s ˈɐ n ʃ ˌaɪ n
@@ -6196,15 +6197,15 @@ SURPRISING, s ə p ɹ ˈaɪ z ɪ ŋ
 SURPRISINGLY, s ə p ɹ ˈaɪ z ɪ ŋ l iː
 SURREY, s ˈɐ ɹ iː
 SURROUNDED, s ə ɹ ˈaʊ n d ɪ d
-SURVEY, s ə v ˈeɪ
-SURVEY, s ˈɜː v ˌeɪ
-SURVEYS, s ə v ˈeɪ z
-SURVEYS, s ˈɜː v ˌeɪ z
+SURVEY(1), s ə v ˈeɪ
+SURVEY(2), s ˈɜː v ˌeɪ
+SURVEYS(1), s ə v ˈeɪ z
+SURVEYS(2), s ˈɜː v ˌeɪ z
 SURVIVAL, s ə v ˈaɪ v ə l
 SURVIVE, s ə v ˈaɪ v
 SUSAN, s ˈuː z ə n
-SUSPECT, s ə s p ˈɛ k t
-SUSPECT, s ˈɐ s p ˌɛ k t
+SUSPECT(1), s ə s p ˈɛ k t
+SUSPECT(2), s ˈɐ s p ˌɛ k t
 SUSPICION, s ə s p ˈɪ ʃ ə n
 SUSPICIOUS, s ə s p ˈɪ ʃ ə s
 SUSSEX, s ˈɐ s ɪ k s
@@ -6287,8 +6288,10 @@ TEACHING, t ˈiː tʃ ɪ ŋ
 TEAM, t ˈiː m
 TEAMS, t ˈiː m z
 TEAPOT, t ˈiː p ˌɒ t
-TEARS, t ˈɛə z
-TEARS, t ˈɪə z
+TEAR(1), t ˈɪə
+TEAR(2), t ˈɛə
+TEARS(1), t ˈɪə z
+TEARS(2), t ˈɛə z
 TEAS, t ˈiː z
 TECH, t ˈɛ k
 TECHNICAL, t ˈɛ k n ɪ k ə l
@@ -6311,10 +6314,10 @@ TELLING, t ˈɛ l ɪ ŋ
 TELLS, t ˈɛ l z
 TELLY, t ˈɛ l iː
 TEMPER, t ˈɛ m p ə
-TEMPERATURE, t ˈɛ m p ə ɹ ə tʃ ə
-TEMPERATURE, t ˈɛ m p ɹ ə tʃ ə
-TEMPERATURES, t ˈɛ m p ə ɹ ə tʃ ə z
-TEMPERATURES, t ˈɛ m p ɹ ə tʃ ə z
+TEMPERATURE(1), t ˈɛ m p ɹ ə tʃ ə
+TEMPERATURE(2), t ˈɛ m p ə ɹ ə tʃ ə
+TEMPERATURES(1), t ˈɛ m p ɹ ə tʃ ə z
+TEMPERATURES(2), t ˈɛ m p ə ɹ ə tʃ ə z
 TEMPORARY, t ˈɛ m p ə ɹ ə ɹ iː
 TEMPTED, t ˈɛ m p t ɪ d
 TEN, t ˈɛ n
@@ -6330,8 +6333,8 @@ TENS, t ˈɛ n z
 TENSION, t ˈɛ n ʃ ə n
 TENT, t ˈɛ n t
 TENTH, t ˈɛ n θ
-TERESA, t ə ɹ ˈeɪ s ə
-TERESA, t ə ɹ ˈiː s ə
+TERESA(1), t ə ɹ ˈiː s ə
+TERESA(2), t ə ɹ ˈeɪ s ə
 TERM, t ˈɜː m
 TERMS, t ˈɜː m z
 TERRACE, t ˈɛ ɹ ə s
@@ -6348,27 +6351,28 @@ TESTS, t ˈɛ s t s
 TEXT, t ˈɛ k s t
 TEXTS, t ˈɛ k s t s
 THAMES, t ˈɛ m z
-THAN, ð ə n
-THAN, ð ˈæ n
+THAN(1), ð ə n
+THAN(2), ð ˈæ n
 THANK, θ ˈæ ŋ k
 THANKS, θ ˈæ ŋ k s
 THANKYOU, θ ˈæ ŋ k ˈjuː
-THAT, ð ə t
-THAT, ð ˈæ t
+THAT(1), ð ə t
+THAT(2), ð ˈæ t
 THATCHER, θ ˈæ tʃ ə
-THE, ð iː
-THE, ð ə
-THE, ð ˈiː
+THE(1), ð ə
+THE(2), ð iː
+THE(3), ð ˈiː
 THEATRE, θ ˈɪə t ə
+THEATRES, θ ˈɪə t ə z
 THEE, ð ˈiː
 THEIR, ð ˈɛə
 THEIRS, ð ˈɛə z
-THEM, ð ə m
-THEM, ð ˈɛ m
+THEM(1), ð ə m
+THEM(2), ð ˈɛ m
 THEME, θ ˈiː m
 THEMES, θ ˈiː m z
-THEMSELVES, ð ə m s ˈɛ l v z
-THEMSELVES, ð ɛ m s ˈɛ l v z
+THEMSELVES(1), ð ə m s ˈɛ l v z
+THEMSELVES(2), ð ɛ m s ˈɛ l v z
 THEN, ð ˈɛ n
 THEORETICAL, θ ɪə ɹ ˈɛ t ɪ k ə l
 THEORIES, θ ˈɪə ɹ iː z
@@ -6378,11 +6382,10 @@ THERE, ð ˈɛə
 THEREAFTER, ð ə ɹ ˈɑː f t ə
 THEREBY, ð ˈɛə b ˈaɪ
 THEREFORE, ð ˈɛə f ˌɔː
-THERESA, t ə ɹ ˈeɪ s ə
-THERESA, t ə ɹ ˈiː s ə
+THERESA(1), t ə ɹ ˈiː s ə
+THERESA(2), t ə ɹ ˈeɪ s ə
 THESE, ð ˈiː z
 THEY, ð ˈeɪ
-THI, θ ˈiː
 THICK, θ ˈɪ k
 THICKER, θ ˈɪ k ə
 THIN, θ ˈɪ n
@@ -6395,11 +6398,12 @@ THINKS, θ ˈɪ ŋ k s
 THINNER, θ ˈɪ n ə
 THIRD, θ ˈɜː d
 THIRSTY, θ ˈɜː s t iː
-THIRTEEN, θ ˈɜː t ˈiː n
+THIRTEEN(1), θ ˈɜː t ˌiː n
+THIRTEEN(2), θ ɜː t ˈiː n
 THIRTEENTH, θ ˈɜː t ˈiː n θ
 THIRTY, θ ˈɜː t ˌiː
-THIS, ð ɪ s
-THIS, ð ˈɪ s
+THIS(1), ð ɪ s
+THIS(2), ð ˈɪ s
 THO, ð ˈəʊ
 THOMAS, t ˈɒ m ə s
 THOROUGHLY, θ ˈɐ ɹ ə l iː
@@ -6423,10 +6427,10 @@ THROWING, θ ɹ ˈəʊ ɪ ŋ
 THROWN, θ ɹ ˈəʊ n
 THUMB, θ ˈɐ m
 THUNDER, θ ˈɐ n d ə
-THURSDAY, θ ˈɜː z d iː
-THURSDAY, θ ˈɜː z d ˌeɪ
-THURSDAYS, θ ˈɜː z d eɪ z
-THURSDAYS, θ ˈɜː z d iː z
+THURSDAY(1), θ ˈɜː z d iː
+THURSDAY(2), θ ˈɜː z d ˌeɪ
+THURSDAYS(1), θ ˈɜː z d iː z
+THURSDAYS(2), θ ˈɜː z d eɪ z
 THUS, ð ˈɐ s
 TI, t ˈiː
 TICK, t ˈɪ k
@@ -6454,20 +6458,20 @@ TINS, t ˈɪ n z
 TINY, t ˈaɪ n iː
 TIP, t ˈɪ p
 TIRED, t ˈaɪ ə d
-TISSUE, t ˈɪ s juː
-TISSUE, t ˈɪ ʃ uː
-TISSUES, t ˈɪ s juː z
-TISSUES, t ˈɪ ʃ uː z
+TISSUE(1), t ˈɪ ʃ uː
+TISSUE(2), t ˈɪ s juː
+TISSUES(1), t ˈɪ ʃ uː z
+TISSUES(2), t ˈɪ s juː z
 TITLE, t ˈaɪ t ə l
 TITLES, t ˈaɪ t ə l z
-TO, t ə
-TO, t ʊ
-TO, t ˈuː
+TO(1), t ə
+TO(2), t ʊ
+TO(3), t ˈuː
 TOAST, t ˈəʊ s t
 TOASTER, t ˈəʊ s t ə
 TOBY, t ˈəʊ b iː
-TODAY, t uː d ˈeɪ
-TODAY, t ə d ˈeɪ
+TODAY(1), t ə d ˈeɪ
+TODAY(2), t uː d ˈeɪ
 TOE, t ˈəʊ
 TOES, t ˈəʊ z
 TOFFEE, t ˈɒ f iː
@@ -6503,8 +6507,8 @@ TORIES, t ˈɔː ɹ iː z
 TORY, t ˈɔː ɹ iː
 TOTAL, t ˈəʊ t ə l
 TOTALLY, t ˈəʊ t ə l iː
-TOTTENHAM, t ˈɒ t ə n h ˌæ m
-TOTTENHAM, t ˈɒ t ə n ə m
+TOTTENHAM(1), t ˈɒ t n ə m
+TOTTENHAM(2), t ˈɒ t ə n ə m
 TOUCH, t ˈɐ tʃ
 TOUCHED, t ˈɐ tʃ t
 TOUCHING, t ˈɐ tʃ ɪ ŋ
@@ -6513,8 +6517,8 @@ TOUR, t ˈʊə
 TOURIST, t ˈʊə ɹ ɪ s t
 TOURISTS, t ˈʊə ɹ ɪ s t s
 TOURNAMENT, t ˈɔː n ə m ə n t
-TOWARDS, t ə w ˈɔː d z
-TOWARDS, t ˈɔː d z
+TOWARDS(1), t ə w ˈɔː d z
+TOWARDS(2), t ˈɔː d z
 TOWEL, t ˈaʊ ə l
 TOWELS, t ˈaʊ ə l z
 TOWER, t ˈaʊ ə
@@ -6531,8 +6535,8 @@ TRADE, t ɹ ˈeɪ d
 TRADESMEN, t ɹ ˈeɪ d z m ə n
 TRADITION, t ɹ ə d ˈɪ ʃ ə n
 TRADITIONAL, t ɹ ə d ˈɪ ʃ ə n ə l
-TRADITIONALLY, t ɹ ə d ˈɪ ʃ n ə l iː
-TRADITIONALLY, t ɹ ə d ˈɪ ʃ ə n ə l iː
+TRADITIONALLY(1), t ɹ ə d ˈɪ ʃ n ə l iː
+TRADITIONALLY(2), t ɹ ə d ˈɪ ʃ ə n ə l iː
 TRADITIONS, t ɹ ə d ˈɪ ʃ ə n z
 TRAFFIC, t ɹ ˈæ f ɪ k
 TRAGEDY, t ɹ ˈæ dʒ ɪ d iː
@@ -6546,21 +6550,21 @@ TRAMP, t ɹ ˈæ m p
 TRANSACTION, t ɹ æ n z ˈæ k ʃ ə n
 TRANSACTIONS, t ɹ æ n z ˈæ k ʃ ə n z
 TRANSCRIPTION, t ɹ ˌæ n s k ɹ ˈɪ p ʃ ə n
-TRANSFER, t ɹ æ n s f ˈɜː
-TRANSFER, t ɹ ˈæ n s f ɜː
+TRANSFER(1), t ɹ æ n s f ˈɜː
+TRANSFER(2), t ɹ ˈæ n s f ɜː
 TRANSFERRED, t ɹ æ n s f ˈɜː d
 TRANSFORMATION, t ɹ ˌæ n s f ə m ˈeɪ ʃ ə n
 TRANSITION, t ɹ æ n z ˈɪ ʃ ə n
-TRANSLATION, t ɹ æ n s l ˈeɪ ʃ ə n
-TRANSLATION, t ɹ ˈæ n z l ˈeɪ ʃ ə n
-TRANSMISSION, t ɹ æ n s m ˈɪ ʃ ə n
-TRANSMISSION, t ɹ ˈæ n z m ˈɪ ʃ ə n
-TRANSPORT, t ɹ æ n s p ˈɔː t
-TRANSPORT, t ɹ ˈæ n s p ˌɔː t
+TRANSLATION(1), t ɹ æ n s l ˈeɪ ʃ ə n
+TRANSLATION(2), t ɹ ˈæ n z l ˈeɪ ʃ ə n
+TRANSMISSION(1), t ɹ æ n s m ˈɪ ʃ ə n
+TRANSMISSION(2), t ɹ æ n z m ˈɪ ʃ ə n
+TRANSPORT(1), t ɹ æ n s p ˈɔː t
+TRANSPORT(2), t ɹ ˈæ n s p ˌɔː t
 TRAVEL, t ɹ ˈæ v ə l
 TRAVELLERS, t ɹ ˈæ v ə l ə z
-TRAVELLING, t ɹ ˈæ v l ɪ ŋ
-TRAVELLING, t ɹ ˈæ v ə l ɪ ŋ
+TRAVELLING(1), t ɹ ˈæ v l ɪ ŋ
+TRAVELLING(2), t ɹ ˈæ v ə l ɪ ŋ
 TRAY, t ɹ ˈeɪ
 TRAYS, t ɹ ˈeɪ z
 TREASURY, t ɹ ˈɛ ʒ ə ɹ iː
@@ -6570,18 +6574,18 @@ TREATMENT, t ɹ ˈiː t m ə n t
 TREATY, t ɹ ˈiː t iː
 TREE, t ɹ ˈiː
 TREES, t ɹ ˈiː z
-TREMENDOUS, t ɹ ə m ˈɛ n d ə s
-TREMENDOUS, t ɹ ɪ m ˈɛ n d ə s
+TREMENDOUS(1), t ɹ ə m ˈɛ n d ə s
+TREMENDOUS(2), t ɹ ɪ m ˈɛ n d ə s
 TREND, t ɹ ˈɛ n d
 TRENDS, t ɹ ˈɛ n d z
 TREVOR, t ɹ ˈɛ v ə
-TRIAL, t ɹ ˈaɪ l
-TRIAL, t ɹ ˈaɪ ə l
-TRIALS, t ɹ ˈaɪ l z
-TRIALS, t ɹ ˈaɪ ə l z
+TRIAL(1), t ɹ ˈaɪ l
+TRIAL(2), t ɹ ˈaɪ ə l
+TRIALS(1), t ɹ ˈaɪ l z
+TRIALS(2), t ɹ ˈaɪ ə l z
 TRIANGLE, t ɹ ˈaɪ ˌæ ŋ g ə l
-TRIBUNAL, t ɹ aɪ b ˈjuː n ə l
-TRIBUNAL, t ɹ ɪ b ˈjuː n ə l
+TRIBUNAL(1), t ɹ aɪ b ˈjuː n ə l
+TRIBUNAL(2), t ɹ ɪ b ˈjuː n ə l
 TRICK, t ɹ ˈɪ k
 TRICKS, t ɹ ˈɪ k s
 TRICKY, t ɹ ˈɪ k iː
@@ -6606,15 +6610,15 @@ TRUNK, t ɹ ˈɐ ŋ k
 TRUST, t ɹ ˈɐ s t
 TRUTH, t ɹ ˈuː θ
 TRY, t ɹ ˈaɪ
-TRYING, t ɹ ˈaɪ ŋ
-TRYING, t ɹ ˈaɪ ɪ ŋ
+TRYING(1), t ɹ ˈaɪ ŋ
+TRYING(2), t ɹ ˈaɪ ɪ ŋ
 TU, t ˈjuː
 TUB, t ˈɐ b
 TUBE, t ˈjuː b
-TUESDAY, t ˈjuː z d ˌeɪ
-TUESDAY, t ˈjuː z d iː
-TUESDAYS, t ˈjuː z d ˌeɪ z
-TUESDAYS, t ˈjuː z d iː z
+TUESDAY(1), t ˈjuː z d iː
+TUESDAY(2), t ˈjuː z d ˌeɪ
+TUESDAYS(1), t ˈjuː z d iː z
+TUESDAYS(2), t ˈjuː z d ˌeɪ z
 TUMMY, t ˈɐ m iː
 TUNA, t ˈjuː n ə
 TUNE, t ˈjuː n
@@ -6632,8 +6636,8 @@ TUTOR, t ˈjuː t ə
 TWELFTH, t w ˈɛ l f θ
 TWELVE, t w ˈɛ l v
 TWENTIES, t w ˈɛ n t iː z
-TWENTIETH, t w ˈɛ n t ɪ ə θ
-TWENTIETH, t w ˈɛ n t ɪ ɪ θ
+TWENTIETH(1), t w ˈɛ n t ɪ ə θ
+TWENTIETH(2), t w ˈɛ n t ɪ ɪ θ
 TWENTY, t w ˈɛ n t iː
 TWICE, t w ˈaɪ s
 TWIN, t w ˈɪ n
@@ -6645,8 +6649,8 @@ TYPE, t ˈaɪ p
 TYPES, t ˈaɪ p s
 TYPEWRITER, t ˈaɪ p ɹ ˌaɪ t ə
 TYPICAL, t ˈɪ p ɪ k ə l
-TYPICALLY, t ˈɪ p ɪ k l iː
-TYPICALLY, t ˈɪ p ɪ k ə l iː
+TYPICALLY(1), t ˈɪ p ɪ k l iː
+TYPICALLY(2), t ˈɪ p ɪ k ə l iː
 TYRE, t ˈaɪ ə
 U, ˈjuː
 U'S, ˈjuː z
@@ -6710,23 +6714,23 @@ UP, ˈɐ p
 UPON, ə p ˈɒ n
 UPPER, ˈɐ p ə
 UPS, ˈɐ p s
-UPSET, ɐ p s ˈɛ t
-UPSET, ˈɐ p s ˌɛ t
+UPSET(1), ɐ p s ˈɛ t
+UPSET(2), ˈɐ p s ˌɛ t
 UPSTAIRS, ɐ p s t ˈɛə z
 UPWARDS, ˈɐ p w ə d z
 URBAN, ˈɜː b ə n
 URGENT, ˈɜː dʒ ə n t
 US, ˈɐ s
 USAMERIBANCS, ˈjuː ˈɛ s ə m ˈɛ ɹ ɪ b ˌæ n k s
-USE, ˈjuː s
-USE, ˈjuː z
+USE(1), ˈjuː s
+USE(2), ˈjuː z
 USED, ˈjuː z d
 USEFUL, ˈjuː s f ə l
 USELESS, ˈjuː s l ə s
 USER, ˈjuː z ə
 USERS, ˈjuː z ə z
-USES, ˈjuː s ɪ z
-USES, ˈjuː z ɪ z
+USES(1), ˈjuː s ɪ z
+USES(2), ˈjuː z ɪ z
 USING, ˈjuː z ɪ ŋ
 USUAL, ˈjuː ʒ ʊə l
 USUALLY, ˈjuː ʒ ʊə l iː
@@ -6768,8 +6772,8 @@ VERY, v ˈɛ ɹ iː
 VESSELS, v ˈɛ s ə l z
 VEST, v ˈɛ s t
 VET, v ˈɛ t
-VIA, v ˈaɪ ə
-VIA, v ˈiː ə
+VIA(1), v ˈaɪ ə
+VIA(2), v ˈiː ə
 VICIOUS, v ˈɪ ʃ ə s
 VICKI, v ˈɪ k iː
 VICKY, v ˈɪ k iː
@@ -6777,8 +6781,8 @@ VICTIM, v ˈɪ k t ɪ m
 VICTIMS, v ˈɪ k t ɪ m z
 VICTORIA, v ɪ k t ˈɔː ɹ ɪə
 VICTORIAN, v ɪ k t ˈɔː ɹ ɪə n
-VICTORY, v ˈɪ k t ə ɹ iː
-VICTORY, v ˈɪ k t ɹ iː
+VICTORY(1), v ˈɪ k t ɹ iː
+VICTORY(2), v ˈɪ k t ə ɹ iː
 VIDEO, v ˈɪ d ɪ əʊ
 VIDEO-TAPED, v ˈɪ d ɪ əʊ t ˌeɪ p t
 VIDEOS, v ˈɪ d ɪ əʊ z
@@ -6790,8 +6794,8 @@ VILLAGE, v ˈɪ l ɪ dʒ
 VILLAGES, v ˈɪ l ɪ dʒ ɪ z
 VINEGAR, v ˈɪ n ɪ g ə
 VIOLENCE, v ˈaɪ ə l ə n s
-VIOLENT, v ˈaɪ l ə n t
-VIOLENT, v ˈaɪ ə l ə n t
+VIOLENT(1), v ˈaɪ l ə n t
+VIOLENT(2), v ˈaɪ ə l ə n t
 VIOLIN, v aɪ ə l ˈɪ n
 VIRTUALLY, v ˈɜː tʃ ʊə l iː
 VIRTUE, v ˈɜː tʃ uː
@@ -6841,8 +6845,8 @@ WALK, w ˈɔː k
 WALKED, w ˈɔː k t
 WALKER, w ˈɔː k ə
 WALKING, w ˈɔː k ɪ ŋ
-WALKMAN, w ˈɔː k m ə n
-WALKMAN, w ˈɔː k m ˌæ n
+WALKMAN(1), w ˈɔː k m ə n
+WALKMAN(2), w ˈɔː k m ˌæ n
 WALKS, w ˈɔː k s
 WALL, w ˈɔː l
 WALLET, w ˈɒ l ɪ t
@@ -6869,8 +6873,8 @@ WARNED, w ˈɔː n d
 WARNING, w ˈɔː n ɪ ŋ
 WARREN, w ˈɒ ɹ ə n
 WARS, w ˈɔː z
-WAS, w ə z
-WAS, w ˈɒ z
+WAS(1), w ə z
+WAS(2), w ˈɒ z
 WASH, w ˈɒ ʃ
 WASHED, w ˈɒ ʃ t
 WASHER, w ˈɒ ʃ ə
@@ -6904,10 +6908,10 @@ WEARING, w ˈɛə ɹ ɪ ŋ
 WEARS, w ˈɛə z
 WEATHER, w ˈɛ ð ə
 WEDDING, w ˈɛ d ɪ ŋ
-WEDNESDAY, w ˈɛ n z d iː
-WEDNESDAY, w ˈɛ n z d ˌeɪ
-WEDNESDAYS, w ˈɛ n z d iː z
-WEDNESDAYS, w ˈɛ n z d ˌeɪ z
+WEDNESDAY(1), w ˈɛ n z d iː
+WEDNESDAY(2), w ˈɛ n z d ˌeɪ
+WEDNESDAYS(1), w ˈɛ n z d iː z
+WEDNESDAYS(2), w ˈɛ n z d ˌeɪ z
 WEE, w ˈiː
 WEED, w ˈiː d
 WEEDS, w ˈiː d z
@@ -6956,7 +6960,6 @@ WHISKY, w ˈɪ s k iː
 WHISPERED, w ˈɪ s p ə d
 WHITE, w ˈaɪ t
 WHO, h ˈuː
-WHOA, h ˈəʊ
 WHOA, w ˈəʊ
 WHOEVER, h uː ˈɛ v ə
 WHOLE, h ˈəʊ l
@@ -6979,8 +6982,8 @@ WIG, w ˈɪ g
 WIGHT, w ˈaɪ t
 WILD, w ˈaɪ l d
 WILDLIFE, w ˈaɪ l d l ˌaɪ f
-WILL, w ə l
-WILL, w ˈɪ l
+WILL(1), w ə l
+WILL(2), w ˈɪ l
 WILLIAM, w ˈɪ l j ə m
 WILLIAMS, w ˈɪ l j ə m z
 WILLIE, w ˈɪ l iː
@@ -6988,16 +6991,16 @@ WILLING, w ˈɪ l ɪ ŋ
 WILLY, w ˈɪ l iː
 WILSON, w ˈɪ l s ə n
 WIN, w ˈɪ n
-WIND, w ˈaɪ n d
-WIND, w ˈɪ n d
+WIND(1), w ˈɪ n d
+WIND(2), w ˈaɪ n d
 WINDING, w ˈaɪ n d ɪ ŋ
 WINDOW, w ˈɪ n d əʊ
 WINDOWS, w ˈɪ n d əʊ z
-WINDS, w ˈaɪ n d z
-WINDS, w ˈɪ n d z
+WINDS(1), w ˈɪ n d z
+WINDS(2), w ˈaɪ n d z
 WINDSOR, w ˈɪ n z ə
-WINDY, w ˈaɪ n d iː
-WINDY, w ˈɪ n d iː
+WINDY(1), w ˈɪ n d iː
+WINDY(2), w ˈaɪ n d iː
 WINE, w ˈaɪ n
 WING, w ˈɪ ŋ
 WINGS, w ˈɪ ŋ z
@@ -7016,16 +7019,16 @@ WISDOM, w ˈɪ z d ə m
 WISE, w ˈaɪ z
 WISH, w ˈɪ ʃ
 WISHED, w ˈɪ ʃ t
-WITH, w ɪ ð
-WITH, w ɪ θ
-WITH, w ˈɪ ð
-WITH, w ˈɪ θ
+WITH(1), w ɪ ð
+WITH(2), w ɪ θ
+WITH(3), w ˈɪ ð
+WITH(4), w ˈɪ θ
 WITHDRAWAL, w ɪ ð d ɹ ˈɔː ə l
 WITHDRAWN, w ɪ ð d ɹ ˈɔː n
-WITHIN, w ɪ ð ˈɪ n
-WITHIN, w ɪ θ ˈɪ n
-WITHOUT, w ɪ ð ˈaʊ t
-WITHOUT, w ɪ θ ˈaʊ t
+WITHIN(1), w ɪ ð ˈɪ n
+WITHIN(2), w ɪ θ ˈɪ n
+WITHOUT(1), w ɪ ð ˈaʊ t
+WITHOUT(2), w ɪ θ ˈaʊ t
 WITNESS, w ˈɪ t n ə s
 WIVES, w ˈaɪ v z
 WO, w ˈəʊ
@@ -7034,8 +7037,8 @@ WOKE, w ˈəʊ k
 WOKEN, w ˈəʊ k ə n
 WOMAN, w ˈʊ m ə n
 WOMEN, w ˈɪ m ɪ n
-WON, w ˈɐ n
-WON, w ˈɒ n
+WON(1), w ˈɐ n
+WON(2), w ˈɒ n
 WONDER, w ˈɐ n d ə
 WONDERED, w ˈɐ n d ə d
 WONDERFUL, w ˈɐ n d ə f ə l
@@ -7075,8 +7078,8 @@ WOULD, w ˈʊ d
 WOW, w ˈaʊ
 WRAP, ɹ ˈæ p
 WRAPPED, ɹ ˈæ p t
-WRESTLING, ɹ ˈɛ s l ɪ ŋ
-WRESTLING, ɹ ˈɛ s ə l ɪ ŋ
+WRESTLING(1), ɹ ˈɛ s l ɪ ŋ
+WRESTLING(2), ɹ ˈɛ s ə l ɪ ŋ
 WRIGHT, ɹ ˈaɪ t
 WRIST, ɹ ˈɪ s t
 WRITE, ɹ ˈaɪ t
@@ -7094,36 +7097,38 @@ YACHT, j ˈɒ t
 YARD, j ˈɑː d
 YARDS, j ˈɑː d z
 YE, j ˈiː
-YE, j ˈɛ
 YEA, j ˈeɪ
 YEAH, j ˈɛə
 YEAR, j ˈɪə
-YEARS, j ˈɜː z
-YEARS, j ˈɪə z
+YEARS(1), j ˈɪə z
+YEARS(2), j ˈɜː z
 YELLOW, j ˈɛ l əʊ
 YEP, j ˈɛ p
 YES, j ˈɛ s
-YESTERDAY, j ˈɛ s t ə d iː
-YESTERDAY, j ˈɛ s t ə d ˌeɪ
+YESTERDAY(1), j ˈɛ s t ə d iː
+YESTERDAY(2), j ˈɛ s t ə d ˌeɪ
 YET, j ˈɛ t
 YO, j ˈəʊ
 YORK, j ˈɔː k
 YORKSHIRE, j ˈɔː k ʃ ə
-YOU, ˈjuː
+YOU(1), jə
+YOU(2), jʊ
+YOU(3), ˈjuː
 YOUNG, j ˈɐ ŋ
 YOUNGER, j ˈɐ ŋ g ə
 YOUNGEST, j ˈɐ ŋ g ɪ s t
 YOUNGSTERS, j ˈɐ ŋ s t ə z
-YOUR, j ˈɔː
-YOUR, ˈjʊə
-YOURS, j ə z
-YOURS, j ˈɔː z
-YOURS, ˈjʊə z
-YOURSELF, j ə s ˈɛ l f
-YOURSELF, j ˈɔː s ɛ l f
-YOURSELF, jʊə s ˈɛ l f
-YOURSELVES, j ˈɔː s ɛ l v z
-YOURSELVES, jʊə s ˈɛ l v z
+YOUR(1), jə
+YOUR(2), ˈjʊə
+YOUR(3), j ˈɔː
+YOURS(1),  ˈjʊə z
+YOURS(2), j ˈɔː z
+YOURSELF(1), j ə s ˈɛ l f
+YOURSELF(2), jʊə s ˈɛ l f
+YOURSELF(3), j ɔː s ˈɛ l f
+YOURSELVES(1), jə s ˈɛ l v z
+YOURSELVES(2), jʊə s ˈɛ l v z
+YOURSELVES(3), j ɔː s ˈɛ l v z
 YOUS, ˈjuː s
 YOUTH, ˈjuː θ
 YUGOSLAVIA, ˌjuː g əʊ s l ˈɑː v ɪə
