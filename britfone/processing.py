@@ -92,6 +92,20 @@ def vocabulary2():
             print '%s, %s' % (w, s)
             f.write('%s, %s\n' % (w, s.decode('utf-8')))
 
+def finds_multiples():
+
+    word_sound = lines_from(SEED_FILE, lambda line: [col.strip() for col in line.split(',')])
+
+    word_to_sounds = defaultdict(set)
+    for w, s in word_sound:
+        word_to_sounds[w].add(s)
+
+    m = { w   for w, sounds in word_to_sounds.iteritems() if len(sounds) > 1}
+
+    for w in sorted(m) : print w
+    print len(m)
+
+
 google_ignore = \
     {
         'OCT', 'NOV', 'RSS', 'MAR', 'URL', 'APR', 'JUL', 'JUN', 'HTML', 'NY', 'EUR', 'PDF',
@@ -148,4 +162,5 @@ mistyped = {'&AMP': 'AND', '&TIMES': 'TIMES', u'*': 'STAR', u'&POUND;1': u'£', 
             "'": 'QUOTE', '%': 'PERCENT', '&FRAC12': 'HALF', '/': 'SLASH', 'CAF&EACUTE': 'CAFE'}
 
 if __name__ == '__main__':
-    vocabulary2()
+    # vocabulary2()
+    finds_multiples()
