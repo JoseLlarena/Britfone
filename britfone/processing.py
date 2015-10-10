@@ -58,8 +58,8 @@ def vocabulary(cmudict_seed=DIR + 'cmudict.ipa.csv', britfone_seed=SEED_FILE, fr
 
 # FOO 8070 was last
 def vocabulary2():
-    britfone = set(lines_from(SEED_FILE, lambda line: line.split(',')[0].strip().upper()))
-    expansions = set(lines_from(EXPANSIONS_FILE, lambda line: line.split(',')[0].strip().upper()))
+    britfone = set(lines_from(SEED_FILE, lambda line: line.split(',')[0].split('(')[0].strip().upper()))
+    expansions = set(lines_from(EXPANSIONS_FILE, lambda line: line.split(',')[0].split('(')[0].strip().upper()))
     extant = britfone | expansions
 
     frequency_sorted = lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())
@@ -74,19 +74,20 @@ def vocabulary2():
             c = i
             break
         if w not in extant:
+            # print i,' ' , w
             OOV.add(w)
         else:
             vocab.add(w)
 
     print c, len(OOV), len(vocab), len(extant)
 
-    word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
+    word_sound = lines_from(DIR+'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
 
     word_to_sounds = defaultdict(set)
     for w, s in word_sound:
         word_to_sounds[w].add(s)
 
-    f = open(VOCAB_FILE, 'w', 'utf-8')
+    f = open(DIR+'new_vocab.csv', 'w', 'utf-8')
     for w in sorted(OOV):
         for s in word_to_sounds[w]:
             print '%s, %s' % (w, s)
@@ -111,9 +112,7 @@ def merge_entries():
         lines_from(DIR + 'britfone.0.1.0.main.2.csv', lambda line: tuple(col.strip() for col in line.split(','))))
     word_sound = new_word_sound | old_word_sound
 
-    collection_to(DIR + 'britfone.0.1.0.main.csv', sorted({'%s, %s' % (word, sound.decode('utf-8')) for word, sound in word_sound}))
-    # for w, s in sorted(word_sound):
-    #     print w, s
+    collection_to(DIR + 'xxxbritfone.0.1.0.main.csv', sorted({'%s, %s' % (word, sound.decode('utf-8')) for word, sound in word_sound}))
 
 google_ignore = \
     {
@@ -148,7 +147,7 @@ google_ignore = \
         'HWY', 'NAM', 'IX', 'UNA', 'FT', 'SRC', 'AP', 'MN', 'UTC', 'NH', 'QTY', 'BIO', 'VI', 'SB', 'SM', 'ZUS',
         'FOTOS', 'HB', 'TC', 'MINS', 'OEM', 'POR', 'MEM', 'IDE', 'PD', 'WP', 'YRS',
         'LYCOS', 'MINOLTA', 'MULTI', 'NANO', 'NIKON', 'POLY', 'RHODE', 'SALEM', 'SCOTIA',
-        'SOLARIS', 'TIFFANY', 'TRIVIA', 'TROY', 'XANAX'
+        'SOLARIS', 'TIFFANY', 'TRIVIA', 'TROY', 'XANAX','ANGELES'
 
     }
 
@@ -171,6 +170,6 @@ mistyped = {'&AMP': 'AND', '&TIMES': 'TIMES', u'*': 'STAR', u'&POUND;1': u'£', 
             "'": 'QUOTE', '%': 'PERCENT', '&FRAC12': 'HALF', '/': 'SLASH', 'CAF&EACUTE': 'CAFE'}
 
 if __name__ == '__main__':
-    # vocabulary2()
+    vocabulary2()
     # finds_multiples()
-    merge_entries()
+    # merge_entries()
