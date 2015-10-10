@@ -2,6 +2,7 @@
 from collections import defaultdict
 import re
 from codecs import open
+from lingoist.core import prints
 
 from lingoist.core.io import SPACES_REGEX, tup_from, lines_from, line_to_word_sound
 
@@ -106,9 +107,20 @@ def finds_multiples():
     print len(m)
 
 def resort(_file=None):
-    britfone = sorted(set(lines_from(_file, lambda line: line.strip().decode('UTF-8').replace(', ','\t'))))
+    lines = sorted(set(lines_from(_file, lambda line: line.strip().decode('UTF-8'))))
 
-    collection_to(_file, britfone)
+    collection_to(_file, lines)
+
+def reformat_csv(_file=SEED_FILE):
+    word_sound = tup_from(_file, line_to_word_sound).map(lambda (w, s): '%s, %s' % (''.join(w), ' '.join(s)))
+    collection_to(_file, word_sound)
+
+def reformat_tsv(_file=EXPANSIONS_FILE):
+    def tuplise(line):
+        return tuple(tuple(re.sub('\s+', ' ', col).strip()) for col in line.split('\t'))
+
+    word_sound = tup_from(_file, tuplise).map(lambda (w, s): '%s\t%s' % (''.join(w), ''.join(s)))
+    collection_to(_file, word_sound)
 
 def merge_entries():
     new_word_sound = set(
@@ -181,4 +193,6 @@ if __name__ == '__main__':
     # vocabulary2()
     # finds_multiples()
     # merge_entries()
-    resort()
+    # resort()
+    # reformat_csv()
+    reformat_tsv()
