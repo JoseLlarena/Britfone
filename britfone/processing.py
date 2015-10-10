@@ -86,25 +86,34 @@ def vocabulary2():
     for w, s in word_sound:
         word_to_sounds[w].add(s)
 
-    f = open(VOCAB_FILE,'w','utf-8')
+    f = open(VOCAB_FILE, 'w', 'utf-8')
     for w in sorted(OOV):
         for s in word_to_sounds[w]:
             print '%s, %s' % (w, s)
             f.write('%s, %s\n' % (w, s.decode('utf-8')))
 
 def finds_multiples():
-
-    word_sound = lines_from(DIR+'new_vocabulary.csv', lambda line: [col.strip() for col in line.split(',')])
+    word_sound = lines_from(DIR + 'new_vocabulary.csv', lambda line: [col.strip() for col in line.split(',')])
 
     word_to_sounds = defaultdict(set)
     for w, s in word_sound:
         word_to_sounds[w].add(s)
 
-    m = { w   for w, sounds in word_to_sounds.iteritems() if len(sounds) > 1}
+    m = {w for w, sounds in word_to_sounds.iteritems() if len(sounds) > 1}
 
-    for w in sorted(m) : print w
+    for w in sorted(m): print w
     print len(m)
 
+def merge_entries():
+    new_word_sound = set(
+        lines_from(DIR + 'new_vocabulary.csv', lambda line: tuple(col.strip() for col in line.split(','))))
+    old_word_sound = set(
+        lines_from(DIR + 'britfone.0.1.0.main.2.csv', lambda line: tuple(col.strip() for col in line.split(','))))
+    word_sound = new_word_sound | old_word_sound
+
+    collection_to(DIR + 'britfone.0.1.0.main.csv', sorted({'%s, %s' % (word, sound.decode('utf-8')) for word, sound in word_sound}))
+    # for w, s in sorted(word_sound):
+    #     print w, s
 
 google_ignore = \
     {
@@ -138,15 +147,15 @@ google_ignore = \
         'TP', 'JM', 'DPI', 'GIS', 'LOC', 'CN', 'VER', 'RN', 'DIS', 'CG', 'SER', 'HREF', 'FWD', 'AUS', 'ENDIF',
         'HWY', 'NAM', 'IX', 'UNA', 'FT', 'SRC', 'AP', 'MN', 'UTC', 'NH', 'QTY', 'BIO', 'VI', 'SB', 'SM', 'ZUS',
         'FOTOS', 'HB', 'TC', 'MINS', 'OEM', 'POR', 'MEM', 'IDE', 'PD', 'WP', 'YRS',
-        'LYCOS','MINOLTA','MULTI','NANO','NIKON','POLY','RHODE','SALEM','SCOTIA',
-        'SOLARIS','TIFFANY','TRIVIA','TROY','XANAX'
+        'LYCOS', 'MINOLTA', 'MULTI', 'NANO', 'NIKON', 'POLY', 'RHODE', 'SALEM', 'SCOTIA',
+        'SOLARIS', 'TIFFANY', 'TRIVIA', 'TROY', 'XANAX'
 
     }
 
 def collection_to(file_name, items):
     with open(file_name, 'w', 'utf-8') as _file:
         for item in items:
-            _file.write('%s\n' % (item))
+            _file.write('%s\n' % item)
 
 abbreviations = \
     {
@@ -163,4 +172,5 @@ mistyped = {'&AMP': 'AND', '&TIMES': 'TIMES', u'*': 'STAR', u'&POUND;1': u'£', 
 
 if __name__ == '__main__':
     # vocabulary2()
-    finds_multiples()
+    # finds_multiples()
+    merge_entries()
