@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-from collections import defaultdict
+from collections import defaultdict, Counter
 import re
 from codecs import open
 from lingoist.core import prints
@@ -112,8 +112,34 @@ def resort(_file=None):
     collection_to(_file, lines)
 
 def reformat_csv(_file=SEED_FILE):
-    word_sound = tup_from(_file, line_to_word_sound).map(lambda (w, s): '%s, %s' % (''.join(w), ' '.join(s)))
-    collection_to(_file, word_sound)
+    def tuplise(line):
+        word, sound = line.split(',')
+        return tuple(re.sub('\s+', ' ', word).strip()), tuple(re.sub('\s+', ' ', sound.strip()).split(' '))
+
+    word_sound = tup_from(_file, tuplise).map(lambda (w, s): '%s, %s' % (''.join(w), ' '.join(s)))
+    collection_to(SEED_FILE, word_sound)
+
+def spot_bad_characters(_file=EXPANSIONS_FILE):
+    lines = linesx_from(_file, lambda c: c.strip())
+    chars = []
+
+    for line in lines:
+        for char in line:
+            chars.append(char)
+    for ch, c in Counter(chars).most_common():
+        print '%s = %s' % (ch, c)
+
+def linesx_from(file_name, pipe=lambda x: x, where=lambda count, line: True):
+    lines = []
+
+    with open(file_name, 'r','utf-8') as f:
+        c = 0
+        for line in f:
+            if where(c, line):
+                lines.append(pipe(line))
+            c += 1
+
+    return lines
 
 def reformat_tsv(_file=EXPANSIONS_FILE):
     def tuplise(line):
@@ -121,6 +147,15 @@ def reformat_tsv(_file=EXPANSIONS_FILE):
 
     word_sound = tup_from(_file, tuplise).map(lambda (w, s): '%s\t%s' % (''.join(w), ''.join(s)))
     collection_to(_file, word_sound)
+
+def expansions_not_in_britfone():
+    britfone = set(lines_from(SEED_FILE, lambda line: line.split(',')[0].strip()))
+    expansions = set(lines_from(EXPANSIONS_FILE, lambda line: line.split('\t')[1].strip()))
+
+    for e in expansions:
+        for chunk in e.split(' '):
+            if chunk not in  britfone:
+                print chunk, ' ', e
 
 def merge_entries():
     new_word_sound = set(
@@ -195,4 +230,6 @@ if __name__ == '__main__':
     # merge_entries()
     # resort()
     # reformat_csv()
-    reformat_tsv()
+    # reformat_tsv()
+    # spot_bad_characters()
+    expansions_not_in_britfone()
