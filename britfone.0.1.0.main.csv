@@ -222,7 +222,7 @@ AH, ˈɑː
 AHA, ˌɑː h ˈɑː
 AHEAD, ə h ˈɛ d
 AHH, ˈɑː
-AI, ˈaɪ
+AI, ˈɑːɪ
 AID, ˈeɪ d
 AIDS, ˈeɪ d z
 AIM, ˈeɪ m
@@ -1564,7 +1564,6 @@ CHIEF, tʃ ˈiː f
 CHILD, tʃ ˈaɪ l d
 CHILDHOOD, tʃ ˈaɪ l d h ˌʊ d
 CHILDREN, tʃ ˈɪ l d ɹ ə n
-CHILDRENS, tʃ ˈɪ l d ɹ ə n z
 CHILE, tʃ ˈɪ l iː
 CHILLY, tʃ ˈɪ l iː
 CHIMNEY, tʃ ˈɪ m n iː
@@ -2121,7 +2120,7 @@ COSMETIC, k ɒ z m ˈɛ t ɪ k
 COSMETICS, k ɒ z m ˈɛ t ɪ k s
 COST, k ˈɒ s t
 COSTA, k ˈɒ s t ə
-COSTA-RICA, k ˈɒ s t ə ɹ ˈiː k ə
+COSTA RICA, k ˈɒ s t ə ɹ ˈiː k ə
 COSTING, k ˈɒ s t ɪ ŋ
 COSTS, k ˈɒ s t s
 COSTUME, k ˈɒ s t juː m
@@ -2288,7 +2287,6 @@ CYLINDER, s ˈɪ l ɪ n d ə
 CYPRUS, s ˈaɪ p ɹ ə s
 CYR, s ˈɪə
 CZECH, tʃ ˈɛ k
-DA, d ˈɑː
 DAD, d ˈæ d
 DADDY, d ˈæ d iː
 DAFT, d ˈɑː f t
@@ -4154,7 +4152,8 @@ HATE, h ˈeɪ t
 HATED, h ˈeɪ t ɪ d
 HATES, h ˈeɪ t s
 HATS, h ˈæ t s
-HAVE, h ˈæ v
+HAVE(1), h ə v
+HAVE(2), h ˈæ v
 HAVEN, h ˈeɪ v ə n
 HAVING, h ˈæ v ɪ ŋ
 HAWAII, h ə w ˈaɪ ˌiː
@@ -5303,7 +5302,7 @@ LORNA, l ˈɔː n ə
 LORRAINE, l ɒ ɹ ˈeɪ n
 LORRIES, l ˈɒ ɹ iː z
 LORRY, l ˈɒ ɹ iː
-LOS-ANGELES, l ɒ s ˈæ n dʒ ɪ l ˌiː z
+LOS ANGELES, l ɒ s ˈæ n dʒ ɪ l ˌiː z
 LOSE, l ˈuː z
 LOSING, l ˈuː z ɪ ŋ
 LOSS, l ˈɒ s
@@ -6116,7 +6115,8 @@ OCH, ˈɒ k
 OCTOBER, ɒ k t ˈəʊ b ə
 ODD, ˈɒ d
 ODDS, ˈɒ d z
-OF, ˈɒ v
+OF(1), ə v
+OF(2), ˈɒ v
 OFF, ˈɒ f
 OFFENCE, ə f ˈɛ n s
 OFFENCES, ə f ˈɛ n s ɪ z
@@ -6458,6 +6458,7 @@ PECULIAR, p ɪ k ˈjuː l j ə
 PEE, p ˈiː
 PEER, p ˈɪə
 PEES, p ˈiː z
+PEG, p ˈɛ g
 PEGGY, p ˈɛ g iː
 PEGS, p ˈɛ g z
 PEN, p ˈɛ n
@@ -7929,7 +7930,8 @@ SHADOW, ʃ ˈæ d ˌəʊ
 SHAKE, ʃ ˈeɪ k
 SHAKESPEARE, ʃ ˈeɪ k s p ˌɪə
 SHAKING, ʃ ˈeɪ k ɪ ŋ
-SHALL, ʃ ˈæ l
+SHALL(1), ʃ ə l
+SHALL(2), ʃ ˈæ l
 SHAME, ʃ ˈeɪ m
 SHAMPOO, ʃ æ m p ˈuː
 SHANE, ʃ ˈeɪ n
@@ -8336,7 +8338,7 @@ SQUARES, s k w ˈɛə z
 SQUASH, s k w ˈɒ ʃ
 SQUEEZE, s k w ˈiː z
 SQUIRTING, s k w ˈɜː t ɪ ŋ
-SRI-LANKA, s ɹ ˌiː l ˈæ ŋ k ə
+SRI LANKA, s ɹ ˌiː l ˈæ ŋ k ə
 STA, s t ˈɑː
 STABILITY, s t ə b ˈɪ l ɪ t iː
 STABLE, s t ˈeɪ b ə l
@@ -8901,7 +8903,7 @@ THIRD, θ ˈɜː d
 THIRSTY, θ ˈɜː s t iː
 THIRTEEN(1), θ ˈɜː t ˌiː n
 THIRTEEN(2), θ ɜː t ˈiː n
-THIRTEENTH, θ ˈɜː t ˈiː n θ
+THIRTEENTH, θ ɜː t ˈiː n θ
 THIRTY, θ ˈɜː t ˌiː
 THIS(1), ð ɪ s
 THIS(2), ð ˈɪ s
@@ -9898,3 +9900,13 @@ ZONES, z ˈəʊ n z
 ZONING, z ˈəʊ n ɪ ŋ
 ZOO, z ˈuː
 ZOOM, z ˈuː m
+LICE,  l ˈaɪ s
+LOUSE, l ˈaʊ s
+OX, ˈɒ k s
+OXEN, ˈɒ k s ə n
+BRETHREN, b r ˈɛ ð r ɪ n
+GOOSE, g ˈuː s
+GEESE, g ˈiː z
+NOAH, n ˈəʊ ə
+FLICKER, f l ˈɪ k ə
+SOX, s ˈɒ k s
