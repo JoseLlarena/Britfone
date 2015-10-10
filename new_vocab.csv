@@ -42,13 +42,11 @@ CYCLING, s ˈaɪ k l ɪ ŋ
 CZECH, tʃ ˈɛ k
 DALE, d ˈeɪ l
 DANISH, d ˈeɪ n ɪ ʃ
-DAS, d ˈɑ s
-DAS, d ˈæ s
 DATED, d ˈeɪ t ɪ d
 DATING, d ˈeɪ t ɪ ŋ
 DEADLINE, d ˈɛ d l ˌaɪ n
-DEFECTS, d ˈi f ɛ k t s
-DEFECTS, d ɪ f ˈɛ k t s
+DEFECTS(1), d ˈiː f ɛ k t s
+DEFECTS(2), d ɪ f ˈɛ k t s
 DEFENSE, d ɪ f ˈɛ n s
 DEFINES, d ɪ f ˈaɪ n z
 DEFINING, d ɪ f ˈaɪ n ɪ ŋ
@@ -60,17 +58,15 @@ DEPENDING, d ɪ p ˈɛ n d ɪ ŋ
 DESIGNATED, d ˈɛ z ɪ g n ˌeɪ t ɪ d
 DESIGNING, d ɪ z ˈaɪ n ɪ ŋ
 DETECT, d ɪ t ˈɛ k t
-DETECTED, d ɪ t ˈɛ k t ʌ d
 DETECTED, d ɪ t ˈɛ k t ɪ d
 DEV, d ˈɛ v
-DIAL, d ˈaɪ l
-DIAL, d ˈaɪ ʌ l
-DICKE, d ˈɪ k
+DIAL(1), d ˈaɪ l
+DIAL(2), d ˈaɪ ə l
 DICKS, d ˈɪ k s
 DIFF, d ˈɪ f
-DIGEST, d aɪ dʒ ˈɛ s t
-DIGEST, d ˈaɪ dʒ ɛ s t
-DIGIT, d ˈɪ dʒ ʌ t
+DIGEST(1), d aɪ dʒ ˈɛ s t
+DIGEST(2), d ɪ dʒ ˈɛ s t
+DIGEST(3), d ˈaɪ dʒ ɛ s t
 DIGIT, d ˈɪ dʒ ɪ t
 DISPLAYED, d ɪ s p l ˈeɪ d
 DISPLAYING, d ɪ s p l ˈeɪ ɪ ŋ
@@ -80,44 +76,35 @@ DIVE, d ˈaɪ v
 DIVINE, d ɪ v ˈaɪ n
 DIVING, d ˈaɪ v ɪ ŋ
 ECLIPSE, ɪ k l ˈɪ p s
-ECLIPSE, ʌ k l ˈɪ p s
-ECLIPSE, i k l ˈɪ p s
-EDITED, ˈɛ d ʌ t ʌ d
 EDITED, ˈɛ d ɪ t ɪ d
 EDITING, ˈɛ d ɪ t ɪ ŋ
-EDITING, ˈɛ d ʌ t ɪ ŋ
-ELLIS, ˈɛ l ɪ s
 ELVIS, ˈɛ l v ɪ s
 EMBEDDED, ɛ m b ˈɛ d ɪ d
-ENABLING, ɪ n ˈeɪ b ʌ l ɪ ŋ
-ENABLING, ɪ n ˈeɪ b l ɪ ŋ
-ENABLING, ɛ n ˈeɪ b ʌ l ɪ ŋ
+ENABLING(1), ɪ n ˈeɪ b l ɪ ŋ
+ENABLING(2), ɛ n ˈeɪ b ə l ɪ ŋ
 ENDING, ˈɛ n d ɪ ŋ
-ENG, ˈɛ ŋ
-ENGAGE, ɛ n g ˈeɪ dʒ
-ENGAGED, ɛ n g ˈeɪ dʒ d
-EPSON, ˈɛ p s ʌ n
+ENGAGE(1), ɪ n g ˈeɪ dʒ
+ENGAGE(2), ɛ n g ˈeɪ dʒ
+ENGAGED(1), ɪ n g ˈeɪ dʒ d
+ENGAGED(2), ɛ n g ˈeɪ dʒ d
 EQUIPPED, ɪ k w ˈɪ p t
-ESSAYS, ˈɛ s ˌeɪ z
-ESSAYS, ɛ s ˈeɪ z
+ESSAYS(1), ˈɛ s ˌeɪ z
+ESSAYS(1), ɛ s ˈeɪ z
 ET, ˈɛ t
 ETHICS, ˈɛ θ ɪ k s
 EXCEL, ɪ k s ˈɛ l
-EXCESS, ɪ k s ˈɛ s
-EXCESS, ˈɛ k s ˌɛ s
-EXCHANGES, ɪ k s tʃ ˈeɪ n dʒ ʌ z
+EXCESS(1), ɪ k s ˈɛ s
+EXCESS(2), ˈɛ k s ˌɛ s
 EXCHANGES, ɪ k s tʃ ˈeɪ n dʒ ɪ z
 EXEMPT, ɪ g z ˈɛ m p t
 EXHIBIT, ɪ g z ˈɪ b ɪ t
-EXIT, ˈɛ g z ɪ t
-EXIT, ˈɛ k s ʌ t
+EXIT(1), ˈɛ g z ɪ t
+EXIT(2), ˈɛ k s ɪ t
 EXTENDS, ɪ k s t ˈɛ n d z
 EYED, ˈaɪ d
 FAKE, f ˈeɪ k
 FAME, f ˈeɪ m
 FETISH, f ˈɛ t ɪ ʃ
-FI, f ˈi
-FI, f ˈaɪ
 FILED, f ˈaɪ l d
 FILING, f ˈaɪ l ɪ ŋ
 FINITE, f ˈaɪ n ˌaɪ t
@@ -134,7 +121,6 @@ GATEWAY, g ˈeɪ t w ˌeɪ
 GAUGE, g ˈeɪ dʒ
 GEL, dʒ ˈɛ l
 GLENN, g l ˈɛ n
-GUIDED, g ˈaɪ d ʌ d
 GUIDED, g ˈaɪ d ɪ d
 GUIDES, g ˈaɪ d z
 GUILD, g ˈɪ l d
@@ -153,9 +139,7 @@ IMAGING, ˈɪ m ɪ dʒ ɪ ŋ
 IMPLIED, ɪ m p l ˈaɪ d
 INCEST, ˈɪ n s ˌɛ s t
 INDEXED, ˈɪ n d ɛ k s t
-INFECTED, ɪ n f ˈɛ k t ʌ d
 INFECTED, ɪ n f ˈɛ k t ɪ d
-ING, ˈɪ ŋ
 INK, ˈɪ ŋ k
 INKJET, ˈɪ ŋ k dʒ ˌɛ t
 INN, ˈɪ n
@@ -168,40 +152,30 @@ JAIL, dʒ ˈeɪ l
 JET, dʒ ˈɛ t
 KINGS, k ˈɪ ŋ z
 KITS, k ˈɪ t s
-KLEIN, k l ˈaɪ n
 KNIGHT, n ˈaɪ t
 LACE, l ˈeɪ s
 LAKES, l ˈeɪ k s
-LANKA, l ˈæ ŋ k ʌ
 LATEX, l ˈeɪ t ˌɛ k s
 LENDING, l ˈɛ n d ɪ ŋ
 LENS, l ˈɛ n z
 LENSES, l ˈɛ n z ɪ z
-LENSES, l ˈɛ n z ʌ z
-LEXMARK, l ˈɛ k s m ˌɑ ɹ k
 LIFESTYLE, l ˈaɪ f s t ˌaɪ l
 LIGHTING, l ˈaɪ t ɪ ŋ
 LIGHTNING, l ˈaɪ t n ɪ ŋ
 LIGHTWEIGHT, l ˈaɪ t w ˈeɪ t
 LINKING, l ˈɪ ŋ k ɪ ŋ
-LIQUID, l ˈɪ k w ʌ d
 LIQUID, l ˈɪ k w ɪ d
-LISTED, l ˈɪ s t ʌ d
 LISTED, l ˈɪ s t ɪ d
 LISTING, l ˈɪ s t ɪ ŋ
 LISTINGS, l ˈɪ s t ɪ ŋ z
 LIT, l ˈɪ t
 LITE, l ˈaɪ t
-MACROMEDIA, m ˌæ k ɹ oʊ m ˈi d i ʌ
 MAILED, m ˈeɪ l d
 MAILING, m ˈeɪ l ɪ ŋ
 MAINE, m ˈeɪ n
 MED, m ˈɛ d
-MEMPHIS, m ˈɛ m f ɪ s
-MEMPHIS, m ˈɛ m p f ʌ s
-MEMPHIS, m ˈɛ m p f ɪ s
-MEMPHIS, m ˈɛ m f ʌ s
-MENS, m ˈɛ n z
+MEMPHIS(1), m ˈɛ m f ɪ s
+MEMPHIS(2), m ˈɛ m p f ɪ s
 MESH, m ˈɛ ʃ
 MESSAGING, m ˈɛ s ɪ dʒ ɪ ŋ
 MICE, m ˈaɪ s
@@ -211,13 +185,11 @@ MINING, m ˈaɪ n ɪ ŋ
 MIXING, m ˈɪ k s ɪ ŋ
 NATIVE, n ˈeɪ t ɪ v
 NETSCAPE, n ˈɛ t s k ˌeɪ p
-NI, n ˈi
 PASTE, p ˈeɪ s t
 PAYDAY, p ˈeɪ d ˌeɪ
 PENDING, p ˈɛ n d ɪ ŋ
 PETS, p ˈɛ t s
 PHI, f ˈaɪ
-PHILIPS, f ˈɪ l ʌ p s
 PHILIPS, f ˈɪ l ɪ p s
 PHILLIPS, f ˈɪ l ɪ p s
 PIC, p ˈɪ k
@@ -228,11 +200,10 @@ QUEST, k w ˈɛ s t
 QUIT, k w ˈɪ t
 SAGE, s ˈeɪ dʒ
 SAILING, s ˈeɪ l ɪ ŋ
-SEGMENT, s ˌɛ g m ˈɛ n t
-SEGMENT, s ˈɛ g m ʌ n t
-SEGMENTS, s ˌɛ g m ˈɛ n t s
-SEGMENTS, s ˈɛ g m ʌ n t s
-SENATE, s ˈɛ n ʌ t
+SEGMENT(1), s ˈɛ g m ə n t
+SEGMENT(2), s ˌɛ g m ˈɛ n t
+SEGMENTS(1), s ˈɛ g m ə n t s
+SEGMENTS(2), s ˌɛ g m ˈɛ n t s
 SENATE, s ˈɛ n ɪ t
 SETTINGS, s ˈɛ t ɪ ŋ z
 SHADE, ʃ ˈeɪ d
@@ -260,28 +231,25 @@ STATEWIDE, s t ˈeɪ t w ˌaɪ d
 STEM, s t ˈɛ m
 STYLISH, s t ˈaɪ l ɪ ʃ
 SWITCHES, s w ˈɪ tʃ ɪ z
-SWITCHES, s w ˈɪ tʃ ʌ z
 SWITCHING, s w ˈɪ tʃ ɪ ŋ
 SYNTHETIC, s ɪ n θ ˈɛ t ɪ k
 TALES, t ˈeɪ l z
 TEMP, t ˈɛ m p
-TEMPLATE, t ˈɛ m p l eɪ t
-TEMPLATE, t ˈɛ m p l ʌ t
-TEX, t ˈɛ k s
+TEMPLATE(1), t ˈɛ m p l eɪ t
+TEMPLATE(2), t ˈɛ m p l ə t
+TEX-MEX, t ˈɛ k  s m ˌɛ k s
 THAI, t ˈaɪ
 THEFT, θ ˈɛ f t
-THOMSON, t ˈɑ m s ʌ n
+THOMSON, t ˈɑ m s ə n
 THY, ð ˈaɪ
 TIES, t ˈaɪ z
 TIMING, t ˈaɪ m ɪ ŋ
 TIPS, t ˈɪ p s
 TIT, t ˈɪ t
 TWIST, t w ˈɪ s t
-VENICE, v ˈɛ n ʌ s
 VENICE, v ˈɛ n ɪ s
 VICE, v ˈaɪ s
-VINCENT, v ˈɪ n s ʌ n t
-VINCENT, v ˈɪ n s ɪ n t
+VINCENT, v ˈɪ n s ə n t
 WEB, w ˈɛ b
 WEBSITE, w ˈɛ b s ˌaɪ t
 WEBSITES, w ˈɛ b s ˌaɪ t s
