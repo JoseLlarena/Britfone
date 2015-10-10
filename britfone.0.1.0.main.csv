@@ -120,7 +120,7 @@ AGAINST(1), ə g ˈɛ n s t
 AGAINST(2), ə g ˈeɪ n s t
 AGE, ˈeɪ dʒ
 AGED(1), ˈeɪ dʒ d
-AGED(1), ˈeɪ dʒ ɪ d
+AGED(2), ˈeɪ dʒ ɪ d
 AGENCIES, ˈeɪ dʒ ə n s iː z
 AGENCY, ˈeɪ dʒ ə n s iː
 AGENDA, ə dʒ ˈɛ n d ə
@@ -445,7 +445,7 @@ AWFULLY(1), ˈɔː f l iː
 AWFULLY(2), ˈɔː f ə l iː
 AWKWARD, ˈɔː k w ə d
 AY(1), ˈaɪ
-AY(1), ˈeɪ
+AY(2), ˈeɪ
 AYE(1), ˈaɪ
 BABE, b ˈeɪ b
 BABIES, b ˈeɪ b iː z
@@ -513,8 +513,8 @@ BATTERIES, b ˈæ t ə ɹ iː z
 BATTERY, b ˈæ t ə ɹ iː
 BATTLE, b ˈæ t ə l
 BAY, b ˈeɪ
-BE, b ɪ
-BE, b ˈiː
+BE(1), b ɪ
+BE(2), b ˈiː
 BEACH, b ˈiː tʃ
 BEADS, b ˈiː d z
 BEAN, b ˈiː n
@@ -528,10 +528,8 @@ BEAUTIFUL, b ˈjuː t ə f ə l
 BEAUTIFULLY, b ˈjuː t ə f l iː
 BEAUTY, b ˈjuː t iː
 BECAME, b ɪ k ˈeɪ m
-BECAUSE, b ɪ k ə z
-BECAUSE, b ɪ k ˈɒ z
-BECAUSE, b ɪ k ˈɒ z
-BECAUSE, b ɪ k ˈə z
+BECAUSE(1), b ɪ k ˈɒ z
+BECAUSE(2), b ɪ k ˈə z
 BECKY, b ˈɛ k iː
 BECOME, b ɪ k ˈɐ m
 BECOMES, b ɪ k ˈɐ m z
@@ -543,8 +541,8 @@ BEDROOMS, b ˈɛ d ɹ ˌuː m z
 BEDS, b ˈɛ d z
 BEE, b ˈiː
 BEEF, b ˈiː f
-BEEN, b ɪ n
-BEEN, b ˈiː n
+BEEN(1), b ɪ n
+BEEN(2), b ˈiː n
 BEEN, b ˈɪ n
 BEEP, b ˈiː p
 BEER, b ˈɪə
@@ -583,10 +581,9 @@ BENEFIT, b ˈɛ n ə f ɪ t
 BENEFITS, b ˈɛ n ə f ɪ t s
 BENJAMIN, b ˈɛ n dʒ ə m ɪ n
 BENJY, b ˈɛ n dʒ iː
-BERKSHIRE, b ˈɑː k ʃ ə
-BERKSHIRE, b ˈɑː k ʃ ˌɪə
+BERKSHIRE(1), b ˈɑː k ʃ ə
+BERKSHIRE(2), b ˈɑː k ʃ ˌɪə
 BERLIN, b ə l ˈɪ n
-BERNARD, b ə n ˈɑː d
 BERNARD, b ˈɜː n ə d
 BERNIE, b ˈɜː n iː
 BESIDE, b ɪ s ˈaɪ d
@@ -713,12 +710,12 @@ BOUGHT, b ˈɔː t
 BOULEVARD, b ˈʊ l ə v ˌɑː d
 BOUNCING, b ˈaʊ n s ɪ ŋ
 BOUND, b ˈaʊ n d
-BOUNDARIES, b ˈaʊ n d ə ɹ iː z
-BOUNDARIES, b ˈaʊ n d ɹ iː z
-BOUNDARY, b ˈaʊ n d ə ɹ iː
-BOUNDARY, b ˈaʊ n d ɹ iː
-BOW, b ˈaʊ
-BOW, b ˈəʊ
+BOUNDARIES(1), b ˈaʊ n d ɹ iː z
+BOUNDARIES(2), b ˈaʊ n d ə ɹ iː z
+BOUNDARY(1), b ˈaʊ n d ɹ iː
+BOUNDARY(2), b ˈaʊ n d ə ɹ iː
+BOW(1), b ˈəʊ
+BOW(2), b ˈaʊ
 BOWL, b ˈəʊ l
 BOWLING, b ˈəʊ l ɪ ŋ
 BOWLS, b ˈəʊ l z
@@ -772,8 +769,8 @@ BRITAIN, b ɹ ˈɪ t ə n
 BRITISH, b ɹ ˈɪ t ɪ ʃ
 BROAD, b ɹ ˈɔː d
 BROADLY, b ɹ ˈɔː d l iː
-BROCCOLI, b ɹ ˈɒ k l iː
-BROCCOLI, b ɹ ˈɒ k ə l iː
+BROCCOLI(1), b ɹ ˈɒ k l iː
+BROCCOLI(2), b ɹ ˈɒ k ə l iː
 BROKE, b ɹ ˈəʊ k
 BROKEN, b ɹ ˈəʊ k ə n
 BROMLEY, b ɹ ˈɒ m l iː
@@ -819,7 +816,6 @@ BUS, b ˈɐ s
 BUSES, b ˈɐ s ɪ z
 BUSH, b ˈʊ ʃ
 BUSHES, b ˈʊ ʃ ɪ z
-BUSINESS, b ˈɪ z n ə s
 BUSINESS, b ˈɪ z n ɪ s
 BUSINESSES, b ˈɪ z n ɪ s ɪ z
 BUSY, b ˈɪ z iː
@@ -861,23 +857,23 @@ CALM, k ˈɑː m
 CALORIES, k ˈæ l ə ɹ iː z
 CAMBRIDGE, k ˈeɪ m b ɹ ɪ dʒ
 CAME, k ˈeɪ m
-CAMERA, k ˈæ m ə ɹ ə
-CAMERA, k ˈæ m ɹ ə
-CAMERAS, k ˈæ m ə ɹ ə z
-CAMERAS, k ˈæ m ɹ ə z
+CAMERA(1), k ˈæ m ɹ ə
+CAMERA(2), k ˈæ m ə ɹ ə
+CAMERAS(1), k ˈæ m ɹ ə z
+CAMERAS(2), k ˈæ m ə ɹ ə z
 CAMP, k ˈæ m p
 CAMPAIGN, k æ m p ˈeɪ n
 CAMPBELL, k ˈæ m b ə l
-CAN, k ə n
-CAN, k ˈæ n
+CAN(1), k ə n
+CAN(1), k ˈæ n
 CANADA, k ˈæ n ə d ə
 CANAL, k ə n ˈæ l
 CANCEL, k ˈæ n s ə l
 CANCER, k ˈæ n s ə
-CANDIDATE, k ˈæ n d ɪ d ˌeɪ t
-CANDIDATE, k ˈæ n d ɪ d ə t
-CANDIDATES, k ˈæ n d ɪ d ˌeɪ t s
-CANDIDATES, k ˈæ n d ɪ d ə t s
+CANDIDATE(1), k ˈæ n d ɪ d ə t
+CANDIDATE(2), k ˈæ n d ɪ d ˌeɪ t
+CANDIDATES(1), k ˈæ n d ɪ d ə t s
+CANDIDATES(2), k ˈæ n d ɪ d ˌeɪ t s
 CANDLES, k ˈæ n d ə l z
 CANS, k ˈæ n z
 CANTEEN, k ˈæ n t ˈiː n
@@ -887,8 +883,8 @@ CAPACITY, k ə p ˈæ s ɪ t iː
 CAPITAL, k ˈæ p ɪ t ə l
 CAPITALISM, k ˈæ p ɪ t ə l ˌɪ z ə m
 CAPITALIST, k ˈæ p ɪ t ə l ɪ s t
-CAPRI, k ə p ɹ ˈiː
-CAPRI, k ˈæ p ɹ iː
+CAPRI(1), k ə p ɹ ˈiː
+CAPRI(2), k ˈæ p ɹ iː
 CAPTAIN, k ˈæ p t ə n
 CAR, k ˈɑː
 CARAVAN, k ˈæ ɹ ə v ˌæ n
@@ -933,8 +929,8 @@ CASSEROLE, k ˈæ s ə ɹ ˌəʊ l
 CASSETTE, k ə s ˈɛ t
 CASSIE, k ˈæ s iː
 CASTLE, k ˈɑː s ə l
-CASUAL, k ˈæ ʒ jʊə l
-CASUAL, k ˈæ ʒ ʊə l
+CASUAL(1), k ˈæ ʒ ʊə l
+CASUAL(2), k ˈæ ʒ jʊə l
 CAT, k ˈæ t
 CATALOGUE, k ˈæ t ə l ˌɒ g
 CATCH, k ˈæ tʃ
@@ -942,8 +938,8 @@ CATCHING, k ˈæ tʃ ɪ ŋ
 CATEGORIES, k ˈæ t ɪ g ə ɹ iː z
 CATEGORY, k ˈæ t ɪ g ə ɹ iː
 CATHEDRAL, k ə θ ˈiː d ɹ ə l
-CATHERINE, k ˈæ θ ə ɹ ɪ n
-CATHERINE, k ˈæ θ ɹ ɪ n
+CATHERINE(1), k ˈæ θ ɹ ɪ n
+CATHERINE(2), k ˈæ θ ə ɹ ɪ n
 CATHOLIC, k ˈæ θ l ɪ k
 CATHY, k ˈæ θ iː
 CATS, k ˈæ t s
@@ -964,8 +960,8 @@ CEILING, s ˈiː l ɪ ŋ
 CELL, s ˈɛ l
 CELLAR, s ˈɛ l ə
 CELLS, s ˈɛ l z
-CEMETERY, s ˈɛ m ə t ɹ iː
-CEMETERY, s ˈɛ m ɪ t ɹ iː
+CEMETERY(1), s ˈɛ m ə t ɹ iː
+CEMETERY(2), s ˈɛ m ɪ t ɹ iː
 CENTRAL, s ˈɛ n t ɹ ə l
 CENTRE, s ˈɛ n t ə
 CENTRES, s ˈɛ n t ə z
@@ -989,8 +985,8 @@ CHAMPAGNE, ʃ ˈæ m p ˈeɪ n
 CHAMPION, tʃ ˈæ m p ɪə n
 CHAMPIONSHIP, tʃ ˈæ m p ɪə n ʃ ˌɪ p
 CHANCE, tʃ ˈɑː n s
-CHANCELLOR, tʃ ˈɑː n s l ə
-CHANCELLOR, tʃ ˈɑː n s ə l ə
+CHANCELLOR(1), tʃ ˈɑː n s l ə
+CHANCELLOR(2), tʃ ˈɑː n s ə l ə
 CHANCES, tʃ ˈɑː n s ɪ z
 CHANGE, tʃ ˈeɪ n dʒ
 CHANGED, tʃ ˈeɪ n dʒ d
@@ -1138,8 +1134,8 @@ CLEVELAND, k l ˈiː v l ə n d
 CLEVER, k l ˈɛ v ə
 CLIENT, k l ˈaɪ ə n t
 CLIENTS, k l ˈaɪ ə n t s
-CLIMATE, k l ˈaɪ m ɪ t
-CLIMATE, k l ˈaɪ m ə t
+CLIMATE(1), k l ˈaɪ m ə t
+CLIMATE(2), k l ˈaɪ m ɪ t
 CLIMB, k l ˈaɪ m
 CLIMBED, k l ˈaɪ m d
 CLIMBING, k l ˈaɪ m ɪ ŋ
@@ -1150,17 +1146,17 @@ CLIP, k l ˈɪ p
 CLIVE, k l ˈaɪ v
 CLOCK, k l ˈɒ k
 CLOCKS, k l ˈɒ k s
-CLOSE, k l ˈəʊ s
-CLOSE, k l ˈəʊ z
+CLOSE(1), k l ˈəʊ s
+CLOSE(2), k l ˈəʊ z
 CLOSED, k l ˈəʊ z d
 CLOSELY, k l ˈəʊ s l iː
-CLOSER, k l ˈəʊ s ə
-CLOSER, k l ˈəʊ z ə
+CLOSER(1), k l ˈəʊ s ə
+CLOSER(2), k l ˈəʊ z ə
 CLOSING, k l ˈəʊ z ɪ ŋ
 CLOSURE, k l ˈəʊ ʒ ə
 CLOTH, k l ˈɒ θ
-CLOTHES, k l ˈəʊ z
-CLOTHES, k l ˈəʊ ð z
+CLOTHES(1), k l ˈəʊ z
+CLOTHES(2), k l ˈəʊ ð z
 CLOTHING, k l ˈəʊ ð ɪ ŋ
 CLOUD, k l ˈaʊ d
 CLOWN, k l ˈaʊ n
@@ -1244,8 +1240,8 @@ COMMUNICATIONS, k ə m ˌjuː n ɪ k ˈeɪ ʃ ə n z
 COMMUNION, k ə m ˈjuː n j ə n
 COMMUNIST, k ˈɒ m jʊ n ɪ s t
 COMMUNITIES, k ə m ˈjuː n ɪ t iː z
-COMMUNITY, k ə m ˈjuː n ə t iː
-COMMUNITY, k ə m ˈjuː n ɪ t iː
+COMMUNITY(1), k ə m ˈjuː n ə t iː
+COMMUNITY(1), k ə m ˈjuː n ɪ t iː
 COMPANIES, k ˈɐ m p ə n iː z
 COMPANION, k ə m p ˈæ n j ə n
 COMPANY, k ˈɐ m p ə n iː
@@ -1266,8 +1262,8 @@ COMPLETE, k ə m p l ˈiː t
 COMPLETED, k ə m p l ˈiː t ɪ d
 COMPLETELY, k ə m p l ˈiː t l iː
 COMPLETION, k ə m p l ˈiː ʃ ə n
-COMPLEX, k ə m p l ˈɛ k s
-COMPLEX, k ˈɒ m p l ɛ k s
+COMPLEX(1), k ə m p l ˈɛ k s
+COMPLEX(2), k ˈɒ m p l ɛ k s
 COMPLEXITY, k ə m p l ˈɛ k s ɪ t iː
 COMPLICATED, k ˈɒ m p l ɪ k ˌeɪ t ɪ d
 COMPONENT, k ə m p ˈəʊ n ə n t
@@ -1289,29 +1285,29 @@ CONCERN, k ə n s ˈɜː n
 CONCERNED, k ə n s ˈɜː n d
 CONCERNING, k ə n s ˈɜː n ɪ ŋ
 CONCERNS, k ə n s ˈɜː n z
-CONCERT, k ə n s ˈɜː t
-CONCERT, k ˈɒ n s ə t
+CONCERT(1), k ˈɒ n s ə t
+CONCERT(2), k ə n s ˈɜː t
 CONCLUDED, k ə n k l ˈuː d ɪ d
 CONCLUSION, k ə n k l ˈuː ʒ ə n
 CONCLUSIONS, k ə n k l ˈuː ʒ ə n z
-CONCRETE, k ə n k ɹ ˈiː t
-CONCRETE, k ˈɒ n k ɹ iː t
+CONCRETE(1), k ə n k ɹ ˈiː t
+CONCRETE(2), k ˈɒ n k ɹ iː t
 CONDITION, k ə n d ˈɪ ʃ ə n
 CONDITIONS, k ə n d ˈɪ ʃ ə n z
 CONDOM, k ˈɒ n d ə m
-CONDUCT, k ə n d ˈɐ k t
-CONDUCT, k ˈɒ n d ɐ k t
+CONDUCT(1), k ə n d ˈɐ k t
+CONDUCT(2), k ˈɒ n d ɐ k t
 CONDUCTED, k ə n d ˈɐ k t ɪ d
-CONFERENCE, k ˈɒ n f ə ɹ ə n s
-CONFERENCE, k ˈɒ n f ɹ ə n s
+CONFERENCE(1), k ˈɒ n f ɹ ə n s
+CONFERENCE(2), k ˈɒ n f ə ɹ ə n s
 CONFIDENCE, k ˈɒ n f ɪ d ə n s
 CONFIDENT, k ˈɒ n f ɪ d ə n t
 CONFIDENTIAL, k ˌɒ n f ɪ d ˈɛ n ʃ ə l
 CONFINED, k ə n f ˈaɪ n d
 CONFIRM, k ə n f ˈɜː m
 CONFIRMED, k ə n f ˈɜː m d
-CONFLICT, k ə n f l ˈɪ k t
-CONFLICT, k ˈɒ n f l ɪ k t
+CONFLICT(1), k ˈɒ n f l ɪ k t
+CONFLICT(2), k ə n f l ˈɪ k t
 CONFUSION, k ə n f ˈjuː ʒ ə n
 CONGREGATION, k ˌɒ ŋ g ɹ ɪ g ˈeɪ ʃ ə n
 CONGRESS, k ˈɒ ŋ g ɹ ɛ s
@@ -1353,20 +1349,21 @@ CONSULTANTS, k ə n s ˈɐ l t ə n t s
 CONSULTATION, k ˌɒ n s ə l t ˈeɪ ʃ ə n
 CONSUMER, k ə n s ˈjuː m ə
 CONSUMERS, k ə n s ˈjuː m ə z
-CONSUMPTION, k ə n s ˈɐ m p ʃ ə n
-CONSUMPTION, k ə n s ˈɐ m ʃ ə n
-CONTACT, k ˈɒ n t ˌæ k t
-CONTACTS, k ə n t ˈæ k t s
-CONTACTS, k ˈɒ n t ˌæ k t s
+CONSUMPTION(1), k ə n s ˈɐ m ʃ ə n
+CONSUMPTION(2), k ə n s ˈɐ m p ʃ ə n
+CONTACT(1), k ə n t ˈæ k t
+CONTACT(2), k ˈɒ n t ˌæ k t
+CONTACTS(1), k ə n t ˈæ k t s
+CONTACTS(2), k ˈɒ n t ˌæ k t s
 CONTAIN, k ə n t ˈeɪ n
 CONTAINED, k ə n t ˈeɪ n d
 CONTAINING, k ə n t ˈeɪ n ɪ ŋ
 CONTAINS, k ə n t ˈeɪ n z
 CONTEMPORARY, k ə n t ˈɛ m p ə ɹ ə ɹ iː
-CONTENT, k ə n t ˈɛ n t
-CONTENT, k ˈɒ n t ɛ n t
-CONTENTS, k ə n t ˈɛ n t s
-CONTENTS, k ˈɒ n t ɛ n t s
+CONTENT(1), k ə n t ˈɛ n t
+CONTENT(2), k ˈɒ n t ɛ n t
+CONTENTS(1), k ə n t ˈɛ n t s
+CONTENTS(2), k ˈɒ n t ɛ n t s
 CONTEXT, k ˈɒ n t ɛ k s t
 CONTINENT, k ˈɒ n t ɪ n ə n t
 CONTINENTAL, k ˌɒ n t ɪ n ˈɛ n t ə l
@@ -1375,12 +1372,14 @@ CONTINUED, k ə n t ˈɪ n juː d
 CONTINUES, k ə n t ˈɪ n juː z
 CONTINUING, k ə n t ˈɪ n juː ɪ ŋ
 CONTINUOUS, k ə n t ˈɪ n juː ə s
-CONTRACT, k ə n t ɹ ˈæ k t
-CONTRACT, k ˈɒ n t ɹ ˌæ k t
-CONTRACTS, k ə n t ɹ ˈæ k t s
-CONTRACTS, k ˈɒ n t ɹ ˌæ k t s
-CONTRAST, k ə n t ɹ ˈɑː s t
-CONTRAST, k ˈɒ n t ɹ ɑː s t
+CONTRACT(1), k ə n t ɹ ˈæ k t
+CONTRACT(2), k ˈɒ n t ɹ ˌæ k t
+CONTRACTS(1), k ə n t ɹ ˈæ k t s
+CONTRACTS(2), k ˈɒ n t ɹ ˌæ k t s
+CONTRAST(1), k ə n t ɹ ˈɑː s t
+CONTRAST(2), k ˈɒ n t ɹ ɑː s t
+CONTRASTS(1), k ə n t ɹ ˈɑː s t s
+CONTRASTS(2), k ˈɒ n t ɹ ɑː s t s
 CONTRIBUTE, k ə n t ɹ ˈɪ b juː t
 CONTRIBUTION, k ˌɒ n t ɹ ɪ b ˈjuː ʃ ə n
 CONTRIBUTIONS, k ˌɒ n t ɹ ɪ b ˈjuː ʃ ə n z
@@ -1416,8 +1415,8 @@ CORNERS, k ˈɔː n ə z
 CORNWALL, k ˈɔː n w ɔː l
 CORONATION, k ˌɒ ɹ ə n ˈeɪ ʃ ə n
 CORP, k ˌɔː p
-CORPORATE, k ˈɔː p ə ɹ ə t
-CORPORATE, k ˈɔː p ɹ ə t
+CORPORATE(1), k ˈɔː p ɹ ə t
+CORPORATE(2), k ˈɔː p ə ɹ ə t
 CORPORATION, k ˌɔː p ə ɹ ˈeɪ ʃ ə n
 CORPORATIONS, k ˌɔː p ə ɹ ˈeɪ ʃ ə n z
 CORRECT, k ə ɹ ˈɛ k t
@@ -1443,14 +1442,14 @@ COUGHING, k ˈɒ f ɪ ŋ
 COUGHING, k ˈɒ f ɪ ŋ
 COULD, k ˈʊ d
 COUNCIL, k ˈaʊ n s ə l
-COUNCILLOR, k ˈaʊ n s l ə
-COUNCILLOR, k ˈaʊ n s ə l ə
-COUNCILLORS, k ˈaʊ n s l ə z
-COUNCILLORS, k ˈaʊ n s ə l ə z
-COUNCILOR, k ˈaʊ n s l ə
-COUNCILOR, k ˈaʊ n s ə l ə
-COUNCILORS, k ˈaʊ n s l ə z
-COUNCILORS, k ˈaʊ n s ə l ə z
+COUNCILLOR(1), k ˈaʊ n s l ə
+COUNCILLOR(2), k ˈaʊ n s ə l ə
+COUNCILLORS(1), k ˈaʊ n s l ə z
+COUNCILLORS(2), k ˈaʊ n s ə l ə z
+COUNCILOR(1), k ˈaʊ n s l ə
+COUNCILOR(2), k ˈaʊ n s ə l ə
+COUNCILORS(1), k ˈaʊ n s l ə z
+COUNCILORS(2), k ˈaʊ n s ə l ə z
 COUNCILS, k ˈaʊ n s ə l z
 COUNT, k ˈaʊ n t
 COUNTER, k ˈaʊ n t ə
@@ -1470,11 +1469,11 @@ COURTS, k ˈɔː t s
 COUSIN, k ˈɐ z ə n
 COUSINS, k ˈɐ z ə n z
 COVER, k ˈɐ v ə
-COVERAGE, k ˈɐ v ə ɹ ɪ dʒ
-COVERAGE, k ˈɐ v ɹ ɪ dʒ
+COVERAGE(1), k ˈɐ v ɹ ɪ dʒ
+COVERAGE(2), k ˈɐ v ə ɹ ɪ dʒ
 COVERED, k ˈɐ v ə d
-COVERING, k ˈɐ v ə ɹ ɪ ŋ
-COVERING, k ˈɐ v ɹ ɪ ŋ
+COVERING(1), k ˈɐ v ɹ ɪ ŋ
+COVERING(2), k ˈɐ v ə ɹ ɪ ŋ
 COVERS, k ˈɐ v ə z
 COW, k ˈaʊ
 COWS, k ˈaʊ z
@@ -1520,8 +1519,8 @@ CROSSWORD, k ɹ ˈɒ s w ˌɜː d
 CROWD, k ɹ ˈaʊ d
 CROWN, k ɹ ˈaʊ n
 CRUCIAL, k ɹ ˈuː ʃ ə l
-CRUEL, k ɹ ˈuː ə l
-CRUEL, k ɹ ˈʊə l
+CRUEL(1), k ɹ ˈʊə l
+CRUEL(2), k ɹ ˈuː ə l
 CRUMBS, k ɹ ˈɐ m z
 CRY, k ɹ ˈaɪ
 CRYING, k ɹ ˈaɪ ɪ ŋ
@@ -1589,8 +1588,8 @@ DARREN, d ˈæ ɹ ə n
 DARTS, d ˈɑː t s
 DARYL, d ˈæ ɹ ə l
 DASH, d ˈæ ʃ
-DATA, d ˈeɪ t ə
-DATA, d ˈɑː t ə
+DATA(1), d ˈeɪ t ə
+DATA(2), d ˈɑː t ə
 DATABASE, d ˈeɪ t ə b ˌeɪ s
 DATE, d ˈeɪ t
 DATES, d ˈeɪ t s
@@ -1604,9 +1603,9 @@ DAWN, d ˈɔː n
 DAY, d ˈeɪ
 DAYLIGHT, d ˈeɪ l ˌaɪ t
 DAYS, d ˈeɪ z
-DE, d ə
-DE, d ˈeɪ
-DE, d ˈiː
+DE(1), d ə
+DE(2), d ˈeɪ
+DE(3), d ˈiː
 DEAD, d ˈɛ d
 DEAF, d ˈɛ f
 DEAL, d ˈiː l
@@ -1621,16 +1620,16 @@ DEATH, d ˈɛ θ
 DEATHS, d ˈɛ θ s
 DEBATE, d ɪ b ˈeɪ t
 DEBBIE, d ˈɛ b iː
-DEBORAH, d ˈɛ b ə ɹ ə
-DEBORAH, d ˈɛ b ɹ ə
+DEBORAH(1), d ˈɛ b ɹ ə
+DEBORAH(2), d ˈɛ b ə ɹ ə
 DEBT, d ˈɛ t
 DEBTS, d ˈɛ t s
 DEBUT, d ˈeɪ b juː
 DEC, d ˈɛ k
-DECADE, d ɛ k ˈeɪ d
-DECADE, d ˈɛ k eɪ d
-DECADES, d ɛ k ˈeɪ d z
-DECADES, d ˈɛ k eɪ d z
+DECADE(1), d ˈɛ k eɪ d
+DECADE(2), d ɛ k ˈeɪ d
+DECADES(1), d ˈɛ k eɪ d z
+DECADES(2), d ɛ k ˈeɪ d z
 DECEMBER, d ɪ s ˈɛ m b ə
 DECENT, d ˈiː s ə n t
 DECIDE, d ˌɪ s ˈaɪ d
@@ -1664,11 +1663,13 @@ DEFINITION, d ˌɛ f ɪ n ˈɪ ʃ ə n
 DEGREE, d ɪ g ɹ ˈiː
 DEGREES, d ɪ g ɹ ˈiː z
 DELAY, d ɪ l ˈeɪ
-DELEGATES, d ˈɛ l ɪ g ə t s
-DELEGATES, d ˈɛ l ɪ g ˌeɪ t s
+DELEGATE(1), d ˈɛ l ɪ g ə t
+DELEGATE(2), d ˈɛ l ɪ g ˌeɪ t
+DELEGATES(1), d ˈɛ l ɪ g ə t s
+DELEGATES(2), d ˈɛ l ɪ g ˌeɪ t s
 DELEGATION, d ˌɛ l ɪ g ˈeɪ ʃ ə n
-DELIBERATELY, d ɪ l ˈɪ b ə ɹ ə t l iː
-DELIBERATELY, d ɪ l ˈɪ b ɹ ə t l iː
+DELIBERATELY(1), d ɪ l ˈɪ b ɹ ə t l iː
+DELIBERATELY(2), d ɪ l ˈɪ b ə ɹ ə t l iː
 DELICATE, d ˈɛ l ɪ k ə t
 DELICIOUS, d ɪ l ˈɪ ʃ ə s
 DELIGHT, d ɪ l ˈaɪ t
@@ -1708,16 +1709,16 @@ DEPUTY, d ˈɛ p jʊ t iː
 DER, d ˈɜː
 DEREK, d ˈɛ ɹ ɪ k
 DERIVED, d ə ɹ ˈaɪ v d
-DES, d ˈɛ s
-DES, d ˌɪ
+DES(1), d ˌɪ
+DES(2), d ˈɛ s
 DESCRIBE, d ɪ s k ɹ ˈaɪ b
 DESCRIBED, d ɪ s k ɹ ˈaɪ b d
 DESCRIBES, d ɪ s k ɹ ˈaɪ b z
 DESCRIBING, d ɪ s k ɹ ˈaɪ b ɪ ŋ
 DESCRIPTION, d ɪ s k ɹ ˈɪ p ʃ ə n
 DESCRIPTIONS, d ɪ s k ɹ ˈɪ p ʃ ə n z
-DESERT, d ɪ z ˈɜː t
-DESERT, d ˈɛ z ə t
+DESERT(1), d ɪ z ˈɜː t
+DESERT(2), d ˈɛ z ə t
 DESIGN, d ɪ z ˈaɪ n
 DESIGNED, d ɪ z ˈaɪ n d
 DESIGNER, d ɪ z ˈaɪ n ə
@@ -1725,10 +1726,10 @@ DESIGNS, d ɪ z ˈaɪ n z
 DESIRABLE, d ɪ z ˈaɪ ə ɹ ə b ə l
 DESIRE, d ɪ z ˈaɪ ə
 DESK, d ˈɛ s k
-DESPERATE, d ˈɛ s p ə ɹ ɪ t
-DESPERATE, d ˈɛ s p ɹ ɪ t
-DESPERATELY, d ˈɛ s p ə ɹ ə t l iː
-DESPERATELY, d ˈɛ s p ɹ ə t l iː
+DESPERATE(1), d ˈɛ s p ɹ ɪ t
+DESPERATE(2), d ˈɛ s p ə ɹ ɪ t
+DESPERATELY(1), d ˈɛ s p ɹ ə t l iː
+DESPERATELY(2), d ˈɛ s p ə ɹ ə t l iː
 DESPITE, d ɪ s p ˈaɪ t
 DESTROY, d ɪ s t ɹ ˈɔɪ
 DESTROYED, d ɪ s t ɹ ˈɔɪ d
@@ -1750,8 +1751,8 @@ DEVICE, d ɪ v ˈaɪ s
 DEVICES, d ɪ v ˈaɪ s ɪ z
 DEVIL, d ˈɛ v ə l
 DEVON, d ˈɛ v ə n
-DI, d ˈaɪ
-DI, d ˈiː
+DI(1), d ˈaɪ
+DI(2), d ˈiː
 DIAGNOSIS, d ˌaɪ ə g n ˈəʊ s ɪ s
 DIAGRAM, d ˈaɪ ə g ɹ ˌæ m
 DIALOGUE, d ˈaɪ ə l ˌɒ g
@@ -1764,20 +1765,20 @@ DICE, d ˈaɪ s
 DICK, d ˈɪ k
 DICKHEAD, d ˈɪ k h ˌɛ d
 DICTIONARY, d ˈɪ k ʃ ə n ə ɹ iː
-DID, d ɪ d
-DID, d ˈɪ d
+DID(1), d ɪ d
+DID(2), d ˈɪ d
 DIE, d ˈaɪ
 DIED, d ˈaɪ d
 DIES, d ˈaɪ z
 DIET, d ˈaɪ ə t
-DIFFERENCE, d ˈɪ f ə ɹ ə n s
-DIFFERENCE, d ˈɪ f ɹ ə n s
-DIFFERENCES, d ˈɪ f ə ɹ ə n s ɪ z
-DIFFERENCES, d ˈɪ f ɹ ə n s ɪ z
-DIFFERENT, d ˈɪ f ə ɹ ə n t
-DIFFERENT, d ˈɪ f ɹ ə n t
-DIFFERENTLY, d ˈɪ f ə ɹ ə n t l iː
-DIFFERENTLY, d ˈɪ f ɹ ə n t l iː
+DIFFERENCE(1), d ˈɪ f ɹ ə n s
+DIFFERENCE(2), d ˈɪ f ə ɹ ə n s
+DIFFERENCES(1), d ˈɪ f ɹ ə n s ɪ z
+DIFFERENCES(2), d ˈɪ f ə ɹ ə n s ɪ z
+DIFFERENT(1), d ˈɪ f ɹ ə n t
+DIFFERENT(2), d ˈɪ f ə ɹ ə n t
+DIFFERENTLY(1), d ˈɪ f ɹ ə n t l iː
+DIFFERENTLY(2), d ˈɪ f ə ɹ ə n t l iː
 DIFFICULT, d ˈɪ f ɪ k ə l t
 DIFFICULTIES, d ˈɪ f ɪ k ə l t iː z
 DIFFICULTY, d ˈɪ f ɪ k ə l t iː
@@ -1785,8 +1786,8 @@ DIG, d ˈɪ g
 DIGGER, d ˈɪ g ə
 DIGGING, d ˈɪ g ɪ ŋ
 DIGITAL, d ˈɪ dʒ ɪ t ə l
-DIMENSION, d aɪ m ˈɛ n ʃ ə n
-DIMENSION, d ɪ m ˈɛ n ʃ ə n
+DIMENSION(1), d aɪ m ˈɛ n ʃ ə n
+DIMENSION(2), d ɪ m ˈɛ n ʃ ə n
 DINDA, d ˈɪ n d ə
 DING, d ˈɪ ŋ
 DINING, d ˈaɪ n ɪ ŋ
@@ -1794,24 +1795,24 @@ DINNER, d ˈɪ n ə
 DINNERS, d ˈɪ n ə z
 DIPLOMA, d ɪ p l ˈəʊ m ə
 DIPLOMATIC, d ˌɪ p l ə m ˈæ t ɪ k
-DIRECT, d aɪ ɹ ˈɛ k t
-DIRECT, d ɪ ɹ ˈɛ k t
-DIRECTED, d aɪ ɹ ˈɛ k t ɪ d
-DIRECTED, d ɪ ɹ ˈɛ k t ɪ d
-DIRECTION, d aɪ ɹ ˈɛ k ʃ ə n
-DIRECTION, d ɪ ɹ ˈɛ k ʃ ə n
-DIRECTIONS, d aɪ ɹ ˈɛ k ʃ ə n z
-DIRECTIONS, d ɪ ɹ ˈɛ k ʃ ə n z
-DIRECTIVE, d aɪ ɹ ˈɛ k t ɪ v
-DIRECTIVE, d ɪ ɹ ˈɛ k t ɪ v
-DIRECTLY, d aɪ ɹ ˈɛ k t l iː
-DIRECTLY, d ɪ ɹ ˈɛ k t l iː
-DIRECTOR, d aɪ ɹ ˈɛ k t ə
-DIRECTOR, d ɪ ɹ ˈɛ k t ə
-DIRECTORS, d aɪ ɹ ˈɛ k t ə z
-DIRECTORS, d ɪ ɹ ˈɛ k t ə z
-DIRECTORY, d aɪ ɹ ˈɛ k t ə ɹ iː
-DIRECTORY, d ɪ ɹ ˈɛ k t ə ɹ iː
+DIRECT(1), d aɪ ɹ ˈɛ k t
+DIRECT(2), d ɪ ɹ ˈɛ k t
+DIRECTED(1), d aɪ ɹ ˈɛ k t ɪ d
+DIRECTED(2), d ɪ ɹ ˈɛ k t ɪ d
+DIRECTION(1), d aɪ ɹ ˈɛ k ʃ ə n
+DIRECTION(2), d ɪ ɹ ˈɛ k ʃ ə n
+DIRECTIONS(1), d aɪ ɹ ˈɛ k ʃ ə n z
+DIRECTIONS(2), d ɪ ɹ ˈɛ k ʃ ə n z
+DIRECTIVE(1), d aɪ ɹ ˈɛ k t ɪ v
+DIRECTIVE(2), d ɪ ɹ ˈɛ k t ɪ v
+DIRECTLY(1), d aɪ ɹ ˈɛ k t l iː
+DIRECTLY(2), d ɪ ɹ ˈɛ k t l iː
+DIRECTOR(1), d aɪ ɹ ˈɛ k t ə
+DIRECTOR(2), d ɪ ɹ ˈɛ k t ə
+DIRECTORS(1), d aɪ ɹ ˈɛ k t ə z
+DIRECTORS(2), d ɪ ɹ ˈɛ k t ə z
+DIRECTORY(1), d aɪ ɹ ˈɛ k t ə ɹ iː
+DIRECTORY(2), d ɪ ɹ ˈɛ k t ə ɹ iː
 DIRT, d ˈɜː t
 DIRTY, d ˈɜː t iː
 DISABLED, d ɪ s ˈeɪ b ə l d
@@ -1821,13 +1822,13 @@ DISASTER, d ɪ z ˈɑː s t ə
 DISC, d ˈɪ s k
 DISCIPLINE, d ˈɪ s ə p l ɪ n
 DISCO, d ˈɪ s k əʊ
-DISCOUNT, d ɪ s k ˈaʊ n t
-DISCOUNT, d ˈɪ s k aʊ n t
+DISCOUNT(1), d ˈɪ s k aʊ n t
+DISCOUNT(2), d ɪ s k ˈaʊ n t
 DISCOURSE, d ˈɪ s k ɔː s
 DISCOVER, d ɪ s k ˈɐ v ə
 DISCOVERED, d ɪ s k ˈɐ v ə d
-DISCOVERY, d ɪ s k ˈɐ v ə ɹ iː
-DISCOVERY, d ɪ s k ˈɐ v ɹ iː
+DISCOVERY(1), d ɪ s k ˈɐ v ɹ iː
+DISCOVERY(2), d ɪ s k ˈɐ v ə ɹ iː
 DISCRETION, d ɪ s k ɹ ˈɛ ʃ ə n
 DISCRIMINATION, d ɪ s k ɹ ˌɪ m ɪ n ˈeɪ ʃ ə n
 DISCS, d ˈɪ s k s
@@ -1872,8 +1873,9 @@ DOCUMENT, d ˈɒ k jʊ m ɛ n t
 DOCUMENT, d ˈɒ k jʊ m ɛ n t
 DOCUMENTS, d ˈɒ k jʊ m ə n t s
 DOCUMENTS, d ˈɒ k jʊ m ə n t s
-DOES, d ə z
-DOES, d ˈɐ z
+DOES(1), d ə z
+DOES(2), d ˈɐ z
+DOES(3), d ˈəʊ z
 DOG, d ˈɒ g
 DOGGY, d ˈɒ g iː
 DOGS, d ˈɒ g z
@@ -1920,8 +1922,8 @@ DRAFT, d ɹ ˈɑː f t
 DRAIN, d ɹ ˈeɪ n
 DRAMA, d ɹ ˈɑː m ə
 DRAMATIC, d ɹ ə m ˈæ t ɪ k
-DRAMATICALLY, d ɹ ə m ˈæ t ɪ k l iː
-DRAMATICALLY, d ɹ ə m ˈæ t ɪ k ə l iː
+DRAMATICALLY(1), d ɹ ə m ˈæ t ɪ k l iː
+DRAMATICALLY(2), d ɹ ə m ˈæ t ɪ k ə l iː
 DRANK, d ɹ ˈæ ŋ k
 DRAUGHT, d ɹ ˈɑː f t
 DRAW, d ɹ ˈɔː
