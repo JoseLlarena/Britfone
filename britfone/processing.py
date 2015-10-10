@@ -87,14 +87,14 @@ def vocabulary2():
     for w, s in word_sound:
         word_to_sounds[w].add(s)
 
-    f = open(DIR+'xxxnew_vocab.csv', 'w', 'utf-8')
+    f = open(DIR+'new_vocab.csv', 'w', 'utf-8')
     for w in sorted(OOV):
         for s in word_to_sounds[w]:
             print '%s, %s' % (w, s)
             f.write('%s, %s\n' % (w, s.decode('utf-8')))
 
 def finds_multiples():
-    word_sound = lines_from(DIR + 'new_vocabulary.csv', lambda line: [col.strip() for col in line.split(',')])
+    word_sound = lines_from(SEED_FILE, lambda line: [col.strip() for col in line.split(',')])
 
     word_to_sounds = defaultdict(set)
     for w, s in word_sound:
@@ -107,12 +107,12 @@ def finds_multiples():
 
 def merge_entries():
     new_word_sound = set(
-        lines_from(DIR + 'new_vocab.csv', lambda line: tuple(col.strip() for col in line.split(','))))
+        lines_from(DIR + 'xxxnew_vocab.csv', lambda line: tuple(col.strip() for col in line.split(','))))
     old_word_sound = set(
-        lines_from(DIR + 'britfone.0.1.0.main.2.csv', lambda line: tuple(col.strip() for col in line.split(','))))
+        lines_from(DIR + 'britfone.0.1.0.main.csv', lambda line: tuple(col.strip() for col in line.split(','))))
     word_sound = new_word_sound | old_word_sound
 
-    collection_to(DIR + 'britfone.0.1.0.main.csv', sorted({'%s, %s' % (word, sound.decode('utf-8')) for word, sound in word_sound}))
+    collection_to(DIR + 'britfone.0.1.0.main.merged.csv', sorted({'%s, %s' % (word, sound.decode('utf-8')) for word, sound in word_sound}))
 
 google_ignore = \
     {
@@ -149,7 +149,7 @@ google_ignore = \
         'LYCOS', 'MINOLTA', 'MULTI', 'NANO', 'NIKON', 'POLY', 'RHODE', 'SALEM', 'SCOTIA',
         'SOLARIS', 'TIFFANY', 'TRIVIA', 'TROY', 'XANAX','ANGELES','DAS',
         'NI','DICKE','ELLIS','ENG','EPSON','FI','KLEIN','LANKA','LEXMARK',
-        'MACROMEDIA','MENS','TEX'
+        'MACROMEDIA','MENS','TEX','ING'
 
     }
 
@@ -172,6 +172,6 @@ mistyped = {'&AMP': 'AND', '&TIMES': 'TIMES', u'*': 'STAR', u'&POUND;1': u'£', 
             "'": 'QUOTE', '%': 'PERCENT', '&FRAC12': 'HALF', '/': 'SLASH', 'CAF&EACUTE': 'CAFE'}
 
 if __name__ == '__main__':
-    # vocabulary2()
+    vocabulary2()
     # finds_multiples()
-    merge_entries()
+    # merge_entries()

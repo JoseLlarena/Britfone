@@ -482,6 +482,7 @@ ARC, ˈɑː k
 ARCADE, ɑː k ˈeɪ d
 ARCH, ˈɑː tʃ
 ARCHITECT, ˈɑː k ɪ t ˌɛ k t
+ARCHITECTS, ˈɑ ɹ k ɪ t ˌɛ k t s
 ARCHITECTURAL, ˌɑː k ɪ t ˈɛ k tʃ ə ɹ ə l
 ARCHITECTURE, ˈɑː k ɪ t ˌɛ k tʃ ə
 ARCHIVE, ˈɑː k ˌaɪ v
@@ -2400,6 +2401,7 @@ DEDICATED, d ˈɛ d ɪ k eɪ t ɪ d
 DEE, d ˈiː
 DEEMED, d ˈiː m d
 DEEP, d ˈiː p
+DEEPER, d ˈiː p  ə
 DEEPLY, d ˈiː p l iː
 DEER, d ˈɪə
 DEES, d ˈiː z
@@ -2856,6 +2858,7 @@ DUMPED, d ˈɐ m p t
 DUMPLINGS, d ˈɐ m p l ɪ ŋ z
 DUN, d ˈɐ n
 DUNCAN, d ˈɐ ŋ k ə n
+DUO, d ˈjuː əʊ
 DURABLE, d ˈjʊə ɹ ə b ə l
 DURATION, d ˈjʊ ɹ ˈeɪ ʃ ə n
 DURHAM, d ˈɐ ɹ ə m
@@ -3129,6 +3132,7 @@ ENTITIES, ˈɛ n t ɪ t iː z
 ENTITLED, ɛ n t ˈaɪ t ə l d
 ENTITY, ˈɛ n t ɪ t iː
 ENTRANCE, ˈɛ n t ɹ ə n s
+ENTREPRENEUR, ˌɑ n t ɹ ə p ɹ ə n ˈɜː
 ENTRIES, ˈɛ n t ɹ iː z
 ENTRY, ˈɛ n t ɹ iː
 ENVELOPE, ˈɛ n v ə l ˌəʊ p
@@ -3167,8 +3171,8 @@ ESPECIALLY(2), ɪ s p ˈɛ ʃ ə l iː
 ESS, ˈɛ s
 ESSAY(1), ˈɛ s ˌeɪ
 ESSAY(2), ɛ s ˈeɪ
-ESSAYS(1), ɛ s ˈeɪ z
 ESSAYS(1), ˈɛ s ˌeɪ z
+ESSAYS(2), ɛ s ˈeɪ z
 ESSENCE, ˈɛ s ə n s
 ESSENTIAL, ɪ s ˈɛ n ʃ ə l
 ESSENTIALLY, ɪ s ˈɛ n ʃ ə l iː
@@ -3627,6 +3631,7 @@ FOOD, f ˈuː d
 FOODS, f ˈuː d z
 FOOL, f ˈuː l
 FOOT, f ˈʊ t
+FOOTAGE, f ˈʊ t ɪ dʒ
 FOOTBALL, f ˈʊ t b ˌɔː l
 FOOTWEAR, f ˈʊ t w ˌɛə
 FOR(1), f ə
@@ -3712,6 +3717,7 @@ FREDERICK(1), f ɹ ˈɛ d ɹ ɪ k
 FREDERICK(2), f ɹ ˈɛ d ə ɹ ɪ k
 FREE, f ɹ ˈiː
 FREEDOM, f ɹ ˈiː d ə m
+FREELANCE, f ɹ ˈiː l ˌæ n s
 FREELY, f ɹ ˈiː l iː
 FREEWARE, f ɹ ˈiː w ˌɛə
 FREEZE, f ɹ ˈiː z
@@ -5548,6 +5554,7 @@ MEDICATIONS, m ˌɛ d ɪ k ˈeɪ ʃ ə n z
 MEDICINE, m ˈɛ d ɪ s ɪ n
 MEDIEVAL(1), m ɛ d ˈiː v ə l
 MEDIEVAL(2), m ɛ d ɪ ˈiː v ə l
+MEDITERRANEAN, m ˌɛ d ɪ t ə ɹ ˈeɪ n ɪə n
 MEDIUM, m ˈiː d ɪə m
 MEET, m ˈiː t
 MEETING, m ˈiː t ɪ ŋ
@@ -5838,6 +5845,8 @@ MUSIC, m ˈjuː z ɪ k
 MUSICAL, m ˈjuː z ɪ k ə l
 MUSICIANS, m juː z ˈɪ ʃ ə n z
 MUSLIM, m ˈɐ z l ɪ m
+MUSLIMS(1), m ˈɐ z l ɪ m z
+MUSLIMS(2), m ˈʊ z l ə m z
 MUST, m ˈɐ s t
 MUSTARD, m ˈɐ s t ə d
 MUTTERED, m ˈɐ t ə d
@@ -5962,6 +5971,7 @@ NICOLE, n ˈɪ k ˈəʊ l
 NIGEL, n ˈaɪ dʒ ə l
 NIGERIA, n aɪ dʒ ˈɪə ɹ ɪə
 NIGHT, n ˈaɪ t
+NIGHTLIFE, n ˈaɪ t l ˌaɪ f
 NIGHTMARE, n ˈaɪ t m ˌɛə
 NIGHTS, n ˈaɪ t s
 NIKE, n ˈaɪ k iː
@@ -8017,6 +8027,7 @@ SIDE, s ˈaɪ d
 SIDES, s ˈaɪ d z
 SIEMENS, s ˈiː m ə n z
 SIERRA, s ɪ ˈɛə ɹ ə
+SIG, s ˈɪ g
 SIGHED, s ˈaɪ d
 SIGHT, s ˈaɪ t
 SIGMA, s ˈɪ g m ə
@@ -9377,6 +9388,7 @@ VALIDATION, v ˌæ l ɪ d ˈeɪ ʃ ə n
 VALIUM, v ˈæ l ɪə m
 VALLEY, v ˈæ l iː
 VALUABLE, v ˈæ l jʊ b ə l
+VALUATION, v æ l jʊ ˈeɪ ʃ ə n
 VALUE, v ˈæ l juː
 VALUES, v ˈæ l juː z
 VALVE, v ˈæ l v
@@ -9800,6 +9812,7 @@ WORSHIP, w ˈɜː ʃ ɪ p
 WORST, w ˈɜː s t
 WORTH, w ˈɜː θ
 WORTHWHILE, w ˌɜː θ w ˈaɪ l
+WORTHY, w ˈɜː ð iː
 WOULD, w ˈʊ d
 WOW, w ˈaʊ
 WRAP, ɹ ˈæ p
