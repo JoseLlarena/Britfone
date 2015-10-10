@@ -105,6 +105,11 @@ def finds_multiples():
     for w in sorted(m): print w
     print len(m)
 
+def resort(_file=None):
+    britfone = sorted(set(lines_from(_file, lambda line: line.strip().decode('UTF-8').replace(', ','\t'))))
+
+    collection_to(_file, britfone)
+
 def merge_entries():
     new_word_sound = set(
         lines_from(DIR + 'xxxnew_vocab.csv', lambda line: tuple(col.strip() for col in line.split(','))))
@@ -119,40 +124,40 @@ google_ignore = \
     {
         'RSS', 'URL', 'HTML', 'PDF',
         'USR', 'PRE', 'LOS', 'HP', 'EG',
-        'TEL', 'TX', 'IE', 'EST', 'GMT',, 'MB', 'PREV', 'INT', 'USB', 'ED', 'PHP',
-    'MSN', 'MIN', 'ISBN', 'PST', 'XXX', 'KB', 'VOL', 'PP', 'WWW', 'AU',
-    'LLC', 'RD', 'MID', 'KM', 'DEL', 'IM', 'XP', 'CVS', 'LCD',
-    'DJ', 'CM', 'HR', 'RW', 'VHS', 'NT', 'GB', 'BC', 'PR', 'FR', 'AA', 'VAR',
-    'OZ', 'USD', 'MG', 'CH', 'DEVEL', 'RS', 'AVG', 'PDA', 'DSL', 'ZUM', 'SQL',
-    'SS', 'SEXO', 'OP', 'ACC', 'CE', 'LIB', 'TM', 'SP', 'PDT',
-    'PT', 'PSP', 'DS', 'EA', 'UND', 'LG', 'NW', 'FF', 'ISO', 'MISC', 'PS', 'BR', 'ML',
-    'RES', 'CS', 'QUE', 'PUERTO', 'VOIP', 'SF', 'KG', 'CSS', 'UNIPROTKB', 'VON', 'EDT', 'PMID',
-    'BA', 'PARA', 'CR', 'PG', 'KS', 'FTP', 'SW', 'HD', 'GCC', 'ASP', 'EXP', 'CPU', 'NR', 'DEF', 'NL',
-    'EPA', 'TR', 'BB', 'NZ', 'HIST', 'VBULLETIN', 'AV', 'TION', 'NSW', 'PCI', 'RC', 'MPEG', 'RICO', 'CST',
-    'HTTP', 'EC', 'RM', 'PDAS', 'API', 'CF', 'VT', 'URW', 'NEC', 'FOTO', 'XX', 'GM', 'RT', 'CP', 'DD',
-    'AUD', 'PL', 'CRM', 'RF', 'TD', 'USC', 'TREMBL', 'NS', 'BS', 'HRS', 'CAL', 'IMG', 'TVS',
-    'MHZ', 'LAT', 'GI', 'SUR', 'LL', 'CL', 'IEEE', 'GT', 'AE', 'NYC', 'HS', 'RIO', 'RV', 'STRUCT', 'RICA',
-    'YR', 'IC', 'ZUA', 'ENT', 'MX', 'GR', 'XHTML', 'EXT', 'GE', 'NCAA', 'NG', 'PE', 'TT', 'XL', 'CAD', 'TCP',
-    'DV', 'DIR', 'FY', 'GHZ', 'RR', 'TITTEN', 'EP', 'GBP', 'JP', 'AF', 'RFC', 'SL', 'SEO', 'ISP',
-    'HP', 'JPG', 'SSL', 'MLB', 'GP', 'IR', 'OCLC', 'MSG', 'CV', 'CB', 'GEN', 'ESPN', 'NHL', 'FC',
-    'FW', 'GS', 'BP', 'STD', 'OO', 'BBW', 'FDA', 'HDTV', 'TRI', 'NN', 'KDE', 'VB', 'PROC', 'FX', 'DL', 'ALT',
-    'PHBB', 'LT', 'EQ', 'JE', 'LANG', 'UV', 'CMS', 'SG', 'VIC', 'PHYS', 'MEGA',
-    'NAV', 'FA', 'IST', 'LC', 'LIL', 'SYS', 'ICQ', 'SCSI', 'CU', 'DNS', 'PTY', 'UNIV', 'NP', 'TFT',
-    'JVC', 'TRAVESTI', 'DT', 'CGI', 'GC', 'CI', 'YN', 'KIJIJI', 'VII', 'CRF', 'PMC', 'NB', 'RX', 'GSM',
-    'DDR', 'REC', 'PB', 'CHEM', 'OE', 'JD', 'GPL', 'IRC', 'DM', 'MLS', 'CET', 'PPC', 'JC', 'ONS', 'DIST',
-    'XNXX', 'AVI', 'BDSM', 'RPG', 'PROT', 'TGP', 'LIVESEX', 'ARG', 'UR', 'GEO', 'WORLDSEX',
-    'ATI', 'WAL', 'RNA', 'UC', 'BUF', 'LD', 'WEBSHOTS', 'MSGID', 'MF', 'MSGSTR', 'MW', 'NU', 'ICT',
-    'DP', 'SKU', 'HT', 'ZA', 'PTS', 'RH', 'RRP', 'FG', 'OOO', 'HZ', 'BK', 'COMM', 'STE', 'MENT',
-    'COL', 'DX', 'SK', 'BIOL', 'YU', 'SQ', 'OC', 'AJ', 'TREO', 'UNE', 'TEXS', 'SUBLIMEDIRECTORY', 'OM',
-    'TP', 'JM', 'DPI', 'GIS', 'LOC', 'CN', 'VER', 'RN', 'DIS', 'CG', 'SER', 'HREF', 'FWD', 'AUS', 'ENDIF',
-    'HWY', 'NAM', 'UNA', 'FT', 'SRC', 'AP', 'UTC', 'NH', 'QTY', 'BIO', 'VI', 'SB', 'SM', 'ZUS',
-    'FOTOS', 'HB', 'TC', 'MINS', 'OEM', 'POR', 'MEM', 'IDE', 'PD', 'WP', 'YRS',
-    'LYCOS', 'MINOLTA', 'MULTI', 'NANO', 'NIKON', 'POLY', 'RHODE', 'SALEM', 'SCOTIA',
-    'SOLARIS', 'TIFFANY', 'TRIVIA', 'TROY', 'XANAX', 'ANGELES', 'DAS',
-    'NI', 'DICKE', 'ELLIS', 'ENG', 'EPSON', 'FI', 'KLEIN', 'LANKA', 'LEXMARK',
-    'MACROMEDIA', 'MENS', 'TEX', 'ING', 'CHILDRENS'
+        'TEL', 'IE', 'EST', 'GMT', 'MB', 'PREV', 'INT', 'USB', 'ED', 'PHP',
+        'MSN', 'MIN', 'ISBN', 'PST', 'XXX', 'KB', 'VOL', 'PP', 'WWW', 'AU',
+        'LLC', 'RD', 'MID', 'KM', 'DEL', 'IM', 'XP', 'CVS', 'LCD',
+        'DJ', 'CM', 'HR', 'RW', 'VHS', 'NT', 'GB', 'BC', 'PR', 'FR', 'AA', 'VAR',
+        'OZ', 'USD', 'MG', 'CH', 'DEVEL', 'RS', 'AVG', 'PDA', 'DSL', 'ZUM', 'SQL',
+        'SS', 'SEXO', 'OP', 'ACC', 'CE', 'LIB', 'TM', 'SP', 'PDT',
+        'PT', 'PSP', 'DS', 'EA', 'UND', 'LG', 'NW', 'FF', 'ISO', 'MISC', 'PS', 'BR', 'ML',
+        'RES', 'CS', 'QUE', 'PUERTO', 'VOIP', 'SF', 'KG', 'CSS', 'UNIPROTKB', 'VON', 'EDT', 'PMID',
+        'BA', 'PARA', 'CR', 'PG', 'KS', 'FTP', 'SW', 'HD', 'GCC', 'ASP', 'EXP', 'CPU', 'NR', 'DEF', 'NL',
+        'EPA', 'TR', 'BB', 'NZ', 'HIST', 'VBULLETIN', 'AV', 'TION', 'NSW', 'PCI', 'RC', 'MPEG', 'RICO', 'CST',
+        'HTTP', 'EC', 'RM', 'PDAS', 'API', 'CF', 'VT', 'URW', 'NEC', 'FOTO', 'XX', 'GM', 'RT', 'CP', 'DD',
+        'AUD', 'PL', 'CRM', 'RF', 'TD', 'USC', 'TREMBL', 'NS', 'BS', 'HRS', 'CAL', 'IMG', 'TVS',
+        'MHZ', 'LAT', 'GI', 'SUR', 'LL', 'CL', 'IEEE', 'GT', 'AE', 'NYC', 'HS', 'RIO', 'RV', 'STRUCT', 'RICA',
+        'YR', 'IC', 'ZUA', 'ENT', 'MX', 'GR', 'XHTML', 'EXT', 'GE', 'NCAA', 'NG', 'PE', 'TT', 'XL', 'CAD', 'TCP',
+        'DV', 'DIR', 'FY', 'GHZ', 'RR', 'TITTEN', 'EP', 'GBP', 'JP', 'AF', 'RFC', 'SL', 'SEO', 'ISP',
+        'HP', 'JPG', 'SSL', 'MLB', 'GP', 'IR', 'OCLC', 'MSG', 'CV', 'CB', 'GEN', 'ESPN', 'NHL', 'FC',
+        'FW', 'GS', 'BP', 'STD', 'OO', 'BBW', 'FDA', 'HDTV', 'TRI', 'NN', 'KDE', 'VB', 'PROC', 'FX', 'DL', 'ALT',
+        'PHBB', 'LT', 'EQ', 'JE', 'LANG', 'UV', 'CMS', 'SG', 'VIC', 'PHYS', 'MEGA',
+        'NAV', 'FA', 'IST', 'LC', 'LIL', 'SYS', 'ICQ', 'SCSI', 'CU', 'DNS', 'PTY', 'UNIV', 'NP', 'TFT',
+        'JVC', 'TRAVESTI', 'DT', 'CGI', 'GC', 'CI', 'YN', 'KIJIJI', 'VII', 'CRF', 'PMC', 'NB', 'RX', 'GSM',
+        'DDR', 'REC', 'PB', 'CHEM', 'OE', 'JD', 'GPL', 'IRC', 'DM', 'MLS', 'CET', 'PPC', 'JC', 'ONS', 'DIST',
+        'XNXX', 'AVI', 'BDSM', 'RPG', 'PROT', 'TGP', 'LIVESEX', 'ARG', 'UR', 'GEO', 'WORLDSEX',
+        'ATI', 'WAL', 'RNA', 'UC', 'BUF', 'LD', 'WEBSHOTS', 'MSGID', 'MF', 'MSGSTR', 'MW', 'NU', 'ICT',
+        'DP', 'SKU', 'HT', 'ZA', 'PTS', 'RH', 'RRP', 'FG', 'OOO', 'HZ', 'BK', 'COMM', 'STE', 'MENT',
+        'COL', 'DX', 'SK', 'BIOL', 'YU', 'SQ', 'OC', 'AJ', 'TREO', 'UNE', 'TEXS', 'SUBLIMEDIRECTORY', 'OM',
+        'TP', 'JM', 'DPI', 'GIS', 'LOC', 'CN', 'VER', 'RN', 'DIS', 'CG', 'SER', 'HREF', 'FWD', 'AUS', 'ENDIF',
+        'HWY', 'NAM', 'UNA', 'FT', 'SRC', 'AP', 'UTC', 'NH', 'QTY', 'BIO', 'VI', 'SB', 'SM', 'ZUS',
+        'FOTOS', 'HB', 'TC', 'MINS', 'OEM', 'POR', 'MEM', 'IDE', 'PD', 'WP', 'YRS',
+        'LYCOS', 'MINOLTA', 'MULTI', 'NANO', 'NIKON', 'POLY', 'RHODE', 'SALEM', 'SCOTIA',
+        'SOLARIS', 'TIFFANY', 'TRIVIA', 'TROY', 'XANAX', 'ANGELES', 'DAS',
+        'NI', 'DICKE', 'ELLIS', 'ENG', 'EPSON', 'FI', 'KLEIN', 'LANKA', 'LEXMARK',
+        'MACROMEDIA', 'MENS', 'TEX', 'ING', 'CHILDRENS'
 
-}
+    }
 
 def collection_to(file_name, items):
     with open(file_name, 'w', 'utf-8') as _file:
@@ -173,6 +178,7 @@ mistyped = {'&AMP': 'AND', '&TIMES': 'TIMES', u'*': 'STAR', u'&POUND;1': u'£', 
             "'": 'QUOTE', '%': 'PERCENT', '&FRAC12': 'HALF', '/': 'SLASH', 'CAF&EACUTE': 'CAFE'}
 
 if __name__ == '__main__':
-    vocabulary2()
+    # vocabulary2()
     # finds_multiples()
     # merge_entries()
+    resort()
