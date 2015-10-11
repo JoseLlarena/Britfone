@@ -59,19 +59,20 @@ def vocabulary(cmudict_seed=DIR + 'cmudict.ipa.csv', britfone_seed=SEED_FILE, fr
 
 # FOO 8070 was last
 def vocabulary2():
-    britfone = set(lines_from(SEED_FILE, lambda line: line.split(',')[0].split('(')[0].strip().upper()))
-    expansions = set(lines_from(EXPANSIONS_FILE, lambda line: line.split(',')[0].split('(')[0].strip().upper()))
+    britfone = set(lines_from(SEED_FILE, lambda line: line.split(',')[0].split('(')[0].strip()))
+    expansions = set(lines_from(EXPANSIONS_FILE, lambda line: line.split('\t')[0].strip()))
     extant = britfone | expansions
 
     frequency_sorted = lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())
+    # frequency_sorted = lines_from(DIR+'all.num', lambda line: re.split('\s+', line)[1].strip().upper())
 
     vocab, OOV = set(), set()
     c = 0
     for i, w in enumerate(frequency_sorted):
 
-        if w in google_ignore: continue
+        if w in google_ignore or w in bnc_ignore: continue
 
-        if (len(OOV) + len(extant)) >= 10000:
+        if (len(OOV) + len(extant)) >= 11000:
             c = i
             break
         if w not in extant:
@@ -82,7 +83,8 @@ def vocabulary2():
 
     print c, len(OOV), len(vocab), len(extant)
 
-    word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
+    # word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
+    word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
 
     word_to_sounds = defaultdict(set)
     for w, s in word_sound:
@@ -132,7 +134,7 @@ def spot_bad_characters(_file=EXPANSIONS_FILE):
 def linesx_from(file_name, pipe=lambda x: x, where=lambda count, line: True):
     lines = []
 
-    with open(file_name, 'r','utf-8') as f:
+    with open(file_name, 'r', 'utf-8') as f:
         c = 0
         for line in f:
             if where(c, line):
@@ -154,7 +156,7 @@ def expansions_not_in_britfone():
 
     for e in expansions:
         for chunk in e.split(' '):
-            if chunk not in  britfone:
+            if chunk not in britfone:
                 print chunk, ' ', e
 
 def merge_entries():
@@ -202,10 +204,22 @@ google_ignore = \
         'LYCOS', 'MINOLTA', 'MULTI', 'NANO', 'NIKON', 'POLY', 'RHODE', 'SALEM', 'SCOTIA',
         'SOLARIS', 'TIFFANY', 'TRIVIA', 'TROY', 'XANAX', 'ANGELES', 'DAS',
         'NI', 'DICKE', 'ELLIS', 'ENG', 'EPSON', 'FI', 'KLEIN', 'LANKA', 'LEXMARK',
-        'MACROMEDIA', 'MENS', 'TEX', 'ING', 'CHILDRENS'
+        'MACROMEDIA', 'MENS', 'TEX', 'ING', 'CHILDRENS','AB','ABU','AC','AG','AKA','ALA','ATA','ATM',
+        'BMW','BT','CBS','CC','CIA','DOW','DUI','FBI','FM','FS','GDP','GMBH','GPS','IO','IP','IRS','ISA',
+        'KA','LN','MBA','MC','MH','MTV','NBA','NBC','OG','PC','PHD','POS','PSI','RPM','SAO','SAS','SCI',
+        'SIE','UL','TY','VE','VP','VS','WS','XEROX','XML','YANG','ALOT',
+        'ALTO','AMD','CALVIN','CDS','CEO','CHAN','CHEN','CNN','DK','DVD','DVDS'
+        ,'EOS','HU','INS','ITALIA','ITALIANO','KO','LAS','LP','LS','MAI','MIT',
+        'NEXTEL','NFL','OT','PASO','PCS','PIX','PPM','ROSA','SMS','SPARC','TAHOE',
+        'TB','TS','URI','TULSA','ANAHEIM','BON','CARLO'
+        'CAS','CASA','CASEY','CLARA'
 
     }
 
+bnc_ignore = \
+    {
+        'BBC','DNA','HIV','IRA','K','PH','TH','USA','CD','DA','DC','SRI',"ONE'S",'PM'
+    }
 def collection_to(file_name, items):
     with open(file_name, 'w', 'utf-8') as _file:
         for item in items:
@@ -225,11 +239,11 @@ mistyped = {'&AMP': 'AND', '&TIMES': 'TIMES', u'*': 'STAR', u'&POUND;1': u'£', 
             "'": 'QUOTE', '%': 'PERCENT', '&FRAC12': 'HALF', '/': 'SLASH', 'CAF&EACUTE': 'CAFE'}
 
 if __name__ == '__main__':
-    # vocabulary2()
+    vocabulary2()
     # finds_multiples()
     # merge_entries()
     # resort()
     # reformat_csv()
     # reformat_tsv()
     # spot_bad_characters()
-    expansions_not_in_britfone()
+    # expansions_not_in_britfone()
