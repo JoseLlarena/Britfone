@@ -63,8 +63,8 @@ def vocabulary2():
     expansions = set(lines_from(EXPANSIONS_FILE, lambda line: line.split('\t')[0].strip()))
     extant = britfone | expansions
 
-    frequency_sorted = lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())
-    # frequency_sorted = lines_from(DIR+'all.num', lambda line: re.split('\s+', line)[1].strip().upper())
+    # frequency_sorted = lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())
+    frequency_sorted = lines_from(DIR+'all.num', lambda line: re.split('\s+', line)[1].strip().upper())
 
     vocab, OOV = set(), set()
     c = 0
@@ -83,8 +83,8 @@ def vocabulary2():
 
     print c, len(OOV), len(vocab), len(extant)
 
-    # word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
     word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
+    # word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
 
     word_to_sounds = defaultdict(set)
     for w, s in word_sound:
@@ -222,7 +222,9 @@ google_ignore = \
         'MAS', 'MAUI', 'MESA', 'METALLICA', 'MONTE', 'NEWARK', 'NEWFOUNDLAND',
         'PAC', 'PAS', 'PETERSON', 'PROZAC', 'REID', 'REYNOLDS', 'RICHARDSON',
         'ROBERTSON', 'SHAKIRA', 'SHANNON', 'SHERMAN', 'SMITHSONIAN', 'STAN',
-        'VERDE', 'VERNON', 'WALT', 'WHATS', 'WINSTON', 'YUKON'
+        'VERDE', 'VERNON', 'WALT', 'WHATS', 'WINSTON', 'YUKON','WANG','WU','PONTIAC','JESSE','DAT',
+        'CZECHOSLOVAKIA','HERBERT','ISABEL','LAMONT','PRESTON','ROBYN'
+
     }
 
 bnc_ignore = \
