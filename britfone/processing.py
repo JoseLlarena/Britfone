@@ -63,28 +63,29 @@ def vocabulary2():
     expansions = set(lines_from(EXPANSIONS_FILE, lambda line: line.split('\t')[0].strip()))
     extant = britfone | expansions
 
-    # frequency_sorted = lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())
-    frequency_sorted = lines_from(DIR+'all.num', lambda line: re.split('\s+', line)[1].strip().upper())
+    # frequency_sorted = lines_from(DIR+'all.num', lambda line: re.split('\s+', line)[1].strip().upper())
+    frequency_sorted = lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())
 
     vocab, OOV = set(), set()
     c = 0
     for i, w in enumerate(frequency_sorted):
 
         if w in google_ignore or w in bnc_ignore: continue
+        if re.match('^(\d+|.+_.+)$', w): continue
 
-        if (len(OOV) + len(extant)) >= 11000:
+        if (len(OOV) + len(extant)) >= 11050:
             c = i
             break
         if w not in extant:
-            # print i,' ' , w
+            print i,' ' , w
             OOV.add(w)
         else:
             vocab.add(w)
 
     print c, len(OOV), len(vocab), len(extant)
 
-    word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
-    # word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
+    # word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
+    word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
 
     word_to_sounds = defaultdict(set)
     for w, s in word_sound:
@@ -115,6 +116,7 @@ def resort(_file=None):
 
 def reformat_csv(_file=SEED_FILE):
     def tuplise(line):
+        # print line.strip()
         word, sound = line.split(',')
         return tuple(re.sub('\s+', ' ', word).strip()), tuple(re.sub('\s+', ' ', sound.strip()).split(' '))
 
@@ -223,7 +225,43 @@ google_ignore = \
         'PAC', 'PAS', 'PETERSON', 'PROZAC', 'REID', 'REYNOLDS', 'RICHARDSON',
         'ROBERTSON', 'SHAKIRA', 'SHANNON', 'SHERMAN', 'SMITHSONIAN', 'STAN',
         'VERDE', 'VERNON', 'WALT', 'WHATS', 'WINSTON', 'YUKON','WANG','WU','PONTIAC','JESSE','DAT',
-        'CZECHOSLOVAKIA','HERBERT','ISABEL','LAMONT','PRESTON','ROBYN'
+        'CZECHOSLOVAKIA','HERBERT','ISABEL','LAMONT','PRESTON','ROBYN',
+        'BELKIN','BETH','SINGH','KAI','UK','PHENTERMINE','IBM',
+        'SITEMAP','PUBMED','TRIPADVISOR', 'VERZEICHNIS','WEBLOG',
+        'EPINIONS','CONST','DONT','HOLDEM', 'SEXCAM','MILFHUNTER',
+        'BEASTIALITY', 'SHEMALE', 'TRACKBACK','ABC','LIVECAM','MEDLINE',
+        'DEBIAN','MP','POSTPOSTED','CIALIS','CITYSEARCH','TWIKI','CONFIG',
+        'WISHLIST','CUMSHOTS','NUTTEN','EMINEM','PLUGIN','DEALTIME',
+        'GAMECUBE','TRAMADOL','JELSOFT','SLIDESHOW', 'PLC','THATS','ASIN',
+        'EXPANSYS','FILENAME', 'PHPBB','UPSKIRTS','UTILS','VERIZON','SIGNUP',
+        'WORDPRESS','GAMESPOT','CFR','STARSMERCHANT','MYSPACE','LEVITRA',
+        'AMPLAND','SHOPZILLA','FREEBSD','THUMBZILLA','TRANSEXUALES',
+        'PICHUNTER', 'PROSTORES','ZOPE','DIY','SUSE','ADIPEX','KELKOO','THEHUN',
+        'TRANSEXUAL','IPAQ','NHS','DOD', 'VIEWPICTURE', 'ANDALE',
+        'TRACKBACKS','FINDLAW','GBA','BM','HOWTO',
+        'STR','SHEMALES','VIP','RJ','SOC','VOYEURWEB',
+        'LOGITECH','DEM','WAV','GRATUIT','RP','TBA',
+        'USGS','HC','RCA','FP','HYDROCODONE','GST','MAILTO',
+        'JJ','OBJ','DANS','METADATA','DEPT','DANS',
+        'RL','ERP','GL','UI','DH','VPN','FCC','EDS',
+        'DF','ZSHOPS','ACDBENTITY','AMBIEN','WORLDCAT',
+        'CDT','EZ','PF','UW','BD','BANGBUS','EVAL',
+        'MUZE','GMC','HH','ADSL','FD','ASN','LISTPRICE',
+        'LIBS','PK','SAGEM','KNOWLEDGESTORM','INF',
+        'VCR','PCT','WB','SN','QLD','FINDARTICLES','ISSN','BLAKE',
+        'MYSIMON','OECD','HANSEN','WOMENS','CUMSHOT','BIZRATE','PLUGINS',
+        'WEBLOGS','FIREWIRE','MODS','VSNET','MSIE','WN','CCD','SV','ZU',
+        'LLP','BOC','DG','ASUS','TECHREPUBLIC','VG','FILME','FO','TMP','OL',
+        'JS','PN','NVIDIA','INCL','HQ','PROPECIA','WT','MV','CARB','CIO','RUNTIME','DSC',
+        'RB','UPC','KINASE','PVC','FEOF','USDA','URLS','ENB','GG','INVISION',
+        'EMACS','WTO','WW','GD','BASENAME','BW','MJ','CINGULAR','LF','BUFING',
+        'WC','SBJCT','HK','POWERSELLER','CJ','NAMESPACE','CHANGELOG','QC',
+        'PGP','TF','PJ','CW','WR','FIORICET','RG','BL','VC','WX','FRONTPAGE',
+        'PAXIL','NTSC','APNIC','USPS','BG','SEQ','CONF','WMA','CIR',
+        'LOOKSMART','ACM','KW','IPS','GTK','VOYUER','GARMIN','RICHARDS','MRNA','TIONS','QT',
+        'CDNA','MEYER','SOA','LU','BEASTALITY','MICHEL','NOTRE','KIRK','CHO','BOOL','IND','BBS','QUI',
+        'ULTRAM','ZOLOFT','CZ','HL','OB','IDG','CTRL','ROBBIE','NEWMAN','INTL','SLR','VAIO','RFID','IDS',
+        'WUKET','JOHNSTON','MEDIAWIKI','LM','SMTP','SEN','DTS'
 
     }
 
@@ -254,7 +292,7 @@ if __name__ == '__main__':
     vocabulary2()
     # finds_multiples()
     # merge_entries()
-    # resort()
+    # resort(SEED_FILE)
     # reformat_csv()
     # reformat_tsv()
     # spot_bad_characters()
