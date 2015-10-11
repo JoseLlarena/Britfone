@@ -204,22 +204,32 @@ google_ignore = \
         'LYCOS', 'MINOLTA', 'MULTI', 'NANO', 'NIKON', 'POLY', 'RHODE', 'SALEM', 'SCOTIA',
         'SOLARIS', 'TIFFANY', 'TRIVIA', 'TROY', 'XANAX', 'ANGELES', 'DAS',
         'NI', 'DICKE', 'ELLIS', 'ENG', 'EPSON', 'FI', 'KLEIN', 'LANKA', 'LEXMARK',
-        'MACROMEDIA', 'MENS', 'TEX', 'ING', 'CHILDRENS','AB','ABU','AC','AG','AKA','ALA','ATA','ATM',
-        'BMW','BT','CBS','CC','CIA','DOW','DUI','FBI','FM','FS','GDP','GMBH','GPS','IO','IP','IRS','ISA',
-        'KA','LN','MBA','MC','MH','MTV','NBA','NBC','OG','PC','PHD','POS','PSI','RPM','SAO','SAS','SCI',
-        'SIE','UL','TY','VE','VP','VS','WS','XEROX','XML','YANG','ALOT',
-        'ALTO','AMD','CALVIN','CDS','CEO','CHAN','CHEN','CNN','DK','DVD','DVDS'
-        ,'EOS','HU','INS','ITALIA','ITALIANO','KO','LAS','LP','LS','MAI','MIT',
-        'NEXTEL','NFL','OT','PASO','PCS','PIX','PPM','ROSA','SMS','SPARC','TAHOE',
-        'TB','TS','URI','TULSA','ANAHEIM','BON','CARLO'
-        'CAS','CASA','CASEY','CLARA'
-
+        'MACROMEDIA', 'MENS', 'TEX', 'ING', 'CHILDRENS', 'AB', 'ABU', 'AC', 'AG', 'AKA', 'ALA', 'ATA', 'ATM',
+        'BMW', 'BT', 'CBS', 'CC', 'CIA', 'DOW', 'DUI', 'FBI', 'FM', 'FS', 'GDP', 'GMBH', 'GPS', 'IO', 'IP', 'IRS',
+        'KA', 'LN', 'MBA', 'MC', 'MH', 'MTV', 'NBA', 'NBC', 'OG', 'PC', 'PHD', 'POS', 'PSI', 'RPM', 'SAO', 'SAS', 'SCI',
+        'SIE', 'UL', 'TY', 'VE', 'VP', 'VS', 'WS', 'XEROX', 'XML', 'YANG', 'ALOT',
+        'ALTO', 'AMD', 'CALVIN', 'CDS', 'CEO', 'CHAN', 'CHEN', 'CNN', 'DK', 'DVD', 'DVDS',
+        'EOS', 'HU', 'INS', 'ITALIA', 'ITALIANO', 'KO', 'LAS', 'LP', 'LS', 'MAI', 'MIT',
+        'NEXTEL', 'NFL', 'OT', 'PASO', 'PCS', 'PIX', 'PPM', 'ROSA', 'SMS', 'SPARC', 'TAHOE',
+        'TB', 'TS', 'URI', 'TULSA', 'ANAHEIM', 'BON', 'CARLO',
+        'ISA', 'CAS', 'CASA', 'CASEY', 'CLARA', 'CORNELL', 'CREST', 'CURTIS',
+        'DANA', 'DEUTSCHE',
+        'DEUTSCHLAND', 'DOM', 'EAU', 'EDMONTON', 'FAIRFIELD', 'GARCIA', 'GREENE',
+        'GREENSBORO', 'GRENADA', 'GRIFFIN', 'HANS', 'HARLEY', 'HARPER', 'HARTFORD',
+        'KENNY', 'KENO', 'KRUGER', 'LAFAYETTE',
+        'LAUDERDALE', 'LEON', 'LEONE',
+        'LEU', 'LEXINGTON', 'LEXUS', 'LOGAN', 'LOLITA', 'LUIS', 'MARDI', 'MARCO',
+        'MAS', 'MAUI', 'MESA', 'METALLICA', 'MONTE', 'NEWARK', 'NEWFOUNDLAND',
+        'PAC', 'PAS', 'PETERSON', 'PROZAC', 'REID', 'REYNOLDS', 'RICHARDSON',
+        'ROBERTSON', 'SHAKIRA', 'SHANNON', 'SHERMAN', 'SMITHSONIAN', 'STAN',
+        'VERDE', 'VERNON', 'WALT', 'WHATS', 'WINSTON', 'YUKON'
     }
 
 bnc_ignore = \
     {
-        'BBC','DNA','HIV','IRA','K','PH','TH','USA','CD','DA','DC','SRI',"ONE'S",'PM'
+        'BBC', 'DNA', 'HIV', 'IRA', 'K', 'PH', 'TH', 'USA', 'CD', 'DA', 'DC', 'SRI', "ONE'S", 'PM'
     }
+
 def collection_to(file_name, items):
     with open(file_name, 'w', 'utf-8') as _file:
         for item in items:
