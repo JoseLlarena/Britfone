@@ -123,7 +123,7 @@ def reformat_csv(_file=SEED_FILE):
     word_sound = tup_from(_file, tuplise).map(lambda (w, s): '%s, %s' % (''.join(w), ' '.join(s)))
     collection_to(SEED_FILE, word_sound)
 
-def spot_bad_characters(_file=EXPANSIONS_FILE):
+def spot_bad_characters(_file=SEED_FILE):
     lines = linesx_from(_file, lambda c: c.strip())
     chars = []
 
@@ -237,7 +237,7 @@ google_ignore = \
         'WORDPRESS','GAMESPOT','CFR','STARSMERCHANT','MYSPACE','LEVITRA',
         'AMPLAND','SHOPZILLA','FREEBSD','THUMBZILLA','TRANSEXUALES',
         'PICHUNTER', 'PROSTORES','ZOPE','DIY','SUSE','ADIPEX','KELKOO','THEHUN',
-        'TRANSEXUAL','IPAQ','NHS','DOD', 'VIEWPICTURE', 'ANDALE',
+         'IPAQ','NHS','DOD', 'VIEWPICTURE', 'ANDALE',
         'TRACKBACKS','FINDLAW','GBA','BM','HOWTO',
         'STR','SHEMALES','VIP','RJ','SOC','VOYEURWEB',
         'LOGITECH','DEM','WAV','GRATUIT','RP','TBA',
@@ -289,8 +289,8 @@ mistyped = {'&AMP': 'AND', '&TIMES': 'TIMES', u'*': 'STAR', u'&POUND;1': u'£', 
             "'": 'QUOTE', '%': 'PERCENT', '&FRAC12': 'HALF', '/': 'SLASH', 'CAF&EACUTE': 'CAFE'}
 
 if __name__ == '__main__':
-    vocabulary2()
-    # finds_multiples()
+    # vocabulary2()
+    finds_multiples()
     # merge_entries()
     # resort(SEED_FILE)
     # reformat_csv()
