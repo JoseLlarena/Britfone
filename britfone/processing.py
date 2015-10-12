@@ -2,9 +2,8 @@
 from collections import defaultdict, Counter
 import re
 from codecs import open
-from lingoist.core import prints
 
-from lingoist.core.io import SPACES_REGEX, tup_from, lines_from, line_to_word_sound
+from lingoist.core.io import SPACES_REGEX, tup_from, lines_from
 
 DIR = 'C:/Users/Jose/project-workspace/britphone/'
 FREQ_FILE, VOCAB_FILE, SEED_FILE = DIR + 'count_1w.txt', DIR + 'vocabulary.txt', DIR + 'britfone.0.1.0.main.csv'
@@ -63,18 +62,16 @@ def vocabulary2():
     expansions = set(lines_from(EXPANSIONS_FILE, lambda line: line.split('\t')[0].strip()))
     extant = britfone | expansions
 
-    # frequency_sorted = lines_from(DIR+'all.num', lambda line: re.split('\s+', line)[1].strip().upper())
-    frequency_sorted = lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())
-
+    frequency_sorted = lines_from(DIR+'all.num', lambda line: re.split('\s+', line)[1].strip().upper())
+    # frequency_sorted = lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())
     vocab, OOV = set(), set()
     c = 0
     for i, w in enumerate(frequency_sorted):
-
+        c = i
         if w in google_ignore or w in bnc_ignore: continue
-        if re.match('^(\d+|.+_.+)$', w): continue
+        if re.match('^(\d+(,\d{3})?%?|.+_.+|&.+|2?1ST|2ND|3RD|\d{1,3}TH|19\d0S)$', w): continue
 
-        if (len(OOV) + len(extant)) >= 11050:
-            c = i
+        if (len(OOV) + len(extant)) >= 11300:
             break
         if w not in extant:
             print i,' ' , w
@@ -84,8 +81,8 @@ def vocabulary2():
 
     print c, len(OOV), len(vocab), len(extant)
 
-    # word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
-    word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
+    # word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
+    word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
 
     word_to_sounds = defaultdict(set)
     for w, s in word_sound:
@@ -261,13 +258,20 @@ google_ignore = \
         'LOOKSMART','ACM','KW','IPS','GTK','VOYUER','GARMIN','RICHARDS','MRNA','TIONS','QT',
         'CDNA','MEYER','SOA','LU','BEASTALITY','MICHEL','NOTRE','KIRK','CHO','BOOL','IND','BBS','QUI',
         'ULTRAM','ZOLOFT','CZ','HL','OB','IDG','CTRL','ROBBIE','NEWMAN','INTL','SLR','VAIO','RFID','IDS',
-        'WUKET','JOHNSTON','MEDIAWIKI','LM','SMTP','SEN','DTS'
+        'WUKET','JOHNSTON','MEDIAWIKI','LM','SMTP','SEN','DTS',
+        'CARMEN','MORRISON','MYRTLE','ROLAND','WEBSTER','TELECHARGER','HUGO','WAGNER',
+        'KEYNES','GAULLE','MUCOSA','HEWLETT-PACKARD',
+        'EMAILINC','EEC','CLAUDIA','DOYLE','FRANCO',
+        'GOULD','MACMILLAN'
+
 
     }
 
 bnc_ignore = \
     {
-        'BBC', 'DNA', 'HIV', 'IRA', 'K', 'PH', 'TH', 'USA', 'CD', 'DA', 'DC', 'SRI', "ONE'S", 'PM'
+        'BBC', 'DNA', 'HIV', 'IRA', 'K', 'PH', 'TH', 'USA', 'CD', 'DA', 'DC', 'SRI', "ONE'S", 'PM',
+        "N'T", 'ERM','GON','MPS','USSR','AND/OR',"D'",'Q.V.','GEN.','REAGAN','ICI',
+        'TWO-THIRDS','TWENTY-FIVE'
     }
 
 def collection_to(file_name, items):
