@@ -36,10 +36,24 @@ def unmerge_j(sound):
 def unmerge_all_js():
     britfone = tup_from(SEED_FILE, line_to_word_sound)
 
+    unmerged = []
     for w, s in britfone:
-        print '%s' % ' '.join(unmerge_j(s))
+        unmerged.append('%s, %s' % (''.join(w), ' '.join(unmerge_j(s))))
 
+    collection_to(SEED_FILE,unmerged)
 
+def split_diphthongs(sound):
+    split_ = []
+
+    for phoneme in sound:
+        if (len(phoneme) == 3 and u'ː' not in phoneme) or \
+                (len(phoneme) == 2 and phoneme[-1] in {u'ʊ', u'ɪ', u'ə'} and phoneme[0] not in {u'ˌ', u'ˈ'}):
+            split_.append(phoneme[:-1])
+            split_.append(phoneme[-1])
+        else:
+            split_.append(phoneme)
+
+    return Tup(split_)
 def find_suspect_alignments(data=SEED_FILE):
     sounds_words = tup_from(data, lambda line: line_to_word_sound(re.sub('\d+|\(|\)', '', line))).map(lambda (w, s): (s, w)) >> set > Tup
     cost_fn, aligned = estimate_cost_fn(sounds_words, None, uniform_alignment(sounds_words))
