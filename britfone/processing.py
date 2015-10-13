@@ -38,23 +38,23 @@ def unmerge_all_js():
 
     unmerged = []
     for w, s in britfone:
-        unmerged.append('%s, %s' % (''.join(w), ' '.join(unmerge_j(s))))
+        unmerged.append('%s, %s' % (''.join(w), ' '.join(split_schwa_diphthongs(s))))
+        # print unmerged.pop()
 
-    collection_to(SEED_FILE,unmerged)
+    collection_to(SEED_FILE+'x',unmerged)
 
-def split_diphthongs(sound):
+def split_schwa_diphthongs(sound):
     split_ = []
 
     for phoneme in sound:
-        if (len(phoneme) == 3 and u'ː' not in phoneme) or \
-                (len(phoneme) == 2 and phoneme[-1] in {u'ʊ', u'ɪ', u'ə'} and phoneme[0] not in {u'ˌ', u'ˈ'}):
+        if len(phoneme) in{ 2,3} and  phoneme[-1] == u'ə':
             split_.append(phoneme[:-1])
             split_.append(phoneme[-1])
         else:
             split_.append(phoneme)
 
     return Tup(split_)
-def find_suspect_alignments(data=SEED_FILE):
+def find_suspect_alignments(data=SEED_FILE+'x'):
     sounds_words = tup_from(data, lambda line: line_to_word_sound(re.sub('\d+|\(|\)', '', line))).map(lambda (w, s): (s, w)) >> set > Tup
     cost_fn, aligned = estimate_cost_fn(sounds_words, None, uniform_alignment(sounds_words))
 
@@ -390,5 +390,5 @@ if __name__ == '__main__':
     # spot_bad_characters()
     # expansions_not_in_britfone()
     # check_unlikely()
-    # find_suspect_alignments()
-    unmerge_all_js()
+    find_suspect_alignments()
+    # unmerge_all_js()
