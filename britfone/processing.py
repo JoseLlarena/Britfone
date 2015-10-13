@@ -61,28 +61,36 @@ def vocabulary2():
     britfone = set(lines_from(SEED_FILE, lambda line: line.split(',')[0].split('(')[0].strip()))
     expansions = set(lines_from(EXPANSIONS_FILE, lambda line: line.split('\t')[0].strip()))
     extant = britfone | expansions
+    print len(extant)
 
-    frequency_sorted = lines_from(DIR + 'all.num', lambda line: re.split('\s+', line)[1].strip().upper())
+    # frequency_sorted = lines_from(DIR + 'all.num', lambda line: re.split('\s+', line)[1].strip().upper())
     # frequency_sorted = lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())
+    # frequency_sorted = lines_from(DIR+'wikipedia.csv', lambda line: re.split('\s+',line)[1].strip().upper())
+    frequency_sorted = lines_from(DIR + 'en.txt', lambda line: re.split('\s+', line)[0].strip().upper())
     vocab, OOV = set(), set()
     c = 0
     for i, w in enumerate(frequency_sorted):
         c = i
         if w in google_ignore or w in bnc_ignore: continue
-        if re.match('^(\d+(,\d{3})?%?|.+_.+|&.+|2?1ST|2ND|3RD|\d{1,3}TH|19\d0S)$', w): continue
-
+        if re.match('^(\d+(,\d{3})?%?|&.+|2?1ST|2ND|3RD|\d{1,3}TH|19\d0S|.+\'.+)$', w): continue
         if i > 10000:
             break
-        if w not in extant:
+
+        if w not in extant and '_' not in w:
             print i, ' ', w
             OOV.add(w)
+        elif u'_' in w:
+            for which in w.split('_'):
+                if which not in extant:
+                    print i, ' ', w
+                    OOV.add(w)
         else:
             vocab.add(w)
 
     print c, len(OOV), len(vocab), len(extant)
 
-    word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
-    # word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
+    # word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
+    word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
 
     word_to_sounds = defaultdict(set)
     for w, s in word_sound:
@@ -93,6 +101,30 @@ def vocabulary2():
         for s in word_to_sounds[w]:
             print '%s, %s' % (w, s)
             f.write('%s, %s\n' % (w, s.decode('utf-8')))
+
+def checks_for_missing():
+    britfone = set(lines_from(SEED_FILE, lambda line: line.split(',')[0].split('(')[0].strip()))
+    expansions = set(lines_from(EXPANSIONS_FILE, lambda line: line.split('\t')[0].strip()))
+    extant = britfone | expansions
+
+    bnc = set(lines_from(DIR + 'all.num', lambda line: re.split('\s+', line)[1].strip().upper())[:10000])
+    google = set(lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())[:10000])
+    freqs = bnc | google
+
+    vocab, OOV = set(), set()
+    # for i, w in enumerate(freqs):
+    #     if re.match('^(\d+(,\d{3})?%?|.+_.+|&.+|2?1ST|2ND|3RD|\d{1,3}TH|19\d0S)$', w): continue
+    #     if w not in extant:
+    #         OOV.add(w)
+
+    for i, w in enumerate(extant):
+        if w not in freqs:
+            OOV.add(w)
+
+    for w in sorted(OOV):
+        print w
+
+    print len(OOV)
 
 def finds_multiples():
     word_sound = lines_from(SEED_FILE, lambda line: [col.strip() for col in line.split(',')])
@@ -212,7 +244,7 @@ google_ignore = \
         'PAC', 'PAS', 'PETERSON', 'PROZAC', 'REID', 'REYNOLDS', 'RICHARDSON',
         'ROBERTSON', 'SHAKIRA', 'SHANNON', 'SHERMAN', 'SMITHSONIAN', 'STAN',
         'VERDE', 'VERNON', 'WALT', 'WHATS', 'WINSTON', 'YUKON', 'WANG', 'WU', 'PONTIAC', 'JESSE', 'DAT',
-        'CZECHOSLOVAKIA', 'HERBERT', 'ISABEL', 'LAMONT',  'ROBYN',
+        'CZECHOSLOVAKIA', 'HERBERT', 'ISABEL', 'LAMONT', 'ROBYN',
         'BELKIN', 'BETH', 'SINGH', 'KAI', 'UK', 'PHENTERMINE', 'IBM',
         'SITEMAP', 'PUBMED', 'TRIPADVISOR', 'VERZEICHNIS', 'WEBLOG',
         'EPINIONS', 'CONST', 'DONT', 'HOLDEM', 'SEXCAM', 'MILFHUNTER',
@@ -290,11 +322,11 @@ mistyped = {'&AMP': 'AND', '&TIMES': 'TIMES', u'*': 'STAR', u'&POUND;1': u'£', 
             "'": 'QUOTE', '%': 'PERCENT', '&FRAC12': 'HALF', '/': 'SLASH', 'CAF&EACUTE': 'CAFE'}
 
 if __name__ == '__main__':
+    # checks_for_missing()
     # vocabulary2()
-    finds_multiples()
-    # merge_entries()
+    # finds_multiples()
     # resort(SEED_FILE)
     # reformat_csv()
     # reformat_tsv()
-    # spot_bad_characters()
+    spot_bad_characters()
     # expansions_not_in_britfone()
