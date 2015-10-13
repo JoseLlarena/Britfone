@@ -5,7 +5,7 @@ import re
 from codecs import open
 from lingoist.core.Tup import Tup
 from lingoist.fuzzy import alignment
-from lingoist.core.io import SPACES_REGEX, tup_from, lines_from, line_to_word_sound
+from lingoist.core.io import SPACES_REGEX, tup_from, lines_from, line_to_word_sound, spaced_to_tuple
 from lingoist.prob import markov_chain
 from lingoist.sequence_metrics import logmarginal
 from britfone.align import uniform_alignment, estimate_cost_fn, order_biased
@@ -23,6 +23,22 @@ def check_unlikely():
 
     for w, s, lik in seqs.map(lambda (w, s): (w, s, logmarginal(w, mc, order))).sorted(lambda (w, s, lik): lik):
         print '%-20.20s %-20.20s %3.3f' % (''.join(w), ''.join(s), lik)
+
+def unmerge_j(sound):
+    spaced = ' '.join(sound)
+
+    primary_stressed = re.sub(u'[ˈ]j', u' j ˈ', spaced)
+    secondary_stress = re.sub(u'[ˌ]j', u' j ˌ', primary_stressed)
+    unstressed = re.sub(u'(?=j[ʊu])j', u' j ', secondary_stress)
+
+    return spaced_to_tuple(unstressed)
+
+def unmerge_all_js():
+    britfone = tup_from(SEED_FILE, line_to_word_sound)
+
+    for w, s in britfone:
+        print '%s' % ' '.join(unmerge_j(s))
+
 
 def find_suspect_alignments(data=SEED_FILE):
     sounds_words = tup_from(data, lambda line: line_to_word_sound(re.sub('\d+|\(|\)', '', line))).map(lambda (w, s): (s, w)) >> set > Tup
@@ -189,7 +205,7 @@ def spot_bad_characters(_file=SEED_FILE):
     chars = []
 
     for line in lines:
-        for char in line:
+        for char in re.split('\s+',line):
             chars.append(char)
     for ch, c in Counter(chars).most_common():
         print '%s = %s' % (ch, c)
@@ -360,4 +376,5 @@ if __name__ == '__main__':
     # spot_bad_characters()
     # expansions_not_in_britfone()
     # check_unlikely()
-    find_suspect_alignments()
+    # find_suspect_alignments()
+    unmerge_all_js()
