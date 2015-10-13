@@ -322,11 +322,11 @@ mistyped = {'&AMP': 'AND', '&TIMES': 'TIMES', u'*': 'STAR', u'&POUND;1': u'£', 
             "'": 'QUOTE', '%': 'PERCENT', '&FRAC12': 'HALF', '/': 'SLASH', 'CAF&EACUTE': 'CAFE'}
 
 if __name__ == '__main__':
-    # checks_for_missing()
+    checks_for_missing()
     # vocabulary2()
     # finds_multiples()
     # resort(SEED_FILE)
     # reformat_csv()
     # reformat_tsv()
-    spot_bad_characters()
+    # spot_bad_characters()
     # expansions_not_in_britfone()
