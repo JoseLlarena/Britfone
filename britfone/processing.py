@@ -1,12 +1,14 @@
 # -*- coding: utf-8 -*-
 from collections import defaultdict, Counter
+from functools import partial
 import re
 from codecs import open
 from lingoist.core.Tup import Tup
-
+from lingoist.fuzzy import alignment
 from lingoist.core.io import SPACES_REGEX, tup_from, lines_from, line_to_word_sound
 from lingoist.prob import markov_chain
 from lingoist.sequence_metrics import logmarginal
+from britfone.align import uniform_alignment, estimate_cost_fn, order_biased
 
 DIR = 'C:/Users/Jose/project-workspace/britphone/'
 FREQ_FILE, VOCAB_FILE, SEED_FILE = DIR + 'count_1w.txt', DIR + 'vocabulary.txt', DIR + 'britfone.0.1.0.main.csv'
@@ -21,6 +23,22 @@ def check_unlikely():
 
     for w, s, lik in seqs.map(lambda (w, s): (w, s, logmarginal(w, mc, order))).sorted(lambda (w, s, lik): lik):
         print '%-20.20s %-20.20s %3.3f' % (''.join(w), ''.join(s), lik)
+
+def find_suspect_alignments(data=SEED_FILE):
+    sounds_words = tup_from(data, lambda line: line_to_word_sound(re.sub('\d+|\(|\)', '', line))).map(lambda (w, s): (s, w)) >> set > Tup
+    cost_fn, aligned = estimate_cost_fn(sounds_words, None, uniform_alignment(sounds_words))
+
+    ob = order_biased(alignment.edit_with_sim)
+    align_fn = lambda (s, w): ob(s, w, cost_fn)
+    # .where(lambda (s, w, sim): sim >= .7) \
+    count = 0
+    for sound, word, d in sounds_words \
+            .map(align_fn) \
+            .sorted(lambda (s, w, sim): sim):
+        count += 1
+        print '%-20.20s %-20.20s %3.3f' % (''.join(word), ''.join(sound), d)
+
+    print count
 
 def vocabulary(cmudict_seed=DIR + 'cmudict.ipa.csv', britfone_seed=SEED_FILE, frequency_list=FREQ_FILE,
                vocabulary=VOCAB_FILE):
@@ -92,14 +110,14 @@ def vocabulary2():
         OOV.add(w)
         if w not in extant and '_' not in w:
             print i, ' ', w
-        #     OOV.add(w)
-        # elif u'_' in w:
-        #     for which in w.split('_'):
-        #         if which not in extant:
-        #             print i, ' ', w
-        #             OOV.add(w)
-        # else:
-        #     vocab.add(w)
+            #     OOV.add(w)
+            # elif u'_' in w:
+            #     for which in w.split('_'):
+            #         if which not in extant:
+            #             print i, ' ', w
+            #             OOV.add(w)
+            # else:
+            #     vocab.add(w)
 
     print c, len(OOV), len(vocab), len(extant)
 
@@ -342,3 +360,4 @@ if __name__ == '__main__':
     # spot_bad_characters()
     # expansions_not_in_britfone()
     # check_unlikely()
+    find_suspect_alignments()
