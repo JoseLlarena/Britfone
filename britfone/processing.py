@@ -78,38 +78,39 @@ def vocabulary2():
     # frequency_sorted = lines_from(DIR + 'all.num', lambda line: re.split('\s+', line)[1].strip().upper())
     # frequency_sorted = lines_from(FREQ_FILE, lambda line: line.split('\t')[0].strip().upper())
     # frequency_sorted = lines_from(DIR+'wikipedia.csv', lambda line: re.split('\s+',line)[1].strip().upper())
-    frequency_sorted = lines_from(DIR + 'en.txt', lambda line: re.split('\s+', line)[0].strip().upper())
+    # frequency_sorted = lines_from(DIR + 'en.txt', lambda line: re.split('\s+', line)[0].strip().upper())
+    frequency_sorted = lines_from(DIR + 'new_vocab.csv', lambda line: re.split('\s+', line)[0].strip().upper())
     vocab, OOV = set(), set()
     c = 0
     for i, w in enumerate(frequency_sorted):
         c = i
-        if w in google_ignore or w in bnc_ignore: continue
-        if re.match('^(\d+(,\d{3})?%?|&.+|2?1ST|2ND|3RD|\d{1,3}TH|19\d0S|.+\'.+)$', w): continue
-        if (i < 5000): continue
-        if (i > 10000):
-            break
-
+        # if w in google_ignore or w in bnc_ignore: continue
+        # if re.match('^(\d+(,\d{3})?%?|&.+|2?1ST|2ND|3RD|\d{1,3}TH|19\d0S)$', w): continue
+        # if (i < 5000): continue
+        # if (i > 10000):
+        #     break
+        OOV.add(w)
         if w not in extant and '_' not in w:
             print i, ' ', w
-            OOV.add(w)
-        elif u'_' in w:
-            for which in w.split('_'):
-                if which not in extant:
-                    print i, ' ', w
-                    OOV.add(w)
-        else:
-            vocab.add(w)
+        #     OOV.add(w)
+        # elif u'_' in w:
+        #     for which in w.split('_'):
+        #         if which not in extant:
+        #             print i, ' ', w
+        #             OOV.add(w)
+        # else:
+        #     vocab.add(w)
 
     print c, len(OOV), len(vocab), len(extant)
 
-    # word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
-    word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
+    word_sound = lines_from(DIR + 'cmudict.ipa.csv', lambda line: [col.strip() for col in line.split(',')])
+    # word_sound = lines_from(GUESSED, lambda line: [col.strip() for col in line.split(',')])
 
     word_to_sounds = defaultdict(set)
     for w, s in word_sound:
         word_to_sounds[w].add(s)
 
-    f = open(DIR + 'new_vocab.csv', 'w', 'utf-8')
+    f = open(DIR + 'xxxnew_vocab.csv', 'w', 'utf-8')
     for w in sorted(OOV):
         for s in word_to_sounds[w]:
             print '%s, %s' % (w, s)
@@ -335,9 +336,9 @@ if __name__ == '__main__':
     # checks_for_missing()
     # vocabulary2()
     # finds_multiples()
-    # resort(SEED_FILE)
+    # resort(EXPANSIONS_FILE)
     # reformat_csv()
     # reformat_tsv()
-    spot_bad_characters()
+    # spot_bad_characters()
     # expansions_not_in_britfone()
     # check_unlikely()

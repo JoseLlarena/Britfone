@@ -1,5 +1,14 @@
+'D(1), d
+'D(2), ə d
 'EM, ə m
+'LL(1), l
+'LL(2), ə l
 'M, ə m
+'RE, ə
+'S(1), z
+'S(2), s
+'VE(1), v
+'VE(2), əv
 A'S, ˈeɪ z
 A(1), ə
 A(2), ˈeɪ
@@ -285,6 +294,7 @@ AIM, ˈeɪ m
 AIMED, ˈeɪ m d
 AIMING, ˈeɪ m ɪ ŋ
 AIMS, ˈeɪ m z
+AIN'T, ˈeɪ n t
 AIR, ˈɛə
 AIRCRAFT, ˈɛə k ɹ ˌɑː f t
 AIRFARE, ˈɛə f ˌɛə
@@ -631,6 +641,7 @@ ARE(1), ə
 ARE(2), ˈɑː
 AREA, ˈɛə ɹ ɪə
 AREAS, ˈɛə ɹ ɪə z
+AREN'T, ˈɑː n t
 ARENA, ə ɹ ˈiː n ə
 ARGENTINA, ˌɑː dʒ ə n t ˈiː n ə
 ARGUE, ˈɑː g juː
@@ -1630,6 +1641,7 @@ CAMPING, k ˈæ m p ɪ ŋ
 CAMPS, k ˈæ m p s
 CAMPUS, k ˈæ m p ə s
 CAMS, k ˈæ m z
+CAN'T, k ˈɑː n t
 CAN(1), k ə n
 CAN(2), k ˈæ n
 CANADA, k ˈæ n ə d ə
@@ -2666,6 +2678,7 @@ COUGH, k ˈɒ f
 COUGHING, k ˈɒ f ɪ ŋ
 COUGHS, k ˈɒ f s
 COULD, k ˈʊ d
+COULDN'T, k ˈʊ d ə n t
 COUNCIL, k ˈaʊ n s ə l
 COUNCILLOR(1), k ˈaʊ n s l ə
 COUNCILLOR(2), k ˈaʊ n s ə l ə
@@ -3222,6 +3235,7 @@ DICTIONARIES, d ˈɪ k ʃ ə n ə ɹ iː z
 DICTIONARY, d ˈɪ k ʃ ə n ə ɹ iː
 DID(1), d ɪ d
 DID(2), d ˈɪ d
+DIDN'T, d ˈɪ d n t
 DIE, d ˈaɪ
 DIED, d ˈaɪ d
 DIEGO, d ɪ ˈeɪ g əʊ
@@ -3420,6 +3434,7 @@ DOE, d ˈəʊ
 DOES(1), d ə z
 DOES(2), d ˈɐ z
 DOES(3), d ˈəʊ z
+DOESN'T, d ˈɐ z ə n t
 DOG, d ˈɒ g
 DOGGY, d ˈɒ g iː
 DOGS, d ˈɒ g z
@@ -3441,6 +3456,7 @@ DOMINANT, d ˈɒ m ɪ n ə n t
 DOMINATED, d ˈɒ m ɪ n ˌeɪ t ɪ d
 DOMINATION, d ˌɒ m ɪ n ˈeɪ ʃ ə n
 DOMINICAN, d ə m ˈɪ n ɪ k ə n
+DON'T, d ˈəʊ n t
 DON, d ˈɒ n
 DONALD, d ˈɒ n ə l d
 DONATE, d ˈəʊ n ˌeɪ t
@@ -5119,7 +5135,9 @@ HABITS, h ˈæ b ɪ t s
 HACK, h ˈæ k
 HACKER, h ˈæ k ə
 HACKNEY, h ˈæ k n iː
-HAD, h ˈæ d
+HAD(1), h ə d
+HAD(2), h ˈæ d
+HADN'T, h ˈæ d ə n t
 HAIL, h ˈeɪ l
 HAIR, h ˈɛə
 HAIRCUT, h ˈɛə k ˌɐ t
@@ -5210,6 +5228,7 @@ HARVEY, h ˈɑː v iː
 HAS(1), h ə z
 HAS(2), h ˈæ z
 HASH, h ˈæ ʃ
+HASN'T, h ˈæ z ə n t
 HASSLE, h ˈæ s ə l
 HASTILY, h ˈeɪ s t ɪ l iː
 HASTINGS, h ˈeɪ s t ɪ ŋ z
@@ -5221,6 +5240,7 @@ HATRED, h ˈeɪ t ɹ ɪ d
 HATS, h ˈæ t s
 HAVE(1), h ə v
 HAVE(2), h ˈæ v
+HAVEN'T, h ˈæ v ə n t
 HAVEN, h ˈeɪ v ə n
 HAVERING, h ˈeɪ v ə ɹ ɪ ŋ
 HAVING, h ˈæ v ɪ ŋ
@@ -5992,6 +6012,8 @@ ISLAND, ˈaɪ l ə n d
 ISLANDS, ˈaɪ l ə n d z
 ISLE, ˈaɪ l
 ISLINGTON, ˈɪ z l ɪ ŋ t ə n
+ISN'T(1), ɪ z ə n t
+ISN'T(2), ˈɪ z ə n t
 ISOLATED, ˈaɪ s ə l ˌeɪ t ɪ d
 ISOLATION, ˌaɪ s ə l ˈeɪ ʃ ə n
 ISRAEL(1), ˈɪ z ɹ eɪ l
@@ -6743,6 +6765,7 @@ LYNDA, l ˈɪ n d ə
 LYNN, l ˈɪ n
 LYRIC, l ˈɪ ɹ ɪ k
 LYRICS, l ˈɪ ɹ ɪ k s
+MA'AM, m ˈæ m
 MAC, m ˈæ k
 MACDONALD, m ə k d ˈɒ n ə l d
 MACEDONIA, m ˌæ s ɪ d ˈəʊ n ɪə
@@ -7106,6 +7129,7 @@ MIDLOTHIAN, m ɪ d l ˈəʊ ð ɪə n
 MIDNIGHT, m ˈɪ d n ˌaɪ t
 MIDWEST, m ˌɪ d w ˈɛ s t
 MIGHT, m ˈaɪ t
+MIGHTN'T, m ˈaɪ t ə n t
 MIGHTY, m ˈaɪ t iː
 MIGRATION, m aɪ g ɹ ˈeɪ ʃ ə n
 MIKE, m ˈaɪ k
@@ -7384,6 +7408,7 @@ MUSLIMS(2), m ˈʊ z l ə m z
 MUST, m ˈɐ s t
 MUSTANG, m ˈɐ s t ˌæ ŋ
 MUSTARD, m ˈɐ s t ə d
+MUSTN'T, m ˈɐ s ə n t
 MUTTERED, m ˈɐ t ə d
 MUTUAL, m ˈjuː tʃ ʊə l
 MY, m ˈaɪ
@@ -7468,6 +7493,7 @@ NEEDED, n ˈiː d ɪ d
 NEEDING, n ˈiː d ɪ ŋ
 NEEDLE, n ˈiː d ə l
 NEEDLES, n ˈiː d ə l z
+NEEDN'T, n ˈiː d ə n t
 NEEDS, n ˈiː d z
 NEGATIVE, n ˈɛ g ə t ɪ v
 NEGLECT, n ɪ g l ˈɛ k t
@@ -7892,6 +7918,7 @@ OTHERWISE, ˈɐ ð ə w ˌaɪ z
 OTTAWA, ˈɒ t ə w ə
 OUCH, ˈaʊ tʃ
 OUGHT, ˈɔː t
+OUGHTN'T, ˈɔː t ə n t
 OUNCES, ˈaʊ n s ɪ z
 OUR, ˈaʊ ə
 OURS, ˈaʊ ə z
@@ -10131,6 +10158,7 @@ SHOTS, ʃ ˈɒ t s
 SHOULD, ʃ ˈʊ d
 SHOULDER, ʃ ˈəʊ l d ə
 SHOULDERS, ʃ ˈəʊ l d ə z
+SHOULDN'T, ʃ ˈʊ d ə n t
 SHOUT, ʃ ˈaʊ t
 SHOUTED, ʃ ˈaʊ t ɪ d
 SHOUTING, ʃ ˈaʊ t ɪ ŋ
@@ -12116,6 +12144,7 @@ WASHED, w ˈɒ ʃ t
 WASHER, w ˈɒ ʃ ə
 WASHING, w ˈɒ ʃ ɪ ŋ
 WASHINGTON, w ˈɒ ʃ ɪ ŋ t ə n
+WASN'T, w ˈɒ z ə n t
 WASTE, w ˈeɪ s t
 WASTED, w ˈeɪ s t ɪ d
 WASTING, w ˈeɪ s t ɪ ŋ
@@ -12195,6 +12224,7 @@ WEMBLEY, w ˈɛ m b l iː
 WENDY, w ˈɛ n d iː
 WENT, w ˈɛ n t
 WERE, w ˈɜː
+WEREN'T, w ˈɜː n t
 WESLEY, w ˈɛ z l iː
 WEST, w ˈɛ s t
 WESTERN, w ˈɛ s t ə n
@@ -12346,6 +12376,7 @@ WOLVERHAMPTON, w ʊ l v ə h ˈæ m p t ə n
 WOLVES, w ˈʊ l v z
 WOMAN, w ˈʊ m ə n
 WOMEN, w ˈɪ m ɪ n
+WON'T, w ˈəʊ n t
 WON(1), w ˈɐ n
 WON(2), w ˈɒ n
 WONDER, w ˈɐ n d ə
@@ -12399,6 +12430,7 @@ WORTHWHILE, w ˌɜː θ w ˈaɪ l
 WORTHY, w ˈɜː ð iː
 WOULD, w ˈʊ d
 WOULD-BE, w ˈʊ d b iː
+WOULDN'T, w ˈʊ d ə n t
 WOUND(1), w ˈuː n d
 WOUND(2), w ˈaʊ n d
 WOUNDED, w ˈuː n d ɪ d
@@ -12424,6 +12456,7 @@ WRONG, ɹ ˈɒ ŋ
 WROTE, ɹ ˈəʊ t
 WY, w ˈaɪ
 WYOMING, w ˌaɪ ˈəʊ m ɪ ŋ
+Y'ALL, j ˌɔː l
 YACHT, j ˈɒ t
 YAHOO(1), j ˈɑː h ˌuː
 YAHOO(2), j ə h ˈuː
@@ -12479,8 +12512,8 @@ YOUS, ˈjuː s
 YOUTH, ˈjuː θ
 YOUTHS(1), ˈjuː ð z
 YOUTHS(2), ˈjuː θ s
-YUGOSLAVIA, ˌjuː g əʊ s l ˈɑː v ɪə
 YUCK, j ˈɐ k
+YUGOSLAVIA, ˌjuː g əʊ s l ˈɑː v ɪə
 YUM, j ˈɐ m
 YVONNE, ɪ v ˈɒ n
 ZAMBIA, z ˈæ m b ɪə
