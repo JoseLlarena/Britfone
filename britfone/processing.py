@@ -2,13 +2,25 @@
 from collections import defaultdict, Counter
 import re
 from codecs import open
+from lingoist.core.Tup import Tup
 
-from lingoist.core.io import SPACES_REGEX, tup_from, lines_from
+from lingoist.core.io import SPACES_REGEX, tup_from, lines_from, line_to_word_sound
+from lingoist.prob import markov_chain
+from lingoist.sequence_metrics import logmarginal
 
 DIR = 'C:/Users/Jose/project-workspace/britphone/'
 FREQ_FILE, VOCAB_FILE, SEED_FILE = DIR + 'count_1w.txt', DIR + 'vocabulary.txt', DIR + 'britfone.0.1.0.main.csv'
 
 EXPANSIONS_FILE, GUESSED = DIR + 'britfone.0.1.0.expansions.csv', DIR + 'britfone.guessed.csv'
+
+def check_unlikely():
+    seqs = tup_from(SEED_FILE, lambda line: line_to_word_sound(re.sub('\d+|\(|\)', '', line)))
+
+    order, delta = 1, 1e-55
+    mc = markov_chain(seqs.unzip()[0].map(tuple) >> set > Tup, order, delta)
+
+    for w, s, lik in seqs.map(lambda (w, s): (w, s, logmarginal(w, mc, order))).sorted(lambda (w, s, lik): lik):
+        print '%-20.20s %-20.20s %3.3f' % (''.join(w), ''.join(s), lik)
 
 def vocabulary(cmudict_seed=DIR + 'cmudict.ipa.csv', britfone_seed=SEED_FILE, frequency_list=FREQ_FILE,
                vocabulary=VOCAB_FILE):
@@ -73,7 +85,8 @@ def vocabulary2():
         c = i
         if w in google_ignore or w in bnc_ignore: continue
         if re.match('^(\d+(,\d{3})?%?|&.+|2?1ST|2ND|3RD|\d{1,3}TH|19\d0S|.+\'.+)$', w): continue
-        if i > 10000:
+        if (i < 5000): continue
+        if (i > 10000):
             break
 
         if w not in extant and '_' not in w:
@@ -233,12 +246,10 @@ google_ignore = \
         'EOS', 'HU', 'INS', 'ITALIA', 'ITALIANO', 'KO', 'LAS', 'LP', 'LS', 'MAI', 'MIT',
         'NEXTEL', 'NFL', 'OT', 'PASO', 'PCS', 'PIX', 'PPM', 'ROSA', 'SMS', 'SPARC', 'TAHOE',
         'TB', 'TS', 'URI', 'TULSA', 'ANAHEIM', 'BON', 'CARLO',
-        'ISA', 'CAS', 'CASA', 'CASEY', 'CLARA', 'CORNELL', 'CREST', 'CURTIS',
-        'DANA', 'DEUTSCHE',
+        'ISA', 'CAS', 'CASA', 'CASEY', 'CLARA', 'CORNELL', 'CREST', 'CURTIS', 'DANA', 'DEUTSCHE',
         'DEUTSCHLAND', 'DOM', 'EAU', 'EDMONTON', 'FAIRFIELD', 'GARCIA', 'GREENE',
         'GREENSBORO', 'GRENADA', 'GRIFFIN', 'HANS', 'HARLEY', 'HARPER', 'HARTFORD',
-        'KENNY', 'KENO', 'KRUGER', 'LAFAYETTE',
-        'LAUDERDALE', 'LEON', 'LEONE',
+        'KENNY', 'KENO', 'KRUGER', 'LAFAYETTE', 'LAUDERDALE', 'LEON', 'LEONE',
         'LEU', 'LEXINGTON', 'LEXUS', 'LOGAN', 'LOLITA', 'LUIS', 'MARDI', 'MARCO',
         'MAS', 'MAUI', 'MESA', 'METALLICA', 'MONTE', 'NEWARK', 'NEWFOUNDLAND',
         'PAC', 'PAS', 'PETERSON', 'PROZAC', 'REID', 'REYNOLDS', 'RICHARDSON',
@@ -283,9 +294,8 @@ google_ignore = \
         'WUKET', 'JOHNSTON', 'MEDIAWIKI', 'LM', 'SMTP', 'SEN', 'DTS',
         'CARMEN', 'MORRISON', 'MYRTLE', 'ROLAND', 'WEBSTER', 'TELECHARGER', 'HUGO', 'WAGNER',
         'KEYNES', 'GAULLE', 'MUCOSA', 'HEWLETT-PACKARD',
-        'EMAILINC', 'EEC', 'CLAUDIA', 'DOYLE', 'FRANCO',
+        'EMAILINC', 'EEC', 'CLAUDIA', 'DOYLE', 'FRANCO', 'W.L.R.', 'ITV', 'HILARY',
         'GOULD', 'MACMILLAN', 'LIGHTBOX', 'WORDSWORTH', 'TWENTY-FOUR',
-        'W.L.R.', 'ITV', 'HILARY'
     }
 
 bnc_ignore = \
@@ -322,11 +332,12 @@ mistyped = {'&AMP': 'AND', '&TIMES': 'TIMES', u'*': 'STAR', u'&POUND;1': u'£', 
             "'": 'QUOTE', '%': 'PERCENT', '&FRAC12': 'HALF', '/': 'SLASH', 'CAF&EACUTE': 'CAFE'}
 
 if __name__ == '__main__':
-    checks_for_missing()
+    # checks_for_missing()
     # vocabulary2()
     # finds_multiples()
     # resort(SEED_FILE)
     # reformat_csv()
     # reformat_tsv()
-    # spot_bad_characters()
+    spot_bad_characters()
     # expansions_not_in_britfone()
+    # check_unlikely()
