@@ -47,7 +47,7 @@ MRS.	MISSIS
 
 
 * **strict IPA versus traditional phonetic symbols**: the phonetic symbols are strictly as defined by the IPA, as opposed to how
-they have traditionally been used in the linguist literature. In particular:
+they have traditionally been used in the linguistic literature. In particular:
 
   - /ɐ/ instead of traditional /ʌ/
   - /ɹ/ instead of traditional /r/
@@ -65,17 +65,17 @@ though some dictionaries show a tense but [short /i/](https://en.wikipedia.org/w
 * **stems and inflections**: not all inflected words have all their inflected variants, and not all variants show all of the alternative pronunciations. The possessive form _-'s_
 of nouns is not included.
 
-* **acronyms vs initialisms**: The expansions' dictionary only contains _acronyms_, i.e., words that are _not_ pronounced by spelling
+* **acronyms vs initialisms**: The expansions dictionary only contains _acronyms_, i.e., words that are _not_ pronounced by spelling
  out the individual letters, i.e.,  _initialisms_ (e.g. _BBC_, _NHS_) are excluded. The pronunciation of these can
  be obtained by looking up the [names of the individual letters](https://en.wikipedia.org/wiki/English_alphabet)
  in the main dictionary, then concatenating them.
 
 ## Sources
 
-The initial source of the phonetic transcriptions is [cmudict](https://github.com/cmusphinx/cmudict), plus a number of online sources for specifics of British English.
+The initial source of the phonetic transcriptions is [cmudict](https://github.com/cmusphinx/cmudict), plus a number of online sources for  British English specifics.
 
 The main sources of the word frequency-filtered vocabulary are the top 10K in the British National Corpus and the Google Web Corpus. Not all words in these lists are included
-since due to sampling bias there are uncommon words like _ATHELSTAN_ or _PHENTERMINE_, as well as foreign words. Also excluded are initialisms.
+since due to sampling bias there are uncommon words like _athelstan_ or _phentermine_, as well as foreign words. Also excluded are initialisms.
 
 
 ## MIT License (MIT)

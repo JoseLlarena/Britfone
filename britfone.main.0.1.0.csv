@@ -218,8 +218,8 @@ ADVERTISING, ˈæ d v ə t ˌaɪ z ɪ ŋ
 ADVICE, ə d v ˈaɪ s
 ADVISE, ə d v ˈaɪ z
 ADVISED, ə d v ˈaɪ z d
-ADVISER, ˈæ d v ˈaɪ z ə
-ADVISERS, ˈæ d v ˈaɪ z ə z
+ADVISER, ə d v ˈaɪ z ə
+ADVISERS, ə d v ˈaɪ z ə z
 ADVISOR, ə d v ˈaɪ z ə
 ADVISORS, ə d v ˈaɪ z ə z
 ADVISORY, ə d v ˈaɪ z ə ɹ iː
@@ -312,7 +312,7 @@ ALABAMA, ˌæ l ə b ˈæ m ə
 ALAN, ˈæ l ə n
 ALARM, ə l ˈɑː m
 ALASKA, ə l ˈæ s k ə
-ALBANIA, ˈæ l b ˈeɪ n ɪə
+ALBANIA, æ l b ˈeɪ n ɪə
 ALBANY, ˈɔː l b ə n iː
 ALBEIT, ɔː l b ˈiː ɪ t
 ALBERT, ˈæ l b ə t
@@ -481,7 +481,7 @@ ANGLES, ˈæ ŋ g ə l z
 ANGOLA, æ ŋ g ˈəʊ l ə
 ANGRILY, ˈæ ŋ g ɹ ɪ l iː
 ANGRY, ˈæ ŋ g ɹ iː
-ANGUS, æ ŋ g ə s
+ANGUS, ˈæ ŋ g ə s
 ANIMAL, ˈæ n ɪ m ə l
 ANIMALS, ˈæ n ɪ m ə l z
 ANIMATED, ˈæ n ɪ m ˌeɪ t ɪ d
@@ -498,7 +498,7 @@ ANNEX(2), ə n ˈɛ k s
 ANNIE, ˈæ n iː
 ANNIVERSARY, ˌæ n ɪ v ˈɜː s ə ɹ iː
 ANNOTATED(1), ˈæ n ə t ˌeɪ t ɪ d
-ANNOTATED(2), ˌæ n ʊə t ˌeɪ t ɪ d
+ANNOTATED(2), ˈæ n ʊə t ˌeɪ t ɪ d
 ANNOTATION, ˌæ n ə t ˈeɪ ʃ ə n
 ANNOUNCE, ə n ˈaʊ n s
 ANNOUNCED, ə n ˈaʊ n s t
@@ -535,7 +535,7 @@ ANTIQUE, æ n t ˈiː k
 ANTIQUES, æ n t ˈiː k s
 ANTIVIRUS, ˌæ n t ɪ v ˈaɪ ɹ ə s
 ANTONIO, æ n t ˈəʊ n ɪ əʊ
-ANXIETY, ˈæ ŋ z ˈaɪ ə t iː
+ANXIETY, æ ŋ z ˈaɪ ə t iː
 ANXIOUS(1), ˈæ ŋ ʃ ə s
 ANXIOUS(2), ˈæ ŋ k ʃ ə s
 ANY, ˈɛ n iː
@@ -628,7 +628,8 @@ ARC, ˈɑː k
 ARCADE, ɑː k ˈeɪ d
 ARCH, ˈɑː tʃ
 ARCHAEOLOGICAL, ˌɑː k ɪə l ˈɒ dʒ ɪ k ə l
-ARCHBISHOP, ˈɑː tʃ b ˈɪ ʃ ə p
+ARCHBISHOP(1), ɑː tʃ b ˈɪ ʃ ə p
+ARCHBISHOP(2), ˈɑː tʃ b ɪ ʃ ə p
 ARCHITECT, ˈɑː k ɪ t ˌɛ k t
 ARCHITECTS, ˈɑː ɹ k ɪ t ˌɛ k t s
 ARCHITECTURAL, ˌɑː k ɪ t ˈɛ k tʃ ə ɹ ə l
@@ -691,9 +692,9 @@ ARTHRITIS, ɑː θ ɹ ˈaɪ t ɪ s
 ARTHUR, ˈɑː θ ə
 ARTICLE, ˈɑː t ɪ k ə l
 ARTICLES, ˈɑː t ɪ k ə l z
-ARTIFICIAL, ˈɑː t ɪ f ˈɪ ʃ ə l
+ARTIFICIAL, ˌɑː t ɪ f ˈɪ ʃ ə l
 ARTIST, ˈɑː t ɪ s t
-ARTISTIC, ˈɑː t ˈɪ s t ɪ k
+ARTISTIC, ˌɑː t ˈɪ s t ɪ k
 ARTISTS, ˈɑː t ɪ s t s
 ARTS, ˈɑː t s
 ARTWORK, ˈɑː t w ˌɜː k
@@ -935,7 +936,7 @@ BALCONY, b ˈæ l k ə n iː
 BALD, b ˈɔː l d
 BALI, b ˈɑː l iː
 BALL, b ˈɔː l
-BALLET, b ˈæ l ˈeɪ
+BALLET, b ˈæ l eɪ
 BALLOON, b ə l ˈuː n
 BALLOONS, b ə l ˈuː n z
 BALLOT, b ˈæ l ə t
@@ -1531,7 +1532,7 @@ BUNS, b ˈɐ n z
 BURDEN, b ˈɜː d ə n
 BUREAU, b j ˈʊə ɹ əʊ
 BUREAUCRACY, b j ʊə ɹ ˈɒ k ɹ ə s iː
-BUREAUCRATIC, b j ˈʊə ɹ ə k ɹ ˈæ t ɪ k
+BUREAUCRATIC, b j ˌʊə ɹ ə k ɹ ˈæ t ɪ k
 BURGERS, b ˈɜː g ə z
 BURIAL, b ˈɛ ɹ ɪə l
 BURIED, b ˈɛ ɹ iː d
@@ -1578,7 +1579,7 @@ BUZZ, b ˈɐ z
 BUZZING, b ˈɐ z ɪ ŋ
 BY, b ˈaɪ
 BYE, b ˈaɪ
-BYE-BYE, b ˈaɪ b ˈaɪ
+BYE-BYE, b ˈaɪ b ˌaɪ
 BYFLEET, b ˈaɪ f l iː t
 BYPASS, b ˈaɪ p ˌɑː s
 BYTE, b ˈaɪ t
@@ -1664,7 +1665,7 @@ CANNOT, k ˈæ n ə t
 CANON, k ˈæ n ə n
 CANS, k ˈæ n z
 CANT, k ˈæ n t
-CANTEEN, k ˈæ n t ˈiː n
+CANTEEN, k æ n t ˈiː n
 CANTERBURY, k ˈæ n t ə b ɹ iː
 CANVAS, k ˈæ n v ə s
 CANYON, k ˈæ n j ə n
@@ -1841,7 +1842,7 @@ CHALLENGES, tʃ ˈæ l ə n dʒ ɪ z
 CHALLENGING, tʃ ˈæ l ə n dʒ ɪ ŋ
 CHAMBER, tʃ ˈeɪ m b ə
 CHAMBERS, tʃ ˈeɪ m b ə z
-CHAMPAGNE, ʃ ˈæ m p ˈeɪ n
+CHAMPAGNE, ʃ æ m p ˈeɪ n
 CHAMPION, tʃ ˈæ m p ɪə n
 CHAMPIONS, tʃ ˈæ m p ɪə n z
 CHAMPIONSHIP, tʃ ˈæ m p ɪə n ʃ ˌɪ p
@@ -2172,7 +2173,7 @@ COLIN, k ˈɒ l ɪ n
 COLITIS(1), k ɒ l ˈaɪ t ɪ s
 COLITIS(2), k ə l ˈaɪ t ɪ s
 COLLABORATION, k ə l ˌæ b ə ɹ ˈeɪ ʃ ə n
-COLLABORATIVE, k ə l ˌæ b ə ɹ ə t ɪ v
+COLLABORATIVE, k ə l ˈæ b ə ɹ ə t ɪ v
 COLLAPSE, k ə l ˈæ p s
 COLLAR, k ˈɒ l ə
 COLLEAGUE, k ˈɒ l iː g
@@ -2400,10 +2401,11 @@ CONFESSION, k ə n f ˈɛ ʃ ə n
 CONFIDENCE, k ˈɒ n f ɪ d ə n s
 CONFIDENT, k ˈɒ n f ɪ d ə n t
 CONFIDENTIAL, k ˌɒ n f ɪ d ˈɛ n ʃ ə l
-CONFIDENTIALITY, k ˌɒ n f ɪ d ˌɛ n ʃ ɪ ˈæ l ɪ t iː
+CONFIDENTIALITY, k ˌɒ n f ɪ d ɛ n ʃ ɪ ˈæ l ɪ t iː
 CONFIGURATION(1), k ə n f ˌɪ g j ʊ ɹ ˈeɪ ʃ ə n
 CONFIGURATION(2), k ə n f ˌɪ g ə ɹ ˈeɪ ʃ ə n
-CONFIGURATIONS, k ə n f ˌɪ g ˈæ ɹ ˈeɪ ʃ ə n z
+CONFIGURATIONS(1), k ə n f ˌɪ g j ʊ ɹ ˈeɪ ʃ ə n z
+CONFIGURATIONS(2), k ə n f ˌɪ g ə ɹ ˈeɪ ʃ ə n z
 CONFIGURE, k ə n f ˈɪ g ə
 CONFIGURED, k ə n f ˈɪ g ə d
 CONFIGURING, k ə n f ˈɪ g ɹ ɪ ŋ
@@ -2541,7 +2543,7 @@ CONTINUOUS, k ə n t ˈɪ n j uː ə s
 CONTINUOUSLY, k ə n t ˈɪ n j ʊə s l iː
 CONTRACT(1), k ə n t ɹ ˈæ k t
 CONTRACT(2), k ˈɒ n t ɹ ˌæ k t
-CONTRACTING, k ˈɒ n t ɹ ˈæ k t ɪ ŋ
+CONTRACTING, k ə n t ɹ ˈæ k t ɪ ŋ
 CONTRACTOR, k ˈɒ n t ɹ ˌæ k t ə
 CONTRACTORS, k ˈɒ n t ɹ ˌæ k t ə z
 CONTRACTS(1), k ə n t ɹ ˈæ k t s
@@ -2635,7 +2637,7 @@ CORNER, k ˈɔː n ə
 CORNERS, k ˈɔː n ə z
 CORNWALL, k ˈɔː n w ɔː l
 CORONATION, k ˌɒ ɹ ə n ˈeɪ ʃ ə n
-CORP, k ˌɔː p
+CORP, k ˈɔː p
 CORPORAL(1), k ˈɔː p ə ɹ ə l
 CORPORAL(2), k ˈɔː p ɹ ə l
 CORPORATE(1), k ˈɔː p ɹ ə t
@@ -2644,7 +2646,7 @@ CORPORATION, k ˌɔː p ə ɹ ˈeɪ ʃ ə n
 CORPORATIONS, k ˌɔː p ə ɹ ˈeɪ ʃ ə n z
 CORPS(1), k ˈɔː
 CORPS(2), k ˈɔː z
-CORPSE, k ˌɔː p s
+CORPSE, k ˈɔː p s
 CORPUS, k ˈɔː p ə s
 CORRECT, k ə ɹ ˈɛ k t
 CORRECTED, k ə ɹ ˈɛ k t ɪ d
@@ -2661,7 +2663,7 @@ COS, k ˈɒ s
 COSMETIC, k ɒ z m ˈɛ t ɪ k
 COSMETICS, k ɒ z m ˈɛ t ɪ k s
 COST, k ˈɒ s t
-COSTA RICA, k ˈɒ s t ə ɹ ˈiː k ə
+COSTA RICA, k ˌɒ s t ə ɹ ˈiː k ə
 COSTA, k ˈɒ s t ə
 COSTING, k ˈɒ s t ɪ ŋ
 COSTLY, k ˈɒ s t l iː
@@ -2697,7 +2699,7 @@ COUNSELLING(2), k ˈaʊ n s l ɪ ŋ
 COUNT, k ˈaʊ n t
 COUNTED, k ˈaʊ n t ɪ d
 COUNTER, k ˈaʊ n t ə
-COUNTERPARTS, k ˈaʊ n t ə p ˈɑː t s
+COUNTERPARTS, k ˈaʊ n t ə p ˌɑː t s
 COUNTERS, k ˈaʊ n t ə z
 COUNTESS, k ˈaʊ n t ə s
 COUNTIES, k ˈaʊ n t iː z
@@ -2970,8 +2972,8 @@ DEBATES, d ɪ b ˈeɪ t s
 DEBBIE, d ˈɛ b iː
 DEBORAH(1), d ˈɛ b ɹ ə
 DEBORAH(2), d ˈɛ b ə ɹ ə
-DEBRIS(1), d ˈɛ b ɹ ˈiː
-DEBRIS(2), d ˈeɪ b ɹ ˈiː
+DEBRIS(1), d ˈɛ b ɹ iː
+DEBRIS(2), d ˈeɪ b ɹ iː
 DEBT, d ˈɛ t
 DEBTOR, d ˈɛ t ə
 DEBTS, d ˈɛ t s
@@ -3251,8 +3253,8 @@ DIFFERENCES(1), d ˈɪ f ɹ ə n s ɪ z
 DIFFERENCES(2), d ˈɪ f ə ɹ ə n s ɪ z
 DIFFERENT(1), d ˈɪ f ɹ ə n t
 DIFFERENT(2), d ˈɪ f ə ɹ ə n t
-DIFFERENTIAL, d ˌɪ f ə ɹ ə n ʃ ə l
-DIFFERENTIATION, d ˌɪ f ə ɹ ˌɛ n tʃ ɪ ˈeɪ ʃ ə n
+DIFFERENTIAL, d ˌɪ f ə ɹ ˈɛ n ʃ ə l
+DIFFERENTIATION, d ˌɪ f ə ɹ ɛ n tʃ ɪ ˈeɪ ʃ ə n
 DIFFERENTLY(1), d ˈɪ f ɹ ə n t l iː
 DIFFERENTLY(2), d ˈɪ f ə ɹ ə n t l iː
 DIFFICULT, d ˈɪ f ɪ k ə l t
@@ -3497,8 +3499,9 @@ DOWNLOADABLE, d ˈaʊ n l ˌəʊ d ɪ b ə l
 DOWNLOADED, d ˈaʊ n l ˌəʊ d ɪ d
 DOWNLOADING, d ˈaʊ n l ˌəʊ d ɪ ŋ
 DOWNLOADS, d ˈaʊ n l ˌəʊ d z
-DOWNSTAIRS, d ˈaʊ n s t ˈɛə z
-DOWNTOWN, d ˈaʊ n t ˈaʊ n
+DOWNSTAIRS(1), d ˈaʊ n s t ˌɛə z
+DOWNSTAIRS(2), d aʊ n s t ˈɛə z
+DOWNTOWN, d ˈaʊ n t ˌaʊ n
 DOZEN, d ˈɐ z ə n
 DOZENS, d ˈɐ z ə n z
 DRAFT, d ɹ ˈɑː f t
@@ -3583,7 +3586,7 @@ DUO, d j ˈuː əʊ
 DUPLICATE(1), d j ˈuː p l ɪ k ə t
 DUPLICATE(2), d j ˈuː p l ɪ k ˌeɪ t
 DURABLE, d j ˈʊə ɹ ə b ə l
-DURATION, d j ˈʊ ɹ ˈeɪ ʃ ə n
+DURATION, d j ʊ ɹ ˈeɪ ʃ ə n
 DURHAM, d ˈɐ ɹ ə m
 DURING, d j ˈʊə ɹ ɪ ŋ
 DUST, d ˈɐ s t
@@ -3862,9 +3865,9 @@ ENGAGED(2), ɛ n g ˈeɪ dʒ d
 ENGAGEMENT, ɪ n g ˈeɪ dʒ m ə n t
 ENGAGING, ɛ n g ˈeɪ dʒ ɪ ŋ
 ENGINE, ˈɛ n dʒ ɪ n
-ENGINEER, ˈɛ n dʒ ɪ n ˈɪə
-ENGINEERING, ˈɛ n dʒ ɪ n ˈɪə ɹ ɪ ŋ
-ENGINEERS, ˈɛ n dʒ ɪ n ˈɪə z
+ENGINEER, ˌɛ n dʒ ɪ n ˈɪə
+ENGINEERING, ˌɛ n dʒ ɪ n ˈɪə ɹ ɪ ŋ
+ENGINEERS, ˌɛ n dʒ ɪ n ˈɪə z
 ENGINES, ˈɛ n dʒ ɪ n z
 ENGLAND, ˈɪ ŋ g l ə n d
 ENGLISH, ˈɪ ŋ g l ɪ ʃ
@@ -3994,7 +3997,7 @@ ESTIMATES(2), ˈɛ s t ɪ m ˌeɪ t s
 ESTIMATION, ˌɛ s t ɪ m ˈeɪ ʃ ə n
 ESTONIA, ɛ s t ˈəʊ n ɪə
 ET, ˈɛ t
-ETCETERA, ˈɛ t s ˈɛ t ə ɹ ə
+ETCETERA, ɪ t s ˈɛ t ə ɹ ə
 ETERNAL, ɪ t ˈɜː n ə l
 ETERNITY, ɪ t ˈɜː n ɪ t iː
 ETHERNET, ˈiː θ ə n ˌɛ t
@@ -4007,7 +4010,7 @@ EUGENE(1), j uː dʒ ˈiː n
 EUGENE(2), j ˈuː dʒ iː n
 EURO, j ˈʊə ɹ əʊ
 EUROPE, j ˈʊə ɹ ə p
-EUROPEAN, j ˈʊə ɹ ə p ˈiː ə n
+EUROPEAN, j ˌʊə ɹ ə p ˈiː ə n
 EUROS, j ˈʊə ɹ əʊ z
 EVA, ˈiː v ə
 EVALUATE, ɪ v ˈæ l j ʊ ˌeɪ t
@@ -4031,7 +4034,8 @@ EVER, ˈɛ v ə
 EVERY(1), ˈɛ v ɹ iː
 EVERY(2), ˈɛ v ə ɹ iː
 EVERYBODY, ˈɛ v ɹ ɪ b ˌɒ d iː
-EVERYDAY, ˈɛ v ɹ ɪ d ˈeɪ
+EVERYDAY(1), ˌɛ v ɹ ɪ d ˈeɪ
+EVERYDAY(2), ˈɛ v ɹ ɪ d ˌeɪ
 EVERYONE, ˈɛ v ɹ ɪ w ˌɐ n
 EVERYTHING, ˈɛ v ɹ ɪ θ ˌɪ ŋ
 EVERYWHERE, ˈɛ v ɹ ɪ w ˌɛə
@@ -4158,7 +4162,7 @@ EXPLANATIONS, ˌɛ k s p l ə n ˈeɪ ʃ ə n z
 EXPLICIT, ɪ k s p l ˈɪ s ɪ t
 EXPLICITLY, ɪ k s p l ˈɪ s ɪ t l iː
 EXPLODE, ɪ k s p l ˈəʊ d
-EXPLOIT(1), ˈɛ k s p l ˈɔɪ t
+EXPLOIT(1), ˌɛ k s p l ˈɔɪ t
 EXPLOIT(2), ˌɛ k s p l ˈɔɪ t
 EXPLOITATION, ˌɛ k s p l ɔɪ t ˈeɪ ʃ ə n
 EXPLORATION, ˌɛ k s p l ə ɹ ˈeɪ ʃ ə n
@@ -4258,8 +4262,8 @@ FANNY, f ˈæ n iː
 FANS, f ˈæ n z
 FANTASTIC, f æ n t ˈæ s t ɪ k
 FANTASY, f ˈæ n t ə s iː
-FAQ, f æ k
-FAQS, f æ k s
+FAQ, f ˈæ k
+FAQS, f ˈæ k s
 FAR, f ˈɑː
 FARE, f ˈɛə
 FARES, f ˈɛə z
@@ -4613,7 +4617,7 @@ FOSTER, f ˈɒ s t ə
 FOUGHT, f ˈɔː t
 FOUL, f ˈaʊ l
 FOUND, f ˈaʊ n d
-FOUNDATION, f ˈaʊ n d ˈeɪ ʃ ə n
+FOUNDATION, f aʊ n d ˈeɪ ʃ ə n
 FOUNDATIONS, f aʊ n d ˈeɪ ʃ ə n z
 FOUNDED, f ˈaʊ n d ɪ d
 FOUNDER, f ˈaʊ n d ə
@@ -4668,7 +4672,7 @@ FRENCH, f ɹ ˈɛ n tʃ
 FREQUENCIES, f ɹ ˈiː k w ə n s iː z
 FREQUENCY, f ɹ ˈiː k w ə n s iː
 FREQUENT(1), f ɹ ˈiː k w ə n t
-FREQUENT(2), f ɹ ɪ k w ˌɛ n t
+FREQUENT(2), f ɹ ɪ k w ˈɛ n t
 FREQUENTLY, f ɹ ˈiː k w ə n t l iː
 FRESH, f ɹ ˈɛ ʃ
 FREUD, f ɹ ˈɔɪ d
@@ -4905,7 +4909,7 @@ GLAZED, g l ˈeɪ z d
 GLAZING, g l ˈeɪ z ɪ ŋ
 GLEN, g l ˈɛ n
 GLENN, g l ˈɛ n
-GLIMPSE, g l ɪ m p s
+GLIMPSE, g l ˈɪ m p s
 GLOBAL, g l ˈəʊ b ə l
 GLOBE, g l ˈəʊ b
 GLOOM, g l ˈuː m
@@ -4970,7 +4974,7 @@ GOVERNING, g ˈɐ v ə n ɪ ŋ
 GOVERNMENT(1), g ˈɐ v ə m ə n t
 GOVERNMENT(2), g ˈɐ v ə n m ə n t
 GOVERNMENTAL(1), g ˌɐ v ə n m ˈɛ n t ə l
-GOVERNMENTAL(2), g ˌɐ v ə m ˌɛ n t ə l
+GOVERNMENTAL(2), g ˌɐ v ə m ˈɛ n t ə l
 GOVERNMENTS(1), g ˈɐ v ə m ə n t s
 GOVERNMENTS(2), g ˈɐ v ə n m ə n t s
 GOVERNOR, g ˈɐ v ə n ə
@@ -5148,7 +5152,8 @@ HAIRS, h ˈɛə z
 HAIRY, h ˈɛə ɹ iː
 HAITI, h ˈeɪ t iː
 HALF, h ˈɑː f
-HALFWAY, h ˈɑː f w ˈeɪ
+HALFWAY(1), h ˈɑː f w eɪ
+HALFWAY(2), h ˌɑː f w ˈeɪ
 HALIFAX, h ˈæ l ɪ f ˌæ k s
 HALL, h ˈɔː l
 HALLELUJAH, h ˌæ l ə l ˈuː j ə
@@ -5178,8 +5183,8 @@ HANDLE, h ˈæ n d ə l
 HANDLED, h ˈæ n d ə l d
 HANDLES, h ˈæ n d ə l z
 HANDLING, h ˈæ n d l ɪ ŋ
-HANDMADE(1), h ˈæ n m ˈeɪ d
-HANDMADE(2), h ˈæ n d m ˈeɪ d
+HANDMADE(1), h ˌæ n m ˈeɪ d
+HANDMADE(2), h ˌæ n d m ˈeɪ d
 HANDS, h ˈæ n d z
 HANDSOME, h ˈæ n s ə m
 HANDY, h ˈæ n d iː
@@ -5264,7 +5269,7 @@ HEADINGS, h ˈɛ d ɪ ŋ z
 HEADLIGHTS, h ˈɛ d l ˌaɪ t s
 HEADLINE, h ˈɛ d l ˌaɪ n
 HEADLINES, h ˈɛ d l ˌaɪ n z
-HEADMASTER, h ˈɛ d m ˈɑː s t ə
+HEADMASTER, h ˈɛ d m ˌɑː s t ə
 HEADPHONES, h ˈɛ d f ˌəʊ n z
 HEADQUARTERS, h ˌɛ d k w ˈɔː t ə z
 HEADS, h ˈɛ d z
@@ -5346,7 +5351,7 @@ HESITATED, h ˈɛ z ɪ t ˌeɪ t ɪ d
 HEWLETT, h j ˈuː l ɪ t
 HEY, h ˈeɪ
 HI, h ˈaɪ
-HI-FI, h ˈaɪ f ˈaɪ
+HI-FI, h ˈaɪ f ˌaɪ
 HID, h ˈɪ d
 HIDDEN, h ˈɪ d ə n
 HIDE, h ˈaɪ d
@@ -5397,7 +5402,7 @@ HISTORY(1), h ˈɪ s t ɹ iː
 HISTORY(2), h ˈɪ s t ə ɹ iː
 HIT, h ˈɪ t
 HITACHI, h ɪ t ˈɑː tʃ iː
-HITHERTO, h ˈɪ ð ə t ˈuː
+HITHERTO, h ˌɪ ð ə t ˈuː
 HITLER, h ˈɪ t l ə
 HITS, h ˈɪ t s
 HITTING, h ˈɪ t ɪ ŋ
@@ -5485,7 +5490,7 @@ HOSTED, h ˈəʊ s t ɪ d
 HOSTEL, h ˈɒ s t ə l
 HOSTELS, h ˈɒ s t ə l z
 HOSTILE, h ˈɒ s t aɪ l
-HOSTILITY, h ˈɒ s t ˈɪ l ɪ t iː
+HOSTILITY, h ɒ s t ˈɪ l ɪ t iː
 HOSTING, h ˈəʊ s t ɪ ŋ
 HOSTS, h ˈəʊ s t s
 HOT, h ˈɒ t
@@ -5851,7 +5856,7 @@ INSTRUCTOR, ɪ n s t ɹ ˈɐ k t ə
 INSTRUCTORS, ɪ n s t ɹ ˈɐ k t ə z
 INSTRUMENT, ˈɪ n s t ɹ ə m ə n t
 INSTRUMENTAL, ˌɪ n s t ɹ ə m ˈɛ n t ə l
-INSTRUMENTATION, ˌɪ n s t ɹ ə m ˌɛ n t ˈeɪ ʃ ə n
+INSTRUMENTATION, ˌɪ n s t ɹ ə m ɛ n t ˈeɪ ʃ ə n
 INSTRUMENTS, ˈɪ n s t ɹ ə m ə n t s
 INSUFFICIENT, ɪ n s ə f ˈɪ ʃ ə n t
 INSULATION, ˌɪ n s ə l ˈeɪ ʃ ə n
@@ -6203,7 +6208,7 @@ KATE, k ˈeɪ t
 KATH, k ˈæ θ
 KATHERINE(1), k ˈæ θ ɹ ɪ n
 KATHERINE(2), k ˈæ θ ə ɹ ɪ n
-KATHLEEN, k ˈæ θ l ˈiː n
+KATHLEEN, k ˈæ θ l iː n
 KATHY, k ˈæ θ iː
 KATIE, k ˈeɪ t iː
 KATRINA, k ə t ɹ ˈiː n ə
@@ -6255,12 +6260,12 @@ KILLERS, k ˈɪ l ə z
 KILLING, k ˈɪ l ɪ ŋ
 KILLS, k ˈɪ l z
 KILO, k ˈiː l ˌəʊ
-KILOMETERS(1), k ˌɪ l ə m ˈiː t ə z
-KILOMETERS(2), k ˌɪ l ˈɒ m ˌɪ t ə z
-KILOMETRE(1), k ˌɪ l ə m ˈiː t ə
-KILOMETRE(2), k ˌɪ l ˈɒ m ˌɪ t ə
-KILOMETRES(1), k ˌɪ l ə m ˈiː t ə z
-KILOMETRES(2), k ˌɪ l ˈɒ m ˌɪ t ə z
+KILOMETERS(1), k ˈɪ l ə m ˌiː t ə z
+KILOMETERS(2), k ˌɪ l ˈɒ m ɪ t ə z
+KILOMETRE(1), k ˈɪ l ə m ˌiː t ə
+KILOMETRE(2), k ˌɪ l ˈɒ m ɪ t ə z
+KILOMETRES(1), k ˈɪ l ə m ˌiː t ə z
+KILOMETRES(2), k ˌɪ l ˈɒ m ɪ t ə z
 KILOS, k ˈiː l ˌəʊ z
 KIM, k ˈɪ m
 KIN, k ˈɪ n
@@ -6477,7 +6482,7 @@ LEIGH, l ˈiː
 LEISURE(1), l ˈɛ ʒ ə
 LEISURE(2), l ˈiː ʒ ə
 LEMON, l ˈɛ m ə n
-LEMONADE, l ˈɛ m ə n ˈeɪ d
+LEMONADE, l ˌɛ m ə n ˈeɪ d
 LEN, l ˈɛ n
 LEND, l ˈɛ n d
 LENDER, l ˈɛ n d ə
@@ -6559,7 +6564,7 @@ LIGHTING, l ˈaɪ t ɪ ŋ
 LIGHTLY, l ˈaɪ t l iː
 LIGHTNING, l ˈaɪ t n ɪ ŋ
 LIGHTS, l ˈaɪ t s
-LIGHTWEIGHT, l ˈaɪ t w ˈeɪ t
+LIGHTWEIGHT, l ˈaɪ t w ˌeɪ t
 LIKE, l ˈaɪ k
 LIKED, l ˈaɪ k t
 LIKELIHOOD, l ˈaɪ k l ɪ h ˌʊ d
@@ -6858,7 +6863,7 @@ MANGA, m ˈæ ŋ g ə
 MANHATTAN, m æ n h ˈæ t ə n
 MANIPULATION, m ə n ˌɪ p j ʊ l ˈeɪ ʃ ə n
 MANITOBA, m ˌæ n ɪ t ˈəʊ b ə
-MANKIND, m ˈæ n k ˈaɪ n d
+MANKIND, m ˌæ n k ˈaɪ n d
 MANNER, m ˈæ n ə
 MANNERS, m ˈæ n ə z
 MANOR, m ˈæ n ə
@@ -7114,7 +7119,7 @@ MICK, m ˈɪ k
 MICKEY, m ˈɪ k iː
 MICRO, m ˈaɪ k ɹ ˌəʊ
 MICROPHONE, m ˈaɪ k ɹ ə f ˌəʊ n
-MICROSOFT, m ˈaɪ k ɹ ˌəʊ s ˈɒ f t
+MICROSOFT, m ˈaɪ k ɹ ə s ˌɒ f t
 MICROWAVE, m ˈaɪ k ɹ ə w ˌeɪ v
 MIDDLE, m ˈɪ d ə l
 MIDDLE-AGED, m ˈɪ d ə l eɪ dʒ d
@@ -7212,7 +7217,7 @@ MISTER, m ˈɪ s t ə
 MISTRESS, m ˈɪ s t ɹ ə s
 MISUNDERSTANDING, m ˌɪ s ɐ n d ə s t ˈæ n d ɪ ŋ
 MITCHELL, m ˈɪ tʃ ə l
-MITSUBISHI, m ˌɪ t s ˌuː b ˈiː ʃ iː
+MITSUBISHI, m ˌɪ t s ʊ b ˈɪ ʃ iː
 MIX, m ˈɪ k s
 MIXED, m ˈɪ k s t
 MIXER, m ˈɪ k s ə
@@ -7324,7 +7329,7 @@ MOTHER, m ˈɐ ð ə
 MOTHER-IN-LAW, m ˈɐ ð ə ɹ ɪ n l ˌɔː
 MOTHERBOARD, m ˈɐ ð ə b ˌɔː d
 MOTHERFUCKER, m ˌɐ ð ə f ˈɐ k ə
-MOTHERFUCKERS, m ˈɐ ð ə f ˈɐ k ə z
+MOTHERFUCKERS, m ˌɐ ð ə f ˈɐ k ə z
 MOTHERS, m ˈɐ ð ə z
 MOTION, m ˈəʊ ʃ ə n
 MOTIVATED, m ˈəʊ t ɪ v ˌeɪ t ɪ d
@@ -7359,7 +7364,7 @@ MOVIE, m ˈuː v iː
 MOVIES, m ˈuː v iː z
 MOVING, m ˈuː v ɪ ŋ
 MOZAMBIQUE(1), m ˌəʊ z ə m b ˈiː k
-MOZAMBIQUE(2), m ˌəʊ z ˈæ m b ˈiː k
+MOZAMBIQUE(2), m ˌəʊ z æ m b ˈiː k
 MOZART(1), m ˈəʊ t s ɑː t
 MOZART(2), m ˈəʊ z ɑː t
 MOZILLA, m ˌɒ z ˈɪ l ə
@@ -7454,7 +7459,7 @@ NATIONALIST(2), n ˈæ ʃ ə n ə l ɪ s t
 NATIONALLY(1), n ˈæ ʃ n ə l iː
 NATIONALLY(2), n ˈæ ʃ ə n ə l iː
 NATIONS, n ˈeɪ ʃ ə n z
-NATIONWIDE, n ˈeɪ ʃ ə n w ˈaɪ d
+NATIONWIDE, n ˈeɪ ʃ ə n w ˌaɪ d
 NATIVE, n ˈeɪ t ɪ v
 NATO, n ˈeɪ t əʊ
 NATURAL(1), n ˈæ tʃ ɹ ə l
@@ -7473,7 +7478,8 @@ NAVY, n ˈeɪ v iː
 NAY, n ˈeɪ
 NAZI, n ˈɑː t s iː
 NEAR, n ˈɪə
-NEARBY, n ˈɪə b ˈaɪ
+NEARBY(1), n ˈɪə b ˌaɪ
+NEARBY(2), n ˌɪə b ˈaɪ
 NEARER, n ˈɪə ɹ ə
 NEAREST, n ˈɪə ɹ ɪ s t
 NEARLY, n ˈɪə l iː
@@ -7561,7 +7567,7 @@ NICKEL, n ˈɪ k ə l
 NICKNAME, n ˈɪ k n ˌeɪ m
 NICKY, n ˈɪ k iː
 NICOLA, n ˈɪ k ə l ə
-NICOLE, n ˈɪ k ˈəʊ l
+NICOLE, n ɪ k ˈəʊ l
 NIECE, n ˈiː s
 NIGEL, n ˈaɪ dʒ ə l
 NIGER(1), n iː dʒ ˈɛə
@@ -7920,13 +7926,13 @@ OUGHTN'T, ˈɔː t ə n t
 OUNCES, ˈaʊ n s ɪ z
 OUR, ˈaʊ ə
 OURS, ˈaʊ ə z
-OURSELVES, ˈaʊ ə s ˈɛ l v z
+OURSELVES, ˌaʊ ə s ˈɛ l v z
 OUT, ˈaʊ t
 OUTBREAK, ˈaʊ t b ɹ ˌeɪ k
 OUTCOME, ˈaʊ t k ˌɐ m
 OUTCOMES, ˈaʊ t k ˌɐ m z
 OUTDOOR, ˈaʊ t d ˌɔː
-OUTDOORS, ˈaʊ t d ˈɔː z
+OUTDOORS, ˈaʊ t d ˌɔː z
 OUTER, ˈaʊ t ə
 OUTFIT, ˈaʊ t f ˌɪ t
 OUTLET, ˈaʊ t l ˌɛ t
@@ -7938,7 +7944,8 @@ OUTPUT, ˈaʊ t p ˌʊ t
 OUTPUTS, ˈaʊ t p ˌʊ t s
 OUTREACH, ˈaʊ t ɹ ˌiː tʃ
 OUTSET, ˈaʊ t s ˌɛ t
-OUTSIDE, ˈaʊ t s ˈaɪ d
+OUTSIDE(1), ˈaʊ t s aɪ d
+OUTSIDE(2), aʊ t s ˈaɪ d
 OUTSOURCING, ˌaʊ t s ˈɔː s ɪ ŋ
 OUTSTANDING, ˌaʊ t s t ˈæ n d ɪ ŋ
 OVAL, ˈəʊ v ə l
@@ -7948,8 +7955,10 @@ OVERALL, ˈəʊ v ə ɹ ɔː l
 OVERCOME, ˈəʊ v ə k ˌɐ m
 OVERHEAD(1), ˈəʊ v ə h ˌɛ d
 OVERHEAD(2), ˌəʊ v ə h ˈɛ d
-OVERNIGHT, ˈəʊ v ə n ˈaɪ t
-OVERSEAS, ˈəʊ v ə s ˈiː z
+OVERNIGHT(1), ˈəʊ v ə n aɪ t
+OVERNIGHT(2), əʊ v ə n ˈaɪ t
+OVERSEAS(1), əʊ v ə s ˈiː z
+OVERSEAS(2), ˈəʊ v ə s iː z
 OVERTAKE, ˈəʊ v ə t ˌeɪ k
 OVERTIME, ˈəʊ v ə t ˌaɪ m
 OVERVIEW, ˈəʊ v ə v j ˌuː
@@ -8064,13 +8073,13 @@ PARKER, p ˈɑː k ə
 PARKING, p ˈɑː k ɪ ŋ
 PARKS, p ˈɑː k s
 PARLIAMENT, p ˈɑː l ə m ə n t
-PARLIAMENTARY, p ˈɑː l ə m ˈɛ n t ə ɹ iː
+PARLIAMENTARY, p ˌɑː l ə m ˈɛ n t ə ɹ iː
 PART, p ˈɑː t
 PART-TIME, p ˌɑː t t ˈaɪ m
 PARTIAL, p ˈɑː ʃ ə l
 PARTIALLY, p ˈɑː ʃ ə l iː
 PARTICIPANT, p ɑː t ˈɪ s ɪ p ə n t
-PARTICIPANTS, p ˈɑː t ˈɪ s ɪ p ə n t s
+PARTICIPANTS, p ɑː t ˈɪ s ɪ p ə n t s
 PARTICIPATE, p ɑː t ˈɪ s ɪ p ˌeɪ t
 PARTICIPATED, p ɑː t ˈɪ s ɪ p ˌeɪ t ɪ d
 PARTICIPATING, p ɑː t ˈɪ s ɪ p ˌeɪ t ɪ ŋ
@@ -8212,7 +8221,7 @@ PERFUME(2), p ə f j ˈuː m
 PERHAPS, p ə h ˈæ p s
 PERIOD, p ˈɪə ɹ ɪə d
 PERIODIC, p ˌɪ ɹ ɪ ˈɒ d ɪ k
-PERIODICALLY, p ˈɪə ɹ ɪ ˈɒ d ɪ k ə l iː
+PERIODICALLY, p ˌɪə ɹ ɪ ˈɒ d ɪ k ə l iː
 PERIODS, p ˈɪə ɹ ɪə d z
 PERIPHERAL(1), p ə ɹ ˈɪ f ɹ ə l
 PERIPHERAL(2), p ə ɹ ˈɪ f ə ɹ ə l
@@ -8315,7 +8324,7 @@ PICKING, p ˈɪ k ɪ ŋ
 PICKS, p ˈɪ k s
 PICKUP, p ˈɪ k ˌɐ p
 PICNIC, p ˈɪ k n ˌɪ k
-PICS, p ɪ k s
+PICS, p ˈɪ k s
 PICTURE, p ˈɪ k tʃ ə
 PICTURES, p ˈɪ k tʃ ə z
 PIE, p ˈaɪ
@@ -8400,7 +8409,7 @@ PLATINUM, p l ˈæ t ɪ n ə m
 PLAUSIBLE, p l ˈɔː z ɪ b ə l
 PLAY, p l ˈeɪ
 PLAYBACK, p l ˈeɪ b ˌæ k
-PLAYBOY, p l ˈeɪ b ˈɔɪ
+PLAYBOY, p l ˈeɪ b ˌɔɪ
 PLAYED, p l ˈeɪ d
 PLAYER, p l ˈeɪ ə
 PLAYERS, p l ˈeɪ ə z
@@ -8469,9 +8478,9 @@ POLLS, p ˈəʊ l z
 POLLUTION, p ə l ˈuː ʃ ə n
 POLLY, p ˈɒ l iː
 POLO, p ˈəʊ l əʊ
-POLYESTER, p ˌɒ l ˌiː ˈɛ s t ə
+POLYESTER, p ˌɒ l iː ˈɛ s t ə
 POLYMER, p ˈɒ l ɪ m ə
-POLYPHONIC, p ˌɒ l ˌɪ f ˈɒ n ɪ k
+POLYPHONIC, p ˌɒ l ɪ f ˈɒ n ɪ k
 POLYTECHNIC, p ˌɒ l ɪ t ˈɛ k n ɪ k
 POND, p ˈɒ n d
 PONY, p ˈəʊ n ˌiː
@@ -8506,7 +8515,7 @@ PORT, p ˈɔː t
 PORTABLE, p ˈɔː t ə b ə l
 PORTAL, p ˈɔː t ə l
 PORTER, p ˈɔː t ə
-PORTFOLIO, p ˌɔː t f ˈəʊ l ɪ ˌəʊ
+PORTFOLIO, p ɔː t f ˈəʊ l ɪ əʊ
 PORTION, p ˈɔː ʃ ə n
 PORTIONS, p ˈɔː ʃ ə n z
 PORTLAND, p ˈɔː t l ə n d
@@ -8534,7 +8543,7 @@ POSSIBILITY, p ˌɒ s ə b ˈɪ l ɪ t iː
 POSSIBLE, p ˈɒ s ə b ə l
 POSSIBLY, p ˈɒ s ə b l iː
 POST, p ˈəʊ s t
-POST-WAR, p ˈəʊ s t w ˈɔː
+POST-WAR, p ˈəʊ s t w ˌɔː
 POSTAGE, p ˈəʊ s t ɪ dʒ
 POSTAL, p ˈəʊ s t ə l
 POSTCARD(1), p ˈəʊ s k ˌɑː d
@@ -8663,7 +8672,7 @@ PRESSURE, p ɹ ˈɛ ʃ ə
 PRESSURES, p ɹ ˈɛ ʃ ə z
 PRESTIGE, p ɹ ɛ s t ˈiː ʒ
 PRESTIGIOUS, p ɹ ɛ s t ˈɪ dʒ ə s
-PRESTON, p ɹ ɛ s t ə n
+PRESTON, p ɹ ˈɛ s t ə n
 PRESUMABLY, p ɹ ɪ z j ˈuː m ə b l iː
 PRESUME, p ɹ ɪ z j ˈuː m
 PRETEND, p ɹ ɪ t ˈɛ n d
@@ -8718,8 +8727,8 @@ PRIVACY(1), p ɹ ˈaɪ v ə s iː
 PRIVACY(2), p ɹ ˈɪ v ə s iː
 PRIVATE, p ɹ ˈaɪ v ə t
 PRIVATELY, p ɹ ˈaɪ v ə t l iː
-PRIVATISATION, p ɹ aɪ v ɪ t aɪ z ˈeɪ ʃ ə n
-PRIVATIZATION, p ɹ ˈaɪ v ɪ t aɪ z ˈeɪ ʃ ə n
+PRIVATISATION, p ɹ ˌaɪ v ɪ t aɪ z ˈeɪ ʃ ə n
+PRIVATIZATION, p ɹ ˌaɪ v ɪ t aɪ z ˈeɪ ʃ ə n
 PRIVILEGE(1), p ɹ ˈɪ v l ɪ dʒ
 PRIVILEGE(2), p ɹ ˈɪ v ɪ l ɪ dʒ
 PRIVILEGED(1), p ɹ ˈɪ v l ɪ dʒ d
@@ -9002,7 +9011,7 @@ RACISM, ɹ ˈeɪ s ˌɪ z ə m
 RACK, ɹ ˈæ k
 RACKET, ɹ ˈæ k ɪ t
 RACKS, ɹ ˈæ k s
-RADAR, ɹ ˈeɪ d ˈɑː
+RADAR, ɹ ˈeɪ d ˌɑː
 RADIATION, ɹ ˌeɪ d ɪ ˈeɪ ʃ ə n
 RADIATOR, ɹ ˈeɪ d ɪ ˌeɪ t ə
 RADIATORS, ɹ ˈeɪ d ɪ ˌeɪ t ə z
@@ -9103,7 +9112,7 @@ REALISE, ɹ ˈɪə l ˌaɪ z
 REALISED, ɹ ˈɪə l ˌaɪ z d
 REALISM, ɹ ˈɪə l ɪ z m
 REALISTIC, ɹ ˌɪə l ˈɪ s t ɪ k
-REALITIES, ɹ ˌiː ˈæ l ɪ t ˌiː z
+REALITIES, ɹ ɪ ˈæ l ɪ t iː z
 REALITY, ɹ ɪ ˈæ l ɪ t iː
 REALIZE, ɹ ˈɪə l ˌaɪ z
 REALIZED, ɹ ˈɪə l ˌaɪ z d
@@ -9217,7 +9226,7 @@ REFERRALS, ɹ ɪ f ˈɛ ɹ ə l z
 REFERRED, ɹ ɪ f ˈɜː d
 REFERRING, ɹ ɪ f ˈɜː ɹ ɪ ŋ
 REFERS, ɹ ɪ f ˈɜː z
-REFINANCE(1), ɹ ˈiː f ˈaɪ n ˌæ n s
+REFINANCE(1), ɹ ˌiː f ˈaɪ n æ n s
 REFINANCE(2), ɹ ˌiː f ɪ n ˈæ n s
 REFINE, ɹ ɪ f ˈaɪ n
 REFINED, ɹ ɪ f ˈaɪ n d
@@ -9268,8 +9277,8 @@ REGULATED, ɹ ˈɛ g j ʊ l ˌeɪ t ɪ d
 REGULATION, ɹ ˌɛ g j ʊ l ˈeɪ ʃ ə n
 REGULATIONS, ɹ ˌɛ g j ʊ l ˈeɪ ʃ ə n z
 REGULATORY, ɹ ˈɛ g j ʊ l ə t ə ɹ iː
-REHAB, ɹ ˌiː h æ b
-REHABILITATION, ɹ ˌiː ə b ˌɪ l ɪ t ˈeɪ ʃ ə n
+REHAB, ɹ ˈiː h ˌæ b
+REHABILITATION, ɹ ˌiː ə b ɪ l ɪ t ˈeɪ ʃ ə n
 REHEARSAL, ɹ ɪ h ˈɜː s ə l
 REIGN, ɹ ˈeɪ n
 REJECT(1), ɹ ɪ dʒ ˈɛ k t
@@ -9305,7 +9314,7 @@ RELIGION, ɹ ɪ l ˈɪ dʒ ə n
 RELIGIONS, ɹ ɪ l ˈɪ dʒ ə n z
 RELIGIOUS, ɹ ɪ l ˈɪ dʒ ə s
 RELOAD, ɹ iː l ˈəʊ d
-RELOCATION, ɹ ɪ l ˈəʊ k ˈeɪ ʃ ə n
+RELOCATION, ɹ ɪ l əʊ k ˈeɪ ʃ ə n
 RELUCTANCE, ɹ ɪ l ˈɐ k t ə n s
 RELUCTANT, ɹ ɪ l ˈɐ k t ə n t
 RELUCTANTLY, ɹ ɪ l ˈɐ k t ə n t l iː
@@ -9532,7 +9541,7 @@ REVOLUTIONARY, ɹ ˌɛ v ə l ˈuː ʃ ə n ə ɹ iː
 REWARD, ɹ ɪ w ˈɔː d
 REWARDS, ɹ ɪ w ˈɔː d z
 RHETORIC, ɹ ˈɛ t ə ɹ ɪ k
-RHODE, ɹ ˌəʊ d
+RHODE, ɹ ˈəʊ d
 RHYTHM, ɹ ˈɪ ð ə m
 RIBBON, ɹ ˈɪ b ə n
 RICE, ɹ ˈaɪ s
@@ -9685,8 +9694,8 @@ RULES, ɹ ˈuː l z
 RULING, ɹ ˈuː l ɪ ŋ
 RUM, ɹ ˈɐ m
 RUMBLING, ɹ ˈɐ m b l ɪ ŋ
-RUMORS, ɹ j ˈː m ə z
-RUMOURS, ɹ ˌuː m ə z
+RUMORS, ɹ ˈuː m ə z
+RUMOURS, ɹ ˈuː m ə z
 RUN, ɹ ˈɐ n
 RUNG, ɹ ˈɐ ŋ
 RUNNER, ɹ ˈɐ n ə
@@ -9788,7 +9797,7 @@ SATISFACTORY(2), s ˌæ t ɪ s f ˈæ k t ə ɹ iː
 SATISFIED, s ˈæ t ɪ s f ˌaɪ d
 SATISFY, s ˈæ t ɪ s f ˌaɪ
 SATURDAY(1), s ˈæ t ə d iː
-SATURDAY(2), s ˈæ t ˌɪ d ˌeɪ
+SATURDAY(2), s ˈæ t ə d ˌeɪ
 SATURDAYS(1), s ˈæ t ə d iː z
 SATURDAYS(2), s ˈæ t ə d eɪ z
 SATURN, s ˈæ t ə n
@@ -9979,7 +9988,7 @@ SEMANTIC, s ɪ m ˈæ n t ɪ k
 SEMESTER, s ə m ˈɛ s t ə
 SEMI, s ˈɛ m iː
 SEMICONDUCTOR, s ˌɛ m ɪ k ə n d ˈɐ k t ə
-SEMINAR, s ˈɛ m ɪ n ˈɑː
+SEMINAR, s ˈɛ m ɪ n ˌɑː
 SEMINARS, s ˈɛ m ɪ n ˌɑː z
 SENATE, s ˈɛ n ɪ t
 SENATOR, s ˈɛ n ə t ə
@@ -10076,7 +10085,7 @@ SHALLOW, ʃ ˈæ l əʊ
 SHAME, ʃ ˈeɪ m
 SHAMPOO, ʃ æ m p ˈuː
 SHANE, ʃ ˈeɪ n
-SHANGHAI, ʃ ˈæ ŋ h ˈaɪ
+SHANGHAI, ʃ æ ŋ h ˈaɪ
 SHAPE, ʃ ˈeɪ p
 SHAPED, ʃ ˈeɪ p t
 SHAPES, ʃ ˈeɪ p s
@@ -10146,7 +10155,7 @@ SHOPPING, ʃ ˈɒ p ɪ ŋ
 SHOPS, ʃ ˈɒ p s
 SHORE, ʃ ˈɔː
 SHORT, ʃ ˈɔː t
-SHORT-TERM, ʃ ˈɔː t t ˈɜː m
+SHORT-TERM, ʃ ˌɔː t t ˈɜː m
 SHORTAGE, ʃ ˈɔː t ɪ dʒ
 SHORTCUTS, ʃ ˈɔː t k ˌɐ t s
 SHORTER, ʃ ˈɔː t ə
@@ -10358,7 +10367,7 @@ SNOW, s n ˈəʊ
 SNOWBOARD, s n ˈəʊ b ˌɔː d
 SNOWMAN, s n ˈəʊ m ˌæ n
 SO, s ˈəʊ
-SO-CALLED, s ˈəʊ k ˈɔː l d
+SO-CALLED, s ˈəʊ k ˌɔː l d
 SOAKING, s ˈəʊ k ɪ ŋ
 SOAP, s ˈəʊ p
 SOBBING, s ˈɒ b ɪ ŋ
@@ -10533,7 +10542,7 @@ SPINE, s p ˈaɪ n
 SPIRIT, s p ˈɪ ɹ ɪ t
 SPIRITS, s p ˈɪ ɹ ɪ t s
 SPIRITUAL, s p ˈɪ ɹ ɪ tʃ j ʊə l
-SPIRITUALITY, s p ˌɪ ɹ ɪ tʃ j ʊə l ɪ t iː
+SPIRITUALITY, s p ˌɪ ɹ ɪ tʃ ʊ ˈæ l ɪ t iː
 SPIT, s p ˈɪ t
 SPITE, s p ˈaɪ t
 SPLENDID, s p l ˈɛ n d ɪ d
@@ -10982,7 +10991,7 @@ SWEDEN, s w ˈiː d ə n
 SWEDISH, s w ˈiː d ɪ ʃ
 SWEEP, s w ˈiː p
 SWEET, s w ˈiː t
-SWEETHEART, s w ˈiː t h ˈɑː t
+SWEETHEART, s w ˈiː t h ˌɑː t
 SWEETIE, s w ˈiː t iː
 SWEETS, s w ˈiː t s
 SWELL, s w ˈɛ l
@@ -11090,7 +11099,7 @@ TASTY, t ˈeɪ s t iː
 TATTOO, t ə t ˈuː
 TAUGHT, t ˈɔː t
 TAX, t ˈæ k s
-TAXATION, t ˈæ k s ˈeɪ ʃ ə n
+TAXATION, t ˌæ k s ˈeɪ ʃ ə n
 TAXES, t ˈæ k s ɪ z
 TAXI, t ˈæ k s iː
 TAXPAYER, t ˈæ k s p ˌeɪ ə
@@ -11131,13 +11140,13 @@ TEENS, t ˈiː n z
 TEES, t ˈiː z
 TEETH, t ˈiː θ
 TELECOM, t ˈɛ l ə k ɒ m
-TELECOMMUNICATIONS, t ˌɛ l ɪ k ə m j ˌuː n ɪ k ˈeɪ ʃ ə n z
+TELECOMMUNICATIONS, t ˌɛ l ɪ k ə m j uː n ɪ k ˈeɪ ʃ ə n z
 TELEGRAM, t ˈɛ l ə g ɹ ˌæ m
 TELEGRAPH, t ˈɛ l ə g ɹ ˌɑː f
 TELEPHONE, t ˈɛ l ə f ˌəʊ n
 TELEPHONY, t ɪ l ˈɛ f ə n iː
 TELESCOPE, t ˈɛ l ɪ s k ˌəʊ p
-TELETEXT, t ˈɛ l ə t ˈɛ k s t
+TELETEXT, t ˈɛ l ə t ˌɛ k s t
 TELEVISION, t ˈɛ l ə v ˌɪ ʒ ə n
 TELEVISIONS, t ˈɛ l ɪ v ˌɪ ʒ ə n z
 TELL, t ˈɛ l
@@ -11225,7 +11234,7 @@ THAN(2), ð ˈæ n
 THANK, θ ˈæ ŋ k
 THANKS, θ ˈæ ŋ k s
 THANKSGIVING, θ ˌæ ŋ k s g ˈɪ v ɪ ŋ
-THANKYOU, θ ˈæ ŋ k j ˈuː
+THANKYOU, θ ˈæ ŋ k j uː
 THAT(1), ð ə t
 THAT(2), ð ˈæ t
 THATCHER, θ ˈæ tʃ ə
@@ -11434,7 +11443,7 @@ TONY, t ˈəʊ n iː
 TOO, t ˈuː
 TOOK, t ˈʊ k
 TOOL, t ˈuː l
-TOOLBAR, t ˈuː l b ˈɑː
+TOOLBAR, t ˈuː l b ˌɑː
 TOOLBOX, t ˈuː l b ˌɒ k s
 TOOLKIT, t ˈuː l k ɪ t
 TOOLS, t ˈuː l z
@@ -11543,16 +11552,16 @@ TRANSFORMATION, t ɹ ˌæ n s f ə m ˈeɪ ʃ ə n
 TRANSFORMED, t ɹ æ n s f ˈɔː m d
 TRANSIT, t ɹ ˈæ n z ɪ t
 TRANSITION, t ɹ æ n z ˈɪ ʃ ə n
-TRANSLATE, t ɹ æ n s l ˈeɪ t
-TRANSLATED, t ɹ æ n s l ˈeɪ t ɪ d
-TRANSLATION(1), t ɹ æ n s l ˈeɪ ʃ ə n
-TRANSLATION(2), t ɹ ˈæ n z l ˈeɪ ʃ ə n
-TRANSLATIONS(1), t ɹ æ n s l ˈeɪ ʃ ə n z
-TRANSLATIONS(2), t ɹ ˈæ n z l ˈeɪ ʃ ə n z
-TRANSLATOR(1), t ɹ æ n s l ˈeɪ t ə
-TRANSLATOR(2), t ɹ ˈæ n z l ˈeɪ t ə
-TRANSMISSION(1), t ɹ æ n s m ˈɪ ʃ ə n
-TRANSMISSION(2), t ɹ æ n z m ˈɪ ʃ ə n
+TRANSLATE, t ɹ ˌæ n s l ˈeɪ t
+TRANSLATED, t ɹ ˌæ n s l ˈeɪ t ɪ d
+TRANSLATION(1), t ɹ ˌæ n s l ˈeɪ ʃ ə n
+TRANSLATION(2), t ɹ ˌæ n z l ˈeɪ ʃ ə n
+TRANSLATIONS(1), t ɹ ˌæ n s l ˈeɪ ʃ ə n z
+TRANSLATIONS(2), t ɹ ˌæ n z l ˈeɪ ʃ ə n z
+TRANSLATOR(1), t ɹ ˌæ n s l ˈeɪ t ə
+TRANSLATOR(2), t ɹ ˌæ n z l ˈeɪ t ə
+TRANSMISSION(1), t ɹ ˌæ n s m ˈɪ ʃ ə n
+TRANSMISSION(2), t ɹ ˌæ n z m ˈɪ ʃ ə n
 TRANSMIT, t ɹ æ n z m ˈɪ t
 TRANSMITTED, t ɹ æ n s m ˈɪ t ɪ d
 TRANSPARENCY(1), t ɹ æ n s p ˈæ ɹ ə n s iː
@@ -11831,7 +11840,7 @@ UPPER, ˈɐ p ə
 UPS, ˈɐ p s
 UPSET(1), ɐ p s ˈɛ t
 UPSET(2), ˈɐ p s ˌɛ t
-UPSIDE, ˈɐ p s ˈaɪ d
+UPSIDE, ˈɐ p s ˌaɪ d
 UPSKIRT, ˈɐ p s k ˌɜː t
 UPSTAIRS, ɐ p s t ˈɛə z
 UPWARDS, ˈɐ p w ə d z
@@ -11969,7 +11978,7 @@ VIBRATOR, v ˈaɪ b ɹ eɪ t ə
 VIBRATORS, v ˈaɪ b ɹ eɪ t ə z
 VICAR, v ˈɪ k ə
 VICE, v ˈaɪ s
-VICE-PRESIDENT, v ˈaɪ s p ɹ ˈɛ z ɪ d ə n t
+VICE-PRESIDENT, v ˌaɪ s p ɹ ˈɛ z ɪ d ə n t
 VICIOUS, v ˈɪ ʃ ə s
 VICKI, v ˈɪ k iː
 VICKY, v ˈɪ k iː
@@ -12213,7 +12222,7 @@ WELCOMED, w ˈɛ l k ə m d
 WELDING, w ˈɛ l d ɪ ŋ
 WELFARE, w ˈɛ l f ˌɛə
 WELL, w ˈɛ l
-WELL-KNOWN, w ˈɛ l n ˈəʊ n
+WELL-KNOWN, w ˌɛ l n ˈəʊ n
 WELLIES, w ˈɛ l iː z
 WELLINGTON, w ˈɛ l ɪ ŋ t ə n
 WELLNESS, w ˈɛ l n ə s
@@ -12252,7 +12261,7 @@ WHILE, w ˈaɪ l
 WHILST, w ˈaɪ l s t
 WHIMPERING, w ˈɪ m p ə ɹ ɪ ŋ
 WHIP, w ˈɪ p
-WHIRRING, w ɹ ɪ ŋ
+WHIRRING, w ˈɪ ɹ ɪ ŋ
 WHISKEY, w ˈɪ s k iː
 WHISKY, w ˈɪ s k iː
 WHISPERED, w ˈɪ s p ə d
@@ -12413,7 +12422,8 @@ WORKSTATION, w ˈɜː k s t ˌeɪ ʃ ə n
 WORKSTATIONS, w ˈɜː k s t ˌeɪ ʃ ə n z
 WORLD, w ˈɜː l d
 WORLDS, w ˈɜː l d z
-WORLDWIDE, w ˈɜː l d w ˈaɪ d
+WORLDWIDE(1), w ˈɜː l d w aɪ d
+WORLDWIDE(2), w ɜː l d w ˈaɪ d
 WORM, w ˈɜː m
 WORN, w ˈɔː n
 WORRIED, w ˈɒ ɹ ɪ d
@@ -12455,7 +12465,7 @@ WRONG, ɹ ˈɒ ŋ
 WROTE, ɹ ˈəʊ t
 WY, w ˈaɪ
 WYOMING, w ˌaɪ ˈəʊ m ɪ ŋ
-Y'ALL, j ˌɔː l
+Y'ALL, j ˈɔː l
 YACHT, j ˈɒ t
 YAHOO(1), j ˈɑː h ˌuː
 YAHOO(2), j ə h ˈuː
