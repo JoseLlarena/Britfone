@@ -51,16 +51,16 @@ MRS.	MISSIS
 * **strict IPA versus traditional phonetic symbols**: the phonetic symbols are strictly as defined by the IPA, as opposed to how
 they have traditionally been used in the linguist literature. In particular:
 
-  ** /ɐ/ instead of traditional /ʌ/
-  ** /ɹ/ instead of traditional /r/
-  ** /ɛ/ instead of traditional /e/
-  ** /ɜː/ instead of traditional /əː/
+  * /ɐ/ instead of traditional /ʌ/
+  * /ɹ/ instead of traditional /r/
+  * /ɛ/ instead of traditional /e/
+  * /ɜː/ instead of traditional /əː/
 
-* **unstressed vowels as  /ə/ and  /ɪ/**: due to the diversity of the sources for phonetic transcription, there's a fair amount of inconsistency in how weak vowels
- are transcribed. See the wikipedia discussion of [weak-vowel merger] (https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Weak-vowel_merger)
+* **unstressed vowels as  /ə/ and  /ɪ/**: due to the diversity of the sources for phonetic transcription, there's a fair amount of inconsistency in how [weak vowels](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Weak-vowel_merger)
+ are transcribed.
 
 * **final _i_**: final _i's_ are given the 'long i' /iː/ phoneme to reflect [happy-tensing](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Happy-tensing), even
-though some dictionaries show a tense but short /i/, different from both /iː/ and /ɪ/ ([see wikipedia discussion](https://en.wikipedia.org/wiki/English_phonology)).
+though some dictionaries show a tense but [short /i/](https://en.wikipedia.org/wiki/English_phonology), different from both /iː/ and /ɪ/.
 
 * **secondary stress**: secondary stress is not always marked (the primary always is).
 
@@ -74,7 +74,8 @@ of nouns is not included.
 
 ## Sources
 
-The initial source of the phonetic transcriptions is cmudict, plus a number of online sources for specifics of British English.
+The initial source of the phonetic transcriptions is [cmudict](https://github.com/cmusphinx/cmudict), plus a number of online sources for specifics of British English.
+
 The main sources of the word frequency-filtered vocabulary are the top 10K in the British National Corpus and the Google Web Corpus. Not all words in this list are included
 since due to sampling bias there uncommon words like _ATHELSTAN_ or _PHENTERMINE_, as well as foreign words. Also excluded are initialisms.
 
