@@ -222,7 +222,8 @@ def spot_bad_characters(_file=SEED_FILE):
         for char in re.split('\s+',line):
             chars.append(char)
     for ch, c in Counter(chars).most_common():
-        print '%s = %s' % (ch, c)
+        # print '%s = %s' % (ch, c)
+        print '%s' % ch
 
 def linesx_from(file_name, pipe=lambda x: x, where=lambda count, line: True):
     lines = []
@@ -384,11 +385,11 @@ if __name__ == '__main__':
     # checks_for_missing()
     # vocabulary2()
     # finds_multiples()
-    # resort(EXPANSIONS_FILE)
+    # resort(SEED_FILE)
     # reformat_csv()
     # reformat_tsv()
-    # spot_bad_characters()
+    spot_bad_characters()
     # expansions_not_in_britfone()
     # check_unlikely()
-    find_suspect_alignments()
+    # find_suspect_alignments()
     # unmerge_all_js()
