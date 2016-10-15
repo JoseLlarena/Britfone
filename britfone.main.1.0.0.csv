@@ -894,6 +894,8 @@ AWFUL, ˈɔː f ə l
 AWFULLY(1), ˈɔː f l iː
 AWFULLY(2), ˈɔː f ə l iː
 AWKWARD, ˈɔː k w ə d
+AX, ˈæ k s
+AXES, ˈæ k s iː z
 AXIS, ˈæ k s ɪ s
 AYE(1), ˈaɪ
 AYRSHIRE, ˈɛə ʃ ə
@@ -1059,7 +1061,7 @@ BEE, b ˈiː
 BEEF, b ˈiː f
 BEEN(1), b ɪ n
 BEEN(2), b ˈiː n
-BEEN, b ˈɪ n
+BEEN(3), b ˈɪ n
 BEEP, b ˈiː p
 BEEPING, b ˈiː p ɪ ŋ
 BEEPS, b ˈiː p s
@@ -2665,8 +2667,8 @@ COS, k ˈɒ s
 COSMETIC, k ɒ z m ˈɛ t ɪ k
 COSMETICS, k ɒ z m ˈɛ t ɪ k s
 COST, k ˈɒ s t
-COSTA RICA, k ˌɒ s t ə ɹ ˈiː k ə
 COSTA, k ˈɒ s t ə
+COSTA RICA, k ˌɒ s t ə ɹ ˈiː k ə
 COSTING, k ˈɒ s t ɪ ŋ
 COSTLY, k ˈɒ s t l iː
 COSTS, k ˈɒ s t s
@@ -3115,7 +3117,7 @@ DENTISTS, d ˈɛ n t ɪ s t s
 DENVER, d ˈɛ n v ə
 DENY, d ɪ n ˈaɪ
 DEPARTMENT, d ɪ p ˈɑː t m ə n t
-DEPARTMENTAL, ˌd iː p ɑː t m ˈɛ n t ə l
+DEPARTMENTAL, d ˌiː p ɑː t m ˈɛ n t ə l
 DEPARTMENTS, d ɪ p ˈɑː t m ə n t s
 DEPARTURE, d ɪ p ˈɑː tʃ ə
 DEPEND, d ɪ p ˈɛ n d
@@ -3460,8 +3462,8 @@ DOMINANT, d ˈɒ m ɪ n ə n t
 DOMINATED, d ˈɒ m ɪ n ˌeɪ t ɪ d
 DOMINATION, d ˌɒ m ɪ n ˈeɪ ʃ ə n
 DOMINICAN, d ə m ˈɪ n ɪ k ə n
-DON'T, d ˈəʊ n t
 DON, d ˈɒ n
+DON'T, d ˈəʊ n t
 DONALD, d ˈɒ n ə l d
 DONATE, d ˈəʊ n ˌeɪ t
 DONATED, d ˈəʊ n ˌeɪ t ɪ d
@@ -3480,6 +3482,8 @@ DOORWAY, d ˈɔː w ˌeɪ
 DOPE, d ˈəʊ p
 DOREEN, d ə ɹ ˈiː n
 DORIS, d ˈɒ ɹ ɪ s
+DORMICE, d ˈɔː m ˌaɪ s
+DORMOUSE, d ˈɔː m ˌaʊ s
 DOROTHY, d ˈɒ ɹ ə θ iː
 DORSET, d ˈɔː s ɪ t
 DOS, d ˈɒ s
@@ -3602,8 +3606,8 @@ DYLAN, d ˈɪ l ə n
 DYNAMIC, d aɪ n ˈæ m ɪ k
 DYNAMICS, d aɪ n ˈæ m ɪ k s
 DYNAMITE, d ˈaɪ n ə m ˌaɪ t
-E'S, ˈiː z
 E, ˈiː
+E'S, ˈiː z
 EACH, ˈiː tʃ
 EAGER, ˈiː g ə
 EAGLE, ˈiː g ə l
@@ -5249,8 +5253,8 @@ HATRED, h ˈeɪ t ɹ ɪ d
 HATS, h ˈæ t s
 HAVE(1), h ə v
 HAVE(2), h ˈæ v
-HAVEN'T, h ˈæ v ə n t
 HAVEN, h ˈeɪ v ə n
+HAVEN'T, h ˈæ v ə n t
 HAVERING, h ˈeɪ v ə ɹ ɪ ŋ
 HAVING, h ˈæ v ɪ ŋ
 HAWAII, h ə w ˈaɪ ˌiː
@@ -5571,8 +5575,8 @@ HYPOTHESIS, h aɪ p ˈɒ θ ɪ s ɪ s
 HYPOTHETICAL, h ˌaɪ p ə θ ˈɛ t ɪ k ə l
 HYUNDAI(1), h aɪ ˈuː n d aɪ
 HYUNDAI(2), h j ˈɐ n d ˌeɪ
-I'S, ˈaɪ z
 I, ˈaɪ
+I'S, ˈaɪ z
 IAN, ˈiː ə n
 ICE, ˈaɪ s
 ICE-CREAM, ˈaɪ s k ɹ ˌiː m
@@ -6510,8 +6514,8 @@ LESS, l ˈɛ s
 LESSER, l ˈɛ s ə
 LESSON, l ˈɛ s ə n
 LESSONS, l ˈɛ s ə n z
-LET'S, l ˈɛ t s
 LET, l ˈɛ t
+LET'S, l ˈɛ t s
 LETS, l ˈɛ t s
 LETTER, l ˈɛ t ə
 LETTERS, l ˈɛ t ə z
@@ -7260,7 +7264,7 @@ MODULES, m ˈɒ dʒ uː l z
 MOIRA, m ˈɔɪ ɹ ə
 MOISTURE, m ˈɔɪ s tʃ ə
 MOLD, m ˈəʊ l d
-MOLDOVA, mˌ ɒ l d ˈəʊ v ə
+MOLDOVA, m ˌɒ l d ˈəʊ v ə
 MOLECULAR, m ə l ˈɛ k j ʊ l ə
 MOLECULES, m ˈɒ l ɪ k j ˌuː l z
 MOLLY, m ˈɒ l iː
@@ -7705,9 +7709,9 @@ NUTRITIONAL, n j uː t ɹ ˈɪ ʃ ə n ə l
 NUTS, n ˈɐ t s
 NUTTY, n ˈɐ t iː
 NYLON, n ˈaɪ l ˌɒ n
+O, ˈəʊ
 O'CLOCK, ə k l ˈɒ k
 O'S, ˈəʊ z
-O, ˈəʊ
 OAK, ˈəʊ k
 OAKLAND, ˈəʊ k l ə n d
 OAKS, ˈəʊ k s
@@ -11724,8 +11728,8 @@ TYPICALLY(2), t ˈɪ p ɪ k ə l iː
 TYPING, t ˈaɪ p ɪ ŋ
 TYRE, t ˈaɪ ə
 TYRES, t ˈaɪ ə z
-U'S, j ˈuː z
 U, j ˈuː
+U'S, j ˈuː z
 UGANDA, j uː g ˈæ n d ə
 UGH, ˈɐ g
 UGLY, ˈɐ g l iː
