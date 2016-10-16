@@ -1079,6 +1079,7 @@ BEER, b ˈɪə
 BEES, b ˈiː z
 BEETHOVEN, b ˌeɪ t ˈəʊ v ə n
 BEFORE, b ɪ f ˈɔː
+BEFOREHAND, b ɪ f ˈɔː h ˌæ n d
 BEG, b ˈɛ g
 BEGAN, b ɪ g ˈæ n
 BEGGING, b ˈɛ g ɪ ŋ
@@ -1763,6 +1764,7 @@ CARTOON, k ɑː t ˈuː n
 CARTOONS, k ɑː t ˈuː n z
 CARTRIDGE, k ˈɑː t ɹ ɪ dʒ
 CARTRIDGES, k ˈɑː t ɹ ɪ dʒ ɪ z
+CARVE, k ˈɑː v
 CASE, k ˈeɪ s
 CASES, k ˈeɪ s ɪ z
 CASH, k ˈæ ʃ
@@ -2379,6 +2381,7 @@ COMPUTING, k ə m p j ˈuː t ɪ ŋ
 COMRADE(1), k ˈɒ m ɹ ˌeɪ d
 COMRADE(2), k ˈɒ m ɹ ɪ d
 CON, k ˈɒ n
+CONCEIVE, k ə n s ˈiː v
 CONCENTRATE, k ˈɒ n s ə n t ɹ ˌeɪ t
 CONCENTRATED, k ˈɒ n s ə n t ɹ ˌeɪ t ɪ d
 CONCENTRATING, k ˈɒ n s ə n t ɹ ˌeɪ t ɪ ŋ
@@ -2442,7 +2445,8 @@ CONFLICT(1), k ˈɒ n f l ɪ k t
 CONFLICT(2), k ə n f l ˈɪ k t
 CONFLICTS(1), k ˈɒ n f l ɪ k t s
 CONFLICTS(2), k ə n f l ˈɪ k t s
-CONFRONTATION, k ˌɒ n f ɹ ə n t ˈeɪ ʃ ə n
+CONFRONTATION, k ə n f ɹ ˈɐ n t
+CONFRONTATION, k ˌɒ n f ɹ ɐ n t ˈeɪ ʃ ə n
 CONFUSED, k ə n f j ˈuː z d
 CONFUSION, k ə n f j ˈuː ʒ ə n
 CONGO, k ˈɒ ŋ g əʊ
@@ -3120,6 +3124,7 @@ DEMOCRAT, d ˈɛ m ə k ɹ ˌæ t
 DEMOCRATIC, d ˌɛ m ə k ɹ ˈæ t ɪ k
 DEMOCRATS, d ˈɛ m ə k ɹ ˌæ t s
 DEMOGRAPHIC, d ˌɛ m ə g ɹ ˈæ f ɪ k
+DEMOLISH, d ɪ m ˈɒ l ɪ ʃ
 DEMON, d ˈiː m ə n
 DEMONS, d ˈiː m ə n z
 DEMONSTRATE, d ˈɛ m ə n s t ɹ ˌeɪ t
@@ -3223,6 +3228,7 @@ DETECTIVE, d ɪ t ˈɛ k t ɪ v
 DETECTIVES, d ɪ t ˈɛ k t ɪ v z
 DETECTOR, d ɪ t ˈɛ k t ə
 DETENTION, d ɪ t ˈɛ n ʃ ə n
+DETERIORATE, d ɪ t ˈɪə ɹ ɪə ɹ ˌeɪ t
 DETERIORATION, d ɪ t ˈɪə ɹ ɪə ɹ ˌeɪ ʃ ə n
 DETERMINATION, d ɪ t ˌɜː m ɪ n ˈeɪ ʃ ə n
 DETERMINE, d ɪ t ˈɜː m ɪ n
@@ -3266,6 +3272,7 @@ DICE, d ˈaɪ s
 DICK, d ˈɪ k
 DICKHEAD, d ˈɪ k h ˌɛ d
 DICKS, d ˈɪ k s
+DICTATE, d ɪ k t ˈeɪ t
 DICTIONARIES, d ˈɪ k ʃ ə n ə ɹ iː z
 DICTIONARY, d ˈɪ k ʃ ə n ə ɹ iː
 DID(1), d ɪ d
@@ -3426,6 +3433,7 @@ DISTINCTIVE, d ɪ s t ˈɪ ŋ k t ɪ v
 DISTINCTLY, d ɪ s t ˈɪ ŋ k t l iː
 DISTINGUISH, d ɪ s t ˈɪ ŋ g w ɪ ʃ
 DISTINGUISHED, d ɪ s t ˈɪ ŋ g w ɪ ʃ t
+DISTORT, d ɪ s t ˈɔː t
 DISTRESS, d ɪ s t ɹ ˈɛ s
 DISTRIBUTE, d ɪ s t ɹ ˈɪ b j uː t
 DISTRIBUTED, d ɪ s t ɹ ˈɪ b j ʊ t ɪ d
@@ -3841,6 +3849,7 @@ EMOTIONAL, ɪ m ˈəʊ ʃ ə n ə l
 EMOTIONS, ɪ m ˈəʊ ʃ ə n z
 EMPEROR, ˈɛ m p ə ɹ ə
 EMPHASIS, ˈɛ m f ə s ɪ s
+EMPHASISE, ˈɛ m f ə s ˌaɪ z
 EMPIRE, ˈɛ m p aɪ ə
 EMPIRICAL, ˌɛ m p ˈɪ ɹ ɪ k ə l
 EMPLOY(1), ɪ m p l ˈɔɪ
@@ -4001,6 +4010,7 @@ EQUIPPED, ɪ k w ˈɪ p t
 EQUITY, ˈɛ k w ɪ t iː
 EQUIVALENT, ɪ k w ˈɪ v ə l ə n t
 ERA, ˈɪə ɹ ə
+ERECT, ɪ ɹ ˈɛ k t
 ERIC, ˈɛ ɹ ɪ k
 ERICSSON, ˈɛ ɹ ɪ k s ə n
 ERIK, ˈɛ ɹ ɪ k
@@ -4098,6 +4108,7 @@ EVOLUTIONARY(2), ˌiː v ə l ˈuː ʃ ə n ə ɹ iː
 EX, ˈɛ k s
 EXACT, ɪ g z ˈæ k t
 EXACTLY, ɪ g z ˈæ k t l iː
+EXAGGERATE, ɪ g z ˈæ dʒ ə ɹ ˌeɪ t
 EXAM, ɪ g z ˈæ m
 EXAMINATION, ɪ g z ˌæ m ɪ n ˈeɪ ʃ ə n
 EXAMINATIONS, ɪ g z ˌæ m ɪ n ˈeɪ ʃ ə n z
@@ -4555,6 +4566,7 @@ FLORIDA, f l ˈɒ ɹ ɪ d ə
 FLORIST, f l ˈɒ ɹ ɪ s t
 FLORISTS, f l ˈɒ ɹ ɪ s t s
 FLOUR, f l ˈaʊ ə
+FLOURISH, f l ˈɐ ɹ ɪ ʃ
 FLOW, f l ˈəʊ
 FLOWER, f l ˈaʊ ə
 FLOWERS, f l ˈaʊ ə z
@@ -5127,6 +5139,7 @@ GRIEF, g ɹ ˈiː f
 GRILL, g ɹ ˈɪ l
 GRIM, g ɹ ˈɪ m
 GRIN, g ɹ ˈɪ n
+GRIND, g ɹ ˈaɪ n d
 GRINNED, g ɹ ˈɪ n d
 GRIP, g ɹ ˈɪ p
 GROANING, g ɹ ˈəʊ n ɪ ŋ
@@ -5783,6 +5796,7 @@ INCREDIBLE, ɪ n k ɹ ˈɛ d ə b ə l
 INCREDIBLY, ɪ n k ɹ ˈɛ d ə b l iː
 INCURRED, ɪ n k ˈɜː d
 INDEED, ɪ n d ˈiː d
+INDEFINITELY, ɪ n d ˈɛ f ɪ n ɪ t l iː
 INDEPENDENCE, ˌɪ n d ɪ p ˈɛ n d ə n s
 INDEPENDENT, ˌɪ n d ɪ p ˈɛ n d ə n t
 INDEPENDENTLY, ˌɪ n d ɪ p ˈɛ n d ə n t l iː
@@ -5822,6 +5836,7 @@ INDUCTION, ɪ n d ˈɐ k ʃ ə n
 INDUSTRIAL, ɪ n d ˈɐ s t ɹ ɪə l
 INDUSTRIES, ˈɪ n d ə s t ɹ iː z
 INDUSTRY, ˈɪ n d ə s t ɹ iː
+INDULGE, ɪ n d ˈɐ l dʒ
 INEQUALITY, ˌɪ n ɪ k w ˈɒ l ɪ t iː
 INEVITABLE, ɪ n ˈɛ v ɪ t ə b ə l
 INEVITABLY, ɪ n ˈɛ v ɪ t ə b l iː
@@ -7830,6 +7845,7 @@ OBSERVED, ə b z ˈɜː v d
 OBSERVER, ə b z ˈɜː v ə
 OBSERVERS, ə b z ˈɜː v ə z
 OBSESSED, ə b s ˈɛ s t
+OBSESSION, ə b s ˈɛ ʃ ə n
 OBSTACLE, ˈɒ b s t ə k ə l
 OBSTACLES, ˈɒ b s t ə k ə l z
 OBTAIN, ə b t ˈeɪ n
@@ -8042,6 +8058,7 @@ OUTLINED, ˈaʊ t l ˌaɪ n d
 OUTLOOK, ˈaʊ t l ˌʊ k
 OUTPUT, ˈaʊ t p ˌʊ t
 OUTPUTS, ˈaʊ t p ˌʊ t s
+OUTRAGE, ˈaʊ t ɹ ˌeɪ dʒ
 OUTREACH, ˈaʊ t ɹ ˌiː tʃ
 OUTSET, ˈaʊ t s ˌɛ t
 OUTSIDE(1), ˈaʊ t s aɪ d
@@ -8055,6 +8072,7 @@ OVERALL, ˈəʊ v ə ɹ ɔː l
 OVERCOME, ˈəʊ v ə k ˌɐ m
 OVERHEAD(1), ˈəʊ v ə h ˌɛ d
 OVERHEAD(2), ˌəʊ v ə h ˈɛ d
+OVERLOOK, əʊ v ə l ˈʊ k
 OVERNIGHT(1), ˈəʊ v ə n aɪ t
 OVERNIGHT(2), əʊ v ə n ˈaɪ t
 OVERSEAS(1), əʊ v ə s ˈiː z
@@ -8502,6 +8520,7 @@ PLANNER, p l ˈæ n ə
 PLANNERS, p l ˈæ n ə z
 PLANNING, p l ˈæ n ɪ ŋ
 PLANS, p l ˈæ n z
+PLANK, p l ˈæ n k
 PLANT, p l ˈɑː n t
 PLANTS, p l ˈɑː n t s
 PLASMA, p l ˈæ z m ə
@@ -8716,6 +8735,7 @@ PRAYERS(1), p ɹ ˈɛə z
 PRAYERS(2), p ɹ ˈeɪ ə z
 PRAYING, p ɹ ˈeɪ ɪ ŋ
 PREACH, p ɹ ˈiː tʃ
+PRECAUTION,  p ɹ ɪ k ˈɔː ʃ ə n
 PRECEDING, p ɹ ɪ s ˈiː d ɪ ŋ
 PRECIOUS, p ɹ ˈɛ ʃ ə s
 PRECIPITATION, p ɹ ɪ s ˌɪ p ɪ t ˈeɪ ʃ ə n
@@ -9257,6 +9277,7 @@ REBELS(1), ɹ ɪ b ˈɛ l z
 REBELS(2), ɹ ˈɛ b ə l z
 REBOUND(1), ɹ ɪ b ˈaʊ n d
 REBOUND(2), ɹ ˈiː b aʊ n d
+REBUILD, ɹ iː b ˈɪ l d
 RECALL(1), ɹ ɪ k ˈɔː l
 RECALL(2), ɹ ˈiː k ɔː l
 RECALLED, ɹ ɪ k ˈɔː l d
@@ -9287,6 +9308,7 @@ RECOGNISED, ɹ ˈɛ k ə g n ˌaɪ z d
 RECOGNITION, ɹ ˌɛ k ə g n ˈɪ ʃ ə n
 RECOGNIZE, ɹ ˈɛ k ə g n ˌaɪ z
 RECOGNIZED, ɹ ˈɛ k ə g n ˌaɪ z d
+RECOLLECTION, ɹ ˌɛ k ə l ˈɛ k ʃ ə n
 RECOMMEND, ɹ ˌɛ k ə m ˈɛ n d
 RECOMMENDATION, ɹ ˌɛ k ə m ə n d ˈeɪ ʃ ə n
 RECOMMENDATIONS, ɹ ˌɛ k ə m ə n d ˈeɪ ʃ ə n z
@@ -9398,6 +9420,7 @@ REHAB, ɹ ˈiː h ˌæ b
 REHABILITATION, ɹ ˌiː ə b ɪ l ɪ t ˈeɪ ʃ ə n
 REHEARSAL, ɹ ɪ h ˈɜː s ə l
 REIGN, ɹ ˈeɪ n
+REINFORCE, ɹ ˌiː ɪ n f ˈɔː s
 REJECT(1), ɹ ɪ dʒ ˈɛ k t
 REJECT(2), ɹ ˈiː dʒ ɛ k t
 REJECTED, ɹ ɪ dʒ ˈɛ k t ɪ d
@@ -9542,6 +9565,7 @@ RESEARCH(2), ɹ ˈiː s ɜː tʃ
 RESEARCHER, ɹ ɪ s ˈɜː tʃ ə
 RESEARCHERS, ɹ ˈiː s ɜː tʃ ə z
 RESELLER, ɹ iː s ˈɛ l ə
+RESEMBLE, ɹ ɪ z ˈɛ m b ə l
 RESENTMENT, ɹ ɪ z ˈɛ n t m ə n t
 RESERVATION, ɹ ˌɛ z ə v ˈeɪ ʃ ə n
 RESERVATIONS, ɹ ˌɛ z ə v ˈeɪ ʃ ə n z
@@ -9645,6 +9669,7 @@ REVENUES, ɹ ˈɛ v ə n j ˌuː z
 REVEREND(1), ɹ ˈɛ v ɹ ə n d
 REVEREND(2), ɹ ˈɛ v ə ɹ ə n d
 REVERSE, ɹ ɪ v ˈɜː s
+REVERT, ɹ ɪ v ˈɜː t
 REVIEW, ɹ ɪ v j ˈuː
 REVIEWED, ɹ ɪ v j ˈuː d
 REVIEWER, ɹ ɪ v j ˈuː ə
@@ -10314,6 +10339,7 @@ SHOWING, ʃ ˈəʊ ɪ ŋ
 SHOWN, ʃ ˈəʊ n
 SHOWS, ʃ ˈəʊ z
 SHOWTIMES, ʃ ˈəʊ t ˌaɪ m z
+SHRINK, ʃ r ˈɪ ŋ k
 SHROPSHIRE, ʃ ɹ ˈɒ p ʃ ə
 SHRUG, ʃ ɹ ˈɐ g
 SHRUGGED, ʃ ɹ ˈɐ g d
@@ -10915,6 +10941,7 @@ STRINGS, s t ɹ ˈɪ ŋ z
 STRIP, s t ɹ ˈɪ p
 STRIPES, s t ɹ ˈaɪ p s
 STRIPS, s t ɹ ˈɪ p s
+STRIVE, s t ɹ ˈaɪ v
 STROKE, s t ɹ ˈəʊ k
 STRONG, s t ɹ ˈɒ ŋ
 STRONGER, s t ɹ ˈɒ ŋ g ə
@@ -11033,6 +11060,7 @@ SUMMARIES, s ˈɐ m ə ɹ iː z
 SUMMARY, s ˈɐ m ə ɹ iː
 SUMMER, s ˈɐ m ə
 SUMMIT, s ˈɐ m ɪ t
+SUMMON, s ˈɐ m ə n
 SUMS, s ˈɐ m z
 SUN, s ˈɐ n
 SUNDAY(1), s ˈɐ n d ˌiː
@@ -11054,6 +11082,7 @@ SUPERINTENDENT, s ˌuː p ə ɹ ɪ n t ˈɛ n d ə n t
 SUPERIOR, s uː p ˈɪə ɹ ɪə
 SUPERIORITY, s uː p ˌɪə ɹ ɪ ˈɒ ɹ ɪ t iː
 SUPERMARKET, s ˈuː p ə m ˌɑː k ɪ t
+SUPERVISE, s ˈuː p ə v ˌaɪ z
 SUPERVISION, s ˌuː p ə v ˈɪ ʒ ə n
 SUPERVISOR, s ˈuː p ə v ˌaɪ z ə
 SUPERVISORS, s ˈuː p ə v ˌaɪ z ə z
@@ -11744,6 +11773,7 @@ TRAVELS, t ɹ ˈæ v ə l z
 TRAVIS, t ɹ ˈæ v ɪ s
 TRAY, t ɹ ˈeɪ
 TRAYS, t ɹ ˈeɪ z
+TREAD, t ɹ ˈɛ d
 TREASURE, t ɹ ˈɛ ʒ ə
 TREASURER, t ɹ ˈɛ ʒ ə ɹ ə
 TREASURES, t ɹ ˈɛ ʒ ə z
@@ -11913,6 +11943,7 @@ UNDER, ˈɐ n d ə
 UNDERGRADUATE, ˌɐ n d ə g ɹ ˈæ d j ʊə t
 UNDERGROUND, ˈɐ n d ə g ɹ ˌaʊ n d
 UNDERLYING, ˌɐ n d ə l ˈaɪ ɪ ŋ
+UNDERMINE, ˌɐ n d ə m ˈaɪ n
 UNDERNEATH, ˌɐ n d ə n ˈiː θ
 UNDERSTAND, ˌɐ n d ə s t ˈæ n d
 UNDERSTANDABLE, ˌɐ n d ə s t ˈæ n d ə b ə l
@@ -12111,6 +12142,7 @@ VENUES, v ˈɛ n uː z
 VERA, v ˈɪə ɹ ə
 VERB, v ˈɜː b
 VERBAL, v ˈɜː b ə l
+VERGE, v ˈɜː dʒ
 VERDICT, v ˈɜː d ɪ k t
 VERIFICATION, v ˌɛ ɹ ɪ f ɪ k ˈeɪ ʃ ə n
 VERIFIED, v ˈɛ ɹ ɪ f ˌaɪ d
@@ -12340,6 +12372,7 @@ WAYNE, w ˈeɪ n
 WAYS, w ˈeɪ z
 WE, w ˈiː
 WEAK, w ˈiː k
+WEAKEN, w ˈiː k ə n
 WEAKER, w ˈiː k ə
 WEAKNESS, w ˈiː k n ə s
 WEAKNESSES, w ˈiː k n ə s ɪ z
@@ -12376,6 +12409,7 @@ WEEKENDS, w ˈiː k ˌɛ n d z
 WEEKLY, w ˈiː k l iː
 WEEKS, w ˈiː k s
 WEEP, w ˈiː p
+WEIGH, w ˈeɪ
 WEIGHT, w ˈeɪ t
 WEIGHTED, w ˈeɪ t ɪ d
 WEIGHTS, w ˈeɪ t s
@@ -12427,6 +12461,7 @@ WHIMPERING, w ˈɪ m p ə ɹ ɪ ŋ
 WHIP, w ˈɪ p
 WHIRRING, w ˈɪ ɹ ɪ ŋ
 WHISKEY, w ˈɪ s k iː
+SKELETON, s k ˈɛ l ɪ t ə n
 WHISKY, w ˈɪ s k iː
 WHISPER, w ˈɪ s p ə
 WHISPERED, w ˈɪ s p ə d
