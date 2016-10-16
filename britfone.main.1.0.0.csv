@@ -50,8 +50,8 @@ ABUSE(2), ə b j ˈuː s
 ACADEMIC, ˌæ k ə d ˈɛ m ɪ k
 ACADEMICS, ˌæ k ə d ˈɛ m ɪ k s
 ACADEMY, ə k ˈæ d ə m iː
-ACCELERATOR, æ k s ˈɛ l ə ɹ ˌeɪ t ə
 ACCELERATION, æ k s ˌɛ l ə ɹ ˈeɪ ʃ ə n
+ACCELERATOR, æ k s ˈɛ l ə ɹ ˌeɪ t ə
 ACCENT(1), ə k s ˈɛ n t
 ACCENT(2), ˈæ k s ˌɛ n t
 ACCENTS, ˈæ k s ɛ n t s
@@ -561,9 +561,9 @@ APART, ə p ˈɑː t
 APARTMENT, ə p ˈɑː t m ə n t
 APARTMENTS, ə p ˈɑː t m ə n t s
 APOLLO, ə p ˈɒ l əʊ
+APOLOGIES, ə p ˈɒ l ə dʒ iː z
 APOLOGIZE, ə p ˈɒ l ə dʒ ˌaɪ z
 APOLOGY, ə p ˈɒ l ə dʒ iː
-APOLOGIES, ə p ˈɒ l ə dʒ iː z
 APOSTROPHE, ə p ˈɒ s t ɹ ə f iː
 APP, ˈæ p
 APPALLING, ə p ˈɔː l ɪ ŋ
@@ -954,9 +954,9 @@ BALLOT, b ˈæ l ə t
 BALLS, b ˈɔː l z
 BALTIMORE, b ˈɔː l t ɪ m ˌɔː
 BAN, b ˈæ n
-BANBURY, b ˈæ n b ə ɹ iː
 BANANA, b ə n ˈɑː n ə
 BANANAS, b ə n ˈɑː n ə z
+BANBURY, b ˈæ n b ə ɹ iː
 BANCORP, b ˈæ ŋ k ˌɔː p
 BAND, b ˈæ n d
 BANDS, b ˈæ n d z
@@ -1630,7 +1630,6 @@ CALCULATORS, k ˈæ l k j ʊ l ˌeɪ t ə z
 CALENDAR, k ˈæ l ə n d ə
 CALENDARS, k ˈæ l ə n d ə z
 CALF, k ˈɑː l f
-CALVES, k ˈɑː l v z
 CALGARY, k ˈæ l g ə ɹ iː
 CALIBRATION, k ˌæ l ɪ b ɹ ˈeɪ ʃ ə n
 CALIFORNIA, k ˌæ l ɪ f ˈɔː n j ə
@@ -1641,6 +1640,7 @@ CALLS, k ˈɔː l z
 CALM, k ˈɑː m
 CALMLY, k ˈɑː m l iː
 CALORIES, k ˈæ l ə ɹ iː z
+CALVES, k ˈɑː l v z
 CAM, k ˈæ m
 CAMBODIA, k ˌæ m b ˈəʊ d ɪə
 CAMBRIDGE, k ˈeɪ m b ɹ ɪ dʒ
@@ -3053,9 +3053,9 @@ DEFAULT(1), d ˈiː f ɔː l t
 DEFAULT(2), d ɪ f ˈɔː l t
 DEFEAT, d ɪ f ˈiː t
 DEFEATED, d ɪ f ˈiː t ɪ d
-DEFECTIVE, d ɪ f ˈɛ k t ɪ v
 DEFECT(1), d ˈiː f ɛ k t
 DEFECT(2), d ɪ f ˈɛ k t
+DEFECTIVE, d ɪ f ˈɛ k t ɪ v
 DEFECTS(1), d ˈiː f ɛ k t s
 DEFECTS(2), d ɪ f ˈɛ k t s
 DEFENCE, d ɪ f ˈɛ n s
@@ -3398,8 +3398,8 @@ DISHWASHER, d ˈɪ ʃ w ˌɒ ʃ ə
 DISK, d ˈɪ s k
 DISKS, d ˈɪ s k s
 DISLIKE, d ɪ s l ˈaɪ k
-DISMISSAL, d ɪ s m ˈɪ s ə l
 DISMISS, d ɪ s m ˈɪ s
+DISMISSAL, d ɪ s m ˈɪ s ə l
 DISMISSED, d ɪ s m ˈɪ s t
 DISNEY, d ˈɪ z n iː
 DISORDER, d ɪ s ˈɔː d ə
@@ -3729,9 +3729,6 @@ EDUCATORS, ˈɛ d j ʊ k ˌeɪ t ə z
 EDWARD, ˈɛ d w ə d
 EDWARDS, ˈɛ d w ə d z
 EF, ˈɛ f
-ELF, ˈɛ l f
-ELFS, ˈɛ l f s
-ELVES, ˈɛ l v z
 EFFECT, ɪ f ˈɛ k t
 EFFECTIVE, ɪ f ˈɛ k t ɪ v
 EFFECTIVELY, ɪ f ˈɛ k t ɪ v l iː
@@ -3797,6 +3794,8 @@ ELEVATION, ˌɛ l ə v ˈeɪ ʃ ə n
 ELEVATOR, ˈɛ l ɪ v ˌeɪ t ə
 ELEVEN, ɪ l ˈɛ v ə n
 ELEVENTH, ɪ l ˈɛ v ə n θ
+ELF, ˈɛ l f
+ELFS, ˈɛ l f s
 ELIGIBILITY, ˌɛ l ɪ dʒ ɪ b ˈɪ l ɪ t iː
 ELIGIBLE, ˈɛ l ɪ dʒ ɪ b ə l
 ELIMINATE, ɪ l ˈɪ m ɪ n ˌeɪ t
@@ -3812,6 +3811,7 @@ ELLIPSIS, ɪ l ˈɪ p s ɪ s
 ELS, ˈɛ l z
 ELSE, ˈɛ l s
 ELSEWHERE, ˈɛ l s w ˌɛə
+ELVES, ˈɛ l v z
 ELVIS, ˈɛ l v ɪ s
 EM, ˈɛ m
 EMAIL, ˈiː m eɪ l
@@ -4755,8 +4755,8 @@ FRONT-PAGE, f ɹ ˈɐ n t p ˌeɪ dʒ
 FRONTIER(1), f ɹ ˈɐ n t ɪə
 FRONTIER(2), f ɹ ɐ n t ˈɪə
 FROST, f ɹ ˈɒ s t
-FROWNED, f ɹ ˈaʊ n d
 FROWN, f ɹ ˈaʊ n
+FROWNED, f ɹ ˈaʊ n d
 FROZEN, f ɹ ˈəʊ z ə n
 FRUIT, f ɹ ˈuː t
 FRUITS, f ɹ ˈuː t s
@@ -5212,7 +5212,6 @@ HAIRS, h ˈɛə z
 HAIRY, h ˈɛə ɹ iː
 HAITI, h ˈeɪ t iː
 HALF, h ˈɑː f
-HALVES, h ˈɑː v z
 HALFWAY(1), h ˈɑː f w eɪ
 HALFWAY(2), h ˌɑː f w ˈeɪ
 HALIFAX, h ˈæ l ɪ f ˌæ k s
@@ -5221,6 +5220,7 @@ HALLELUJAH, h ˌæ l ə l ˈuː j ə
 HALLOWEEN, h ˌæ l ə w ˈiː n
 HALO, h ˈeɪ l əʊ
 HALT, h ˈɒ l t
+HALVES, h ˈɑː v z
 HAM, h ˈæ m
 HAMBURG, h ˈæ m b ɜː g
 HAMILTON, h ˈæ m ɪ l t ə n
@@ -5528,12 +5528,12 @@ HONOURS, ˈɒ n ə z
 HOOD, h ˈʊ d
 HOOF, h ˈuː f
 HOOFS, h ˈuː f s
-HOOVES, h ˈuː v z
 HOOK, h ˈʊ k
 HOOKED, h ˈʊ k t
 HOOP, h ˈuː p
 HOORAY, h ʊ ɹ ˈeɪ
 HOOVER, h ˈuː v ə
+HOOVES, h ˈuː v z
 HOP, h ˈɒ p
 HOPE, h ˈəʊ p
 HOPED, h ˈəʊ p t
@@ -7050,9 +7050,9 @@ MATERNITY, m ə t ˈɜː n ɪ t iː
 MATES, m ˈeɪ t s
 MATEY, m ˈeɪ t iː
 MATH, m ˈæ θ
-MATHS, m ˈæ θ s
 MATHEMATICAL, m ˌæ θ ə m ˈæ t ɪ k ə l
 MATHEMATICS, m ˌæ θ ə m ˈæ t ɪ k s
+MATHS, m ˈæ θ s
 MATING, m ˈeɪ t ɪ ŋ
 MATRIX, m ˈeɪ t ɹ ɪ k s
 MATS, m ˈæ t s
@@ -7346,8 +7346,8 @@ MOIRA, m ˈɔɪ ɹ ə
 MOISTURE, m ˈɔɪ s tʃ ə
 MOLD, m ˈəʊ l d
 MOLDOVA, m ˌɒ l d ˈəʊ v ə
-MOLECULE, m ˈɒ l ɪ k j ˌuː l
 MOLECULAR, m ə l ˈɛ k j ʊ l ə
+MOLECULE, m ˈɒ l ɪ k j ˌuː l
 MOLECULES, m ˈɒ l ɪ k j ˌuː l z
 MOLLY, m ˈɒ l iː
 MOM, m ˈɒ m
@@ -7775,8 +7775,8 @@ NOVELTY, n ˈɒ v ə l t iː
 NOVEMBER, n əʊ v ˈɛ m b ə
 NOW, n ˈaʊ
 NOWADAYS, n ˈaʊ ə d ˌeɪ z
-NOWT, n ˈaʊ t
 NOWHERE, n ˈəʊ w ˌɛə
+NOWT, n ˈaʊ t
 NUCLEAR, n j ˈuː k l ɪə
 NUDE, n j ˈuː d
 NUDIST, n j ˈuː d ɪ s t
@@ -8302,8 +8302,8 @@ PEOPLES, p ˈiː p ə l z
 PEPPER, p ˈɛ p ə
 PER(1), p ə
 PER(2), p ˈɜː
-PERCEIVED, p ə s ˈiː v d
 PERCEIVE, p ə s ˈiː v
+PERCEIVED, p ə s ˈiː v d
 PERCENT, p ə s ˈɛ n t
 PERCENTAGE, p ə s ˈɛ n t ɪ dʒ
 PERCEPTION, p ə s ˈɛ p ʃ ə n
@@ -8827,7 +8827,6 @@ PRINTERS, p ɹ ˈɪ n t ə z
 PRINTING, p ɹ ˈɪ n t ɪ ŋ
 PRINTS, p ɹ ˈɪ n t s
 PRIOR, p ɹ ˈaɪ ə
-RIOT, ɹ ˈaɪ ə t
 PRIORITIES, p ɹ aɪ ˈɒ ɹ ɪ t iː z
 PRIORITY, p ɹ aɪ ˈɒ ɹ ɪ t iː
 PRISON, p ɹ ˈɪ z ə n
@@ -8938,8 +8937,8 @@ PROMPTED, p ɹ ˈɒ m p t ɪ d
 PROMPTLY(1), p ɹ ˈɒ m p l iː
 PROMPTLY(2), p ɹ ˈɒ m p t l iː
 PRONE, p ɹ ˈəʊ n
-PRONUNCIATION, p ɹ ə n ˌɐ n s ɪ ˈeɪ ʃ ə n
 PRONOUNCE, p ɹ ə n ˈaʊ n s
+PRONUNCIATION, p ɹ ə n ˌɐ n s ɪ ˈeɪ ʃ ə n
 PROOF, p ɹ ˈuː f
 PROPAGANDA, p ɹ ˌɒ p ə g ˈæ n d ə
 PROPER, p ɹ ˈɒ p ə
@@ -9665,8 +9664,8 @@ RHETORIC, ɹ ˈɛ t ə ɹ ɪ k
 RHODE, ɹ ˈəʊ d
 RHYTHM, ɹ ˈɪ ð ə m
 RIB, ɹ ˈɪ b
-RIBS, ɹ ˈɪ b z
 RIBBON, ɹ ˈɪ b ə n
+RIBS, ɹ ˈɪ b z
 RICE, ɹ ˈaɪ s
 RICH, ɹ ˈɪ tʃ
 RICHARD, ɹ ˈɪ tʃ ə d
@@ -9692,6 +9691,7 @@ RINGING, ɹ ˈɪ ŋ ɪ ŋ
 RINGS, ɹ ˈɪ ŋ z
 RINGTONE, ɹ ˈɪ ŋ t ˌəʊ n
 RINGTONES, ɹ ˈɪ ŋ t ˌəʊ n z
+RIOT, ɹ ˈaɪ ə t
 RIP, ɹ ˈɪ p
 RIPE, ɹ ˈaɪ p
 RIPPED, ɹ ˈɪ p t
@@ -10057,9 +10057,9 @@ SEATING, s ˈiː t ɪ ŋ
 SEATS, s ˈiː t s
 SEATTLE, s ɪ ˈæ t ə l
 SEC, s ˈɛ k
-SECONDED, s ɪ k ˈɒ n d ɪ d
-SECONDARY, s ˈɛ k ə n d ə ɹ iː
 SECOND, s ˈɛ k ə n d
+SECONDARY, s ˈɛ k ə n d ə ɹ iː
+SECONDED, s ɪ k ˈɒ n d ɪ d
 SECONDLY, s ˈɛ k ə n d l iː
 SECONDS, s ˈɛ k ə n d z
 SECRET(1), s ˈiː k ɹ ə t
@@ -10257,8 +10257,8 @@ SHETLAND, ʃ ˈɛ t l ə n d
 SHH, ʃ
 SHIELD, ʃ ˈiː l d
 SHIFT, ʃ ˈɪ f t
-SHINE, ʃ ˈaɪ n
 SHILLINGS, ʃ ˈɪ l ɪ ŋ z
+SHINE, ʃ ˈaɪ n
 SHINING, ʃ ˈaɪ n ɪ ŋ
 SHINY, ʃ ˈaɪ n iː
 SHIP, ʃ ˈɪ p
@@ -10432,8 +10432,8 @@ SKULL, s k ˈɐ l
 SKY, s k ˈaɪ
 SKYPE, s k ˈaɪ p
 SLAG, s l ˈæ g
-SLANG, s l ˈæ ŋ
 SLAM, s l ˈæ m
+SLANG, s l ˈæ ŋ
 SLAP, s l ˈæ p
 SLASH, s l ˈæ ʃ
 SLATE, s l ˈeɪ t
@@ -10522,8 +10522,8 @@ SOCIETIES, s ə s ˈaɪ ə t iː z
 SOCIETY, s ə s ˈaɪ ə t iː
 SOCIOLOGICAL, s ˌəʊ s ɪ ə l ˈɒ dʒ ɪ k ə l
 SOCIOLOGY, s ˌəʊ s ɪ ˈɒ l ə dʒ iː
-SOCKET, s ˈɒ k ɪ t
 SOCK, s ˈɒ k
+SOCKET, s ˈɒ k ɪ t
 SOCKS, s ˈɒ k s
 SOD, s ˈɒ d
 SODA, s ˈəʊ d ə
@@ -11435,8 +11435,8 @@ THICK, θ ˈɪ k
 THICKER, θ ˈɪ k ə
 THICKNESS, θ ˈɪ k n ə s
 THIEF, θ ˈiː f
-THIGH, θ ˈaɪ
 THIEVES, θ ˈiː v z
+THIGH, θ ˈaɪ
 THIN, θ ˈɪ n
 THING, θ ˈɪ ŋ
 THINGS, θ ˈɪ ŋ z
@@ -12121,8 +12121,8 @@ VERSION, v ˈɜː ʒ ə n
 VERSIONS, v ˈɜː ʒ ə n z
 VERSUS, v ˈɜː s ə s
 VERTEX, v ˈɜː t ˌɛ k s
-VERTICES, v ˈɜː t ɪ s ˌiː z
 VERTICAL, v ˈɜː t ɪ k ə l
+VERTICES, v ˈɜː t ɪ s ˌiː z
 VERY, v ˈɛ ɹ iː
 VESSEL, v ˈɛ s ə l
 VESSELS, v ˈɛ s ə l z
