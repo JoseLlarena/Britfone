@@ -1,3 +1,4 @@
+'COS, k ˈə z
 'D(1), d
 'D(2), ə d
 'EM, ə m
@@ -20,6 +21,7 @@ ABATE, ə b ˈeɪ t
 ABBEY, ˈæ b iː
 ABBREVIATE, ə b ɹ ˈiː v ɪ ˌeɪ t
 ABDOMINAL, æ b d ˈɒ m ɪ n ə l
+ABEL, ˈeɪ b ə l
 ABERDEEN, ˌæ b ə d ˈiː n
 ABERDEENSHIRE, ˌæ b ə d ˈiː n ʃ ə
 ABET, ə b ˈɛ t
@@ -29,6 +31,7 @@ ABILITIES, ə b ˈɪ l ɪ t iː z
 ABILITY, ə b ˈɪ l ɪ t iː
 ABINGDON, ˈæ b ɪ ŋ d ə n
 ABLE, ˈeɪ b ə l
+ABLY, ˈeɪ b l iː
 ABNORMAL, æ b n ˈɔː m ə l
 ABOARD, ə b ˈɔː d
 ABODE, ə b ˈəʊ d
@@ -354,6 +357,8 @@ AHEAD, ə h ˈɛ d
 AID, ˈeɪ d
 AIDE, ˈeɪ d
 AIDS, ˈeɪ d z
+AIL, ˈeɪ l
+AILING, ˈeɪ l ɪ ŋ
 AIM, ˈeɪ m
 AIMED, ˈeɪ m d
 AIMING, ˈeɪ m ɪ ŋ
@@ -674,6 +679,7 @@ APART, ə p ˈɑː t
 APARTMENT, ə p ˈɑː t m ə n t
 APARTMENTS, ə p ˈɑː t m ə n t s
 APE, ˈeɪ p
+APEX, ˈeɪ p ɛ k s
 APOLLO, ə p ˈɒ l əʊ
 APOLOGIES, ə p ˈɒ l ə dʒ iː z
 APOLOGISE, ə p ˈɒ l ə dʒ ˌaɪ z
@@ -955,6 +961,7 @@ ATMOSPHERIC, ˌæ t m ə s f ˈɛ ɹ ɪ k
 ATOM, ˈæ t ə m
 ATOMIC, ə t ˈɒ m ɪ k
 ATOMS, ˈæ t ə m z
+ATOP, ə t ˈɒ p
 ATTACH, ə t ˈæ tʃ
 ATTACHED, ə t ˈæ tʃ t
 ATTACHMENT, ə t ˈæ tʃ m ə n t
@@ -1058,6 +1065,7 @@ AWAIT, ə w ˈeɪ t
 AWAITING, ə w ˈeɪ t ɪ ŋ
 AWAITS, ə w ˈeɪ t s
 AWAKE, ə w ˈeɪ k
+AWAKEN, ə w ˈeɪ k ə n
 AWARD, ə w ˈɔː d
 AWARDED, ə w ˈɔː d ɪ d
 AWARDS, ə w ˈɔː d z
@@ -1078,6 +1086,7 @@ AXE, ˈæ k s
 AXES, ˈæ k s iː z
 AXIOM, ˈæ k s ɪə m
 AXIS, ˈæ k s ɪ s
+AXLE, ˈæ k s ə l
 AYE(1), ˈaɪ
 AYRSHIRE, ˈɛə ʃ ə
 AZERBAIJAN, ˌæ z ə b aɪ dʒ ˈɑː n
@@ -1166,6 +1175,7 @@ BARBARA(2), b ˈɑː b ə ɹ ə
 BARBECUE, b ˈɑː b ɪ k j ˌuː
 BARBIE, b ˈɑː b iː
 BARCELONA, b ˌɑː s ɪ l ˈəʊ n ə
+BARD, b ˈɑː d
 BARE, b ˈɛə
 BARELY, b ˈɛə l iː
 BARGAIN, b ˈɑː g ɪ n
@@ -1346,6 +1356,7 @@ BERKSHIRE(1), b ˈɑː k ʃ ə
 BERKSHIRE(2), b ˈɑː k ʃ ˌɪə
 BERLIN, b ə l ˈɪ n
 BERMUDA, b ə m j ˈuː d ə
+BERN, b ˈɜː n
 BERNARD, b ˈɜː n ə d
 BERNIE, b ˈɜː n iː
 BERRY, b ˈɛ ɹ iː
@@ -1390,6 +1401,7 @@ BICYCLE, b ˈaɪ s ɪ k ə l
 BID, b ˈɪ d
 BIDDER, b ˈɪ d ə
 BIDDING, b ˈɪ d ɪ ŋ
+BIDE, b ˈaɪ d
 BIDS, b ˈɪ d z
 BIG, b ˈɪ g
 BIGGER, b ˈɪ g ə
@@ -1474,6 +1486,7 @@ BLIMEY, b l ˈaɪ m iː
 BLIND, b l ˈaɪ n d
 BLINK, b l ˈɪ ŋ k
 BLINKING, b l ˈɪ ŋ k ɪ ŋ
+BLIP, b l ˈɪ p
 BLISS, b l ˈɪ s
 BLITZ, b l ˈɪ t s
 BLOAT, b l ˈəʊ t
@@ -1525,9 +1538,11 @@ BOATING, b ˈəʊ t ɪ ŋ
 BOATS, b ˈəʊ t s
 BOB, b ˈɒ b
 BOBBY, b ˈɒ b iː
+BODE, b ˈəʊ d
 BODIES, b ˈɒ d iː z
 BODILY, b ˈɒ d ɪ l iː
 BODY, b ˈɒ d iː
+BOER, b ˈʊə
 BOG, b ˈɒ g
 BOGUS, b ˈəʊ g ə s
 BOIL, b ˈɔɪ l
@@ -1553,6 +1568,7 @@ BONES, b ˈəʊ n z
 BONNET, b ˈɒ n ɪ t
 BONNIE, b ˈɒ n iː
 BONUS, b ˈəʊ n ə s
+BONY, b ˈəʊ n iː
 BOO, b ˈuː
 BOOB, b ˈuː b
 BOOBS, b ˈuː b z
@@ -1656,6 +1672,7 @@ BRANDY, b ɹ ˈæ n d iː
 BRAS, b ɹ ˈɑː
 BRASH, b ɹ ˈæ ʃ
 BRASS, b ɹ ˈɑː s
+BRAT, b ɹ ˈæ t
 BRAVE, b ɹ ˈeɪ v
 BRAVO, b ɹ ˈɑː v əʊ
 BRAWL, b ɹ ˈɔː l
@@ -1714,6 +1731,7 @@ BRITAIN, b ɹ ˈɪ t ə n
 BRITANNICA, b ɹ ɪ t ˈæ n ɪ k ə
 BRITISH, b ɹ ˈɪ t ɪ ʃ
 BRITNEY, b ɹ ˈɪ t n iː
+BRO, b ɹ ˈəʊ
 BROAD, b ɹ ˈɔː d
 BROADBAND, b ɹ ˈɔː d b ˌæ n d
 BROADCAST, b ɹ ˈɔː d k ˌɑː s t
@@ -1932,6 +1950,7 @@ CAMCORDERS, k ˈæ m k ˌɔː d ə z
 CAMDEN, k ˈæ m d ə n
 CAME, k ˈeɪ m
 CAMEL, k ˈæ m ə l
+CAMEO, k ˈæ m ɪ ˌəʊ
 CAMERA(1), k ˈæ m ɹ ə
 CAMERA(2), k ˈæ m ə ɹ ə
 CAMERAS(1), k ˈæ m ɹ ə z
@@ -2073,6 +2092,7 @@ CASSEROLE, k ˈæ s ə ɹ ˌəʊ l
 CASSETTE, k ə s ˈɛ t
 CASSIE, k ˈæ s iː
 CAST, k ˈɑː s t
+CASTAWAY, k ˈɑː s t ə w ˌeɪ
 CASTING, k ˈɑː s t ɪ ŋ
 CASTLE, k ˈɑː s ə l
 CASUAL(1), k ˈæ ʒ ʊə l
@@ -2303,6 +2323,7 @@ CHEVY(2), ʃ ˈɛ v iː
 CHEW, tʃ ˈuː
 CHEWING, tʃ ˈuː ɪ ŋ
 CHI, k ˈaɪ
+CHIC, ʃ ˈiː k
 CHICAGO, ʃ ɪ k ˈɑː g əʊ
 CHICK, tʃ ˈɪ k
 CHICKEN, tʃ ˈɪ k ə n
@@ -3100,6 +3121,10 @@ COORDINATION, k əʊ ˌɔː d ɪ n ˈeɪ ʃ ə n
 COORDINATOR, k əʊ ˈɔː d ɪ n ˌeɪ t ə
 COP, k ˈɒ p
 COPE, k ˈəʊ p
+COPENHAGEN(1), k ˈəʊ p ə n h ˌeɪ g ə n
+COPENHAGEN(2), k ˌəʊ p ə n h ˈeɪ g ə n
+COPENHAGEN(3), k ˈəʊ p ə n h ˌɑː g ə n
+COPENHAGEN(4), k ˌəʊ p ə n h ˈɑː g ə n
 COPIED, k ˈɒ p iː d
 COPIES, k ˈɒ p iː z
 COPPER, k ˈɒ p ə
@@ -3252,6 +3277,8 @@ CRADLE, k ɹ ˈeɪ d ə l
 CRAFT, k ɹ ˈɑː f t
 CRAFTS, k ɹ ˈɑː f t s
 CRAFTY, k ɹ ˈɑː f t iː
+CRAG, k ɹ ˈæ g
+CRAGGY, k ɹ ˈæ g iː
 CRAIG, k ɹ ˈeɪ g
 CRAM, k ɹ ˈæ m
 CRAMP, k ɹ ˈæ m p
@@ -3359,6 +3386,7 @@ CRUSH, k ɹ ˈɐ ʃ
 CRUST, k ɹ ˈɐ s t
 CRUTCH, k ɹ ˈɐ tʃ
 CRUTCHES, k ɹ ˈɐ tʃ ɪ z
+CRUX, k ɹ ˈɐ k s
 CRUZ, k ɹ ˈuː z
 CRY, k ɹ ˈaɪ
 CRYING, k ɹ ˈaɪ ɪ ŋ
@@ -3390,6 +3418,8 @@ CUPBOARD, k ˈɐ b ə d
 CUPBOARDS, k ˈɐ b ə d z
 CUPS, k ˈɐ p s
 CURB, k ˈɜː b
+CURDLE, k ˈɜː d ə l
+CURDS, k ˈɜː d z
 CURE, k j ˈʊə
 CURIOSITY, k j ʊə ɹ ɪ ˈɒ s ɪ t iː
 CURIOUS, k j ˈʊə ɹ ɪə s
@@ -3625,6 +3655,7 @@ DEFINITELY, d ˈɛ f ɪ n ɪ t l iː
 DEFINITION, d ˌɛ f ɪ n ˈɪ ʃ ə n
 DEFINITIONS, d ˌɛ f ɪ n ˈɪ ʃ ə n z
 DEFLECTION, ɹ ɪ f l ˈɛ k ʃ ə n
+DEFT, d ˈɛ f t
 DEFY, d ɪ f ˈaɪ
 DEGRADE, d ɪ g ɹ ˈeɪ d
 DEGRADED, d ɪ g ɹ ˈeɪ d ɪ d
@@ -3915,6 +3946,7 @@ DIMENSIONS(1), d aɪ m ˈɛ n ʃ ə n z
 DIMENSIONS(2), d ɪ m ˈɛ n ʃ ə n z
 DIMINISH, d ɪ m ˈɪ n ɪ ʃ
 DIMLY, d ˈɪ m l iː
+DIMPLE, d ˈɪ m p ə l
 DIN, d ˈɪ n
 DINE, ˈaɪ n
 DINER, ˈaɪ n ə
@@ -4112,6 +4144,7 @@ DOCUMENTS, d ˈɒ k j ʊ m ə n t s
 DODGE, d ˈɒ dʒ
 DODGY, d ˈɒ dʒ iː
 DOE, d ˈəʊ
+DOER, d ˈuː ə
 DOES(1), d ə z
 DOES(2), d ˈɐ z
 DOES(3), d ˈəʊ z
@@ -4178,6 +4211,8 @@ DOUBTS, d ˈaʊ t s
 DOUG, d ˈɐ g
 DOUGH, d ˈəʊ
 DOUGLAS, d ˈɐ g l ə s
+DOUR(1), d ˈaʊ ə
+DOUR(2), d ˈʊə
 DOVE, d ˈɐ v
 DOVER, d ˈəʊ v ə
 DOWN, d ˈaʊ n
@@ -4191,6 +4226,7 @@ DOWNSTAIRS(2), d aʊ n s t ˈɛə z
 DOWNTOWN, d ˈaʊ n t ˌaʊ n
 DOWNWARD, d ˈaʊ n w ə d
 DOWNWARDS, d ˈaʊ n w ə d z
+DOZE, d ˈəʊ z
 DOZEN, d ˈɐ z ə n
 DOZENS, d ˈɐ z ə n z
 DRAB, d ɹ ˈæ b
@@ -4264,11 +4300,15 @@ DUBIOUS, d j ˈuː b ɪə s
 DUBLIN, d ˈɐ b l ɪ n
 DUCK, d ˈɐ k
 DUCKS, d ˈɐ k s
+DUD, d ˈɐ d
 DUDE, d ˈuː d
 DUDLEY, d ˈɐ d l iː
 DUE, d j ˈuː
 DUEL, d j ˈuː ə l
 DUES, d j ˈuː z
+DUET, d j uː ˈɛ t
+DUG, d ˈɐ g
+DUH, d ˈɜː
 DUKE, d j ˈuː k
 DULL, d ˈɐ l
 DULY, d j ˈuː l iː
@@ -4283,8 +4323,10 @@ DUNBARTONSHIRE, d ɐ n b ˈɑː t ə n ʃ ə
 DUNCAN, d ˈɐ ŋ k ə n
 DUNDEE, d ɐ n d ˈiː
 DUNE, d j ˈuː n
+DUNG, d ˈɐ ŋ
 DUNGEON, d ˈɐ n dʒ ə n
 DUO, d j ˈuː əʊ
+DUPE, d j ˈuː p
 DUPLICATE(1), d j ˈuː p l ɪ k ə t
 DUPLICATE(2), d j ˈuː p l ɪ k ˌeɪ t
 DURABLE, d j ˈʊə ɹ ə b ə l
@@ -4298,6 +4340,7 @@ DUSTY, d ˈɐ s iː
 DUTCH, d ˈɐ tʃ
 DUTIES, d j ˈuː t iː z
 DUTY, d j ˈuː t iː
+DUVET, d ˈuː v eɪ
 DWARF, d w ˈɔː f
 DWARFS, d w ˈɔː f s
 DWARVES, d w ˈɔː v z
@@ -4349,6 +4392,7 @@ EAT, ˈiː t
 EATEN, ˈiː t ə n
 EATING, ˈiː t ɪ ŋ
 EATS, ˈiː t s
+EAVE, ˈiː v
 EAVES, ˈiː v z
 EAVESDROP, ˈiː v z d ɹ ˌɒ p
 EBAY, ˈiː b ˌeɪ
@@ -4434,6 +4478,7 @@ EIGHTIES, ˈeɪ t iː z
 EIGHTS, ˈeɪ t s
 EIGHTY, ˈeɪ t iː
 EILEEN, aɪ l ˈiː n
+EIRE, ˈɛə ɹ ə
 EITHER(1), ˈaɪ ð ə
 EITHER(2), ˈiː ð ə
 EJACULATION, ɪ dʒ ˌæ k j ʊ l ˈeɪ ʃ ə n
@@ -4711,6 +4756,7 @@ EPIDEMIOLOGY, ˌɛ p ɪ d ˌiː m ɪ ˈɒ l ə dʒ iː
 EPISODE, ˈɛ p ɪ s ˌəʊ d
 EPISODES, ˈɛ p ɪ s ˌəʊ d z
 EPITOME, ɪ p ˈɪ t ə m iː
+EPOCH, ˈiː p ɒ k
 EQUAL, ˈiː k w ə l
 EQUALITY, ɪ k w ˈɒ l ɪ t iː
 EQUALLY, ˈiː k w ə l iː
@@ -4996,6 +5042,7 @@ EXTENSIVELY, ɪ k s t ˈɛ n s ɪ v l iː
 EXTENT, ɪ k s t ˈɛ n t
 EXTERIOR, ɪ k s t ˈɪə ɹ ɪə
 EXTERNAL, ɪ k s t ˈɜː n ə l
+EXTOL, ɪ k s t ˈəʊ l
 EXTRA, ˈɛ k s t ɹ ə
 EXTRACT(1), ˈɛ k s t ɹ ˌæ k t
 EXTRACT(2), ɪ k s t ɹ ˈæ k t
@@ -5021,6 +5068,7 @@ FACADE(2), f æ s ˈɑː d
 FACE, f ˈeɪ s
 FACED, f ˈeɪ s t
 FACES, f ˈeɪ s ɪ z
+FACET, f ˈeɪ s ɪ t
 FACIAL, f ˈeɪ ʃ ə l
 FACILITATE, f ə s ˈɪ l ɪ t ˌeɪ t
 FACILITIES, f ə s ˈɪ l ɪ t iː z
@@ -5189,11 +5237,14 @@ FESTIVALS, f ˈɛ s t ɪ v ə l z
 FETAL, f ˈiː t ə l
 FETCH, f ˈɛ tʃ
 FETCHED, f ˈɛ tʃ t
+FETE, f ˈeɪ t
 FETISH, f ˈɛ t ɪ ʃ
 FEUD, f j ˈuː d
 FEVER, f ˈiː v ə
 FEW, f j ˈuː
 FEWER, f j ˈuː ə
+FIAT(1), f ˈiː æ t
+FIAT(2), f ˈaɪ æ t
 FIBER, f ˈaɪ b ə
 FIBRE, f ˈaɪ b ə
 FIBRES, f ˈaɪ b ə z
@@ -5268,6 +5319,7 @@ FINISHES, f ˈɪ n ɪ ʃ ɪ z
 FINISHING, f ˈɪ n ɪ ʃ ɪ ŋ
 FINITE, f ˈaɪ n ˌaɪ t
 FINLAND, f ˈɪ n l ə n d
+FINN, f ˈɪ n
 FINNISH, f ˈɪ n ɪ ʃ
 FIONA, f iː ˈəʊ n ə
 FIR, f ˈɜː
@@ -5567,6 +5619,7 @@ FREQUENTLY, f ɹ ˈiː k w ə n t l iː
 FRESH, f ɹ ˈɛ ʃ
 FRET, f ɹ ˈɛ t
 FREUD, f ɹ ˈɔɪ d
+FRIAR, f ɹ ˈaɪ ə
 FRICTION, f ɹ ˈɪ k ʃ ə n
 FRIDAY(1), f ɹ ˈaɪ d iː
 FRIDAY(2), f ɹ ˈaɪ d ˌeɪ
@@ -5585,7 +5638,9 @@ FRIGHTEN, f ɹ ˈaɪ t ə n
 FRIGHTENED, f ɹ ˈaɪ t ə n d
 FRIGHTENING(1), f ɹ ˈaɪ t n ɪ ŋ
 FRIGHTENING(2), f ɹ ˈaɪ t ə n ɪ ŋ
+FRILL, f ɹ ˈɪ l
 FRINGE, f ɹ ˈɪ n dʒ
+FROCK, f ɹ ˈɒ k
 FROG, f ɹ ˈɒ g
 FROM, f ɹ ˈɒ m
 FRONT, f ɹ ˈɐ n t
@@ -5658,15 +5713,19 @@ FUTILE, f j ˈuː t aɪ l
 FUTURE, f j ˈuː tʃ ə
 FUTURES, f j ˈuː tʃ ə z
 FUZZY, f ˈɐ z iː
+GAB, g ˈæ b
 GABLE, g ˈeɪ b ə l
 GABRIEL, g ˈeɪ b ɹ ɪə l
 GADGET, g ˈæ dʒ ɪ t
 GADGETS, g ˈæ dʒ ɪ t s
+GAG, g ˈæ g
 GAIL, g ˈeɪ l
 GAIN, g ˈeɪ n
 GAINED, g ˈeɪ n d
 GAINING, g ˈeɪ n ɪ ŋ
 GAINS, g ˈeɪ n z
+GAIT, g ˈeɪ t
+GALA, g ˈɑː l ə
 GALAXY, g ˈæ l ə k s iː
 GALE, g ˈeɪ l
 GALL, g ˈɔː l
@@ -5699,6 +5758,7 @@ GARMENT, g ˈɑː m ə n t
 GARY, g ˈæ ɹ iː
 GAS, g ˈæ s
 GASES, g ˈæ s ɪ z
+GASH, g ˈæ ʃ
 GASOLINE, g ˈæ s ə l ˌiː n
 GASP, g ˈɑː s p
 GASPING, g ˈɑː s p ɪ ŋ
@@ -5816,6 +5876,7 @@ GIRAFFE(2), dʒ ɪ ɹ ˈæ f
 GIRL, g ˈɜː l
 GIRLFRIEND, g ˈɜː l f ɹ ˌɛ n d
 GIRLS, g ˈɜː l z
+GIST, dʒ ˈɪ s t
 GIT, g ˈɪ t
 GIVE, g ˈɪ v
 GIVEN, g ˈɪ v ə n
@@ -5866,6 +5927,7 @@ GNOME, n ˈəʊ m
 GNU(1), n j ˈuː
 GNU(2), g ə n ˈuː
 GO, g ˈəʊ
+GOAD, g ˈəʊ d
 GOAL, g ˈəʊ l
 GOALKEEPER, g ˈəʊ l k ˌiː p ə
 GOALS, g ˈəʊ l z
@@ -5885,6 +5947,7 @@ GOLF, g ˈɒ l f
 GOLLY, g ˈɒ l iː
 GONE, g ˈɒ n
 GONNA, g ˈɒ n ə
+GOO, g ˈuː
 GOOD, g ˈʊ d
 GOODBYE, g ˌʊ d b ˈaɪ
 GOODNESS(1), g ˈʊ d n ə s
@@ -6031,6 +6094,7 @@ GROAN, g ɹ ˈəʊ n
 GROANING, g ɹ ˈəʊ n ɪ ŋ
 GROANS, g ɹ ˈəʊ n z
 GROCERY, g ɹ ˈəʊ s ə ɹ iː
+GROIN, g ɹ ˈɔɪ n
 GROOM, g ɹ ˈuː m
 GROOVE, g ɹ ˈuː v
 GROPE, g ɹ ˈəʊ p
@@ -6090,6 +6154,7 @@ GUISE, g ˈaɪ z
 GUITAR, g ɪ t ˈɑː
 GUITARS, g ɪ t ˈɑː z
 GULF, g ˈɐ l f
+GULLY, g ˈɐ l iː
 GULP, g ˈɐ l p
 GUM, g ˈɐ m
 GUN, g ˈɐ n
@@ -6098,6 +6163,8 @@ GUNS, g ˈɐ n z
 GUNSHOT, g ˈɐ n ʃ ˌɒ t
 GUNSHOTS, g ˈɐ n ʃ ˌɒ t s
 GURU, g ˈuː ɹ ˌuː
+GUSH, g ˈɐ ʃ
+GUST, g ˈɐ s t
 GUT, g ˈɐ t
 GUTS, g ˈɐ t s
 GUTTER, g ˈɐ t ə
@@ -6218,6 +6285,7 @@ HARM, h ˈɑː m
 HARMFUL, h ˈɑː m f ə l
 HARMONY, h ˈɑː m ə n iː
 HAROLD, h ˈæ ɹ ə l d
+HARP, h ˈɑː p
 HARRIET, h ˈæ ɹ ɪə t
 HARRIS, h ˈæ ɹ ɪ s
 HARRISON, h ˈæ ɹ ɪ s ə n
@@ -6321,6 +6389,7 @@ HECTARES(1), h ˈɛ k t ɑː z
 HECTARES(2), h ˈɛ k t ɛə z
 HECTIC, h ˈɛ k t ɪ k
 HEDGE, h ˈɛ dʒ
+HEDGEHOG, h ˈɛ dʒ h ˌɒ g
 HEED, h ˈiː d
 HEEL, h ˈiː l
 HEELS, h ˈiː l z
@@ -6386,6 +6455,7 @@ HESITATE, h ˈɛ z ɪ t ˌeɪ t
 HESITATED, h ˈɛ z ɪ t ˌeɪ t ɪ d
 HESITATION, h ˌɛ z ɪ t ˈeɪ ʃ ə n
 HEURISTIC, h j uː ɹ ˈɪ s t ɪ k
+HEW, h j ˈuː
 HEWLETT, h j ˈuː l ɪ t
 HEY, h ˈeɪ
 HI, h ˈaɪ
@@ -6410,12 +6480,15 @@ HIGHNESS, h ˈaɪ n ə s
 HIGHS, h ˈaɪ z
 HIGHWAY, h ˈaɪ w ˌeɪ
 HIGHWAYS, h ˈaɪ w ˌeɪ z
+HIKE, h ˈaɪ k
 HIKING, h ˈaɪ k ɪ ŋ
 HILAIRE, h ɪ l ˈɛə
 HILARIOUS, h ɪ l ˈɛə ɹ ɪə s
 HILL, h ˈɪ l
 HILLINGDON, h ˈɪ l ɪ ŋ d ə n
 HILLS, h ˈɪ l z
+HILLY, h ˈɪ l iː
+HILT, h ˈɪ l t
 HILTON, h ˈɪ l t ə n
 HIM(1), ɪ m
 HIM(2), h ˈɪ m
@@ -6428,6 +6501,7 @@ HINT, h ˈɪ n t
 HINTS, h ˈɪ n t s
 HIP, h ˈɪ p
 HIPPO, h ˈɪ p əʊ
+HIPPY, h ˈɪ p iː
 HIPS, h ˈɪ p s
 HIRE, h ˈaɪ ə
 HIRED, h ˈaɪ ə d
@@ -6448,6 +6522,7 @@ HISTORY(1), h ˈɪ s t ɹ iː
 HISTORY(2), h ˈɪ s t ə ɹ iː
 HIT, h ˈɪ t
 HITACHI, h ɪ t ˈɑː tʃ iː
+HITCH, h ˈɪ tʃ
 HITHERTO, h ˌɪ ð ə t ˈuː
 HITLER, h ˈɪ t l ə
 HITS, h ˈɪ t s
@@ -6456,9 +6531,11 @@ HM, h m
 HOARD, h ˈɔː d
 HOARSE, h ˈɔː s
 HOAX, h ˈəʊ k s
+HOB, h ˈɒ b
 HOBBIES, h ˈɒ b iː z
 HOBBY, h ˈɒ b iː
 HOCKEY, h ˈɒ k iː
+HOG, h ˈɒ g
 HOIST, h ˈɔɪ s t
 HOLD, h ˈəʊ l d
 HOLDER, h ˈəʊ l d ə
@@ -6497,6 +6574,7 @@ HOMOSEXUAL(1), h ˌɒ m əʊ s ˈɛ k ʃ ʊə l
 HOMOSEXUAL(2), h ˌəʊ m əʊ s ˈɛ k ʃ ʊə l
 HONDA, h ˈɒ n d ə
 HONDURAS, h ɒ n d j ˈʊə ɹ ə s
+HONE, h ˈəʊ n
 HONEST, ˈɒ n ɪ s t
 HONESTLY, ˈɒ n ɪ s t l iː
 HONESTY, ˈɒ n ɪ s t iː
@@ -6595,6 +6673,7 @@ HUGE, h j ˈuː dʒ
 HUGH, h j ˈuː
 HUGHES, h j ˈuː z
 HUH, h ˈɐ
+HULK, h ˈɐ l k
 HULL, h ˈɐ l
 HUM, h ˈɐ m
 HUMAN, h j ˈuː m ə n
@@ -6603,11 +6682,15 @@ HUMANITIES, h j uː m ˈæ n ɪ t iː z
 HUMANITY, h j uː m ˈæ n ɪ t iː
 HUMANS, h j ˈuː m ə n z
 HUMBLE, h ˈɐ m b ə l
+HUME, h j ˈuː m
+HUMID, h j ˈuː m ɪ d
 HUMIDITY, h j uː m ˈɪ d ɪ t iː
 HUMMING, h ˈɐ m ɪ ŋ
 HUMOR, h j ˈuː m ə
 HUMOUR, h j ˈuː m ə
 HUMOUROUS, h j ˈuː m ə ɹ ə s
+HUMP, h ˈɐ m p
+HUNCH, h ˈɐ n tʃ
 HUNDRED(1), h ˈɐ n d ɹ ə d
 HUNDRED(2), h ˈɐ n d ɹ ɪ d
 HUNDREDS, h ˈɐ n d ɹ ə d z
@@ -6642,6 +6725,7 @@ HYENA, h aɪ ˈiː n ə
 HYGIENE, h ˈaɪ dʒ ˌiː n
 HYGIENIC, h ˌaɪ dʒ ˈiː n ɪ k
 HYMN, h ˈɪ m
+HYPE, h ˈaɪ p
 HYPERBOLE, h aɪ p ˈɜː b ə l iː
 HYPHEN, h ˈaɪ f ə n
 HYPOTHESIS, h aɪ p ˈɒ θ ɪ s ɪ s
@@ -6654,6 +6738,7 @@ IAN, ˈiː ə n
 ICE, ˈaɪ s
 ICE-CREAM, ˈaɪ s k ɹ ˌiː m
 ICELAND, ˈaɪ s l ə n d
+ICING, ˈaɪ s ɪ ŋ
 ICON, ˈaɪ k ˌɒ n
 ICONS, ˈaɪ k ˌɒ n z
 ICY, ˈaɪ s iː
@@ -6677,6 +6762,7 @@ IDIOM, ˈɪ d ɪə m
 IDIOT, ˈɪ d ɪə t
 IDIOTS, ˈɪ d ɪə t s
 IDLE, ˈaɪ d ə l
+IDLY, ˈaɪ d l iː
 IDOL, ˈaɪ d ə l
 IF(1), ɪ f
 IF(2), ˈɪ f
@@ -6930,6 +7016,7 @@ INJUSTICE, ɪ n dʒ ˈɐ s t ɪ s
 INK, ˈɪ ŋ k
 INKJET, ˈɪ ŋ k dʒ ˌɛ t
 INLAND, ˈɪ n l ˌæ n d
+INLET, ˈɪ n l ˌɛ t
 INLINE, ˈɪ n l aɪ n
 INN, ˈɪ n
 INNATE(1), ˈɪ n eɪ t
@@ -6955,6 +7042,8 @@ INSERT(1), ɪ n s ˈɜː t
 INSERT(2), ˈɪ n s ˌɜː t
 INSERTED, ɪ n s ˈɜː t ɪ d
 INSERTION, ɪ n s ˈɜː ʃ ə n
+INSET(1), ˈɪ n s ˌɛ t
+INSET(2), ɪ n s ˈɛ t
 INSIDE(1), ɪ n s ˈaɪ d
 INSIDE(2), ˈɪ n s ˌaɪ d
 INSIDER, ɪ n s ˈaɪ d ə
@@ -7159,6 +7248,7 @@ IRELAND, ˈaɪ ə l ə n d
 IRENE, aɪ ɹ ˈiː n
 IRIS, ˈaɪ ɹ ɪ s
 IRISH, ˈaɪ ɹ ɪ ʃ
+IRK, ˈɜː k
 IRON, ˈaɪ ə n
 IRONIC, aɪ ɹ ˈɒ n ɪ k
 IRONICALLY, aɪ ɹ ˈɒ n ɪ k l iː
@@ -7208,6 +7298,7 @@ ITUNES, ˈaɪ t j ˌuː n z
 IVORY(1), ˈaɪ v ə ɹ iː
 IVORY(2), ˈaɪ v ɹ iː
 IVY, ˈaɪ v iː
+JAB, dʒ ˈæ b
 JACK, dʒ ˈæ k
 JACKET, dʒ ˈæ k ɪ t
 JACKETS, dʒ ˈæ k ɪ t s
@@ -7246,6 +7337,7 @@ JEALOUSY, dʒ ˈɛ l ə s iː
 JEAN, dʒ ˈiː n
 JEANS, dʒ ˈiː n z
 JEEP, dʒ ˈiː p
+JEER, dʒ ˈɪə
 JEEZ, dʒ ˈiː z
 JEFF, dʒ ˈɛ f
 JEFFERSON, dʒ ˈɛ f ə s ə n
@@ -7266,6 +7358,7 @@ JESSIE, dʒ ˈɛ s iː
 JESUS, dʒ ˈiː z ə s
 JET, dʒ ˈɛ t
 JETS, dʒ ˈɛ t s
+JETTY, dʒ ˈɛ t iː
 JEW, dʒ ˈuː
 JEWEL, dʒ ˈuː ə l
 JEWELLERY(1), dʒ ˈuː ə l ɹ iː
@@ -7275,6 +7368,7 @@ JEWELRY(2), dʒ ˈuː l ɹ iː
 JEWELS, dʒ ˈuː ə l z
 JEWISH, dʒ ˈuː ɪ ʃ
 JEWS, dʒ ˈuː z
+JIBE, dʒ ˈaɪ b
 JIGSAW, dʒ ˈɪ g s ˌɔː
 JILL, dʒ ˈɪ l
 JIM, dʒ ˈɪ m
@@ -7286,6 +7380,7 @@ JOANNE, dʒ ˌəʊ ˈæ n
 JOB(1), dʒ ˈɒ b
 JOB(2), dʒ ˈəʊ b
 JOBS, dʒ ˈɒ b z
+JOCK, dʒ ˈɒ k
 JOE, dʒ ˈəʊ
 JOEL, dʒ ˈəʊ ə l
 JOEY, dʒ ˈəʊ iː
@@ -7303,9 +7398,11 @@ JOINT, dʒ ˈɔɪ n t
 JOINTLY, dʒ ˈɔɪ n t l iː
 JOINTS, dʒ ˈɔɪ n t s
 JOKE, dʒ ˈəʊ k
+JOKER, dʒ ˈəʊ k ə
 JOKES, dʒ ˈəʊ k s
 JOKING, dʒ ˈəʊ k ɪ ŋ
 JOLLY, dʒ ˈɒ l iː
+JOLT, dʒ ˈəʊ l t
 JON, dʒ ˈɒ n
 JONATHAN, dʒ ˈɒ n ə θ ə n
 JONES, dʒ ˈəʊ n z
@@ -7369,6 +7466,7 @@ JUSTIFICATION, dʒ ˌɐ s t ɪ f ɪ k ˈeɪ ʃ ə n
 JUSTIFIED, dʒ ˈɐ s t ɪ f ˌaɪ d
 JUSTIFY, dʒ ˈɐ s t ɪ f ˌaɪ
 JUSTIN, dʒ ˈɐ s t ɪ n
+JUT, dʒ ˈɐ t
 JUVENILE, dʒ ˈuː v ə n ˌaɪ l
 KANSAS, k ˈæ n z ə s
 KARAOKE, k ˌæ ɹ ɪ ˈəʊ k iː
@@ -7389,6 +7487,7 @@ KAYS, k ˈeɪ z
 KAZAKHSTAN(1), k ˌɑː z ɑː k s t ˈɑː n
 KAZAKHSTAN(2), k ˌɑː z ɑː k s t ˈæ n
 KEBAB, k ə b ˈæ b
+KEEL, k ˈiː l
 KEEN, k ˈiː n
 KEEP, k ˈiː p
 KEEPER, k ˈiː p ə
@@ -7410,6 +7509,7 @@ KERRY, k ˈɛ ɹ iː
 KETCHUP, k ˈɛ tʃ ə p
 KETTLE, k ˈɛ t ə l
 KEVIN, k ˈɛ v ɪ n
+KEW, k j ˈuː
 KEY, k ˈiː
 KEYBOARD, k ˈiː b ˌɔː d
 KEYBOARDS, k ˈiː b ˌɔː d z
@@ -7434,6 +7534,7 @@ KILLER, k ˈɪ l ə
 KILLERS, k ˈɪ l ə z
 KILLING, k ˈɪ l ɪ ŋ
 KILLS, k ˈɪ l z
+KILN, k ˈɪ l n
 KILO, k ˈiː l ˌəʊ
 KILOMETER(1), k ˈɪ l ə m ˌiː t ə
 KILOMETER(2), k ˌɪ l ˈɒ m ɪ t ə
@@ -7459,6 +7560,7 @@ KINGSTON, k ˈɪ ŋ s t ə n
 KINNOCK, k ˈɪ n ə k
 KINROSS, k ˈɪ n ɹ ˌɒ s
 KIOSK, k iː ˈɒ s k
+KIRK, k ˈɜː k
 KISS, k ˈɪ s
 KISSED, k ˈɪ s t
 KISSES, k ˈɪ s ɪ z
@@ -7531,6 +7633,7 @@ LADY, l ˈeɪ d iː
 LAG, l ˈæ g
 LAGER, l ˈɑː g ə
 LAID, l ˈeɪ d
+LAIR, l ˈɛə
 LAKE, l ˈeɪ k
 LAKES, l ˈeɪ k s
 LAM, l ˈæ m
@@ -7566,6 +7669,7 @@ LAOS(1), l ˈɑː ɒ s
 LAOS(2), l ˈaʊ s
 LAOS(3), l ˈaʊ z
 LAP, l ˈæ p
+LAPEL, l ˈeɪ p ə l
 LAPSE, l ˈæ p s
 LAPTOP, l ˈæ p t ˌɒ p
 LAPTOPS, l ˈæ p t ˌɒ p s
@@ -7609,6 +7713,7 @@ LAUNDRY, l ˈɒ n d ɹ iː
 LAURA, l ˈɔː ɹ ə
 LAUREN, l ˈɔː ɹ ə n
 LAURENT, l ˈɒ ɹ ə n t
+LAVA, l ˈɑː v ə
 LAW, l ˈɔː
 LAWN, l ˈɔː n
 LAWRENCE, l ˈɒ ɹ ə n s
@@ -7734,6 +7839,7 @@ LEVELS, l ˈɛ v ə l z
 LEVER, l ˈiː v ə
 LEVERAGE(1), l ˈɛ v ə ɹ ɪ dʒ
 LEVERAGE(2), l ˈiː v ə ɹ ɪ dʒ
+LEVI, l ˈiː v aɪ
 LEVY(1), l ˈiː v aɪ
 LEVY(2), l ˈɛ v iː
 LEWD, l ˈuː d
@@ -7758,6 +7864,7 @@ LIBERTY, l ˈɪ b ə t iː
 LIBRARIAN, l aɪ b ɹ ˈɛə ɹ ɪə n
 LIBRARIES, l ˈaɪ b ɹ ə ɹ iː z
 LIBRARY, l ˈaɪ b ɹ ə ɹ iː
+LIBYA, l ˈɪ b ɪə
 LICE, l ˈaɪ s
 LICENCE, l ˈaɪ s ə n s
 LICENSE, l ˈaɪ s ə n s
@@ -7799,6 +7906,7 @@ LIKES, l ˈaɪ k s
 LIKEWISE, l ˈaɪ k w ˌaɪ z
 LILY, l ˈɪ l iː
 LIMB, l ˈɪ m
+LIMBO, l ˈɪ m b əʊ
 LIMBS, l ˈɪ m z
 LIME, l ˈaɪ m
 LIMIT, l ˈɪ m ɪ t
@@ -7843,6 +7951,7 @@ LIQUEFY, l ˈɪ k w ɪ f ˌaɪ
 LIQUID, l ˈɪ k w ɪ d
 LIQUOR, l ˈɪ k ə
 LISA, l ˈiː s ə
+LISBON, l ˈɪ z b ə n
 LIST, l ˈɪ s t
 LISTED, l ˈɪ s t ɪ d
 LISTEN, l ˈɪ s ə n
@@ -7891,7 +8000,9 @@ LOANS, l ˈəʊ n z
 LOATH, l ˈəʊ θ
 LOATHE, l ˈəʊ ð
 LOAVES, l ˈəʊ v z
+LOB, l ˈɒ b
 LOBBY, l ˈɒ b iː
+LOBE, l ˈəʊ b
 LOBSTER, l ˈɒ b s t ə
 LOCAL, l ˈəʊ k ə l
 LOCALE, l əʊ k ˈɑː l
@@ -7931,6 +8042,7 @@ LOLLIPOP, l ˈɒ l ɪ p ˌɒ p
 LONDON, l ˈɐ n d ə n
 LONE, l ˈəʊ n
 LONELY, l ˈəʊ n l iː
+LONER, l ˈəʊ n ə
 LONG, l ˈɒ ŋ
 LONG-TERM, l ˈɒ ŋ t ɜː m
 LONGER, l ˈɒ ŋ g ə
@@ -7950,6 +8062,7 @@ LOOP, l ˈuː p
 LOOPS, l ˈuː p s
 LOOSE, l ˈuː s
 LOOSEN, l ˈuː s ə n
+LOOT, l ˈuː t
 LOPEZ, l ˈəʊ p ɛ z
 LORD, l ˈɔː d
 LORDS, l ˈɔː d z
@@ -8014,8 +8127,10 @@ LUNCH, l ˈɐ n tʃ
 LUNCHTIME, l ˈɐ n tʃ t ˌaɪ m
 LUNG, l ˈɐ ŋ
 LUNGS, l ˈɐ ŋ z
+LURCH, l ˈɜː tʃ
 LURE(1), l j ˈʊə
 LURE(2), l ˈʊə
+LURID, l ˈʊə ɹ ɪ d
 LURK, l ɜː k
 LUSCIOUS, l ˈɐ ʃ ə s
 LUSH, l ˈɐ ʃ
@@ -8026,6 +8141,7 @@ LUXEMBOURG, l ˈɐ k s ə m b ˌɜː g
 LUXURY, l ˈɐ k ʃ ə ɹ iː
 LYING, l ˈaɪ ɪ ŋ
 LYN, l ˈɪ n
+LYNCH, l ˈɪ n tʃ
 LYNDA, l ˈɪ n d ə
 LYNN, l ˈɪ n
 LYRIC, l ˈɪ ɹ ɪ k
@@ -8078,6 +8194,7 @@ MAILED, m ˈeɪ l d
 MAILING, m ˈeɪ l ɪ ŋ
 MAILMAN, m ˈeɪ l m ˌæ n
 MAILS, m ˈeɪ l z
+MAIM, m ˈeɪ m
 MAIN, m ˈeɪ n
 MAINE, m ˈeɪ n
 MAINFRAME, m ˈeɪ n f ɹ ˌeɪ m
@@ -8091,6 +8208,7 @@ MAINTAINING, m eɪ n t ˈeɪ n ɪ ŋ
 MAINTAINS, m eɪ n t ˈeɪ n z
 MAINTENANCE(1), m ˈeɪ n t n ə n s
 MAINTENANCE(2), m ˈeɪ n t ə n ə n s
+MAIZE, m ˈeɪ z
 MAJESTY, m ˈæ dʒ ə s t iː
 MAJOR, m ˈeɪ dʒ ə
 MAJORITY, m ə dʒ ˈɒ ɹ ɪ t iː
@@ -8112,6 +8230,7 @@ MALICE, m ˈæ l ɪ s
 MALICIOUS, m ə l ˈɪ ʃ ə s
 MALL, m ˈɔː l
 MALPRACTICE, m æ l p ɹ ˈæ k t ɪ s
+MALT, m ˈɔː l t
 MALTA, m ˈɔː l t ə
 MAM, m ˈæ m
 MAMA, m ə m ˈɑː
@@ -8131,9 +8250,12 @@ MANDATE(1), m ˈæ n d ˌeɪ t
 MANDATE(2), m ˈæ n d ɪ t
 MANDATORY, m ˈæ n d ə t ə ɹ iː
 MANDY, m ˈæ n d iː
+MANE, m ˈeɪ n
 MANEUVRE, m ə n ˈuː v ə
 MANGA, m ˈæ ŋ g ə
 MANHATTAN, m æ n h ˈæ t ə n
+MANIA, m ˈeɪ n ɪə
+MANIC, m ˈæ n ɪ k
 MANIPULATE, m ə n ˈɪ p j ʊ l ˌeɪ t
 MANIPULATION, m ə n ˌɪ p j ʊ l ˈeɪ ʃ ə n
 MANITOBA, m ˌæ n ɪ t ˈəʊ b ə
@@ -8226,6 +8348,7 @@ MARX, m ˈɑː k s
 MARXIST, m ˈɑː k s ɪ s t
 MARY, m ˈɛə ɹ iː
 MARYLAND, m ˈæ ɹ ɪ l ə n d
+MASH, m ˈæ ʃ
 MASK, m ˈɑː s k
 MASOCHIST, m ˈæ s ə k ɪ s t
 MASON, m ˈeɪ s ə n
@@ -8275,6 +8398,7 @@ MAUREEN, m ˈɔː ɹ iː n
 MAURICE, m ˈɒ ɹ ɪ s
 MAURITIUS, m ə ɹ ˈɪ ʃ ə s
 MAX, m ˈæ k s
+MAXIM, m ˈæ k s ɪ m
 MAXIMIZE, m ˈæ k s ɪ m ˌaɪ z
 MAXIMUM, m ˈæ k s ɪ m ə m
 MAXINE, m ˈæ k s iː n
@@ -8286,6 +8410,7 @@ MAZDA, m ˈæ z d ə
 MAZE, m ˈeɪ z
 MCDONALD, m ə k d ˈɒ n ə l d
 ME, m ˈiː
+MEAD, m ˈiː d
 MEADOW, m ˈɛ d əʊ
 MEAGRE, m ˈiː g ə
 MEAL, m ˈiː l
@@ -8305,6 +8430,7 @@ MEASUREMENTS, m ˈɛ ʒ ə m ə n t s
 MEASURES, m ˈɛ ʒ ə z
 MEASURING, m ˈɛ ʒ ə ɹ ɪ ŋ
 MEAT, m ˈiː t
+MECCA, m ˈɛ k ə
 MECHANIC, m ə k ˈæ n ɪ k
 MECHANICAL, m ə k ˈæ n ɪ k ə l
 MECHANICS, m ə k ˈæ n ɪ k s
@@ -8330,12 +8456,14 @@ MEDIOCRE(2), m ˈiː d ɪ ˌəʊ k ə
 MEDITATION, m ˌɛ d ɪ t ˈeɪ ʃ ə n
 MEDITERRANEAN, m ˌɛ d ɪ t ə ɹ ˈeɪ n ɪə n
 MEDIUM, m ˈiː d ɪə m
+MEEK, m ˈiː k
 MEERKAT, m ˈɪə k ˌæ t
 MEET, m ˈiː t
 MEETING, m ˈiː t ɪ ŋ
 MEETINGS, m ˈiː t ɪ ŋ z
 MEETS, m ˈiː t s
 MEETUP, m ˈiː t ɐ p
+MEH, m ˈɛ
 MEL, m ˈɛ l
 MELANIE, m ˈɛ l ə n iː
 MELBOURNE, m ˈɛ l b ə n
@@ -8416,6 +8544,7 @@ METRES, m ˈiː t ə z
 METRIC, m ˈɛ t ɹ ɪ k
 METRO, m ˈɛ t ɹ ˌəʊ
 METROPOLITAN, m ˌɛ t ɹ ə p ˈɒ l ɪ t ə n
+MEW, m j ˈuː
 MEXICAN, m ˈɛ k s ɪ k ə n
 MEXICO, m ˈɛ k s ɪ k ˌəʊ
 MHM, ə m h ə m
@@ -8514,6 +8643,7 @@ MINUTE(2), m aɪ n j ˈuː t
 MINUTES, m ˈɪ n ɪ t s
 MIRACLE, m ˈɪ ɹ ə k ə l
 MIRACLES, m ˈɪ ɹ ə k ə l z
+MIRE, m ˈaɪ ə
 MIRROR, m ˈɪ ɹ ə
 MIRRORS, m ˈɪ ɹ ə z
 MISCARRIAGE, m ɪ s k ˈæ ɹ ɪ dʒ
@@ -8549,6 +8679,7 @@ MISUNDERSTAND, m ˌɪ s ɐ n d ə s t ˈæ n d
 MISUNDERSTANDING, m ˌɪ s ɐ n d ə s t ˈæ n d ɪ ŋ
 MISUNDERSTOOD, m ˌɪ s ɐ n d ə s t ˈʊ d
 MITCHELL, m ˈɪ tʃ ə l
+MITE, m ˈaɪ t
 MITSUBISHI, m ˌɪ t s ʊ b ˈɪ ʃ iː
 MIX, m ˈɪ k s
 MIXED, m ˈɪ k s t
@@ -8666,6 +8797,7 @@ MORPHOLOGICAL, m ˌɔː f ə l ˈɒ dʒ ɪ k ə l
 MORPHOLOGY, m ɔː f ˈɒ l ə dʒ iː
 MORRIS, m ˈɒ ɹ ɪ s
 MORRISON, m ˈɒ ɹ ɪ s ə n
+MORSE, m ˈɔː s
 MORTAL, m ˈɔː t ə l
 MORTALITY, m ˌɔː t ˈæ l ɪ t iː
 MORTGAGE, m ˈɔː g ɪ dʒ
@@ -8725,6 +8857,7 @@ MOVES, m ˈuː v z
 MOVIE, m ˈuː v iː
 MOVIES, m ˈuː v iː z
 MOVING, m ˈuː v ɪ ŋ
+MOW, m ˈəʊ
 MOZAMBIQUE(1), m ˌəʊ z ə m b ˈiː k
 MOZAMBIQUE(2), m ˌəʊ z æ m b ˈiː k
 MOZART(1), m ˈəʊ t s ɑː t
@@ -8742,7 +8875,9 @@ MUD, m ˈɐ d
 MUDDY, m ˈɐ d iː
 MUFFLED, m ˈɐ f ə l d
 MUG, m ˈɐ g
+MUIR, m j ˈʊə
 MULE, m j ˈuː l
+MULL, m ˈɐ l
 MULTIMEDIA, m ˌɐ l t ɪ m ˈiː d ɪə
 MULTINATIONAL, m ˌɐ l t ɪ n ˈæ ʃ ə n ə l
 MULTIPLE, m ˈɐ l t ɪ p ə l
@@ -8755,6 +8890,7 @@ MUNCH, m ˈɐ n tʃ
 MUNICH, m j ˈuː n ɪ k
 MUNICIPAL, m j uː n ˈɪ s ɪ p ə l
 MUNICIPALITY, m j ˌuː n ɪ s ɪ p ˈæ l ɪ t iː
+MURAL, m j ˈʊə ɹ ə l
 MURDER, m ˈɜː d ə
 MURDERED, m ˈɜː d ə d
 MURDERER, m ˈɜː d ə ɹ ə
@@ -8802,6 +8938,7 @@ MYSTERY, m ˈɪ s t ə ɹ iː
 MYSTIC, m ˈɪ s t ɪ k
 MYSTIQUE, m ɪ s t ˈiː k
 MYTH, m ˈɪ θ
+NAB, n ˈæ b
 NAFF, n ˈæ f
 NAG, n ˈæ g
 NAGGING, n ˈæ g ɪ ŋ
@@ -8819,6 +8956,7 @@ NAN, n ˈæ n
 NANA, n ˈæ n ə
 NANCY, n ˈæ n s iː
 NANNY, n ˈæ n iː
+NAP, n ˈæ p
 NAPE, n ˈeɪ p
 NAPLES, n ˈeɪ p ə l z
 NAPOLEON, n ə p ˈəʊ l ɪə n
@@ -8859,6 +8997,8 @@ NAUGHTY, n ˈɔː t iː
 NAUSEOUS(1), n ˈɔː z ɪə s
 NAUSEOUS(2), n ˈɔː s ɪə s
 NAVAL, n ˈeɪ v ə l
+NAVE, n ˈeɪ v
+NAVEL, n ˈeɪ v ə l
 NAVIGATE, n ˈæ v ɪ g ˌeɪ t
 NAVIGATION, n ˌæ v ɪ g ˈeɪ ʃ ə n
 NAVIGATOR, n ˈæ v ɪ g ˌeɪ t ə
@@ -8982,6 +9122,7 @@ NIGHTS, n ˈaɪ t s
 NIKE, n ˈaɪ k iː
 NIL, n ˈɪ l
 NILE, n ˈaɪ l
+NIMBLE, n ˈɪ m b ə l
 NINA, n ˈiː n ə
 NINE, n ˈaɪ n
 NINES, n ˈaɪ n z
@@ -8998,6 +9139,7 @@ NIPPLES, n ˈɪ p ə l z
 NIRVANA(1), n ɜː ɹ v ˈɑː n ə
 NIRVANA(2), n ɪə v ˈɑː n ə
 NISSAN, n ˈiː s æ n
+NIT, n ˈɪ t
 NITROGEN, n ˈaɪ t ɹ ə dʒ ə n
 NO, n ˈəʊ
 NO-ONE, n ˈəʊ w ɐ n
@@ -9026,6 +9168,7 @@ NONETHELESS, n ˌɐ n ð ə l ˈɛ s
 NONPROFIT, n ɒ n p ɹ ˈɒ f ɪ t
 NONSENSE, n ˈɒ n s ɛ n s
 NOODLES, n ˈuː d ə l z
+NOOK, n ˈʊ k
 NOON, n ˈuː n
 NOPE, n ˈəʊ p
 NOR, n ˈɔː
@@ -9059,6 +9202,7 @@ NOT, n ˈɒ t
 NOTABLE, n ˈəʊ t ə b ə l
 NOTABLY, n ˈəʊ t ə b l iː
 NOTATION, n əʊ t ˈeɪ ʃ ə n
+NOTCH, n ˈɒ tʃ
 NOTE, n ˈəʊ t
 NOTEBOOK, n ˈəʊ t b ˌʊ k
 NOTEBOOKS, n ˈəʊ t b ˌʊ k s
@@ -9101,6 +9245,7 @@ NUDITY, n j ˈuː d ɪ t iː
 NUISANCE, n j ˈuː s ə n s
 NUKE, n j ˈuː k
 NULL, n ˈɐ l
+NUMB, n ˈɐ m
 NUMBER, n ˈɐ m b ə
 NUMBERS, n ˈɐ m b ə z
 NUMERIC, n j uː m ˈɛ ɹ ɪ k
@@ -9122,11 +9267,15 @@ NYLON, n ˈaɪ l ˌɒ n
 O, ˈəʊ
 O'CLOCK, ə k l ˈɒ k
 O'S, ˈəʊ z
+OAF, ˈəʊ f
 OAK, ˈəʊ k
 OAKLAND, ˈəʊ k l ə n d
 OAKS, ˈəʊ k s
+OAR, ˈɔː
 OASIS, əʊ ˈeɪ s ɪ s
+OAT, ˈəʊ t
 OATH, ˈəʊ θ
+OATS, ˈəʊ t s
 OBESITY(1), əʊ b ˈiː s ɪ t iː
 OBESITY(2), ə b ˈiː s ɪ t iː
 OBEY, əʊ b ˈeɪ
@@ -9182,6 +9331,7 @@ OCTOPUS, ˈɒ k t ə p ə s
 ODD, ˈɒ d
 ODDLY, ˈɒ d l iː
 ODDS, ˈɒ d z
+ODE, ˈəʊ d
 ODOR, ˈəʊ d ə
 ODOUR, ˈəʊ d ə
 ODYSSEY, ˈɒ d ɪ s iː
@@ -9287,6 +9437,7 @@ OPERATOR, ˈɒ p ə ɹ ˌeɪ t ə
 OPERATORS, ˈɒ p ə ɹ ˌeɪ t ə z
 OPINION, ə p ˈɪ n j ə n
 OPINIONS, ə p ˈɪ n j ə n z
+OPIUM, ˈəʊ p ɪə m
 OPPONENT, ə p ˈəʊ n ə n t
 OPPONENTS, ə p ˈəʊ n ə n t s
 OPPORTUNITIES, ˌɒ p ə t j ˈuː n ɪ t iː z
@@ -9316,8 +9467,8 @@ ORANGE, ˈɒ ɹ ɪ n dʒ
 ORANGES, ˈɒ ɹ ɪ n dʒ ɪ z
 ORANGUTAN(1), ɔː ɹ ˌæ ŋ ʊ t ˈæ n
 ORANGUTAN(2), ə ɹ ˈæ ŋ ʊ t æ n
-ORANGUTANG(1), ɔː ɹ ˌæ ŋ ʊ t ˈæ n
-ORANGUTANG(2), ə ɹ ˈæ ŋ ʊ t æ n
+ORANGUTANG(1), ɔː ɹ ˌæ ŋ ʊ t ˈæ ŋ
+ORANGUTANG(2), ə ɹ ˈæ ŋ ʊ t æ ŋ
 ORBIT, ˈɔː b ɪ t
 ORCHESTRA, ˈɔː k ɪ s t ɹ ə
 ORCHID, ˈɔː k ɪ d
@@ -9374,6 +9525,7 @@ ORLEANS, ˈɔː l ɪə n z
 ORTHODOX, ˈɔː θ ə d ˌɒ k s
 OSCAR, ˈɒ s k ə
 OSCILLATION, ˌɒ s ɪ l ˈeɪ ʃ ə n
+OSLO, ˈɒ z l əʊ
 OSTENSIBLY, ɒ s t ˈɛ n s ɪ b l iː
 OSTRICH, ˈɒ s t ɹ ɪ tʃ
 OTHER, ˈɐ ð ə
@@ -9506,6 +9658,7 @@ PALM, p ˈɑː m
 PALMER, p ˈɑː m ə
 PAM, p ˈæ m
 PAMELA, p ˈæ m ə l ə
+PAMPERED, p ˈæ m p ə d
 PAMPHLET, p ˈæ m f l ɪ t
 PAN, p ˈæ n
 PANAMA(1), p ˈæ n ə m ˌɑː
@@ -9514,12 +9667,15 @@ PANASONIC, p ˌæ n ə s ˈɒ n ɪ k
 PANE, p ˈeɪ n
 PANEL, p ˈæ n ə l
 PANELS, p ˈæ n ə l z
+PANG, p ˈæ ŋ
 PANIC, p ˈæ n ɪ k
+PANT, p ˈæ n t
 PANTIES, p ˈæ n t iː z
 PANTING, p ˈæ n t ɪ ŋ
 PANTOMIME, p ˈæ n t ə m ˌaɪ m
 PANTS, p ˈæ n t s
 PANTYHOSE, p ˈæ n t ɪ h ˌəʊ z
+PAP, p ˈæ p
 PAPA, p ə p ˈɑː
 PAPAL, p ˈeɪ p ə l
 PAPER, p ˈeɪ p ə
@@ -9546,6 +9702,7 @@ PARANOID, p ˈæ ɹ ə n ˌɔɪ d
 PARAPHERNALIA, p ˌæ ɹ ə f ə n ˈeɪ l ɪə
 PARCEL, p ˈɑː s ə l
 PARDON, p ˈɑː d ə n
+PARE, p ˈɛə
 PAREN, p ə ɹ ˈɛ n
 PARENS, p ə ɹ ˈɛ n s
 PARENT, p ˈɛə ɹ ə n t
@@ -9641,9 +9798,12 @@ PAUSED, p ˈɔː z d
 PAVE, p ˈeɪ v
 PAVEMENT, p ˈeɪ v m ə n t
 PAVILION, p ə v ˈɪ l j ə n
+PAW, p ˈɔː
+PAWN, p ˈɔː n
 PAY, p ˈeɪ
 PAYABLE, p ˈeɪ ə b ə l
 PAYDAY, p ˈeɪ d ˌeɪ
+PAYER, p ˈeɪ ə
 PAYING, p ˈeɪ ɪ ŋ
 PAYMENT, p ˈeɪ m ə n t
 PAYMENTS, p ˈeɪ m ə n t s
@@ -9664,6 +9824,7 @@ PEAS, p ˈiː z
 PEASANT, p ˈɛ z ə n t
 PEASANTS, p ˈɛ z ə n t s
 PEAT, p ˈiː t
+PECK, p ˈɛ k
 PECKISH, p ˈɛ k ɪ ʃ
 PECULIAR, p ɪ k j ˈuː l j ə
 PEDAL, p ˈɛ d ə l
@@ -9679,6 +9840,7 @@ PEES, p ˈiː z
 PEG, p ˈɛ g
 PEGGY, p ˈɛ g iː
 PEGS, p ˈɛ g z
+PELT, p ˈɛ l t
 PEMBROKSHIRE, p ˈɛ m b ɹ ʊ k ʃ ə
 PEN, p ˈɛ n
 PENAL, p ˈiː n ə l
@@ -9790,6 +9952,7 @@ PETROLEUM, p ə t ɹ ˈəʊ l ɪə m
 PETS, p ˈɛ t s
 PETTY, p ˈɛ t iː
 PEUGEOT, p ˈɜː ʒ əʊ
+PEW, p j ˈuː
 PHANTOM, f ˈæ n t ə m
 PHARAOH, f ˈɛə ɹ əʊ
 PHARAOHS, f ˈɛə ɹ əʊ z
@@ -9889,6 +10052,8 @@ PILLOWS, p ˈɪ l əʊ z
 PILLS, p ˈɪ l z
 PILOT, p ˈaɪ l ə t
 PILOTS, p ˈaɪ l ə t s
+PIMP, p ˈɪ m p
+PIMPLE, p ˈɪ m p ə l
 PIN, p ˈɪ n
 PINCH, p ˈɪ n tʃ
 PINCHED, p ˈɪ n tʃ t
@@ -9902,8 +10067,10 @@ PINT, p ˈaɪ n t
 PINTS, p ˈaɪ n t s
 PIONEER, p ˌaɪ ə n ˈɪə
 PIOUS, p ˈaɪ ə s
+PIP, p ˈɪ p
 PIPE, p ˈaɪ p
 PIPELINE, p ˈaɪ p l ˌaɪ n
+PIPER, p ˈaɪ p ə
 PIPES, p ˈaɪ p s
 PIRANHA, p ɪ ɹ ˈɑː n ə
 PIRATES, p ˈaɪ ɹ ə t s
@@ -9961,6 +10128,7 @@ PLATES, p l ˈeɪ t s
 PLATFORM, p l ˈæ t f ˌɔː m
 PLATFORMS, p l ˈæ t f ˌɔː m z
 PLATINUM, p l ˈæ t ɪ n ə m
+PLATO, p l ˈeɪ t əʊ
 PLAUSIBLE, p l ˈɔː z ɪ b ə l
 PLAY, p l ˈeɪ
 PLAYBACK, p l ˈeɪ b ˌæ k
@@ -9984,6 +10152,7 @@ PLEASURE, p l ˈɛ ʒ ə
 PLEDGE, p l ˈɛ dʒ
 PLENTY, p l ˈɛ n t iː
 PLIGHT, p l ˈaɪ t
+PLOD, p l ˈɒ d
 PLOT, p l ˈɒ t
 PLOTS, p l ˈɒ t s
 PLOUGH, p l ˈaʊ
@@ -9994,6 +10163,8 @@ PLUG-IN, p l ˈɐ g ɪ n
 PLUM, p l ˈɐ m
 PLUMBER, p l ˈɐ m ə
 PLUMBING, p l ˈɐ m ɪ ŋ
+PLUME, p l ˈuː m
+PLUMP, p l ˈɐ m p
 PLUNGE, p l ˈɐ n dʒ
 PLURAL, p l ˈʊə ɹ ə l
 PLUS, p l ˈɐ s
@@ -10052,6 +10223,7 @@ POLYESTER, p ˌɒ l iː ˈɛ s t ə
 POLYMER, p ˈɒ l ɪ m ə
 POLYPHONIC, p ˌɒ l ɪ f ˈɒ n ɪ k
 POLYTECHNIC, p ˌɒ l ɪ t ˈɛ k n ɪ k
+POMP, p ˈɒ m p
 POND, p ˈɒ n d
 PONDER, p ˈɒ n d ə
 PONY, p ˈəʊ n iː
@@ -10146,13 +10318,16 @@ POTTER, p ˈɒ t ə
 POTTERY, p ˈɒ t ə ɹ iː
 POTTS, p ˈɒ t s
 POTTY, p ˈɒ t iː
+POUCH, p ˈaʊ tʃ
 POULTRY, p ˈəʊ l t ɹ iː
 POUND, p ˈaʊ n d
 POUNDS, p ˈaʊ n d z
 POUR, p ˈɔː
 POURED, p ˈɔː d
 POURING, p ˈɔː ɹ ɪ ŋ
+POUT, p ˈaʊ t
 POVERTY, p ˈɒ v ə t iː
+POW, p ˈaʊ
 POWDER, p ˈaʊ d ə
 POWELL, p ˈaʊ ə l
 POWER, p ˈaʊ ə
@@ -10357,6 +10532,7 @@ PROCESSOR, p ɹ ˈəʊ s ˌɛ s ə
 PROCESSORS, p ɹ ˈəʊ s ˌɛ s ə z
 PROCLAIM, p ɹ ə k l ˈeɪ m
 PROCUREMENT, p ɹ ə k j ˈʊə m ə n t
+PROD, p ɹ ˈɒ d
 PRODUCE(1), p ɹ ə d j ˈuː s
 PRODUCE(2), p ɹ ˈɒ d j uː s
 PRODUCED, p ɹ ə d j ˈuː s t
@@ -10526,6 +10702,7 @@ PUBS, p ˈɐ b z
 PUDDING, p ˈʊ d ɪ ŋ
 PUDDINGS, p ˈʊ d ɪ ŋ z
 PUFF, p ˈɐ f
+PUG, p ˈɐ g
 PULL, p ˈʊ l
 PULLED, p ˈʊ l d
 PULLING, p ˈʊ l ɪ ŋ
@@ -10543,7 +10720,9 @@ PUNISH, p ˈɐ n ɪ ʃ
 PUNISHED, p ˈɐ n ɪ ʃ t
 PUNISHMENT, p ˈɐ n ɪ ʃ m ə n t
 PUNK, p ˈɐ ŋ k
+PUNT, p ˈɐ n t
 PUNY, p j ˈuː n iː
+PUP, p ˈɐ p
 PUPIL, p j ˈuː p ə l
 PUPILS, p j ˈuː p ə l z
 PUPPY, p ˈɐ p iː
@@ -10566,6 +10745,7 @@ PURSUE, p ə s j ˈuː
 PURSUED, p ə s j ˈuː d
 PURSUING, p ə s j ˈuː ɪ ŋ
 PURSUIT, p ə s j ˈuː t
+PUS, p ˈɐ s
 PUSH, p ˈʊ ʃ
 PUSHED, p ˈʊ ʃ t
 PUSHES, p ˈʊ ʃ ɪ z
@@ -10605,12 +10785,14 @@ QUARTER(1), k w ˈɔː t ə
 QUARTER(2), k ˈɔː t ə
 QUARTERLY, k w ˈɔː t ə l iː
 QUARTERS, k w ˈɔː t ə z
+QUASH, k w ˈɒ ʃ
 QUAY, k ˈiː
 QUEBEC, k w ɪ b ˈɛ k
 QUEEN, k w ˈiː n
 QUEENS, k w ˈiː n z
 QUEENSLAND(1), k w ˈiː n z l ə n d
 QUEENSLAND(2), k w ˈiː n z l ˌæ n d
+QUEER, k w ˈɪə
 QUELL, k w ˈɛ l
 QUENCH, k w ˈɛ n tʃ
 QUERIES, k w ˈɪə ɹ iː z
@@ -10630,6 +10812,7 @@ QUIETLY, k w ˈaɪ ə t l iː
 QUILT, k w ˈɪ l t
 QUINOA(1), k ˈiː n w ɑː
 QUINOA(2), k ˈiː n əʊ ə
+QUIP, k w ˈɪ p
 QUIRK, k w ˈɜː k
 QUIT, k w ˈɪ t
 QUITE, k w ˈaɪ t
@@ -11293,9 +11476,11 @@ RINGING, ɹ ˈɪ ŋ ɪ ŋ
 RINGS, ɹ ˈɪ ŋ z
 RINGTONE, ɹ ˈɪ ŋ t ˌəʊ n
 RINGTONES, ɹ ˈɪ ŋ t ˌəʊ n z
+RINSE, ɹ ˈɪ n s
 RIOT, ɹ ˈaɪ ə t
 RIP, ɹ ˈɪ p
 RIPE, ɹ ˈaɪ p
+RIPEN, ɹ ˈaɪ p ə n
 RIPPED, ɹ ˈɪ p t
 RISE, ɹ ˈaɪ z
 RISEN, ɹ ˈɪ z ə n
@@ -11307,6 +11492,7 @@ RISKY, ɹ ˈɪ s k iː
 RITA, ɹ ˈiː t ə
 RITE, ɹ ˈaɪ t
 RITUAL, ɹ ˈɪ tʃ ʊə l
+RITZ, ɹ ˈɪ t s
 RIVAL, ɹ ˈaɪ v ə l
 RIVALS, ɹ ˈaɪ v ə l z
 RIVER, ɹ ˈɪ v ə
@@ -11367,6 +11553,7 @@ ROOM, ɹ ˈuː m
 ROOMMATE, ɹ ˈuː m ˌeɪ t
 ROOMMATES, ɹ ˈuː m ˌeɪ t s
 ROOMS, ɹ ˈuː m z
+ROOST, ɹ ˈuː s t
 ROOT, ɹ ˈuː t
 ROOTS, ɹ ˈuː t s
 ROPE, ɹ ˈəʊ p
@@ -11419,6 +11606,7 @@ RUBY, ɹ ˈuː b iː
 RUDDY, ɹ ˈɐ d iː
 RUDE, ɹ ˈuː d
 RUDY, ɹ ˈuː d iː
+RUE, ɹ ˈuː
 RUG, ɹ ˈɐ g
 RUGBY, ɹ ˈɐ g b iː
 RUGS, ɹ ˈɐ g z
@@ -11445,6 +11633,7 @@ RUNNING, ɹ ˈɐ n ɪ ŋ
 RUNS, ɹ ˈɐ n z
 RUPERT, ɹ ˈuː p ə t
 RURAL, ɹ ˈʊə ɹ ə l
+RUSE, ɹ ˈuː z
 RUSH, ɹ ˈɐ ʃ
 RUSHED, ɹ ˈɐ ʃ t
 RUSHING, ɹ ˈɐ ʃ ɪ ŋ
@@ -11454,6 +11643,7 @@ RUSSIAN, ɹ ˈɐ ʃ ə n
 RUSSIANS, ɹ ˈɐ ʃ ə n z
 RUST, ɹ ˈɐ s t
 RUSTY, ɹ ˈɐ s t iː
+RUT, ɹ ˈɐ t
 RUTH, ɹ ˈuː θ
 RWANDA(1), ɹ ʊ ˈæ n d ə
 RWANDA(2), ɹ uː ˈæ n d ə
@@ -11497,6 +11687,7 @@ SALLY, s ˈæ l iː
 SALMON, s ˈæ m ə n
 SALON, s ə l ˈɒ n
 SALT, s ˈɒ l t
+SALTY, s ˈɒ l t iː
 SALVADOR, s ˈæ l v ə d ˌɔː
 SALVATION, s ə l v ˈeɪ ʃ ə n
 SAM, s ˈæ m
@@ -11539,6 +11730,7 @@ SARA, s ˈɛə ɹ ə
 SARAH, s ˈɛə ɹ ə
 SARCASM, s ˈɑː k æ z ə m
 SARCASTIC, s ɑː k ˈæ s t ˈɪ k
+SASH, s ˈæ ʃ
 SASKATCHEWAN, s æ s k ˈæ tʃ ɪ w ə n
 SAT, s ˈæ t
 SATAN, s ˈeɪ t ə n
@@ -11624,6 +11816,7 @@ SCIENTIFIC, s ˌaɪ ə n t ˈɪ f ɪ k
 SCIENTIST, s ˈaɪ ə n t ɪ s t
 SCIENTISTS, s ˈaɪ ə n t ɪ s t s
 SCISSORS, s ˈɪ z ə z
+SCOFF, s k ˈɒ f
 SCOFFS, s k ˈɒ f s
 SCOLD, s k ˈəʊ l d
 SCOLDING, s k ˈəʊ l d ɪ ŋ
@@ -11726,6 +11919,7 @@ SEDIMENT, s ˈɛ d ɪ m ə n t
 SEE, s ˈiː
 SEED, s ˈiː d
 SEEDS, s ˈiː d z
+SEEDY, s ˈiː d iː
 SEEING, s ˈiː ɪ ŋ
 SEEK, s ˈiː k
 SEEKER, s ˈiː k ə
@@ -11860,6 +12054,7 @@ SEXUALITY, s ˌɛ k ʃ ʊ ˈæ l ɪ t iː
 SEXUALLY, s ˈɛ k ʃ ʊə l iː
 SEXY, s ˈɛ k s iː
 SH, ʃ
+SHACK, ʃ ˈæ k
 SHADE, ʃ ˈeɪ d
 SHADES, ʃ ˈeɪ d z
 SHADOW, ʃ ˈæ d ˌəʊ
@@ -11908,6 +12103,7 @@ SHE-MALE, ʃ ˈiː m ˌeɪ l
 SHE-MALES, ʃ ˈiː m ˌeɪ l z
 SHEAR, ʃ ˈɪə
 SHED, ʃ ˈɛ d
+SHEEN, ʃ ˈiː n
 SHEEP, ʃ ˈiː p
 SHEER, ʃ ˈɪə
 SHEET, ʃ ˈiː t
@@ -12038,6 +12234,7 @@ SILENT, s ˈaɪ l ə n t
 SILENTLY, s ˈaɪ l ə n t l iː
 SILICON, s ˈɪ l ɪ k ə n
 SILK, s ˈɪ l k
+SILKY, s ˈɪ l k iː
 SILL, s ˈɪ l
 SILLY, s ˈɪ l iː
 SILVER, s ˈɪ l v ə
@@ -12110,6 +12307,7 @@ SKATING, s k ˈeɪ t ɪ ŋ
 SKELETON, s k ˈɛ l ɪ t ə n
 SKETCH, s k ˈɛ tʃ
 SKI, s k ˈiː
+SKID, s k ˈɪ d
 SKIING, s k ˈiː ɪ ŋ
 SKILL, s k ˈɪ l
 SKILLED, s k ˈɪ l d
@@ -12129,13 +12327,16 @@ SLACK, s l ˈæ k
 SLAG, s l ˈæ g
 SLAM, s l ˈæ m
 SLANG, s l ˈæ ŋ
+SLANT, s l ˈɑː n t
 SLAP, s l ˈæ p
 SLASH, s l ˈæ ʃ
 SLATE, s l ˈeɪ t
 SLAVE, s l ˈeɪ v
 SLAVERY, s l ˈeɪ v ə ɹ iː
 SLAVES, s l ˈeɪ v z
+SLAY, s l ˈeɪ
 SLEDGE, s l ˈɛ dʒ
+SLEEK, s l ˈiː k
 SLEEP, s l ˈiː p
 SLEEPING, s l ˈiː p ɪ ŋ
 SLEEPS, s l ˈiː p s
@@ -12156,10 +12357,13 @@ SLIGHT, s l ˈaɪ t
 SLIGHTEST, s l ˈaɪ t ɪ s t
 SLIGHTLY, s l ˈaɪ t l iː
 SLIM, s l ˈɪ m
+SLING, s l ˈɪ ŋ
 SLIP, s l ˈɪ p
 SLIPPED, s l ˈɪ p t
 SLIPPERS, s l ˈɪ p ə z
 SLIPPING, s l ˈɪ p ɪ ŋ
+SLIT, s l ˈɪ t
+SLOG, s l ˈɒ g
 SLOGAN, s l ˈəʊ g ə n
 SLOPE, s l ˈəʊ p
 SLOPES, s l ˈəʊ p s
@@ -12172,10 +12376,13 @@ SLOVAKIA, s l ˌəʊ v ˈæ k ɪə
 SLOVENIA, s l ˌəʊ v ˈiː n ɪə
 SLOW, s l ˈəʊ
 SLOWLY, s l ˈəʊ l iː
+SLUG, s l ˈɐ g
 SLUM, s l ˈɐ m
 SLUMP, s l ˈɐ m p
+SLUR, s l ˈɜː
 SLUT, s l ˈɐ t
 SLUTS, s l ˈɐ t s
+SLY, s l ˈaɪ
 SMACK, s m ˈæ k
 SMALL, s m ˈɔː l
 SMALLER, s m ˈɔː l ə
@@ -12197,6 +12404,7 @@ SMITHS, s m ˈɪ θ s
 SMOKE, s m ˈəʊ k
 SMOKES, s m ˈəʊ k s
 SMOKING, s m ˈəʊ k ɪ ŋ
+SMOKY, s m ˈəʊ k iː
 SMOOTH, s m ˈuː ð
 SMOOTHLY, s m ˈuː ð l iː
 SMUDGE, s m ˈɐ dʒ
@@ -12211,12 +12419,20 @@ SNAPSHOT, s n ˈæ p ʃ ˌɒ t
 SNARKY, s n ˈɑː k iː
 SNATCH, s n ˈæ tʃ
 SNEAK, s n ˈiː k
+SNEER, s n ˈɪə
 SNEEZE, s n ˈiː z
 SNIFF, s n ɪ f
+SNIP, s n ˈɪ p
+SNOB, s n ˈɒ b
+SNOG, s n ˈɒ g
 SNOOKER, s n ˈuː k ə
 SNOW, s n ˈəʊ
 SNOWBOARD, s n ˈəʊ b ˌɔː d
 SNOWMAN, s n ˈəʊ m ˌæ n
+SNOWY, s n ˈəʊ iː
+SNUB, s n ˈɐ b
+SNUFF, s n ˈɐ f
+SNUG, s n ˈɐ g
 SNUGGLY, s n ˈɐ g l iː
 SO, s ˈəʊ
 SO-CALLED, s ˈəʊ k ˌɔː l d
@@ -12251,6 +12467,7 @@ SOFTEN, s ˈɒ f t ə n
 SOFTLY, s ˈɒ f t l iː
 SOFTWARE(1), s ˈɒ f w ˌɛə
 SOFTWARE(2), s ˈɒ f t w ˌɛə
+SOGGY, s ˈɒ g iː
 SOHO, s ˈəʊ h əʊ
 SOIL, s ˈɔɪ l
 SOL, s ˈɒ l
@@ -12297,6 +12514,7 @@ SONY, s ˈəʊ n iː
 SOON, s ˈuː n
 SOONER, s ˈuː n ə
 SOONEST, s ˈuː n ə s t
+SOOT, s ˈuː t
 SOPHIE, s ˈəʊ f iː
 SOPHISTICATED, s ə f ˈɪ s t ɪ k ˌeɪ t ɪ d
 SORE, s ˈɔː
@@ -12351,6 +12569,7 @@ SPARE, s p ˈɛə
 SPARK, s p ˈɑː k
 SPARKS, s p ˈɑː k s
 SPAS, s p ˈɑː z
+SPASM, s p ˈæ z ə m
 SPATE, s p ˈeɪ t
 SPATIAL, s p ˈeɪ ʃ ə l
 SPAWN, s p ˈɔː n
@@ -12388,6 +12607,7 @@ SPECIFIES, s p ˈɛ s ɪ f ˌaɪ z
 SPECIFY, s p ˈɛ s ɪ f ˌaɪ
 SPECIMEN, s p ˈɛ s ɪ m ə n
 SPECIMENS, s p ˈɛ s ɪ m ə n z
+SPECK, s p ˈɛ k
 SPECS, s p ˈɛ k s
 SPECTACLE, s p ˈɛ k t ə k ə l
 SPECTACULAR, s p ɛ k t ˈæ k j ʊ l ə
@@ -12410,14 +12630,17 @@ SPENDING, s p ˈɛ n d ɪ ŋ
 SPENDS, s p ˈɛ n d z
 SPENT, s p ˈɛ n t
 SPERM, s p ˈɜː m
+SPEW, s p j ˈuː
 SPHERE, s f ˈɪə
 SPICE, s p ˈaɪ s
+SPICY, s p ˈaɪ s iː
 SPIDER, s p ˈaɪ d ə
 SPIES, s p ˈaɪ z
 SPIKE, s p ˈaɪ k
 SPILL, s p ˈɪ l
 SPIN, s p ˈɪ n
 SPINE, s p ˈaɪ n
+SPIRE, s p ˈaɪ ə
 SPIRIT, s p ˈɪ ɹ ɪ t
 SPIRITS, s p ˈɪ ɹ ɪ t s
 SPIRITUAL, s p ˈɪ ɹ ɪ tʃ j ʊə l
@@ -12452,6 +12675,7 @@ SPRAY, s p ɹ ˈeɪ
 SPREAD, s p ɹ ˈɛ d
 SPREADING, s p ɹ ˈɛ d ɪ ŋ
 SPREADSHEET, s p ɹ ˈɛ d ʃ ˌiː t
+SPREE, s p ɹ ˈiː
 SPRING, s p ɹ ˈɪ ŋ
 SPRINGER, s p ɹ ˈɪ ŋ ə
 SPRINGFIELD, s p ɹ ˈɪ ŋ f ˌiː l d
@@ -12480,7 +12704,6 @@ SQUIRREL, s k w ˈɪ ɹ ə l
 SQUIRT, s k w ˈɜː t
 SQUIRTING, s k w ˈɜː t ɪ ŋ
 SRI LANKA, s ɹ ˌiː l ˈæ ŋ k ə
-STA, s t ˈɑː
 STAB, s t ˈæ b
 STABBED, s t ˈæ b d
 STABILISE, s t ˈeɪ b ɪ l ˌaɪ z
@@ -12557,6 +12780,7 @@ STATUS, s t ˈeɪ t ə s
 STATUTE, s t ˈæ tʃ uː t
 STATUTES, s t ˈæ tʃ uː t s
 STATUTORY, s t ˈæ tʃ ʊ t ə ɹ iː
+STAVE, s t ˈeɪ v
 STAY, s t ˈeɪ
 STAYED, s t ˈeɪ d
 STAYING, s t ˈeɪ ɪ ŋ
@@ -12611,7 +12835,7 @@ STITCH, s t ˈɪ tʃ
 STITCHES, s t ˈɪ tʃ ɪ z
 STOCHASTIC, s t ɒ k ˈæ s t ɪ k
 STOCK, s t ˈɒ k
-STOCKHOLM, s t ˈɒ k h ˌəʊ l m
+STOCKHOLM, s t ˈɒ k h ˌəʊ m
 STOCKINGS, s t ˈɒ k ɪ ŋ z
 STOCKPORT, s t ˈɒ k p ˌɔː t
 STOCKS, s t ˈɒ k s
@@ -12641,6 +12865,8 @@ STORMY, s t ˈɔː m iː
 STORY, s t ˈɔː ɹ iː
 STOUT, t s ˈaʊ t
 STOVE, s t ˈəʊ v
+STOW, s t ˈəʊ
+STOWAWAY, s t ˈəʊ ə w ˌeɪ
 STRAIGHT, s t ɹ ˈeɪ t
 STRAIGHTEN, s t ɹ ˈeɪ t ə n
 STRAIGHTFORWARD, s t ɹ ˌeɪ t f ˈɔː w ə d
@@ -12692,6 +12918,7 @@ STRIPES, s t ɹ ˈaɪ p s
 STRIPS, s t ɹ ˈɪ p s
 STRIVE, s t ɹ ˈaɪ v
 STROKE, s t ɹ ˈəʊ k
+STROLL, s t ɹ ˈəʊ l
 STRONG, s t ɹ ˈɒ ŋ
 STRONGER, s t ɹ ˈɒ ŋ g ə
 STRONGEST, s t ɹ ˈɒ ŋ g ɪ s t
@@ -12704,6 +12931,7 @@ STRUCTURES, s t ɹ ˈɐ k tʃ ə z
 STRUGGLE, s t ɹ ˈɐ g ə l
 STRUGGLED, s t ɹ ˈɐ g ə l d
 STRUGGLING, s t ɹ ˈɐ g l ɪ ŋ
+STRUT, s t ɹ ˈɐ t
 STUART, s t j ˈʊə t
 STUB, s t ˈɐ b
 STUBBORN, s t ˈɐ b ə n
@@ -12818,6 +13046,7 @@ SUITE, s w ˈiː t
 SUITED, s ˈuː t ɪ d
 SUITES, s w ˈiː t s
 SUITS, s ˈuː t s
+SULK, s ˈɐ l k
 SULKY, s ˈɐ l k iː
 SULLIVAN, s ˈɐ l ɪ v ə n
 SULLY, s ˈɐ l iː
@@ -12949,6 +13178,7 @@ SWAN, s w ˈɒ n
 SWANSEA, s w ˈɒ n z iː
 SWAP, s w ˈɒ p
 SWAPPED, s w ˈɒ p t
+SWARM, s w ˈɔː m
 SWAY, s w ˈeɪ
 SWAZILAND, s w ˈɑː z ɪ l æ n d
 SWEAR, s w ˈɛə
@@ -13029,10 +13259,12 @@ TABLE, t ˈeɪ b ə l
 TABLES, t ˈeɪ b ə l z
 TABLET, t ˈæ b l ə t
 TABLETS, t ˈæ b l ə t s
+TABOO, t ə b ˈuː
 TABS, t ˈæ b z
 TACIT, t ˈæ s ɪ t
 TACK, t ˈæ k
 TACKLE, t ˈæ k ə l
+TACKY, t ˈæ k iː
 TACT, t ˈæ k t
 TACTIC, t ˈæ k t ɪ k
 TACTICS, t ˈæ k t ɪ k s
@@ -13041,6 +13273,7 @@ TAGGED, t ˈæ g d
 TAGS, t ˈæ g z
 TAIL, t ˈeɪ l
 TAILS, t ˈeɪ l z
+TAINT, t ˈeɪ n t
 TAIWAN, t aɪ w ˈɑː n
 TAKE, t ˈeɪ k
 TAKEN, t ˈeɪ k ə n
@@ -13064,6 +13297,8 @@ TAME, t ˈeɪ m
 TAMIL, t ˈæ m ɪ l
 TAMPA, t ˈæ m p ə
 TAN, t ˈæ n
+TANG, t ˈæ ŋ
+TANGY, t ˈæ ŋ iː
 TANK, t ˈæ ŋ k
 TANKS, t ˈæ ŋ k s
 TANZANIA, t ˌæ n z ə n ˈɪə
@@ -13089,6 +13324,8 @@ TASTY, t ˈeɪ s t iː
 TATE, t ˈeɪ t
 TATTOO, t ə t ˈuː
 TAUGHT, t ˈɔː t
+TAUNT, t ˈɔː n t
+TAUT, t ˈɔː t
 TAX, t ˈæ k s
 TAXATION, t ˌæ k s ˈeɪ ʃ ə n
 TAXES, t ˈæ k s ɪ z
@@ -13125,6 +13362,7 @@ TED, t ˈɛ d
 TEDDY, t ˈɛ d iː
 TEDIOUS, t ˈiː d ɪə s
 TEE, t ˈiː
+TEEM, t ˈiː m
 TEEN, t ˈiː n
 TEENAGE, t ˈiː n ˌeɪ dʒ
 TEENAGER, t ˈiː n ˌeɪ dʒ ə
@@ -13211,6 +13449,7 @@ TERRORISM, t ˈɛ ɹ ə ɹ ˌɪ z ə m
 TERRORIST, t ˈɛ ɹ ə ɹ ɪ s t
 TERRORISTS, t ˈɛ ɹ ə ɹ ɪ s t s
 TERRY, t ˈɛ ɹ iː
+TERSE, t ˈɜː s
 TESCO, t ˈɛ s k əʊ
 TEST, t ˈɛ s t
 TESTAMENT, t ˈɛ s t ə m ə n t
@@ -13223,7 +13462,7 @@ TESTS, t ˈɛ s t s
 TEX-MEX, t ˈɛ k s m ˌɛ k s
 TEXAS, t ˈɛ k s ə s
 TEXT, t ˈɛ k s t
-TEXTBOOK, t ˈɛ k s t b ˌuː k
+TEXTBOOK, t ˈɛ k s t b ˌʊ k
 TEXTBOOKS, t ˈɛ k s t b ˌʊ k s
 TEXTILE, t ˈɛ k s t ˌaɪ l
 TEXTILES, t ˈɛ k s t ˌaɪ l z
@@ -13346,6 +13585,7 @@ THRILL, θ ɹ ˈɪ l
 THRILLER, θ ɹ ˈɪ l ə
 THRIVE, θ ɹ ˈaɪ v
 THROAT, θ ɹ ˈəʊ t
+THROES, θ ɹ ˈəʊ z
 THRONE, θ ɹ ˈəʊ n
 THROUGH, θ ɹ ˈuː
 THROUGHOUT, θ ɹ uː ˈaʊ t
@@ -13356,6 +13596,8 @@ THROWS, θ ɹ ˈəʊ z
 THRU, θ ɹ ˈuː
 THRUSH, θ ɹ ˈɐ ʃ
 THRUST, θ ɹ ˈɐ s t
+THUD, θ ˈɐ d
+THUG, θ ˈɐ g
 THUMB, θ ˈɐ m
 THUMBNAIL, θ ˈɐ m n ˌeɪ l
 THUMBNAILS, θ ˈɐ m n ˌeɪ l z
@@ -13368,6 +13610,7 @@ THURSDAYS(1), θ ˈɜː z d iː z
 THURSDAYS(2), θ ˈɜː z d eɪ z
 THUS, ð ˈɐ s
 THY, ð ˈaɪ
+TIC, t ˈɪ k
 TICK, t ˈɪ k
 TICKET, t ˈɪ k ɪ t
 TICKETS, t ˈɪ k ɪ t s
@@ -13386,6 +13629,7 @@ TIGHTLY, t ˈaɪ t l iː
 TIGHTS, t ˈaɪ t s
 TIL, t ˈɪ l
 TILE, t ˈaɪ l
+TILED, t ˈaɪ l d
 TILES, t ˈaɪ l z
 TILL, t ˈɪ l
 TILT, t ˈɪ l t
@@ -13405,6 +13649,7 @@ TIN, t ˈɪ n
 TINA, t ˈiː n ə
 TINGE, t ˈɪ n dʒ
 TINS, t ˈɪ n z
+TINT, t ˈɪ n t
 TINY, t ˈaɪ n iː
 TIP, t ˈɪ p
 TIPS, t ˈɪ p s
@@ -13426,6 +13671,7 @@ TITS, t ˈɪ t s
 TO(1), t ə
 TO(2), t ʊ
 TO(3), t ˈuː
+TOAD, t ˈəʊ d
 TOAST, t ˈəʊ s t
 TOASTER, t ˈəʊ s t ə
 TOBACCO, t ə b ˈæ k ˌəʊ
@@ -13440,6 +13686,7 @@ TOENAIL, t ˈəʊ n ˌeɪ l
 TOES, t ˈəʊ z
 TOFFEE, t ˈɒ f iː
 TOGETHER, t ə g ˈɛ ð ə
+TOIL, t ˈɔɪ l
 TOILET, t ˈɔɪ l ə t
 TOILETS, t ˈɔɪ l ə t s
 TOKEN, t ˈəʊ k ə n
@@ -13453,6 +13700,7 @@ TOM, t ˈɒ m
 TOMATO, t ə m ˈɑː t ˌəʊ
 TOMATOES, t ə m ˈɑː t əʊ z
 TOMB, t ˈuː m
+TOME, t ˈəʊ m
 TOMMY, t ˈɒ m iː
 TOMORROW, t ə m ˈɒ ɹ ˌəʊ
 TON, t ˈɐ n
@@ -13486,11 +13734,13 @@ TORN, t ˈɔː n
 TORNADO, t ɔː n ˈeɪ d əʊ
 TORONTO, t ə ɹ ˈɒ n t əʊ
 TORQUE, t ˈɔː k
+TORSO, t ˈɔː s əʊ
 TORTOISE, t ˈɔː t ɔɪ s
 TORTURE, t ˈɔː tʃ ə
 TORY, t ˈɔː ɹ iː
 TOSHIBA, t əʊ ʃ ˈiː b ə
 TOSS, t ˈɒ s
+TOT, t ˈɒ t
 TOTAL, t ˈəʊ t ə l
 TOTALLY, t ˈəʊ t ə l iː
 TOTALS, t ˈəʊ t ə l z
@@ -13508,6 +13758,7 @@ TOURISTS, t ˈʊə ɹ ɪ s t s
 TOURNAMENT, t ˈɔː n ə m ə n t
 TOURNAMENTS, t ˈɜː n ə m ə n t s
 TOURS, t ˈʊə z
+TOUT, t ˈaʊ t
 TOW, t ˈəʊ
 TOWARD, t ə w ˈɔː d
 TOWARDS(1), t ə w ˈɔː d z
@@ -13693,11 +13944,13 @@ TROUBLES, t ɹ ˈɐ b ə l z
 TROUBLESHOOTING, t ɹ ˈɐ b ə l ʃ ˌuː t ɪ ŋ
 TROUSERS, t ɹ ˈaʊ z ə z
 TROUT, t ɹ ˈaʊ t
+TROY, t ɹ ˈɔɪ
 TRUCE, t ɹ ˈuː s
 TRUCK, t ɹ ˈɐ k
 TRUCKS, t ɹ ˈɐ k s
 TRUE, t ɹ ˈuː
 TRULY, t ɹ ˈuː l iː
+TRUMP, t ɹ ˈɐ m p
 TRUNK, t ɹ ˈɐ ŋ k
 TRUST, t ɹ ˈɐ s t
 TRUSTED, t ɹ ˈɐ s t ɪ d
@@ -13721,6 +13974,7 @@ TUESDAY(1), t j ˈuː z d iː
 TUESDAY(2), t j ˈuː z d ˌeɪ
 TUESDAYS(1), t j ˈuː z d iː z
 TUESDAYS(2), t j ˈuː z d ˌeɪ z
+TUFT, t ˈɐ f t
 TUG, t ˈɐ g
 TUITION, t j uː ˈɪ ʃ ə n
 TUMBLE, t ˈɐ m b ə l
@@ -13949,6 +14203,7 @@ URGENT, ˈɜː dʒ ə n t
 URGENTLY, ˈɜː dʒ ə n t l iː
 URINE(1), j ˈʊə ɹ ɪ n
 URINE(2), j ˈʊə ɹ aɪ n
+URN, ˈɜː n
 URUGUAY, j ˈʊə ɹ ə g w ˌaɪ
 US, ˈɐ s
 USABILITY, j ˌuː z ə b ˈɪ l ɪ t iː
@@ -14044,6 +14299,7 @@ VECTOR, v ˈɛ k t ə
 VEE, v ˈiː
 VEER, v ˈɪə
 VEES, v ˈiː z
+VEG, v ˈɛ dʒ
 VEGAN, v ˈiː g ə n
 VEGAS, v ˈeɪ g ə s
 VEGETABLE, v ˈɛ dʒ t ə b ə l
@@ -14099,6 +14355,7 @@ VET, v ˈɛ t
 VETERAN, v ˈɛ t ə ɹ ə n
 VETERANS, v ˈɛ t ə ɹ ə n z
 VETERINARY, v ˈɛ t ə ɹ ɪ n ə ɹ iː
+VETO, v ˈiː t əʊ
 VIA(1), v ˈaɪ ə
 VIA(2), v ˈiː ə
 VIABLE, v ˈaɪ ə b ə l
@@ -14147,6 +14404,7 @@ VILLAGE, v ˈɪ l ɪ dʒ
 VILLAGERS, v ˈɪ l ɪ dʒ ə z
 VILLAGES, v ˈɪ l ɪ dʒ ɪ z
 VILLAS, v ˈɪ l ə z
+VIM, v ˈɪ m
 VINCENT, v ˈɪ n s ə n t
 VINE, v ˈaɪ n
 VINEGAR, v ˈɪ n ɪ g ə
@@ -14218,6 +14476,7 @@ VOTER, v ˈəʊ t ə
 VOTERS, v ˈəʊ t ə z
 VOTES, v ˈəʊ t s
 VOTING, v ˈəʊ t ɪ ŋ
+VOUCH, v ˈaʊ tʃ
 VOUCHER, v ˈaʊ tʃ ə
 VOUCHERS, v ˈaʊ tʃ ə z
 VOW, v ˈaʊ
@@ -14228,7 +14487,10 @@ VOYEUR(1), v w aɪ ˈɜː
 VOYEUR(2), v ɔɪ ˈɜː
 VULNERABILITY, v ˌɐ l n ə ɹ ə b ˈɪ l ɪ t iː
 VULNERABLE, v ˈɐ l n ə ɹ ə b ə l
+WAD, w ˈɒ d
+WADDLE, w ˈɒ d ə l
 WADE, w ˈeɪ d
+WAFT, w ˈɒ f t
 WAG, w ˈæ g
 WAGE, w ˈeɪ dʒ
 WAGES, w ˈeɪ dʒ ɪ z
@@ -14302,6 +14564,7 @@ WARREN, w ˈɒ ɹ ə n
 WARRIOR, w ˈɒ ɹ ɪə
 WARRIORS, w ˈɒ ɹ ɪə z
 WARS, w ˈɔː z
+WART, w ˈɔː t
 WARTIME, w ˈɔː t ˌaɪ m
 WARWICKSHIRE, w ˈɒ ɹ ɪ k ʃ ə
 WARY, w ˈɛə ɹ iː
@@ -14433,9 +14696,11 @@ WHEREABOUTS, w ˈɛə ɹ ə b ˌaʊ t s
 WHEREAS, w ˌɛə ɹ ˈæ z
 WHEREBY, w ˌɛə b ˈaɪ
 WHEREVER, w ˌɛə ɹ ˈɛ v ə
+WHET, w ˈɛ t
 WHETHER, w ˈɛ ð ə
 WHICH, w ˈɪ tʃ
 WHICHEVER, w ɪ tʃ ˈɛ v ə
+WHIFF, w ˈɪ f
 WHILE, w ˈaɪ l
 WHILST, w ˈaɪ l s t
 WHIM, w ˈɪ m
@@ -14455,6 +14720,7 @@ WHISTLING, w ˈɪ s l ɪ ŋ
 WHITE, w ˈaɪ t
 WHITEHALL, w ˈaɪ t h ˌɔː l
 WHITES, w ˈaɪ t s
+WHIZZ, w ˈɪ z
 WHO, h ˈuː
 WHOA, w ˈəʊ
 WHOEVER, h uː ˈɛ v ə
@@ -14469,6 +14735,7 @@ WHORES, h ˈɔː z
 WHOSE, h ˈuː z
 WHY, w ˈaɪ
 WICHITA, w ˈɪ tʃ ɪ t ˌɔː
+WICK, w ˈɪ k
 WICKED, w ˈɪ k ɪ d
 WICKET, w ˈɪ k ɪ t
 WICKETS, w ˈɪ k ɪ t s
@@ -14504,6 +14771,7 @@ WILLINGNESS, w ˈɪ l ɪ ŋ n ə s
 WILLOW, w ˈɪ l ˌəʊ
 WILLY, w ˈɪ l iː
 WILSON, w ˈɪ l s ə n
+WILT, w ˈɪ l t
 WILTSHIRE, w ˈɪ l tʃ ə
 WIMBLEDON, w ˈɪ m b ə l d ə n
 WIN, w ˈɪ n
@@ -14566,6 +14834,8 @@ WIVES, w ˈaɪ v z
 WIZARD, w ˈɪ z ə d
 WOBBLY, w ˈɒ b l iː
 WOE, w ˈəʊ
+WOG, w ˈɒ g
+WOK, w ˈɒ k
 WOKE, w ˈəʊ k
 WOKEN, w ˈəʊ k ə n
 WOKING, w ˈəʊ k ɪ ŋ
@@ -14589,6 +14859,7 @@ WOODLAND, w ˈʊ d l ə n d
 WOODS, w ˈʊ d z
 WOOF, w ˈuː f
 WOOL, w ˈʊ l
+WOP, w ˈɒ p
 WORCESTER, w ˈʊ s t ə
 WORCESTERSHIRE, w ˈʊ s t ə ʃ ə
 WORD, w ˈɜː d
@@ -14670,12 +14941,16 @@ Y'ALL, j ˈɔː l
 YACHT, j ˈɒ t
 YAHOO(1), j ˈɑː h ˌuː
 YAHOO(2), j ə h ˈuː
+YAK, j ˈæ k
 YALE, j ˈeɪ l
+YAM, j ˈæ m
 YAMAHA(1), j ˈɑː m ə h ə
 YAMAHA(2), j ə m ˈɑː h ə
+YAP, j ˈæ p
 YARD, j ˈɑː d
 YARDS, j ˈɑː d z
 YARN, j ˈɑː n
+YAW, j ˈɔː
 YAWN, j ˈɔː n
 YE, j ˈiː
 YEAH, j ˈɛə
@@ -14700,6 +14975,7 @@ YEW, j ˈuː
 YIELD, j ˈiː l d
 YIELDS, j ˈiː l d z
 YO, j ˈəʊ
+YOB(1), j ˈɒ b
 YOGA, j ˈəʊ g ə
 YOGHOURT(1), j ˈəʊ g ə t
 YOGHOURT(2), j ˈɒ g ə t
@@ -14734,8 +15010,10 @@ YOUTHS(2), j ˈuː θ s
 YUCK, j ˈɐ k
 YUGOSLAVIA, j ˌuː g əʊ s l ˈɑː v ɪə
 YUM, j ˈɐ m
+YUP, p ˈɐ p
 YVONNE, ɪ v ˈɒ n
 ZAMBIA, z ˈæ m b ɪə
+ZAP, z ˈæ p
 ZEAL, z ˈiː l
 ZEALAND, z ˈiː l ə n d
 ZEALOT, z ˈɛ l ə t
@@ -14746,11 +15024,13 @@ ZEES, z ˈiː z
 ZEN, z ˈɛ n
 ZERO, z ˈɪə ɹ əʊ
 ZEST, z ˈɛ s t
+ZIGZAG, z ˈɪ g z ˌæ g
 ZIMBABWE(1), z ɪ m b ˈɑː b w eɪ
 ZIMBABWE(2), z ɪ m b ˈɑː b w iː
 ZINC, z ˈɪ ŋ k
 ZIP, z ˈɪ p
 ZIPS, z ˈɪ p s
+ZIT, z ˈɪ t
 ZOE, z ˈəʊ iː
 ZONE, z ˈəʊ n
 ZONES, z ˈəʊ n z
