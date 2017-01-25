@@ -147,6 +147,7 @@ ACQUIRED, ə k w ˈaɪ ə d
 ACQUISITION, ˌæ k w ɪ z ˈɪ ʃ ə n
 ACQUISITIONS, ˌæ k w ɪ z ˈɪ ʃ ə n z
 ACQUIT, ə k w ˈɪ t
+ACQUITTED, ə k w ˈɪ t ɪ d
 ACRE, ˈeɪ k ə
 ACRES, ˈeɪ k ə z
 ACROBAT, ˈæ k ɹ ə b ˌæ t
@@ -656,6 +657,7 @@ ANTIDOTE, ˈæ n t ɪ d ˌəʊ t
 ANTIGUA(1), æ n t ˈiː g ə
 ANTIGUA(2), æ n t ˈiː g w ə
 ANTIPODES, æ n t ˈɪ p ə d ˌiː z
+ANTIQUATED, ˈæ n t ɪ k w ˌeɪ t ɪ d
 ANTIQUE, æ n t ˈiː k
 ANTIQUES, æ n t ˈiː k s
 ANTIQUITY, æ n t ˈɪ k w ɪ t iː
@@ -1066,6 +1068,7 @@ AWAITING, ə w ˈeɪ t ɪ ŋ
 AWAITS, ə w ˈeɪ t s
 AWAKE, ə w ˈeɪ k
 AWAKEN, ə w ˈeɪ k ə n
+AWAKENED, ə w ˈeɪ k ə n d
 AWARD, ə w ˈɔː d
 AWARDED, ə w ˈɔː d ɪ d
 AWARDS, ə w ˈɔː d z
@@ -1080,6 +1083,8 @@ AWFULLY(1), ˈɔː f l iː
 AWFULLY(2), ˈɔː f ə l iː
 AWKWARD, ˈɔː k w ə d
 AWNING, ˈɔː n ɪ ŋ
+AWOKE, ə w ˈəʊ k
+AWOKEN, ə w ˈəʊ k ə n
 AWRY, ə ɹ ˈaɪ
 AX, ˈæ k s
 AXE, ˈæ k s
@@ -1104,6 +1109,9 @@ BACKGROUNDS, b ˈæ k g ɹ ˌaʊ n d z
 BACKING, b ˈæ k ɪ ŋ
 BACKS, b ˈæ k s
 BACKSIDE, b ˈæ k s ˌaɪ d
+BACKSLID, b ˈæ k s l ˌɪ d
+BACKSLIDDEN, b ˈæ k s l ˌɪ d ə n
+BACKSLIDE, b ˈæ k s l ˌaɪ d
 BACKUP, b ˈæ k ˌɐ p
 BACKWARD, b ˈæ k w ə d
 BACKWARDS, b ˈæ k w ə d z
@@ -1112,6 +1120,7 @@ BACTERIA, b æ k t ˈɪə ɹ ɪə
 BACTERIAL, b æ k t ˈɪə ɹ ɪə l
 BACTERIUM, b æ k t ˈɪə ɹ ɪə m
 BAD, b ˈæ d
+BADE, b ˈeɪ d
 BADGE, b ˈæ dʒ
 BADLY, b ˈæ d l iː
 BADMINTON, b ˈæ d m ɪ n t ə n
@@ -1286,17 +1295,22 @@ BEEPS, b ˈiː p s
 BEER, b ˈɪə
 BEES, b ˈiː z
 BEETHOVEN, b ˌeɪ t ˈəʊ v ə n
+BEFALL, b ɪ f ˈɔː l
 BEFIT, b ɪ f ˈɪ t
 BEFORE, b ɪ f ˈɔː
 BEFOREHAND, b ɪ f ˈɔː h ˌæ n d
 BEG, b ˈɛ g
 BEGAN, b ɪ g ˈæ n
+BEGAT, b ɪ g ˈæ t
+BEGET, b ɪ g ˈɛ t
 BEGGING, b ˈɛ g ɪ ŋ
 BEGIN, b ɪ g ˈɪ n
 BEGINNER, b ɪ g ˈɪ n ə
 BEGINNERS, b ɪ g ˈɪ n ə z
 BEGINNING, b ɪ g ˈɪ n ɪ ŋ
 BEGINS, b ɪ g ˈɪ n z
+BEGOT, b ɪ g ˈɒ t
+BEGOTTEN, b ɪ g ˈɒ t ə n
 BEGUN, b ɪ g ˈɐ n
 BEHALF, b ɪ h ˈɑː f
 BEHAVE, b ɪ h ˈeɪ v
@@ -1374,6 +1388,7 @@ BETA, b ˈiː t ə
 BETRAY, b ɪ t ɹ ˈeɪ
 BETRAYED, b ɪ t ɹ ˈeɪ d
 BETS, b ˈɛ t s
+BETTED, b ˈɛ t ɪ d
 BETTER, b ˈɛ t ə
 BETTING, b ˈɛ t ɪ ŋ
 BETTY, b ˈɛ t iː
@@ -1399,9 +1414,11 @@ BIBLIOGRAPHY, b ˌɪ b l ɪ ˈɒ g ɹ ə f iː
 BICESTER, b ˈɪ s t ə
 BICYCLE, b ˈaɪ s ɪ k ə l
 BID, b ˈɪ d
+BIDDEN, b ˈɪ d ə n
 BIDDER, b ˈɪ d ə
 BIDDING, b ˈɪ d ɪ ŋ
 BIDE, b ˈaɪ d
+BIDED, b ˈaɪ d ɪ d
 BIDS, b ˈɪ d z
 BIG, b ˈɪ g
 BIGGER, b ˈɪ g ə
@@ -1447,6 +1464,7 @@ BITCH, b ˈɪ tʃ
 BITCHES, b ˈɪ tʃ ɪ z
 BITE, b ˈaɪ t
 BITS, b ˈɪ t s
+BITTEN, b ˈɪ t ə n
 BITTER, b ˈɪ t ə
 BITTERLY, b ˈɪ t ə l iː
 BIZ, b ˈɪ z
@@ -1473,6 +1491,7 @@ BLANKETS, b l ˈæ ŋ k ɪ t s
 BLAST, b l ˈɑː s t
 BLAZE, b l ˈeɪ z
 BLEAK, b l ˈiː k
+BLED, b l ˈɛ d
 BLEED, b l ˈiː d
 BLEEDING, b l ˈiː d ɪ ŋ
 BLEND, b l ˈɛ n d
@@ -1691,6 +1710,7 @@ BREATH, b ɹ ˈɛ θ
 BREATHE, b ɹ ˈiː ð
 BREATHED, b ɹ ˈiː ð d
 BREATHING, b ɹ ˈiː ð ɪ ŋ
+BRED, b ɹ ˈɛ d
 BREED, b ɹ ˈiː d
 BREEDING, b ɹ ˈiː d ɪ ŋ
 BREEDS, b ɹ ˈiː d z
@@ -1735,6 +1755,7 @@ BRO, b ɹ ˈəʊ
 BROAD, b ɹ ˈɔː d
 BROADBAND, b ɹ ˈɔː d b ˌæ n d
 BROADCAST, b ɹ ˈɔː d k ˌɑː s t
+BROADCASTED, b ɹ ˈɔː d k ˌɑː s t ɪ d
 BROADCASTING, b ɹ ˈɔː d k ˌɑː s t ɪ ŋ
 BROADER, b ɹ ˈɔː d ə
 BROADLY, b ɹ ˈɔː d l iː
@@ -1760,6 +1781,8 @@ BROTHER, b ɹ ˈɐ ð ə
 BROTHERS, b ɹ ˈɐ ð ə z
 BROUGHT, b ɹ ˈɔː t
 BROW, b ɹ ˈaʊ
+BROWBEAT, b ɹ ˈaʊ b ˌiː t
+BROWBEATEN, b ɹ ˈaʊ b ˌiː t ə n
 BROWN, b ɹ ˈaʊ n
 BROWSE, b ɹ ˈaʊ z
 BROWSER, b ɹ ˈaʊ z ə
@@ -2330,6 +2353,7 @@ CHICKEN, tʃ ˈɪ k ə n
 CHICKENS, tʃ ˈɪ k ə n z
 CHICKS, tʃ ˈɪ k s
 CHIEF, tʃ ˈiː f
+CHIEFLY, tʃ ˈiː f l iː
 CHIEFS, tʃ ˈiː f s
 CHILD, tʃ ˈaɪ l d
 CHILDHOOD, tʃ ˈaɪ l d h ˌʊ d
@@ -2440,6 +2464,7 @@ CIVILIANS, s ɪ v ˈɪ l j ə n z
 CIVILIZATION, s ˌɪ v ɪ l aɪ z ˈeɪ ʃ ə n
 CLACKMANNANSHIRE, k l æ k m ˈæ n ə n ʃ ə
 CLAD, k l ˈæ d
+CLADDED, k l ˈæ d ɪ d
 CLAIM, k l ˈeɪ m
 CLAIMED, k l ˈeɪ m d
 CLAIMING, k l ˈeɪ m ɪ ŋ
@@ -2486,6 +2511,8 @@ CLEARER, k l ˈɪə ɹ ə
 CLEARING, k l ˈɪə ɹ ɪ ŋ
 CLEARLY, k l ˈɪə l iː
 CLEARS, k l ˈɪə z
+CLEAVE, k l ˈiː v
+CLEFT, k l ˈɛ f t
 CLERGY, k l ˈɜː dʒ iː
 CLERICAL, k l ˈɛ ɹ ɪ k ə l
 CLERK, k l ˈɑː k
@@ -2529,6 +2556,8 @@ CLOSET, k l ˈɒ z ɪ t
 CLOSING, k l ˈəʊ z ɪ ŋ
 CLOSURE, k l ˈəʊ ʒ ə
 CLOTH, k l ˈɒ θ
+CLOTHE, k l ˈəʊ ð
+CLOTHED, k l ˈəʊ ð d
 CLOTHES(1), k l ˈəʊ z
 CLOTHES(2), k l ˈəʊ ð z
 CLOTHING, k l ˈəʊ ð ɪ ŋ
@@ -2536,12 +2565,15 @@ CLOUD, k l ˈaʊ d
 CLOUDS, k l ˈaʊ d z
 CLOUDY, k l ˈaʊ d iː
 CLOUT, k l ˈaʊ t
+CLOVE, k l ˈəʊ v
+CLOVEN, k l ˈəʊ v ə n
 CLOWN, k l ˈaʊ n
 CLUB, k l ˈɐ b
 CLUBS, k l ˈɐ b z
 CLUE, k l ˈuː
 CLUES, k l ˈuː z
 CLUMP, k l ˈɐ m p
+CLUNG, k l ˈɐ ŋ
 CLUSTER, k l ˈɐ s t ə
 CLUSTERS, k l ˈɐ s t ə z
 CLUTCH, k l ˈɐ tʃ
@@ -3319,6 +3351,7 @@ CREEPY, k ɹ ˈiː p iː
 CREME(1), k ɹ ˈɛ m
 CREME(2), k ɹ ˈeɪ m
 CREME(3), k ɹ ˈiː m
+CREPT, k ɹ ˈɛ p t
 CRESCENT, k ɹ ˈɛ s ə n t
 CREST, k ɹ ˈɛ s t
 CRETACEOUS, k ɹ ɪ t ˈeɪ ʃ ə s
@@ -3529,6 +3562,7 @@ DAVIES, d ˈeɪ v iː z
 DAVIS, d ˈeɪ v ɪ s
 DAWN, d ˈɔː n
 DAY, d ˈeɪ
+DAYDREAM, d ˈeɪ d ɹ ˌiː m
 DAYLIGHT, d ˈeɪ l ˌaɪ t
 DAYS, d ˈeɪ z
 DAYTON, d ˈeɪ t ə n
@@ -4071,6 +4105,9 @@ DISPLAYS, d ɪ s p l ˈeɪ z
 DISPOSAL, d ɪ s p ˈəʊ z ə l
 DISPOSE, d ɪ s p ˈəʊ z
 DISPOSITION, d ˌɪ s p ə z ˈɪ ʃ ə n
+DISPROVE, d ɪ s p ɹ ˈuː v
+DISPROVED, d ɪ s p ɹ ˈuː v d
+DISPROVEN, d ɪ s p ɹ ˈuː v ə n
 DISPUTE, d ɪ s p j ˈuː t
 DISPUTES, d ɪ s p j ˈuː t s
 DISREGARD, d ˌɪ s ɹ ɪ g ˈɑː d
@@ -4112,6 +4149,7 @@ DISTURBING, d ɪ s t ˈɜː b ɪ ŋ
 DITCH, d ˈɪ tʃ
 DIV, d ˈɪ v
 DIVE, d ˈaɪ v
+DIVED, d ˈaɪ v d
 DIVER, d ˈaɪ v ə
 DIVERSE(1), d aɪ v ˈɜː s
 DIVERSE(2), d ˈaɪ v ɜː s
@@ -4345,8 +4383,10 @@ DWARF, d w ˈɔː f
 DWARFS, d w ˈɔː f s
 DWARVES, d w ˈɔː v z
 DWELL, d w ˈɛ l
+DWELLED, d w ˈɛ l d
 DWELLING, d w ˈɛ l ɪ ŋ
 DWELLINGS, d w ˈɛ l ɪ ŋ z
+DWELT, d w ˈɛ l t
 DYE, d aɪ
 DYED, d aɪ d
 DYEING, d ˈaɪ ɪ ŋ
@@ -5380,6 +5420,7 @@ FLAVOR, f l ˈeɪ v ə
 FLAVOUR, f l ˈeɪ v ə
 FLAW, f l ˈɔː
 FLEA, f l ˈiː
+FLED, f l ˈɛ d
 FLEE, f l ˈiː
 FLEECE, f l ˈiː s
 FLEET, f l ˈiː t
@@ -5426,6 +5467,7 @@ FLOYD, f l ˈɔɪ d
 FLU, f l ˈuː
 FLUCTUATIONS, f l ˌɐ k tʃ ʊ ˈeɪ ʃ ə n z
 FLUID, f l ˈuː ɪ d
+FLUNG, f l ˈɐ ŋ
 FLUORESCENT, f l ˌʊə ɹ ˈɛ s ə n t
 FLUSH, f l ˈɐ ʃ
 FLUTE, f l ˈuː t
@@ -5490,6 +5532,8 @@ FORD, f ˈɔː d
 FORE, f ˈɔː
 FORECAST, f ˈɔː k ˌɑː s t
 FORECASTS, f ˈɔː k ˌɑː s t s
+FOREGO, f ɔː g ˈəʊ
+FOREGONE, f ɔː g ˈɒ n
 FOREHEAD, f ˈɔː h ɛ d
 FOREIGN, f ˈɒ ɹ ɪ n
 FOREIGNER, f ˈɒ ɹ ɪ n ə
@@ -5499,12 +5543,15 @@ FOREST, f ˈɒ ɹ ɪ s t
 FORESTRY, f ˈɒ ɹ ɪ s t ɹ iː
 FORESTS, f ˈɒ ɹ ɪ s t s
 FOREVER, f ə ɹ ˈɛ v ə
+FOREWENT, f ɔː w ˈɛ n t
 FORFEIT, f ˈɔː f ɪ t
 FORGE, f ˈɔː dʒ
 FORGET, f ə g ˈɛ t
 FORGETTING, f ə g ˈɛ t ɪ ŋ
 FORGIVE, f ə g ˈɪ v
 FORGIVENESS, f ə g ˈɪ v n ə s
+FORGO, f ɔː g ˈəʊ
+FORGONE, f ɔː g ˈɒ n
 FORGOT, f ə g ˈɒ t
 FORGOTTEN, f ə g ˈɒ t ə n
 FORK, f ˈɔː k
@@ -5526,6 +5573,9 @@ FORMS, f ˈɔː m z
 FORMULA, f ˈɔː m j ʊ l ə
 FORMULATE, f ˈɔː m j ʊ l ˈeɪ t
 FORMULATION, f ˌɔː m j ʊ l ˈeɪ ʃ ə n
+FORSAKE, f ə s ˈeɪ k
+FORSAKEN, f ə s ˈeɪ k ə n
+FORSOOK, f ə s ˈʊ k
 FORT, f ˈɔː t
 FORTE(1), f ˈɔː t eɪ
 FORTE(2), f ˈɔː t
@@ -5545,6 +5595,7 @@ FORUMS, f ˈɔː ɹ ə m z
 FORWARD, f ˈɔː w ə d
 FORWARDING, f ˈɔː w ə d ɪ ŋ
 FORWARDS, f ˈɔː w ə d z
+FORWENT, f ɔː w ˈɛ n t
 FOSSIL, f ˈɒ s ɪ l
 FOSTER, f ˈɒ s t ə
 FOUGHT, f ˈɔː t
@@ -5650,6 +5701,7 @@ FRONTIER(2), f ɹ ɐ n t ˈɪə
 FROST, f ɹ ˈɒ s t
 FROWN, f ɹ ˈaʊ n
 FROWNED, f ɹ ˈaʊ n d
+FROZE, f ɹ ˈəʊ z
 FROZEN, f ɹ ˈəʊ z ə n
 FRUIT, f ɹ ˈuː t
 FRUITS, f ɹ ˈuː t s
@@ -5867,8 +5919,11 @@ GIGGLE, g ˈɪ g ə l
 GIGGLES, g ˈɪ g ə l z
 GIGGLING, g ˈɪ g l ɪ ŋ
 GILBERT, g ˈɪ l b ə t
+GILD, g ˈɪ l d
+GILDED, g ˈɪ l d ɪ d
 GILL, g ˈɪ l
 GILLIAN, dʒ ˈɪ l ɪə n
+GILT, g ˈɪ l t
 GIN, dʒ ˈɪ n
 GINGER, dʒ ˈɪ n dʒ ə
 GIRAFFE(1), dʒ ɪ ɹ ˈɑː f
@@ -6249,6 +6304,7 @@ HANDS, h ˈæ n d z
 HANDSOME, h ˈæ n s ə m
 HANDY, h ˈæ n d iː
 HANG, h ˈæ ŋ
+HANGED, h ˈæ ŋ d
 HANGING, h ˈæ ŋ ɪ ŋ
 HANGS, h ˈæ ŋ z
 HANNAH, h ˈæ n ə
@@ -6456,7 +6512,9 @@ HESITATED, h ˈɛ z ɪ t ˌeɪ t ɪ d
 HESITATION, h ˌɛ z ɪ t ˈeɪ ʃ ə n
 HEURISTIC, h j uː ɹ ˈɪ s t ɪ k
 HEW, h j ˈuː
+HEWED, h j ˈuː d
 HEWLETT, h j ˈuː l ɪ t
+HEWN, h j ˈuː n
 HEY, h ˈeɪ
 HI, h ˈaɪ
 HI-FI, h ˈaɪ f ˌaɪ
@@ -6537,6 +6595,7 @@ HOBBY, h ˈɒ b iː
 HOCKEY, h ˈɒ k iː
 HOG, h ˈɒ g
 HOIST, h ˈɔɪ s t
+HOISTED, h ˈɔɪ s t ɪ d
 HOLD, h ˈəʊ l d
 HOLDER, h ˈəʊ l d ə
 HOLDERS, h ˈəʊ l d ə z
@@ -7016,6 +7075,8 @@ INJUSTICE, ɪ n dʒ ˈɐ s t ɪ s
 INK, ˈɪ ŋ k
 INKJET, ˈɪ ŋ k dʒ ˌɛ t
 INLAND, ˈɪ n l ˌæ n d
+INLAY(1), ɪ n l ˈeɪ
+INLAY(2), ˈɪ n l ˌeɪ
 INLET, ˈɪ n l ˌɛ t
 INLINE, ˈɪ n l aɪ n
 INN, ˈɪ n
@@ -7031,6 +7092,7 @@ INNOVATIVE(2), ˈɪ n ə v ˌeɪ t ɪ v
 INNS, ˈɪ n z
 INPUT, ˈɪ n p ˌʊ t
 INPUTS, ˈɪ n p ˌʊ t s
+INPUTTED, ˈɪ n p ˌʊ t ɪ d
 INQUEST, ˈɪ n k w ˌɛ s t
 INQUIRE, ɪ n k w ˈaɪ ə
 INQUIRIES, ɪ n k w ˈaɪ ə ɹ iː z
@@ -7172,9 +7234,12 @@ INTERVIEWED, ˈɪ n t ə v j ˌuː d
 INTERVIEWEE, ˌɪ n t ə v j uː ˈiː
 INTERVIEWER, ˈɪ n t ə v j ˌuː ə
 INTERVIEWS, ˈɪ n t ə v j ˌuː z
+INTERWEAVE, ɪ n t ə w ˈiː v
+INTERWOVEN, ɪ n t ə w ˈəʊ v ə n
 INTESTINAL, ɪ n t ˈɛ s t ɪ n ə l
 INTIMATE(1), ˈɪ n t ɪ m ə t
 INTIMATE(2), ˈɪ n t ɪ m ˌeɪ t
+INTIMIDATE, ɪ n t ˈɪ m ɪ d ˌeɪ t
 INTO(1), ɪ n t ə
 INTO(2), ɪ n t ˈuː
 INTO(3), ˈɪ n t uː
@@ -7577,13 +7642,16 @@ KNACK, n ˈæ k
 KNEAD, n ˈiː d
 KNEE, n ˈiː
 KNEEL, n ˈiː l
+KNEELED, n ˈiː l d
 KNEES, n ˈiː z
+KNELT, n ˈɛ l t
 KNEW, n j ˈuː
 KNICKERS, n ˈɪ k ə z
 KNIFE, n ˈaɪ f
 KNIGHT, n ˈaɪ t
 KNIGHTS, n ˈaɪ t s
 KNIT, n ˈɪ t
+KNITTED, n ˈɪ t ɪ d
 KNITTING, n ˈɪ t ɪ ŋ
 KNIVES, n ˈaɪ v z
 KNOB, n ˈɒ b
@@ -7633,6 +7701,7 @@ LADY, l ˈeɪ d iː
 LAG, l ˈæ g
 LAGER, l ˈɑː g ə
 LAID, l ˈeɪ d
+LAIN, l ˈeɪ n
 LAIR, l ˈɛə
 LAKE, l ˈeɪ k
 LAKES, l ˈeɪ k s
@@ -7747,7 +7816,10 @@ LEAK, l ˈiː k
 LEAN, l ˈiː n
 LEANED, l ˈiː n d
 LEANING, l ˈiː n ɪ ŋ
+LEANT, l ˈɛ n t
 LEAP, l ˈiː p
+LEAPED, l ˈiː p t
+LEAPT, l ˈɛ p t
 LEARN, l ˈɜː n
 LEARNED(1), l ˈɜː n d
 LEARNED(2), l ˈɜː n ɪ d
@@ -7890,6 +7962,7 @@ LIFT, l ˈɪ f t
 LIFTED, l ˈɪ f t ɪ d
 LIFTING, l ˈɪ f t ɪ ŋ
 LIGHT, l ˈaɪ t
+LIGHTED, l ˈaɪ t ɪ d
 LIGHTER, l ˈaɪ t ə
 LIGHTING, l ˈaɪ t ɪ ŋ
 LIGHTLY, l ˈaɪ t l iː
@@ -8858,6 +8931,8 @@ MOVIE, m ˈuː v iː
 MOVIES, m ˈuː v iː z
 MOVING, m ˈuː v ɪ ŋ
 MOW, m ˈəʊ
+MOWED, m ˈəʊ d
+MOWN, m ˈəʊ n
 MOZAMBIQUE(1), m ˌəʊ z ə m b ˈiː k
 MOZAMBIQUE(2), m ˌəʊ z æ m b ˈiː k
 MOZART(1), m ˈəʊ t s ɑː t
@@ -9734,6 +9809,7 @@ PARTICIPATE, p ɑː t ˈɪ s ɪ p ˌeɪ t
 PARTICIPATED, p ɑː t ˈɪ s ɪ p ˌeɪ t ɪ d
 PARTICIPATING, p ɑː t ˈɪ s ɪ p ˌeɪ t ɪ ŋ
 PARTICIPATION, p ɑː t ˌɪ s ɪ p ˈeɪ ʃ ə n
+PARTICIPLE, p ɑː t ˈɪ s ɪ p ə l
 PARTICLE, p ˈɑː t ɪ k ə l
 PARTICLES, p ˈɑː t ɪ k ə l z
 PARTICULAR, p ə t ˈɪ k j ʊ l ə
@@ -10143,12 +10219,15 @@ PLAYSTATION, p l ˈeɪ s t ˌeɪ ʃ ə n
 PLAYWRIGHT, p l ˈeɪ ɹ ˌaɪ t
 PLAZA, p l ˈɑː z ə
 PLEA, p l ˈiː
-PLEAD, p l ˈiː d
+PLEAD(1), p l ˈiː d
+PLEAD(2), p l ˈɛ d
+PLEADED, p l ˈiː d ɪ d
 PLEASANT, p l ˈɛ z ə n t
 PLEASE, p l ˈiː z
 PLEASED, p l ˈiː z d
 PLEASING, p l ˈiː z ɪ ŋ
 PLEASURE, p l ˈɛ ʒ ə
+PLED, p l ˈɛ d
 PLEDGE, p l ˈɛ dʒ
 PLENTY, p l ˈɛ n t iː
 PLIGHT, p l ˈaɪ t
@@ -10352,6 +10431,7 @@ PRAGUE, p ɹ ˈɑː g
 PRAIRIE, p ɹ ˈɛə ɹ iː
 PRAISE, p ɹ ˈeɪ z
 PRAM, p ɹ ˈæ m
+PRANK, p ɹ ˈæ ŋ k
 PRAWN, p ɹ ˈɔː n
 PRAWNS, p ɹ ˈɔː n z
 PRAY, p ɹ ˈeɪ
@@ -10391,6 +10471,7 @@ PREFERENCES, p ɹ ˈɛ f ə ɹ ə n s ɪ z
 PREFERRED, p ɹ ɪ f ˈɜː d
 PREFERS, p ɹ ɪ f ˈɜː z
 PREFIX, p ɹ ˈiː f ɪ k s
+PREFIXED, p ɹ ˈiː f ɪ k s t
 PREGNANCY, p ɹ ˈɛ g n ə n s iː
 PREGNANT, p ɹ ˈɛ g n ə n t
 PREJUDICE, p ɹ ˈɛ dʒ ə d ɪ s
@@ -10410,6 +10491,7 @@ PREPARATIONS, p ɹ ˌɛ p ə ɹ ˈeɪ ʃ ə n z
 PREPARE, p ɹ ɪ p ˈɛə
 PREPARED, p ɹ ɪ p ˈɛə d
 PREPARING, p ɹ ɪ p ˈɛə ɹ ɪ ŋ
+PREPAY, p ɹ iː p ˈeɪ
 PREREQUISITE, p ɹ iː ɹ ˈɛ k w ɪ z ɪ t
 PREROGATIVE, p ɹ ɪ ɹ ˈɒ g ə t ɪ v
 PRESCRIBE, p ɹ ɪ s k ɹ ˈaɪ b
@@ -10428,6 +10510,8 @@ PRESENTS(2), p ɹ ˈɛ z ə n t s
 PRESERVATION, p ɹ ˌɛ z ə v ˈeɪ ʃ ə n
 PRESERVE, p ɹ ɪ z ˈɜː v
 PRESERVED, p ɹ ɪ z ˈɜː v d
+PRESET(1), p ɹ ˈiː s ɛ t
+PRESET(2), p ɹ ɪ s ˈɛ t
 PRESIDENCY, p ɹ ˈɛ z ɪ d ə n s iː
 PRESIDENT, p ɹ ˈɛ z ɪ d ə n t
 PRESIDENTIAL, p ɹ ˌɛ z ɪ d ˈɛ n ʃ ə l
@@ -10780,6 +10864,7 @@ QUANTITATIVE, k w ˈɒ n t ɪ t ə t ɪ v
 QUANTITIES, k w ˈɒ n t ɪ t iː z
 QUANTITY, k w ˈɒ n t ɪ t iː
 QUANTUM, k w ˈɒ n t ə m
+QUARK, k w ˈɑː k
 QUARRY, k w ˈɒ ɹ iː
 QUARTER(1), k w ˈɔː t ə
 QUARTER(2), k ˈɔː t ə
@@ -11053,6 +11138,7 @@ REDBRIDGE, ɹ ˈɛ d b ɹ ɪ dʒ
 REDCURRANT, ɹ ˈɛ d k ˌɐ ɹ ə n t
 REDEEM, ɹ ɪ d ˈiː m
 REDHEAD, ɹ ˈɛ d h ˌɛ d
+REDO, ɹ iː d ˈuː
 REDS, ɹ ˈɛ d z
 REDUCE, ɹ ɪ d j ˈuː s
 REDUCED, ɹ ɪ d j ˈuː s t
@@ -11085,6 +11171,9 @@ REFINANCE(1), ɹ ˌiː f ˈaɪ n æ n s
 REFINANCE(2), ɹ ˌiː f ɪ n ˈæ n s
 REFINE, ɹ ɪ f ˈaɪ n
 REFINED, ɹ ɪ f ˈaɪ n d
+REFIT(1), ɹ ˈiː f ˌɪ t
+REFIT(2), ɹ iː f ˈɪ t
+REFITTED, ɹ iː f ˈɪ t ɪ d
 REFLECT, ɹ ɪ f l ˈɛ k t
 REFLECTED, ɹ ɪ f l ˈɛ k t ɪ d
 REFLECTING, ɹ ɪ f l ˈɛ k t ɪ ŋ
@@ -11220,6 +11309,7 @@ REMOVING, ɹ ɪ m ˈuː v ɪ ŋ
 REMUNERATION, ɹ ˌɪ m j uː n ə ɹ ˈeɪ ʃ ə n
 RENAISSANCE, ɹ ə n ˈeɪ s ə n s
 RENAULT, ɹ ˈɛ n əʊ
+REND, ɹ ˈɛ n d
 RENDER, ɹ ˈɛ n d ə
 RENDERED, ɹ ˈɛ n d ə d
 RENDERING, ɹ ˈɛ n d ə ɹ ɪ ŋ
@@ -11394,6 +11484,8 @@ RETRIEVAL, ɹ ɪ t ɹ ˈiː v ə l
 RETRIEVE, ɹ ɪ t ɹ ˈiː v
 RETRIEVED, ɹ ɪ t ɹ ˈiː v d
 RETRO, ɹ ˈɛ t ɹ əʊ
+RETROFIT, ɹ ˈɛ t ɹ əʊ f ˌɪ t
+RETROFITTED, ɹ ˈɛ t ɹ əʊ f ˌɪ t ɪ d
 RETURN, ɹ ɪ t ˈɜː n
 RETURNED, ɹ ɪ t ˈɜː n d
 RETURNING, ɹ ɪ t ˈɜː n ɪ ŋ
@@ -11452,6 +11544,8 @@ RICHMOND, ɹ ˈɪ tʃ m ə n d
 RICK, ɹ ˈɪ k
 RICKY, ɹ ˈɪ k iː
 RID, ɹ ˈɪ d
+RIDDED, ɹ ˈɪ d ɪ d
+RIDDEN, ɹ ˈɪ d ə n
 RIDDLE, ɹ ˈɪ d ə l
 RIDDLED, ɹ ˈɪ d ə l d
 RIDE, ɹ ˈaɪ d
@@ -11762,6 +11856,8 @@ SAVES, s ˈeɪ v z
 SAVING, s ˈeɪ v ɪ ŋ
 SAVINGS, s ˈeɪ v ɪ ŋ z
 SAW, s ˈɔː
+SAWED, s ˈɔː d
+SAWN, s ˈɔː n
 SAY, s ˈeɪ
 SAYING, s ˈeɪ ɪ ŋ
 SAYS, s ˈɛ z
@@ -12046,8 +12142,10 @@ SEVERAL(2), s ˈɛ v ə ɹ ə l
 SEVERE, s ə v ˈɪə
 SEVERELY, s ə v ˈɪə l iː
 SEW, s ˈəʊ
+SEWED, s ˈəʊ d
 SEWER, s ˈuː ə
 SEWING, s ˈəʊ ɪ ŋ
+SEWN, s ˈəʊ n
 SEX, s ˈɛ k s
 SEXUAL, s ˈɛ k ʃ ʊə l
 SEXUALITY, s ˌɛ k ʃ ʊ ˈæ l ɪ t iː
@@ -12097,11 +12195,13 @@ SHATTERED, ʃ ˈæ t ə d
 SHAUN, ʃ ˈɔː n
 SHAVE, ʃ ˈeɪ v
 SHAVED, ʃ ˈeɪ v d
+SHAVEN, ʃ ˈeɪ v ə n
 SHAW, ʃ ˈɔː
 SHE, ʃ ˈiː
 SHE-MALE, ʃ ˈiː m ˌeɪ l
 SHE-MALES, ʃ ˈiː m ˌeɪ l z
 SHEAR, ʃ ˈɪə
+SHEARED, ʃ ˈɪə d
 SHED, ʃ ˈɛ d
 SHEEN, ʃ ˈiː n
 SHEEP, ʃ ˈiː p
@@ -12127,6 +12227,7 @@ SHILLING, ʃ ˈɪ l ɪ ŋ
 SHILLINGS, ʃ ˈɪ l ɪ ŋ z
 SHIN, ʃ ˈɪ n
 SHINE, ʃ ˈaɪ n
+SHINED, ʃ ˈaɪ n d
 SHINING, ʃ ˈaɪ n ɪ ŋ
 SHINY, ʃ ˈaɪ n iː
 SHIP, ʃ ˈɪ p
@@ -12140,13 +12241,17 @@ SHIRLEY, ʃ ˈɜː l iː
 SHIRT, ʃ ˈɜː t
 SHIRTS, ʃ ˈɜː t s
 SHIT, ʃ ˈɪ t
+SHITTED, ʃ ˈɪ t ɪ d
 SHITTY, ʃ ˈɪ t iː
 SHIVER, ʃ ˈɪ v ə
 SHOCK, ʃ ˈɒ k
 SHOCKED, ʃ ˈɒ k t
 SHOCKING, ʃ ˈɒ k ɪ ŋ
+SHOD, ʃ ˈɒ d
 SHOE, ʃ ˈuː
+SHOED, ʃ ˈuː d
 SHOES, ʃ ˈuː z
+SHONE, ʃ ˈɒ n
 SHOOK, ʃ ˈʊ k
 SHOOT, ʃ ˈuː t
 SHOOTING, ʃ ˈuː t ɪ ŋ
@@ -12156,6 +12261,7 @@ SHOPPERS, ʃ ˈɒ p ə z
 SHOPPING, ʃ ˈɒ p ɪ ŋ
 SHOPS, ʃ ˈɒ p s
 SHORE, ʃ ˈɔː
+SHORN, ʃ ˈɔː n
 SHORT, ʃ ˈɔː t
 SHORT-TERM, ʃ ˌɔː t t ˈɜː m
 SHORTAGE, ʃ ˈɔː t ɪ dʒ
@@ -12184,6 +12290,7 @@ SHOWING, ʃ ˈəʊ ɪ ŋ
 SHOWN, ʃ ˈəʊ n
 SHOWS, ʃ ˈəʊ z
 SHOWTIMES, ʃ ˈəʊ t ˌaɪ m z
+SHRANK, ʃ ɹ ˈæ ŋ k
 SHRED, ʃ ɹ ˈɛ d
 SHRIMP, ʃ ɹ ˈɪ m p
 SHRINK, ʃ ɹ ˈɪ ŋ k
@@ -12192,6 +12299,7 @@ SHROPSHIRE, ʃ ɹ ˈɒ p ʃ ə
 SHRUB, ʃ ɹ ˈɐ b
 SHRUG, ʃ ɹ ˈɐ g
 SHRUGGED, ʃ ɹ ˈɐ g d
+SHRUNK, ʃ ɹ ˈɐ ŋ k
 SHUFFLE, ʃ ˈɐ f ə l
 SHUN, ʃ ˈɐ n
 SHUNT, ʃ ˈɐ n t
@@ -12325,6 +12433,7 @@ SKYPE, s k ˈaɪ p
 SLAB, s l ˈæ b
 SLACK, s l ˈæ k
 SLAG, s l ˈæ g
+SLAIN, s l ˈeɪ n
 SLAM, s l ˈæ m
 SLANG, s l ˈæ ŋ
 SLANT, s l ˈɑː n t
@@ -12335,6 +12444,7 @@ SLAVE, s l ˈeɪ v
 SLAVERY, s l ˈeɪ v ə ɹ iː
 SLAVES, s l ˈeɪ v z
 SLAY, s l ˈeɪ
+SLAYED, s l ˈeɪ d
 SLEDGE, s l ˈɛ dʒ
 SLEEK, s l ˈiː k
 SLEEP, s l ˈiː p
@@ -12347,6 +12457,7 @@ SLEIGH, s l ˈeɪ
 SLEIGHT, s l ˈeɪ t
 SLENDER, s l ˈɛ n d ə
 SLEPT, s l ˈɛ p t
+SLEW, s l ˈuː
 SLICE, s l ˈaɪ s
 SLICES, s l ˈaɪ s ɪ z
 SLICK, s l ˈɪ k
@@ -12358,6 +12469,7 @@ SLIGHTEST, s l ˈaɪ t ɪ s t
 SLIGHTLY, s l ˈaɪ t l iː
 SLIM, s l ˈɪ m
 SLING, s l ˈɪ ŋ
+SLINK, s l ˈɪ ŋ k
 SLIP, s l ˈɪ p
 SLIPPED, s l ˈɪ p t
 SLIPPERS, s l ˈɪ p ə z
@@ -12379,6 +12491,8 @@ SLOWLY, s l ˈəʊ l iː
 SLUG, s l ˈɐ g
 SLUM, s l ˈɐ m
 SLUMP, s l ˈɐ m p
+SLUNG, s l ˈɐ ŋ
+SLUNK, s l ˈɐ ŋ k
 SLUR, s l ˈɜː
 SLUT, s l ˈɐ t
 SLUTS, s l ˈɐ t s
@@ -12393,20 +12507,25 @@ SMASHED, s m ˈæ ʃ t
 SMASHING, s m ˈæ ʃ ɪ ŋ
 SMEAR, s m ˈɪə
 SMELL, s m ˈɛ l
+SMELLED, s m ˈɛ l d
 SMELLS, s m ˈɛ l z
 SMELLY, s m ˈɛ l iː
+SMELT, s m ˈɛ l t
 SMILE, s m ˈaɪ l
 SMILED, s m ˈaɪ l d
 SMILIES, s m ˈaɪ l iː z
 SMILING, s m ˈaɪ l ɪ ŋ
+SMITE, s m ˈaɪ t
 SMITH, s m ˈɪ θ
 SMITHS, s m ˈɪ θ s
+SMITTEN, s m ˈɪ t ə n
 SMOKE, s m ˈəʊ k
 SMOKES, s m ˈəʊ k s
 SMOKING, s m ˈəʊ k ɪ ŋ
 SMOKY, s m ˈəʊ k iː
 SMOOTH, s m ˈuː ð
 SMOOTHLY, s m ˈuː ð l iː
+SMOTE, s m ˈəʊ t
 SMUDGE, s m ˈɐ dʒ
 SMUG, s m ˈɐ g
 SNACK, s n ˈæ k
@@ -12419,6 +12538,7 @@ SNAPSHOT, s n ˈæ p ʃ ˌɒ t
 SNARKY, s n ˈɑː k iː
 SNATCH, s n ˈæ tʃ
 SNEAK, s n ˈiː k
+SNEAKED, s n ˈiː k t
 SNEER, s n ˈɪə
 SNEEZE, s n ˈiː z
 SNIFF, s n ɪ f
@@ -12431,6 +12551,7 @@ SNOWBOARD, s n ˈəʊ b ˌɔː d
 SNOWMAN, s n ˈəʊ m ˌæ n
 SNOWY, s n ˈəʊ iː
 SNUB, s n ˈɐ b
+SNUCK, s n ˈɐ k
 SNUFF, s n ˈɐ f
 SNUG, s n ˈɐ g
 SNUGGLY, s n ˈɐ g l iː
@@ -12551,6 +12672,8 @@ SOVEREIGNTY, s ˈɒ v ɹ ə n t iː
 SOVIET, s ˈəʊ v ɪə t
 SOW(1), s ˈəʊ
 SOW(2), s ˈaʊ
+SOWED, s ˈəʊ d
+SOWN, s ˈəʊ n
 SOX, s ˈɒ k s
 SPA, s p ˈɑː
 SPACE, s p ˈeɪ s
@@ -12570,6 +12693,7 @@ SPARK, s p ˈɑː k
 SPARKS, s p ˈɑː k s
 SPAS, s p ˈɑː z
 SPASM, s p ˈæ z ə m
+SPAT, s p ˈæ t
 SPATE, s p ˈeɪ t
 SPATIAL, s p ˈeɪ ʃ ə l
 SPAWN, s p ˈɔː n
@@ -12615,11 +12739,14 @@ SPECTATOR, s p ɛ k t ˈeɪ t ə
 SPECTATORS, s p ɛ k t ˈeɪ t ə z
 SPECTRUM, s p ˈɛ k t ɹ ə m
 SPECULATION, s p ˌɛ k j ʊ l ˈeɪ ʃ ə n
+SPED, s p ˈɛ d
 SPEECH, s p ˈiː tʃ
 SPEECHES, s p ˈiː tʃ ɪ z
 SPEED, s p ˈiː d
+SPEEDED, s p ˈiː d ɪ d
 SPEEDS, s p ˈiː d z
 SPELL, s p ˈɛ l
+SPELLED, s p ˈɛ l d
 SPELLING, s p ˈɛ l ɪ ŋ
 SPELLINGS, s p ˈɛ l ɪ ŋ z
 SPELT, s p ˈɛ l t
@@ -12638,6 +12765,8 @@ SPIDER, s p ˈaɪ d ə
 SPIES, s p ˈaɪ z
 SPIKE, s p ˈaɪ k
 SPILL, s p ˈɪ l
+SPILLED, s p ˈɪ l d
+SPILT, s p ˈɪ l t
 SPIN, s p ˈɪ n
 SPINE, s p ˈaɪ n
 SPIRE, s p ˈaɪ ə
@@ -12652,6 +12781,7 @@ SPLICE, s p l ˈaɪ s
 SPLIT, s p l ˈɪ t
 SPOIL, s p ˈɔɪ l
 SPOILED, s p ˈɔɪ l d
+SPOILT, s p ˈɔɪ l t
 SPOKE, s p ˈəʊ k
 SPOKEN, s p ˈəʊ k ə n
 SPOKESMAN, s p ˈəʊ k s m ə n
@@ -12671,6 +12801,7 @@ SPOTLIGHT, s p ˈɒ t l ˌaɪ t
 SPOTS, s p ˈɒ t s
 SPOTTED, s p ˈɒ t ɪ d
 SPOUSE, s p ˈaʊ s
+SPRANG, s p ɹ ˈæ ŋ
 SPRAY, s p ɹ ˈeɪ
 SPREAD, s p ɹ ˈɛ d
 SPREADING, s p ɹ ˈɛ d ɪ ŋ
@@ -12682,7 +12813,10 @@ SPRINGFIELD, s p ɹ ˈɪ ŋ f ˌiː l d
 SPRINGS, s p ɹ ˈɪ ŋ z
 SPRINT, s p ɹ ˈɪ n t
 SPROUTS, s p ɹ ˈaʊ t s
+SPRUNG, s p ɹ ˈɐ ŋ
 SPUDS, s p ˈɐ d z
+SPUN, s p ˈɐ n
+SPUNK, s p ˈɐ n k
 SPUR, s p ˈɜː
 SPURN, s p ˈɜː n
 SPURS, s p ˈɜː z
@@ -12697,6 +12831,7 @@ SQUARED, s k w ˈɛə d
 SQUARES, s k w ˈɛə z
 SQUASH, s k w ˈɒ ʃ
 SQUAT, s k w ˈɒ t
+SQUAWK, s k w ˈɔː k
 SQUEEZE, s k w ˈiː z
 SQUELCH, s k w ˈɛ l tʃ
 SQUID, s k w ˈɪ d
@@ -12741,6 +12876,7 @@ STANDING, s t ˈæ n d ɪ ŋ
 STANDINGS, s t ˈæ n d ɪ ŋ z
 STANDS, s t ˈæ n d z
 STANFORD, s t ˈæ n f ə d
+STANK, s t ˈæ ŋ k
 STANLEY, s t ˈæ n l iː
 STAPLE, s t ˈeɪ p ə l
 STAR, s t ˈɑː
@@ -12781,6 +12917,7 @@ STATUTE, s t ˈæ tʃ uː t
 STATUTES, s t ˈæ tʃ uː t s
 STATUTORY, s t ˈæ tʃ ʊ t ə ɹ iː
 STAVE, s t ˈeɪ v
+STAVED, s t ˈeɪ v d
 STAY, s t ˈeɪ
 STAYED, s t ˈeɪ d
 STAYING, s t ˈeɪ ɪ ŋ
@@ -12903,10 +13040,15 @@ STRESSED, s t ɹ ˈɛ s t
 STRETCH, s t ɹ ˈɛ tʃ
 STRETCHED, s t ɹ ˈɛ tʃ t
 STRETCHING, s t ɹ ˈɛ tʃ ɪ ŋ
+STREW, s t ɹ ˈuː
+STREWED, s t ɹ ˈuː d
 STREWN, s t ɹ ˈuː n
+STRICKEN, s t ɹ ˈɪ k ə n
 STRICT, s t ɹ ˈɪ k t
 STRICTLY, s t ɹ ˈɪ k t l iː
+STRIDDEN, s t ɹ ˈɪ d ə n
 STRIDE, s t ɹ ˈaɪ d
+STRIDENT, s t ɹ ˈaɪ d ə n t
 STRIKE, s t ɹ ˈaɪ k
 STRIKER, s t ɹ ˈaɪ k ə
 STRIKES, s t ɹ ˈaɪ k s
@@ -12917,12 +13059,16 @@ STRIP, s t ɹ ˈɪ p
 STRIPES, s t ɹ ˈaɪ p s
 STRIPS, s t ɹ ˈɪ p s
 STRIVE, s t ɹ ˈaɪ v
+STRIVED, s t ɹ ˈaɪ v d
+STRIVEN, s t ɹ ˈɪ v ə n
+STRODE, s t ɹ ˈəʊ d
 STROKE, s t ɹ ˈəʊ k
 STROLL, s t ɹ ˈəʊ l
 STRONG, s t ɹ ˈɒ ŋ
 STRONGER, s t ɹ ˈɒ ŋ g ə
 STRONGEST, s t ɹ ˈɒ ŋ g ɪ s t
 STRONGLY, s t ɹ ˈɒ ŋ l iː
+STROVE, s t ɹ ˈəʊ v
 STRUCK, s t ɹ ˈɐ k
 STRUCTURAL, s t ɹ ˈɐ k tʃ ə ɹ ə l
 STRUCTURE, s t ɹ ˈɐ k tʃ ə
@@ -12931,6 +13077,7 @@ STRUCTURES, s t ɹ ˈɐ k tʃ ə z
 STRUGGLE, s t ɹ ˈɐ g ə l
 STRUGGLED, s t ɹ ˈɐ g ə l d
 STRUGGLING, s t ɹ ˈɐ g l ɪ ŋ
+STRUNG, s t ɹ ˈɐ ŋ
 STRUT, s t ɹ ˈɐ t
 STUART, s t j ˈʊə t
 STUB, s t ˈɐ b
@@ -12950,6 +13097,8 @@ STUFFED, s t ˈɐ f t
 STUMBLE, s t ˈɐ m b ə l
 STUMP, s t ˈɐ m p
 STUN, s t ˈɐ n
+STUNG, s t ˈɐ ŋ
+STUNK, s t ˈɐ ŋ k
 STUNNING, s t ˈɐ n ɪ ŋ
 STUNT, s t ˈɐ n t
 STUPID, s t j ˈuː p ɪ d
@@ -13060,6 +13209,7 @@ SUMMIT, s ˈɐ m ɪ t
 SUMMON, s ˈɐ m ə n
 SUMS, s ˈɐ m z
 SUN, s ˈɐ n
+SUNBURN, s ˈɐ n b ˌɜː n
 SUNDAY(1), s ˈɐ n d iː
 SUNDAY(2), s ˈɐ n d ˌeɪ
 SUNDAYS(1), s ˈɐ n d ˌiː z
@@ -13067,6 +13217,7 @@ SUNDAYS(2), s ˈɐ n d ˌeɪ z
 SUNDERLAND, s ˈɐ n d ə l ə n d
 SUNG, s ˈɐ ŋ
 SUNGLASSES, s ˈɐ n g l ˌɑː s ɪ z
+SUNK, s ˈɐ ŋ k
 SUNLIGHT, s ˈɐ n l ˌaɪ t
 SUNNY, s ˈɐ n iː
 SUNRISE, s ˈɐ n ɹ ˌaɪ z
@@ -13173,6 +13324,7 @@ SUTTON, s ˈɐ t ə n
 SUZUKI, s ə z ˈuː k iː
 SWALLOW, s w ˈɒ l əʊ
 SWALLOWED, s w ˈɒ l əʊ d
+SWAM, s w ˈæ m
 SWAMP, s w ˈɒ m p
 SWAN, s w ˈɒ n
 SWANSEA, s w ˈɒ n z iː
@@ -13184,6 +13336,7 @@ SWAZILAND, s w ˈɑː z ɪ l æ n d
 SWEAR, s w ˈɛə
 SWEARING, s w ˈɛə ɹ ɪ ŋ
 SWEAT, s w ˈɛ t
+SWEATED, s w ˈɛ t ɪ d
 SWEDE, s w ˈiː d
 SWEDEN, s w ˈiː d ə n
 SWEDISH, s w ˈiː d ɪ ʃ
@@ -13194,6 +13347,7 @@ SWEETHEART, s w ˈiː t h ˌɑː t
 SWEETIE, s w ˈiː t iː
 SWEETS, s w ˈiː t s
 SWELL, s w ˈɛ l
+SWELLED, s w ˈɛ l d
 SWEPT, s w ˈɛ p t
 SWIFT, s w ˈɪ f t
 SWIFTLY, s w ˈɪ f t l iː
@@ -13214,6 +13368,8 @@ SWOLLEN, s w ˈəʊ l ə n
 SWOOP, s w ˈuː p
 SWORD, s ˈɔː d
 SWORE, s w ˈɔː
+SWORN, s w ˈɔː n
+SWUM, s w ˈɐ m
 SWUNG, s w ˈɐ ŋ
 SYCOPHANT, s ˈɪ k ə f ə n t
 SYDNEY, s ˈɪ d n iː
@@ -13272,6 +13428,7 @@ TAG, t ˈæ g
 TAGGED, t ˈæ g d
 TAGS, t ˈæ g z
 TAIL, t ˈeɪ l
+TAILOR, t ˈeɪ l ə
 TAILS, t ˈeɪ l z
 TAINT, t ˈeɪ n t
 TAIWAN, t aɪ w ˈɑː n
@@ -13728,6 +13885,7 @@ TOPICS, t ˈɒ p ɪ k s
 TOPLESS, t ˈɒ p l ə s
 TOPS, t ˈɒ p s
 TORCH, t ˈɔː tʃ
+TORE, t ˈɔː
 TORFAEN, t ˈɔː v ˌæ n
 TORIES, t ˈɔː ɹ iː z
 TORN, t ˈɔː n
@@ -13931,6 +14089,8 @@ TRIPS, t ɹ ˈɪ p s
 TRISH, t ɹ ˈɪ ʃ
 TRIUMPH, t ɹ ˈaɪ ə m f
 TRIVIAL, t ɹ ˈɪ v ɪə l
+TROD, t ɹ ˈɒ d
+TRODDEN, t ɹ ˈɒ d ə n
 TROLL, t ɹ ˈəʊ l
 TROLLEY, t ɹ ˈɒ l iː
 TROLLOP, t ɹ ˈɒ l ə p
@@ -14078,6 +14238,7 @@ UNDER, ˈɐ n d ə
 UNDERGO, ˌɐ n d ə g ˈəʊ
 UNDERGRADUATE, ˌɐ n d ə g ɹ ˈæ d j ʊə t
 UNDERGROUND, ˈɐ n d ə g ɹ ˌaʊ n d
+UNDERLIE, ˌɐ n d ə l ˈaɪ
 UNDERLINE(1), ˌɐ n d ə l ˈaɪ n
 UNDERLINE(2), ˈɐ n d ə l ˌaɪ n
 UNDERLYING, ˌɐ n d ə l ˈaɪ ɪ ŋ
@@ -14160,6 +14321,8 @@ UNTIL, ɐ n t ˈɪ l
 UNTITLED, ɐ n t ˈaɪ t ə l d
 UNTO, ˈɐ n t uː
 UNTOUCHED, ɐ n t ˈɐ tʃ t
+UNTRUE, ɐ n t ɹ ˈuː
+UNTRUTH, ɐ n t ɹ ˈuː θ
 UNUSED, ɐ n j ˈuː z d
 UNUSUAL, ɐ n j ˈuː ʒ ʊə l
 UNUSUALLY, ɐ n j ˈuː ʒ ʊə l iː
@@ -14506,6 +14669,7 @@ WAITING, w ˈeɪ t ɪ ŋ
 WAIVE, w ˈeɪ v
 WAIVER, w ˈeɪ v ə
 WAKE, w ˈeɪ k
+WAKED, ə w ˈeɪ k t
 WAKES, w ˈeɪ k s
 WAKING, w ˈeɪ k ɪ ŋ
 WALES, w ˈeɪ l z
@@ -14621,6 +14785,7 @@ WEARY, w ˈɪə ɹ iː
 WEASEL, w ˈiː z ə l
 WEATHER, w ˈɛ ð ə
 WEAVE, w ˈiː v
+WEAVED, w ˈiː v d
 WEB, w ˈɛ b
 WEBCAM, w ˈɛ b k æ m
 WEBCAMS, w ˈɛ b k æ m z
@@ -14631,6 +14796,7 @@ WEBPAGE, w ˈɛ b p ˌeɪ dʒ
 WEBSITE, w ˈɛ b s ˌaɪ t
 WEBSITES, w ˈɛ b s ˌaɪ t s
 WED, w ˈɛ d
+WEDDED, w ˈɛ d ɪ d
 WEDDING, w ˈɛ d ɪ ŋ
 WEDDINGS, w ˈɛ d ɪ ŋ z
 WEDGE, w ˈɛ dʒ
@@ -14668,6 +14834,7 @@ WELSH, w ˈɛ l ʃ
 WEMBLEY, w ˈɛ m b l iː
 WENDY, w ˈɛ n d iː
 WENT, w ˈɛ n t
+WEPT, w ˈɛ p t
 WERE, w ˈɜː
 WEREN'T, w ˈɜː n t
 WESLEY, w ˈɛ z l iː
@@ -14675,6 +14842,7 @@ WEST, w ˈɛ s t
 WESTERN, w ˈɛ s t ə n
 WESTMINSTER, w ˈɛ s t m ˌɪ n s t ə
 WET, w ˈɛ t
+WETTED, w ˈɛ t ɪ d
 WHALE, w ˈeɪ l
 WHARF, w ˈɔː f
 WHARFS, w ˈɔː f s
@@ -14698,6 +14866,7 @@ WHEREBY, w ˌɛə b ˈaɪ
 WHEREVER, w ˌɛə ɹ ˈɛ v ə
 WHET, w ˈɛ t
 WHETHER, w ˈɛ ð ə
+WHETTED, w ˈɛ t ɪ d
 WHICH, w ˈɪ tʃ
 WHICHEVER, w ɪ tʃ ˈɛ v ə
 WHIFF, w ˈɪ f
@@ -14823,10 +14992,12 @@ WITHDRAWAL, w ɪ ð d ɹ ˈɔː ə l
 WITHDRAWN, w ɪ ð d ɹ ˈɔː n
 WITHDREW(1), w ɪ ð d ɹ ˈuː
 WITHDREW(2), w ɪ θ d ɹ ˈuː
+WITHHOLD, w ɪ ð h ˈəʊ l d
 WITHIN(1), w ɪ ð ˈɪ n
 WITHIN(2), w ɪ θ ˈɪ n
 WITHOUT(1), w ɪ ð ˈaʊ t
 WITHOUT(2), w ɪ θ ˈaʊ t
+WITHSTAND, w ɪ ð s t ˈæ n d
 WITNESS, w ˈɪ t n ə s
 WITNESSES, w ˈɪ t n ə s ɪ z
 WITTY, w ˈɪ t iː
@@ -14907,8 +15078,10 @@ WOUND(1), w ˈuː n d
 WOUND(2), w ˈaʊ n d
 WOUNDED, w ˈuː n d ɪ d
 WOUNDS, w ˈuː n d z
+WOVE, w ˈəʊ v ə
 WOVEN, w ˈəʊ v ə n
 WOW, w ˈaʊ
+WRANG, ɹ ˈæ ŋ
 WRAP, ɹ ˈæ p
 WRAPPED, ɹ ˈæ p t
 WRAPPING, ɹ ˈæ p ɪ ŋ
@@ -14932,6 +15105,7 @@ WRITTEN, ɹ ˈɪ t ə n
 WRONG, ɹ ˈɒ ŋ
 WRONGLY, ɹ ˈɒ ŋ l iː
 WROTE, ɹ ˈəʊ t
+WRUNG, ɹ ˈɐ ŋ
 WRY, ɹ ˈaɪ
 WY, w ˈaɪ
 WYOMING, w ˌaɪ ˈəʊ m ɪ ŋ
