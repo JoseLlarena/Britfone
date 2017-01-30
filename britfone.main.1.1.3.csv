@@ -85,6 +85,7 @@ ACCEPTING, ə k s ˈɛ p t ɪ ŋ
 ACCEPTS, ə k s ˈɛ p t s
 ACCESS, ˈæ k s ˌɛ s
 ACCESSED, ˈæ k s ˌɛ s t
+ACCESSES, ˈæ k s ˌɛ s iː z
 ACCESSIBILITY, ˌæ k s ɛ s ɪ b ˈɪ l ɪ t iː
 ACCESSIBLE, ə k s ˈɛ s ɪ b ə l
 ACCESSING, ˈæ k s ˌɛ s ɪ ŋ
@@ -103,9 +104,11 @@ ACCOMPLISH, ə k ˈɒ m p l ɪ ʃ
 ACCOMPLISHED, ə k ˈɒ m p l ɪ ʃ t
 ACCORD, ə k ˈɔː d
 ACCORDANCE, ə k ˈɔː d ə n s
+ACCORDED, ə k ˈɔː d ɪ d
 ACCORDING, ə k ˈɔː d ɪ ŋ
 ACCORDINGLY, ə k ˈɔː d ɪ ŋ l iː
 ACCORDION, ə k ˈɔː d ɪə n
+ACCORDS, ə k ˈɔː d z
 ACCOUNT, ə k ˈaʊ n t
 ACCOUNTABILITY, ə k aʊ n t ə b ˈɪ l ɪ t iː
 ACCOUNTANT, ə k ˈaʊ n t ə n t
@@ -563,6 +566,7 @@ ANALYSTS, ˈæ n ə l ɪ s t s
 ANALYTICAL, ˌæ n ə l ˈɪ t ɪ k ə l
 ANALYZE, ˈæ n ə l ˌaɪ z
 ANALYZED, ˈæ n ə l ˌaɪ z d
+ANATHEMA, ə n ˈæ θ ə m ə
 ANATOMY, ə n ˈæ t ə m iː
 ANCESTOR, ˈæ n s ˌɛ s t ə
 ANCESTORS, ˈæ n s ˌɛ s t ə z
@@ -678,6 +682,7 @@ ANYONE(2), ˈɛ n ɪ w ˌɐ n
 ANYTHING, ˈɛ n ɪ θ ˌɪ ŋ
 ANYTIME, ˈɛ n ɪ t ˌaɪ m
 ANYWAY, ˈɛ n ɪ w ˌeɪ
+ANYWAYS, ˈɛ n ɪ w ˌeɪ z
 ANYWHERE, ˈɛ n ɪ w ˌɛə
 APACHE, ə p ˈæ tʃ iː
 APART, ə p ˈɑː t
@@ -709,7 +714,9 @@ APPEARANCES, ə p ˈɪə ɹ ə n s ɪ z
 APPEARED, ə p ˈɪə d
 APPEARING, ə p ˈɪə ɹ ɪ ŋ
 APPEARS, ə p ˈɪə z
+APPENDICES, ə p ˈɛ n d ɪ s ˌiː z
 APPENDIX, ə p ˈɛ n d ɪ k s
+APPENDIXES, ə p ˈɛ n d ɪ k s iː z
 APPETITE, ˈæ p ɪ t ˌaɪ t
 APPLAUSE, ə p l ˈɔː z
 APPLE, ˈæ p ə l
@@ -3176,6 +3183,7 @@ COOKS, k ˈʊ k s
 COOL, k ˈuː l
 COOLER, k ˈuː l ə
 COOLING, k ˈuː l ɪ ŋ
+COON, k ˈuː n
 COOP, k ˈuː p
 COOPER, k ˈuː p ə
 COOPERATE, k əʊ ˈɒ p ə ɹ ˌeɪ t
@@ -3554,6 +3562,7 @@ DAM, d ˈæ m
 DAMAGE, d ˈæ m ɪ dʒ
 DAMAGED, d ˈæ m ɪ dʒ d
 DAMAGES, d ˈæ m ɪ dʒ ɪ z
+DAMAGING, d ˈæ m ɪ dʒ ɪ ŋ
 DAME, d ˈeɪ m
 DAMMIT, d ˈæ m ɪ t
 DAMN, d ˈæ m
@@ -4486,13 +4495,14 @@ EBONY, ˈɛ b ə n iː
 EBOOKS, ˈiː b ˌʊ k s
 ECCLESIASTICAL, ɪ k l ɪ z ɪ ˈæ s t ɪ k ə l
 ECHO, ˈɛ k əʊ
+ECHOES, ˈɛ k əʊ z
 ECKS, ˈɛ k s
 ECKSES, ˈɛ k s ɪ z
 ECLIPSE, ɪ k l ˈɪ p s
 ECO(1), ˈiː k əʊ
 ECO(2), ˈɛ k əʊ
-ECOLOGICAL(1), iː k ə l ˈɒ dʒ ɪ k ə l
-ECOLOGICAL(2), ɛ k ə l ˈɒ dʒ ɪ k ə l
+ECOLOGICAL(1), ˌiː k ə l ˈɒ dʒ ɪ k ə l
+ECOLOGICAL(2), ˌɛ k ə l ˈɒ dʒ ɪ k ə l
 ECOLOGY, ɪ k ˈɒ l ə dʒ iː
 ECOMMERCE, ˈiː k ˌɒ m ɜː s
 ECONOMIC(1), ˌiː k ə n ˈɒ m ɪ k
@@ -4623,6 +4633,7 @@ ELK, ˈɛ l k
 ELLEN, ˈɛ l ə n
 ELLIE, ˈɛ l iː
 ELLIOTT, ˈɛ l ɪə t
+ELLIPSE, ɪ l ˈɪ p s
 ELLIPSIS, ɪ l ˈɪ p s ɪ s
 ELM, ˈɛ l m
 ELS, ˈɛ l z
@@ -5230,6 +5241,8 @@ FARMERS, f ˈɑː m ə z
 FARMING, f ˈɑː m ɪ ŋ
 FARMS, f ˈɑː m z
 FART, f ˈɑː t
+FARTHER, f ˈɑː ð ə
+FARTHEST, f ˈɑː ð ɪ s t
 FASCINATE, f ˈæ s ɪ n ˌeɪ t
 FASCINATING, f ˈæ s ɪ n ˌeɪ t ɪ ŋ
 FASHION, f ˈæ ʃ ə n
@@ -5240,7 +5253,7 @@ FAST, f ˈɑː s t
 FASTEN, f ˈɑː s ə n
 FASTENED, f ˈɑː s ə n d
 FASTER, f ˈɑː s t ə
-FASTEST, f ˈæ s t ə s t
+FASTEST, f ˈɑː s t ə s t
 FAT, f ˈæ t
 FATAL, f ˈeɪ t ə l
 FATE, f ˈeɪ t
@@ -5330,6 +5343,7 @@ FEUD, f j ˈuː d
 FEVER, f ˈiː v ə
 FEW, f j ˈuː
 FEWER, f j ˈuː ə
+FEWEST, f j ˈuː ɪ s t
 FIAT(1), f ˈiː æ t
 FIAT(2), f ˈaɪ æ t
 FIBER, f ˈaɪ b ə
@@ -5655,6 +5669,7 @@ FOUNDATION, f aʊ n d ˈeɪ ʃ ə n
 FOUNDATIONS, f aʊ n d ˈeɪ ʃ ə n z
 FOUNDED, f ˈaʊ n d ɪ d
 FOUNDER, f ˈaʊ n d ə
+FOUNDS, f ˈaʊ n d z
 FOUNTAIN, f ˈaʊ n t ə n
 FOUR, f ˈɔː
 FOURS, f ˈɔː z
@@ -5806,6 +5821,7 @@ FURNITURE, f ˈɜː n ɪ tʃ ə
 FURRY, f ˈɜː ɹ iː
 FURTHER, f ˈɜː ð ə
 FURTHERMORE, f ˈɜː ð ə m ˌɔː
+FURTHEST, f ˈɜː ð ɪ s t
 FURY, f j ˈʊə ɹ iː
 FUSE, f j ˈuː z
 FUSION, f j ˈuː ʒ ə n
@@ -7010,6 +7026,7 @@ INCOME, ˈɪ n k ˌɐ m
 INCOMES, ˈɪ n k ˌɐ m z
 INCOMING, ˈɪ n k ˌɐ m ɪ ŋ
 INCOMPLETE, ɪ n k ə m p l ˈiː t
+INCONGRUOUS, ɪ n k ˈɒ ŋ g ɹ ʊə s
 INCONSISTENT, ɪ n k ə n s ˈɪ s t ə n t
 INCORPORATE, ɪ n k ˈɔː p ə ɹ ˌeɪ t
 INCORPORATED, ɪ n k ˈɔː p ə ɹ ˌeɪ t ɪ d
@@ -7055,7 +7072,8 @@ INDIFFERENCE(2), ɪ n d ˈɪ f ə ɹ ə n s
 INDIFFERENT(1), ɪ n d ˈɪ f ɹ ə n t
 INDIFFERENT(2), ɪ n d ˈɪ f ə ɹ ə n t
 INDIGENOUS, ɪ n d ˈɪ dʒ ə n ə s
-INDIRECT, ɪ n d ɪ ɹ ˈɛ k t
+INDIRECT(1), ˌɪ n d ɪ ɹ ˈɛ k t
+INDIRECT(2), ˌɪ n d aɪ ɹ ˈɛ k t
 INDIRECTLY(1), ɪ n d ɪ ɹ ˈɛ k t l iː
 INDISCRIMINATE, ɪ n d ɪ s k ɹ ˈɪ m ɪ n ɪ t
 INDISTINCT, ˌɪ n d ɪ s t ˈɪ ŋ k t
@@ -7170,6 +7188,7 @@ INQUEST, ˈɪ n k w ˌɛ s t
 INQUIRE, ɪ n k w ˈaɪ ə
 INQUIRIES, ɪ n k w ˈaɪ ə ɹ iː z
 INQUIRY, ɪ n k w ˈaɪ ə ɹ iː
+INS, ˈɪ n z
 INSANE, ɪ n s ˈeɪ n
 INSECT, ˈɪ n s ˌɛ k t
 INSECTS, ˈɪ n s ˌɛ k t s
@@ -8550,7 +8569,9 @@ MATHEMATICAL, m ˌæ θ ə m ˈæ t ɪ k ə l
 MATHEMATICS, m ˌæ θ ə m ˈæ t ɪ k s
 MATHS, m ˈæ θ s
 MATING, m ˈeɪ t ɪ ŋ
+MATRICES, m ˈeɪ t ɹ ɪ s ˌiː z
 MATRIX, m ˈeɪ t ɹ ɪ k s
+MATRIXES, m ˈeɪ t ɹ ɪ k s iː z
 MATS, m ˈæ t s
 MATT, m ˈæ t
 MATTER, m ˈæ t ə
@@ -9189,6 +9210,10 @@ NEARLY, n ˈɪə l iː
 NEAT, n ˈiː t
 NEATLY, n ˈiː t l iː
 NEBRASKA, n ə b ɹ ˈæ s k ə
+NEBULA, n ˈɛ b j ʊ l ə
+NEBULAE, n ˈɛ b j ʊ l ˌiː
+NEBULAS, n ˈɛ b j ʊ l ə z
+NEBULOUS, n ˈɛ b j ʊ l ə s
 NECESSARILY, n ˌɛ s ə s ˈɛ ɹ ɪ l iː
 NECESSARY, n ˈɛ s ə s ə ɹ iː
 NECESSITY, n ɪ s ˈɛ s ɪ t iː
@@ -10176,6 +10201,7 @@ PHONETICS, f ə n ˈɛ t ɪ k s
 PHONING, f ˈəʊ n ɪ ŋ
 PHONOLOGICAL, f ˌɒ n ə l ˈɒ dʒ ɪ k ə l
 PHONOLOGY, f ə n ˈɒ l ə dʒ iː
+PHOSPHATE, f ˈɒ s f eɪ t
 PHOTO, f ˈəʊ t ˌəʊ
 PHOTOGRAPH, f ˈəʊ t ə g ɹ ˌɑː f
 PHOTOGRAPHER, f ə t ˈɒ g ɹ ə f ə
@@ -10414,6 +10440,8 @@ POLLUTION, p ə l ˈuː ʃ ə n
 POLLY, p ˈɒ l iː
 POLO, p ˈəʊ l əʊ
 POLYESTER, p ˌɒ l iː ˈɛ s t ə
+POLYGON, p ˈɒ l ɪ g ˌɒ n
+POLYHEDRON, p ˌɒ l ɪ h ˈiː d ɹ ə n
 POLYMER, p ˈɒ l ɪ m ə
 POLYPHONIC, p ˌɒ l ɪ f ˈɒ n ɪ k
 POLYTECHNIC, p ˌɒ l ɪ t ˈɛ k n ɪ k
@@ -10462,6 +10490,7 @@ PORTRAIT(1), p ˈɔː t ɹ ə t
 PORTRAIT(2), p ˈɔː t ɹ eɪ t
 PORTRAITS, p ˈɔː t ɹ ə t s
 PORTRAY, p ɔː t ɹ ˈeɪ
+PORTRAYAL, p ɔː t ɹ ˈeɪ ə l
 PORTS, p ˈɔː t s
 PORTSMOUTH, p ˈɔː t s m ə θ
 PORTUGAL, p ˈɔː tʃ ʊ g ə l
@@ -11033,6 +11062,7 @@ QUOTES, k w ˈəʊ t s
 RA, ɹ ˈɑː
 RABBIT, ɹ ˈæ b ɪ t
 RABBITS, ɹ ˈæ b ɪ t s
+RACCOON, ɹ ə k ˈuː n
 RACE, ɹ ˈeɪ s
 RACES, ɹ ˈeɪ s ɪ z
 RACHEL, ɹ ˈeɪ tʃ ə l
@@ -12722,6 +12752,7 @@ SOCIAL, s ˈəʊ ʃ ə l
 SOCIALISE, s ˈəʊ ʃ ə l ˌaɪ z
 SOCIALISM, s ˈəʊ ʃ ə l ˌɪ z ə m
 SOCIALIST, s ˈəʊ ʃ ə l ɪ s t
+SOCIALIZE, s ˈəʊ ʃ ə l ˌaɪ z
 SOCIALLY, s ˈəʊ ʃ ə l iː
 SOCIETIES, s ə s ˈaɪ ə t iː z
 SOCIETY, s ə s ˈaɪ ə t iː
@@ -12761,6 +12792,7 @@ SOLUTION, s ə l ˈuː ʃ ə n
 SOLUTIONS, s ə l ˈuː ʃ ə n z
 SOLVE, s ˈɒ l v
 SOLVED, s ˈɒ l v d
+SOLVENT, s ˈɒ l v ə n t
 SOLVING, s ˈɒ l v ɪ ŋ
 SOMA, s ˈəʊ m ə
 SOMALIA, s əʊ m ˈɑː l ɪə
@@ -13211,6 +13243,7 @@ STRIKING, s t ɹ ˈaɪ k ɪ ŋ
 STRING, s t ɹ ˈɪ ŋ
 STRINGS, s t ɹ ˈɪ ŋ z
 STRIP, s t ɹ ˈɪ p
+STRIPE, s t ɹ ˈaɪ p
 STRIPES, s t ɹ ˈaɪ p s
 STRIPS, s t ɹ ˈɪ p s
 STRIVE, s t ɹ ˈaɪ v
@@ -13774,10 +13807,14 @@ TESCO, t ˈɛ s k əʊ
 TEST, t ˈɛ s t
 TESTAMENT, t ˈɛ s t ə m ə n t
 TESTED, t ˈɛ s t ɪ d
+TESTES, t ˈɛ s t iː z
+TESTICLE, t ˈɛ s t ɪ k ə l
+TESTICLES, t ˈɛ s t ɪ k ə l z
 TESTIFY, t ˈɛ s t ɪ f ˌaɪ
 TESTIMONIALS, t ˌɛ s t ɪ m ˈəʊ n ɪə l z
 TESTIMONY, t ˈɛ s t ɪ m ə n iː
 TESTING, t ˈɛ s t ɪ ŋ
+TESTIS, t ˈɛ s t ɪ s
 TESTS, t ˈɛ s t s
 TEX-MEX, t ˈɛ k s m ˌɛ k s
 TEXAS, t ˈɛ k s ə s
@@ -13838,6 +13875,7 @@ THERESA(2), t ə ɹ ˈeɪ s ə
 THERMAL, θ ˈɜː m ə l
 THESAURUS, θ ɪ s ˈɔː ɹ ə s
 THESE, ð ˈiː z
+THESES, θ ˈiː s iː z
 THESIS, θ ˈiː s ɪ s
 THETA, θ ˈiː t ə
 THEY, ð ˈeɪ
@@ -14097,6 +14135,7 @@ TOWN, t ˈaʊ n
 TOWNS, t ˈaʊ n z
 TOWNSHIP, t ˈaʊ n ʃ ɪ p
 TOXIC, t ˈɒ k s ɪ k
+TOXIN, t ˈɒ k s ɪ n
 TOY, t ˈɔɪ
 TOYOTA, t əʊ j ˈəʊ t ə
 TOYS, t ˈɔɪ z
@@ -14151,7 +14190,7 @@ TRANSCRIBE, t ɹ æ n s k ɹ ˈaɪ b
 TRANSCRIPT, t ɹ ˈæ n s k ɹ ˌɪ p t
 TRANSCRIPTION, t ɹ ˌæ n s k ɹ ˈɪ p ʃ ə n
 TRANSCRIPTS, t ɹ ˈæ n s k ɹ ˌɪ p t s
-TRANSEXUAL, t ɹ æ n s ˈɛ k ʃ ʊə l
+TRANSEXUAL, t ɹ æ n s z ˈɛ k ʃ ʊə l
 TRANSFER(1), t ɹ æ n s f ˈɜː
 TRANSFER(2), t ɹ ˈæ n s f ɜː
 TRANSFERRED, t ɹ æ n s f ˈɜː d
@@ -14186,7 +14225,7 @@ TRANSPLANT(2), t ɹ æ n s p l ˈɑː n t
 TRANSPORT(1), t ɹ æ n s p ˈɔː t
 TRANSPORT(2), t ɹ ˈæ n s p ˌɔː t
 TRANSPORTATION, t ɹ ˌæ n s p ə t ˈeɪ ʃ ə n
-TRANSSEXUAL, t ɹ æ n s ˈɛ k ʃ ʊə l
+TRANSSEXUAL, t ɹ æ n s z ˈɛ k ʃ ʊə l
 TRAP, t ɹ ˈæ p
 TRAPPED, t ɹ ˈæ p t
 TRASH, t ɹ ˈæ ʃ
@@ -14695,6 +14734,7 @@ VETERAN, v ˈɛ t ə ɹ ə n
 VETERANS, v ˈɛ t ə ɹ ə n z
 VETERINARY, v ˈɛ t ə ɹ ɪ n ə ɹ iː
 VETO, v ˈiː t əʊ
+VETOES, v ˈiː t əʊ z
 VIA(1), v ˈaɪ ə
 VIA(2), v ˈiː ə
 VIABLE, v ˈaɪ ə b ə l
@@ -15231,6 +15271,7 @@ WORKFLOW, w ˈɜː k f l ˌəʊ
 WORKFORCE, w ˈɜː k f ˌɔː s
 WORKING, w ˈɜː k ɪ ŋ
 WORKING-CLASS, w ˌɜː k ɪ ŋ k l ˈɑː s
+WORKINGS, w ˈɜː k ɪ ŋ z
 WORKMAN, w ˈɜː k m ə n
 WORKOUT, w ˈɜː k ˌaʊ t
 WORKPLACE, w ˈɜː k p l ˌeɪ s
@@ -15385,6 +15426,7 @@ ZEDS, z ˈɛ d z
 ZEE, z ˈiː
 ZEES, z ˈiː z
 ZEN, z ˈɛ n
+ZEPPELIN, z ˈɛ p ə l ɪ n
 ZERO, z ˈɪə ɹ əʊ
 ZEST, z ˈɛ s t
 ZIGZAG, z ˈɪ g z ˌæ g
