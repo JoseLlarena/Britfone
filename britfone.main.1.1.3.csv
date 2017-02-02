@@ -330,10 +330,10 @@ AGAIN(1), ə g ˈɛ n
 AGAIN(2), ə g ˈeɪ n
 AGAINST(1), ə g ˈɛ n s t
 AGAINST(2), ə g ˈeɪ n s t
-AGE, ˈeɪ dʒ ɪ ŋ
+AGE, ˈeɪ dʒ
 AGED(1), ˈeɪ dʒ d
 AGED(2), ˈeɪ dʒ ɪ d
-AGEING, ˈeɪ dʒ
+AGEING, ˈeɪ dʒ ɪ ŋ
 AGENCIES, ˈeɪ dʒ ə n s iː z
 AGENCY, ˈeɪ dʒ ə n s iː
 AGENDA, ə dʒ ˈɛ n d ə
@@ -395,7 +395,7 @@ AL, ˈæ l
 ALABAMA, ˌæ l ə b ˈæ m ə
 ALAN, ˈæ l ə n
 ALARM, ə l ˈɑː m
-ALAS, l ˈæ ʃ
+ALAS, ə l ˈæ s
 ALASKA, ə l ˈæ s k ə
 ALBANIA, æ l b ˈeɪ n ɪə
 ALBANY, ˈɔː l b ə n iː
@@ -4139,8 +4139,8 @@ DIMINISH, d ɪ m ˈɪ n ɪ ʃ
 DIMLY, d ˈɪ m l iː
 DIMPLE, d ˈɪ m p ə l
 DIN, d ˈɪ n
-DINE, ˈaɪ n
-DINER, ˈaɪ n ə
+DINE, d ˈaɪ n
+DINER, d ˈaɪ n ə
 DING, d ˈɪ ŋ
 DINGHY, d ˈɪ ŋ iː
 DINGY, d ˈɪ n dʒ iː
@@ -5274,7 +5274,7 @@ EYEBROWS, ˈaɪ b ɹ ˌaʊ z
 EYED, ˈaɪ d
 EYELASH, ˈaɪ l ˌæ ʃ
 EYES, ˈaɪ z
-EYNSHA, ˈɛ n ʃ ə m
+EYNSHAM, ˈɛ n ʃ ə m
 FABLE, f ˈeɪ b ə l
 FABRIC, f ˈæ b ɹ ɪ k
 FABRICS, f ˈæ b ɹ ɪ k s
@@ -5793,7 +5793,6 @@ FORWARDS, f ˈɔː w ə d z
 FORWENT, f ɔː w ˈɛ n t
 FOSSIL, f ˈɒ s ɪ l
 FOSTER, f ˈɒ s t ə
-FOTH, f ɹ ˈɒ θ
 FOUGHT, f ˈɔː t
 FOUL, f ˈaʊ l
 FOUND, f ˈaʊ n d
@@ -5897,6 +5896,7 @@ FRONT-PAGE, f ɹ ˈɐ n t p ˌeɪ dʒ
 FRONTIER(1), f ɹ ˈɐ n t ɪə
 FRONTIER(2), f ɹ ɐ n t ˈɪə
 FROST, f ɹ ˈɒ s t
+FROTH, f ɹ ˈɒ θ
 FROWN, f ɹ ˈaʊ n
 FROWNED, f ɹ ˈaʊ n d
 FROZE, f ɹ ˈəʊ z
@@ -7089,7 +7089,7 @@ IDLY, ˈaɪ d l iː
 IDOL, ˈaɪ d ə l
 IF(1), ɪ f
 IF(2), ˈɪ f
-IFFY, m ˈɪ f iː
+IFFY, ˈɪ f iː
 IGLOO, ˈɪ g l ˌuː
 IGNORANCE, ˈɪ g n ə ɹ ə n s
 IGNORANT, ˈɪ g n ə ɹ ə n t
@@ -11310,8 +11310,8 @@ QATAR(1), k ˌæ t ˈɑː
 QATAR(2), k ˈɐ t ˌɑː
 QUACK, k w ˈæ k
 QUAD, k w ˈɒ d
-QUAGMIRE(1), k ˈɒ w g m ˌaɪ ə
-QUAGMIRE(2), k ˈæ w g m ˌaɪ ə
+QUAGMIRE(1), k w ˈɒ g m ˌaɪ ə
+QUAGMIRE(2), k w ˈæ g m ˌaɪ ə
 QUAIL, k w ˈeɪ l
 QUAKE, k w ˈeɪ k
 QUALIFICATION, k w ˌɒ l ɪ f ɪ k ˈeɪ ʃ ə n
@@ -13589,7 +13589,7 @@ STORK, s t ˈɔː k
 STORM, s t ˈɔː m
 STORMY, s t ˈɔː m iː
 STORY, s t ˈɔː ɹ iː
-STOUT, t s ˈaʊ t
+STOUT, s t ˈaʊ t
 STOVE, s t ˈəʊ v
 STOW, s t ˈəʊ
 STOWAWAY, s t ˈəʊ ə w ˌeɪ
@@ -15329,7 +15329,7 @@ WAITING, w ˈeɪ t ɪ ŋ
 WAIVE, w ˈeɪ v
 WAIVER, w ˈeɪ v ə
 WAKE, w ˈeɪ k
-WAKED, ə w ˈeɪ k t
+WAKED, w ˈeɪ k t
 WAKEN, w ˈeɪ k ə n
 WAKES, w ˈeɪ k s
 WAKING, w ˈeɪ k ɪ ŋ
@@ -15884,7 +15884,7 @@ YUCK, j ˈɐ k
 YUGOSLAVIA, j ˌuː g əʊ s l ˈɑː v ɪə
 YUM, j ˈɐ m
 YUMMIE, j ˈɐ m iː
-YUP, p ˈɐ p
+YUP, j ˈɐ p
 YVONNE, ɪ v ˈɒ n
 ZAGREB, z ˈɑː g ɹ ɛ b
 ZAMBIA, z ˈæ m b ɪə
