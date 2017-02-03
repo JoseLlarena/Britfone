@@ -660,7 +660,7 @@ ANNUALLY, ˈæ n j ʊə l iː
 ANNUL, ə n ˈɐ l
 ANOMALOUS, ə n ˈɒ m ə l ə s
 ANOMALY, ə n ˈɒ m ə l iː
-ANONYMOUS, ə n ˈɒ n ə m ə s
+ANONYMOUS, ə n ˈɒ n ɪ m ə s
 ANOTHER, ə n ˈɐ ð ə
 ANSWER, ˈɑː n s ə
 ANSWERED, ˈɑː n s ə d
@@ -1323,8 +1323,8 @@ BEATLES, b ˈiː t ə l z
 BEATS, b ˈiː t s
 BEAU, b ˈəʊ
 BEAULIEU, b j ˈuː l iː
-BEAUTIFUL, b j ˈuː t ə f ə l
-BEAUTIFULLY, b j ˈuː t ə f l iː
+BEAUTIFUL, b j ˈuː t ɪ f ə l
+BEAUTIFULLY, b j ˈuː t ɪ f l iː
 BEAUTY, b j ˈuː t iː
 BEAUX, b ˈəʊ z
 BEAVER, b ˈiː v ə
@@ -2488,8 +2488,10 @@ CHIT, tʃ ˈɪ t
 CHIVE, tʃ ˈaɪ v
 CHIVVY, tʃ ˈɪ v iː
 CHLORIDE, k l ˈɔː ɹ aɪ d
-CHOCOLATE, tʃ ˈɒ k l ə t
-CHOCOLATES, tʃ ˈɒ k l ə t s
+CHOCOLATE(1), tʃ ˈɒ k ə l ə t
+CHOCOLATE(2), tʃ ˈɒ k ə l ɪ t
+CHOCOLATES(1), tʃ ˈɒ k ə l ə t s
+CHOCOLATES(2), tʃ ˈɒ k ə l ɪ t s
 CHOICE, tʃ ˈɔɪ s
 CHOICES, tʃ ˈɔɪ s ɪ z
 CHOIR, k w ˈaɪ ə
@@ -2874,8 +2876,7 @@ COMMUNISM, k ˈɒ m j ʊ n ˌɪ z ə m
 COMMUNIST, k ˈɒ m j ʊ n ɪ s t
 COMMUNISTS, k ˈɒ m j ʊ n ɪ s t s
 COMMUNITIES, k ə m j ˈuː n ɪ t iː z
-COMMUNITY(1), k ə m j ˈuː n ə t iː
-COMMUNITY(2), k ə m j ˈuː n ɪ t iː
+COMMUNITY, k ə m j ˈuː n ɪ t iː
 COMP, k ˈɒ m p
 COMPACT(1), k ˈɒ m p æ k t
 COMPACT(2), k ə m p ˈæ k t
@@ -3229,7 +3230,8 @@ CONTROLLERS, k ə n t ɹ ˈəʊ l ə z
 CONTROLLING, k ə n t ɹ ˈəʊ l ɪ ŋ
 CONTROLS, k ə n t ɹ ˈəʊ l z
 CONTROVERSIAL, k ˌɒ n t ɹ ə v ˈɜː ʃ ə l
-CONTROVERSY, k ˈɒ n t ɹ ə v ˌɜː s iː
+CONTROVERSY(1), k ˈɒ n t ɹ ə v ˌɜː s iː
+CONTROVERSY(2), k ə n t ɹ ˈɒ v ə s iː
 CONVALESCE, k ˌɒ n v ə l ˈɛ s
 CONVENIENCE, k ə n v ˈiː n ɪə n s
 CONVENIENT, k ə n v ˈiː n ɪə n t
@@ -3766,7 +3768,7 @@ DECIDE, d ɪ s ˈaɪ d
 DECIDED, d ɪ s ˈaɪ d ɪ d
 DECIDES, d ɪ s ˈaɪ d z
 DECIDING, d ɪ s ˈaɪ d ɪ ŋ
-DECIMAL, d ˈɛ s ə m ə l
+DECIMAL, d ˈɛ s ɪ m ə l
 DECISION, d ɪ s ˈɪ ʒ ə n
 DECISION-MAKER, d ɪ s ˈɪ ʒ ə n m ˌeɪ k ə
 DECISION-MAKING, d ɪ s ˈɪ ʒ ə n m ˌeɪ k ɪ ŋ
@@ -14145,8 +14147,10 @@ TELEPHONE, t ˈɛ l ə f ˌəʊ n
 TELEPHONY, t ɪ l ˈɛ f ə n iː
 TELESCOPE, t ˈɛ l ɪ s k ˌəʊ p
 TELETEXT, t ˈɛ l ɪ t ˌɛ k s t
-TELEVISION, t ˈɛ l ə v ˌɪ ʒ ə n
-TELEVISIONS, t ˈɛ l ɪ v ˌɪ ʒ ə n z
+TELEVISION(1), t ˈɛ l ɪ v ˌɪ ʒ ə n
+TELEVISION(2), t ˌɛ l ɪ v ˈɪ ʒ ə n
+TELEVISIONS(1), t ˈɛ l ɪ v ˌɪ ʒ ə n z
+TELEVISIONS(2), t ˌɛ l ɪ v ˈɪ ʒ ə n z
 TELL, t ˈɛ l
 TELLING, t ˈɛ l ɪ ŋ
 TELLS, t ˈɛ l z
@@ -14164,8 +14168,9 @@ TEMPLATES(2), t ˈɛ m p l ə t s
 TEMPLE, t ˈɛ m p ə l
 TEMPO, t ˈɛ m p əʊ
 TEMPORAL, t ˈɛ m p ə ɹ ə l
-TEMPORARILY, t ˌɛ m p ə ɹ ˈæ ɹ ə l iː
-TEMPORARY, t ˈɛ m p ə ɹ ə ɹ iː
+TEMPORARILY, t ˈɛ m p ɹ ə ɹ ɪ l iː
+TEMPORARY(1), t ˈɛ m p ə ɹ ə ɹ iː
+TEMPORARY(2), t ˈɛ m p ɹ ə ɹ iː
 TEMPT, t ˈɛ m p t
 TEMPTATION, t ɛ m t ˈeɪ ʃ ə n
 TEMPTED, t ˈɛ m p t ɪ d
@@ -14204,8 +14209,8 @@ TERMS, t ˈɜː m z
 TERN, t ˈɜː n
 TERRACE, t ˈɛ ɹ ə s
 TERRAIN, t ə ɹ ˈeɪ n
-TERRIBLE, t ˈɛ ɹ ə b ə l
-TERRIBLY, t ˈɛ ɹ ə b l iː
+TERRIBLE, t ˈɛ ɹ ɪ b ə l
+TERRIBLY, t ˈɛ ɹ ɪ b l iː
 TERRIFIC, t ə ɹ ˈɪ f ɪ k
 TERRIFIED, t ˈɛ ɹ ɪ f ˌaɪ d
 TERRITORIAL, t ˌɛ ɹ ɪ t ˈɔː ɹ ɪə l
