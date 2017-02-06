@@ -2506,7 +2506,8 @@ CHOOSING, tʃ ˈuː z ɪ ŋ
 CHOP, tʃ ˈɒ p
 CHOPPED, tʃ ˈɒ p t
 CHOPS, tʃ ˈɒ p s
-CHORAL, k ɒ ɹ ˈɑː l
+CHORAL(1), k ˈɔː ɹ ə l
+CHORAL(2), k ɒ ɹ ˈɑː l
 CHORALE, k ɒ ɹ ˈɑː l
 CHORD, k ˈɔː d
 CHORE, tʃ ˈɔː
@@ -3001,9 +3002,9 @@ CONCLUDED, k ə n k l ˈuː d ɪ d
 CONCLUDES, k ə n k l ˈuː d z
 CONCLUSION, k ə n k l ˈuː ʒ ə n
 CONCLUSIONS, k ə n k l ˈuː ʒ ə n z
-CONCORD, k ˈɒ n k ˌɔː d
-CONCRETE(1), k ə n k ɹ ˈiː t
-CONCRETE(2), k ˈɒ n k ɹ iː t
+CONCORD, k ˈɒ ŋ k ˌɔː d
+CONCRETE(1), k ə ŋ k ɹ ˈiː t
+CONCRETE(2), k ˈɒ ŋ k ɹ iː t
 CONDEMN, k ə n d ˈɛ m
 CONDEMNATION, k ˌɒ n d ə m n ˈeɪ ʃ ə n
 CONDITION, k ə n d ˈɪ ʃ ə n
@@ -3011,7 +3012,8 @@ CONDITIONAL, k ə n d ˈɪ ʃ ə n ə l
 CONDITIONING, k ə n d ˈɪ ʃ ə n ɪ ŋ
 CONDITIONS, k ə n d ˈɪ ʃ ə n z
 CONDO, k ˈɒ n d əʊ
-CONDOM, k ˈɒ n d ə m
+CONDOM(1), k ˈɒ n d ɒ m
+CONDOM(2), k ˈɒ n d ə m
 CONDOS, k ˈɒ n d əʊ z
 CONDUCT(1), k ə n d ˈɐ k t
 CONDUCT(2), k ˈɒ n d ɐ k t
@@ -3079,7 +3081,7 @@ CONNECTORS, k ə n ˈɛ k t ə z
 CONNIE, k ˈɒ n iː
 CONNOISSEUR, k ˌɒ n ɪ s ˈɜː
 CONNOTATION, k ˌɒ n ə t ˈeɪ ʃ ə n
-CONQUER, k ˈɒ n k ə
+CONQUER, k ˈɒ ŋ k ə
 CONS, k ˈɒ n z
 CONSCIENCE, k ˈɒ n ʃ ə n s
 CONSCIENTIOUS, k ˌɒ n ʃ ɪ ˈɛ n ʃ ə s
@@ -5599,7 +5601,7 @@ FLAKE, f l ˈeɪ k
 FLAME, f l ˈeɪ m
 FLAMES, f l ˈeɪ m z
 FLAMING, f l ˈeɪ m ɪ ŋ
-FLANK, f l ˈæ n k
+FLANK, f l ˈæ ŋ k
 FLAP, f l ˈæ p
 FLARE, f l ˈɛə
 FLASH, f l ˈæ ʃ
@@ -8021,7 +8023,7 @@ LAN, l ˈæ n
 LANARKSHIRE, l ˈæ n ə k ʃ ə
 LANCASHIRE, l ˈæ ŋ k ə ʃ ˌɪə
 LANCASTER(1), l ˈæ ŋ k ə s t ə
-LANCASTER(2), l ˈæ n k ˌæ s t ə
+LANCASTER(2), l ˈæ ŋ k ˌæ s t ə
 LANCE, l ˈɑː n s
 LAND, l ˈæ n d
 LANDED, l ˈæ n d ɪ d
@@ -8116,7 +8118,8 @@ LEADER, l ˈiː d ə
 LEADERS, l ˈiː d ə z
 LEADERSHIP, l ˈiː d ə ʃ ˌɪ p
 LEADING, l ˈiː d ɪ ŋ
-LEADS, l ˈiː d z
+LEADS(1), l ˈiː d z
+LEADS(2), l ˈɛ d z
 LEAF, l ˈiː f
 LEAFLET, l ˈiː f l ə t
 LEAFLETS, l ˈiː f l ə t s
@@ -9140,8 +9143,10 @@ MODIFICATIONS, m ˌɒ d ɪ f ɪ k ˈeɪ ʃ ə n z
 MODIFIED, m ˈɒ d ɪ f ˌaɪ d
 MODIFY, m ˈɒ d ɪ f ˌaɪ
 MODULAR, m ˈɒ d j ʊ l ə
-MODULE, m ˈɒ dʒ uː l
-MODULES, m ˈɒ dʒ uː l z
+MODULE(1), m ˈɒ dʒ uː l
+MODULE(2), m ˈɒ d j uː l
+MODULES(1), m ˈɒ dʒ uː l z
+MODULES(2), m ˈɒ d j uː l z
 MOIRA, m ˈɔɪ ɹ ə
 MOIST, m ˈɔɪ s t
 MOISTURE, m ˈɔɪ s tʃ ə
@@ -10621,7 +10626,7 @@ PLANE, p l ˈeɪ n
 PLANES, p l ˈeɪ n z
 PLANET, p l ˈæ n ɪ t
 PLANETS, p l ˈæ n ɪ t s
-PLANK, p l ˈæ n k
+PLANK, p l ˈæ ŋ k
 PLANNED, p l ˈæ n d
 PLANNER, p l ˈæ n ə
 PLANNERS, p l ˈæ n ə z
@@ -10673,7 +10678,7 @@ PLEDGE, p l ˈɛ dʒ
 PLENTY, p l ˈɛ n t iː
 PLIGHT, p l ˈaɪ t
 PLOD, p l ˈɒ d
-PLONKER, p l ˈɒ n k ə
+PLONKER, p l ˈɒ ŋ k ə
 PLOP, p l ˈɒ p
 PLOT, p l ˈɒ t
 PLOTS, p l ˈɒ t s
@@ -13412,7 +13417,7 @@ SPROUTS, s p ɹ ˈaʊ t s
 SPRUNG, s p ɹ ˈɐ ŋ
 SPUDS, s p ˈɐ d z
 SPUN, s p ˈɐ n
-SPUNK, s p ˈɐ n k
+SPUNK, s p ˈɐ ŋ k
 SPUR, s p ˈɜː
 SPURN, s p ˈɜː n
 SPURS, s p ˈɜː z
@@ -15736,7 +15741,7 @@ WONDER, w ˈɐ n d ə
 WONDERED, w ˈɐ n d ə d
 WONDERFUL, w ˈɐ n d ə f ə l
 WONDERING, w ˈɐ n d ə ɹ ɪ ŋ
-WONKY, w ˈɒ n k iː
+WONKY, w ˈɒ ŋ k iː
 WOO, w ˈuː
 WOOD, w ˈʊ d
 WOODEN, w ˈʊ d ə n
@@ -15902,7 +15907,7 @@ YOURSELF(3), j ɔː s ˈɛ l f
 YOURSELVES(1), j ə s ˈɛ l v z
 YOURSELVES(2), j ʊə s ˈɛ l v z
 YOURSELVES(3), j ɔː s ˈɛ l v z
-YOUS, j ˈuː s
+YOUS, j ˈuː z
 YOUTH, j ˈuː θ
 YOUTHS(1), j ˈuː ð z
 YOUTHS(2), j ˈuː θ s
