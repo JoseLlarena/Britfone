@@ -1432,7 +1432,8 @@ BERKELEY(1), b ˈɜː k l iː
 BERKELEY(2), b ˈɑː k l iː
 BERKSHIRE(1), b ˈɑː k ʃ ə
 BERKSHIRE(2), b ˈɑː k ʃ ˌɪə
-BERLIN, b ə l ˈɪ n
+BERLIN(1), b ɜː l ˈɪ n
+BERLIN(2), b ə l ˈɪ n
 BERMUDA, b ə m j ˈuː d ə
 BERN, b ˈɜː n
 BERNARD, b ˈɜː n ə d
@@ -1514,7 +1515,7 @@ BIOGRAPHY, b aɪ ˈɒ g ɹ ə f iː
 BIOLOGICAL, b aɪ ə l ˈɒ dʒ ɪ k ə l
 BIOLOGIST, b aɪ ˈɒ l ə dʒ ɪ s t
 BIOLOGY, b aɪ ˈɒ l ə dʒ iː
-BIOPSY, b ˈaɪ ə p s iː
+BIOPSY, b ˈaɪ ɒ p s iː
 BIOS, b ˈaɪ ɒ s
 BIOTECHNOLOGY, b ˌaɪ əʊ t ɛ k n ˈɒ l ə dʒ iː
 BIRCH, b ˈɜː tʃ
@@ -2246,7 +2247,7 @@ CATER, k ˈeɪ t ə
 CATERHAM, k ˈeɪ t ə ɹ ə m
 CATERING, k ˈeɪ t ə ɹ ɪ ŋ
 CATERPILLAR, k ˈæ t ə p ˌɪ l ə
-CATERS, k ˈeɪ t ə ɹ z
+CATERS, k ˈeɪ t ə z
 CATHEDRAL, k ə θ ˈiː d ɹ ə l
 CATHERINE(1), k ˈæ θ ɹ ɪ n
 CATHERINE(2), k ˈæ θ ə ɹ ɪ n
@@ -3613,7 +3614,8 @@ CURRENTLY, k ˈɐ ɹ ə n t l iː
 CURRICULUM, k ə ɹ ˈɪ k j ʊ l ə m
 CURRY, k ˈɐ ɹ iː
 CURSE, k ˈɜː s
-CURSED, k ˈɜː s t
+CURSED(1), k ˈɜː s t
+CURSED(2), k ˈɜː s ɪ d
 CURSOR, k ˈɜː s ə
 CURT, k ˈɜː t
 CURTAIN, k ˈɜː t ə n
@@ -3752,9 +3754,9 @@ DEBUG, d iː b ˈɐ g
 DEBUT, d ˈeɪ b j uː
 DEC, d ˈɛ k
 DECADE(1), d ˈɛ k eɪ d
-DECADE(2), d ɛ k ˈeɪ d
+DECADE(2), d ɪ k ˈeɪ d
 DECADES(1), d ˈɛ k eɪ d z
-DECADES(2), d ɛ k ˈeɪ d z
+DECADES(2), d ɪ k ˈeɪ d z
 DECAF, d ˈiː k æ f
 DECAFF, d ˈiː k æ f
 DECAY, d ɪ k ˈeɪ
@@ -4007,8 +4009,8 @@ DESTROY, d ɪ s t ɹ ˈɔɪ
 DESTROYED, d ɪ s t ɹ ˈɔɪ d
 DESTRUCTION, d ɪ s t ɹ ˈɐ k ʃ ə n
 DESTRUCTIVE, d ɪ s t ɹ ˈɐ k t ɪ v
-DETACH, d ɪ ˈæ tʃ
-DETACHED, d ɪ ˈæ tʃ t
+DETACH, d ɪ t ˈæ tʃ
+DETACHED, d ɪ t ˈæ tʃ t
 DETAIL, d ˈiː t eɪ l
 DETAILED, d ˈiː t eɪ l d
 DETAILS, d ˈiː t eɪ l z
@@ -4361,7 +4363,8 @@ DOLLS, d ˈɒ l z
 DOLLY, d ˈɒ l iː
 DOLPHIN, d ˈɒ l f ɪ n
 DOLPHINS, d ˈɒ l f ɪ n z
-DOMAIN, d ə m ˈeɪ n
+DOMAIN(1), d ə m ˈeɪ n
+DOMAIN(2), d əʊ m ˈeɪ n
 DOMAINS(1), d əʊ m ˈeɪ n z
 DOMAINS(2), d ə m ˈeɪ n z
 DOME, d ˈəʊ m
@@ -4709,7 +4712,7 @@ ELBOW, ˈɛ l b ˌəʊ
 ELDER, ˈɛ l d ə
 ELDERLY, ˈɛ l d ə l iː
 ELDERS, ˈɛ l d ə z
-ELDEST, ˈɛ l d ə s t
+ELDEST, ˈɛ l d ɪ s t
 ELEANOR(1), ˈɛ l ɪ n ɔː
 ELEANOR(2), ˈɛ l ɪ n ə
 ELECT, ɪ l ˈɛ k t
@@ -5794,7 +5797,7 @@ FORWARD, f ˈɔː w ə d
 FORWARDING, f ˈɔː w ə d ɪ ŋ
 FORWARDS, f ˈɔː w ə d z
 FORWENT, f ɔː w ˈɛ n t
-FOSSIL, f ˈɒ s ɪ l
+FOSSIL, f ˈɒ s ə l
 FOSTER, f ˈɒ s t ə
 FOUGHT, f ˈɔː t
 FOUL, f ˈaʊ l
@@ -6346,7 +6349,8 @@ GRAVY, g ɹ ˈeɪ v iː
 GRAY, g ɹ ˈeɪ
 GRAZE, g ɹ ˈeɪ z
 GREASE, g ɹ ˈiː s
-GREASY, g ɹ ˈiː s iː
+GREASY(1), g ɹ ˈiː s iː
+GREASY(2), g ɹ ˈiː z iː
 GREAT, g ɹ ˈeɪ t
 GREATER, g ɹ ˈeɪ t ə
 GREATEST, g ɹ ˈeɪ t ɪ s t
@@ -6715,7 +6719,7 @@ HELLO(1), h ɛ l ˈəʊ
 HELLO(2), h ə l ˈəʊ
 HELLO(3), h ˈɛ l əʊ
 HELM, h ˈɛ l m
-HELMET, h ˈɛ l m ə t
+HELMET, h ˈɛ l m ɪ t
 HELP, h ˈɛ l p
 HELPED, h ˈɛ l p t
 HELPER, h ˈɛ l p ə
@@ -6968,7 +6972,7 @@ HOURS, ˈaʊ ə z
 HOUSE, h ˈaʊ s
 HOUSEHOLD, h ˈaʊ s h ˌəʊ l d
 HOUSEHOLDS, h ˈaʊ s h ˌəʊ l d z
-HOUSES, h ˈaʊ s ɪ z
+HOUSES, h ˈaʊ z ɪ z
 HOUSEWARES, h ˈaʊ s w ˌɛə z
 HOUSEWIFE, h ˈaʊ s w ˌaɪ f
 HOUSEWIVES, h ˈaʊ s w ˌaɪ v z
@@ -8065,7 +8069,7 @@ LATE, l ˈeɪ t
 LATELY, l ˈeɪ t l iː
 LATER, l ˈeɪ t ə
 LATERAL, l ˈæ t ə ɹ ə l
-LATEST, l ˈeɪ t ə s t
+LATEST, l ˈeɪ t ɪ s t
 LATEX, l ˈeɪ t ˌɛ k s
 LATHE, l ˈeɪ ð
 LATIN, l ˈæ t ɪ n
@@ -9509,6 +9513,7 @@ NETWORKING, n ˈɛ t w ˌɜː k ɪ ŋ
 NETWORKS, n ˈɛ t w ˌɜː k s
 NEURAL, n j ˈʊə ɹ ə l
 NEURON, n j ˈʊə ɹ ɒ n
+NEURONE, n j ˈʊə ɹ ɒ n
 NEUTRAL, n j ˈuː t ɹ ə l
 NEVADA, n ɪ v ˈɑː d ə
 NEVER, n ˈɛ v ə
@@ -9835,7 +9840,7 @@ OLD, ˈəʊ l d
 OLD-FASHIONED, əʊ l d f ˈæ ʃ ə n d
 OLDBURY, ˈəʊ l d b ɹ iː
 OLDER, ˈəʊ l d ə
-OLDEST, ˈəʊ l d ə s t
+OLDEST, ˈəʊ l d ɪ s t
 OLDHAM, ˈəʊ l d ə m
 OLDY, ˈəʊ l d iː
 OLIVE, ˈɒ l ɪ v
@@ -9930,7 +9935,8 @@ ORANGUTANG(2), ə ɹ ˈæ ŋ ʊ t æ ŋ
 ORBIT, ˈɔː b ɪ t
 ORCHESTRA, ˈɔː k ɪ s t ɹ ə
 ORCHID, ˈɔː k ɪ d
-ORDEAL, ˈɔː d iː l
+ORDEAL(1), ˈɔː d iː l
+ORDEAL(2), ˈɔː d iː ə l
 ORDER, ˈɔː d ə
 ORDERED, ˈɔː d ə d
 ORDERING, ˈɔː d ə ɹ ɪ ŋ
@@ -10112,7 +10118,7 @@ PAIRS, p ˈɛə z
 PAISLEY, p ˈeɪ z l iː
 PAKISTAN, p ˈɑː k ɪ s t ˌɑː n
 PAL, p ˈæ l
-PALACE, p ˈæ l ə s
+PALACE, p ˈæ l ɪ s
 PALE, p ˈeɪ l
 PALESTINE, p ˈæ l ə s t ˌaɪ n
 PALESTINIAN, p ˌæ l ɪ s t ˈɪ n ɪə n
@@ -12006,7 +12012,7 @@ REVISED, ɹ ɪ v ˈaɪ z d
 REVISION, ɹ ɪ v ˈɪ ʒ ə n
 REVISIONS, ɹ ɪ v ˈɪ ʒ ə n z
 REVIVAL, ɹ ɪ v ˈaɪ v ə l
-REVIVE, ɹ ɪ v ˈaɪ v ə
+REVIVE, ɹ ɪ v ˈaɪ v
 REVOLTING, ɹ ɪ v ˈəʊ l t ɪ ŋ
 REVOLUTION, ɹ ˌɛ v ə l ˈuː ʃ ə n
 REVOLUTIONARY, ɹ ˌɛ v ə l ˈuː ʃ ə n ə ɹ iː
@@ -12304,7 +12310,7 @@ SAMPLE, s ˈæ m p ə l
 SAMPLES, s ˈæ m p ə l z
 SAMPLING, s ˈæ m p l ɪ ŋ
 SAMSUNG, s ˈæ m s ˌɐ ŋ
-SAMUEL, s ˈæ m j uː l
+SAMUEL, s ˈæ m j ʊə l
 SAMURAI(1), s ˈæ m j ʊ ɹ ˌaɪ
 SAMURAI(2), s ˈæ m ʊ ɹ ˌaɪ
 SAN, s ˈæ n
@@ -12510,11 +12516,13 @@ SEATING, s ˈiː t ɪ ŋ
 SEATS, s ˈiː t s
 SEATTLE, s ɪ ˈæ t ə l
 SEC, s ˈɛ k
-SECOND, s ˈɛ k ə n d
+SECOND(1), s ˈɛ k ə n d
+SECOND(2), s ɪ k ˈɒ n d
 SECONDARY, s ˈɛ k ə n d ə ɹ iː
 SECONDED, s ɪ k ˈɒ n d ɪ d
 SECONDLY, s ˈɛ k ə n d l iː
-SECONDS, s ˈɛ k ə n d z
+SECONDS(1), s ˈɛ k ə n d z
+SECONDS(2), s ɪ k ˈɒ n d z
 SECRET(1), s ˈiː k ɹ ə t
 SECRET(2), s ˈiː k ɹ ɪ t
 SECRETARIAT, s ˌɛ k ɹ ɪ t ˈɛə ɹ ɪə t
@@ -13502,7 +13510,8 @@ STATISTICAL, s t ə t ˈɪ s t ɪ k ə l
 STATISTICALLY, s t ə t ˈɪ s t ɪ k l iː
 STATISTICS, s t ə t ˈɪ s t ɪ k s
 STATS, s t ˈæ t s
-STATUE, s t ˈæ tʃ j ˌuː
+STATUE(1), s t ˈæ tʃ uː
+STATUE(2), s t ˈæ t j uː
 STATUS, s t ˈeɪ t ə s
 STATUTE, s t ˈæ tʃ uː t
 STATUTES, s t ˈæ tʃ uː t s
@@ -13707,7 +13716,7 @@ STYLES, s t ˈaɪ l z
 STYLISH, s t ˈaɪ l ɪ ʃ
 STYLUS, s t ˈaɪ l ə s
 SUB, s ˈɐ b
-SUBARU, s ʊ b ˈɑː ɹ ʊ
+SUBARU, s ʊ b ˈɑː ɹ uː
 SUBCOMMITTEE, s ˈɐ b k ə m ˌɪ t iː
 SUBCONSCIOUS, s ɐ b k ˈɒ n ʃ ə s
 SUBDIVISION, s ˈɐ b d ɪ v ˌɪ ʒ ə n
@@ -13824,7 +13833,8 @@ SUNRISE, s ˈɐ n ɹ ˌaɪ z
 SUNSET, s ˈɐ n s ˌɛ t
 SUNSHINE, s ˈɐ n ʃ ˌaɪ n
 SUPER, s ˈuː p ə
-SUPERB, s ʊ p ˈɜː b
+SUPERB(1), s ʊ p ˈɜː b
+SUPERB(2), s uː p ˈɜː b
 SUPERFICIAL, s ˌuː p ə f ˈɪ ʃ ə l
 SUPERFLOUS, s ˌuː p ˈɜː f l ʊə s
 SUPERINTENDENT, s ˌuː p ə ɹ ɪ n t ˈɛ n d ə n t
@@ -15113,7 +15123,7 @@ VARY, v ˈɛə ɹ iː
 VARYING, v ˈɛə ɹ iː ɪ ŋ
 VASE, v ˈɑː s
 VAST, v ˈɑː s t
-VASTLY, v ˈɑː s t iː
+VASTLY, v ˈɑː s t l iː
 VAT, v ˈæ t
 VATICAN, v ˈæ t ɪ k ə n
 VAULT, v ˈɔː l t
@@ -15136,7 +15146,7 @@ VEIL, v ˈeɪ l
 VEIN, v ˈeɪ n
 VEINS, v ˈeɪ n z
 VELOCITY, v ə l ˈɒ s ɪ t iː
-VELVET, v ˈɛ l v ə t
+VELVET, v ˈɛ l v ɪ t
 VENDOR, v ˈɛ n d ə
 VENDORS, v ˈɛ n d ə z
 VENEER, v ɪ n ˈɪə
@@ -15372,7 +15382,7 @@ WALTZ(3), w ˈɒ l t s
 WALTZ(4), w ˈɒ l s
 WAN, w ˈɒ n
 WAND, w ˈɒ n d
-WANDER, w ˈɒ n d ə ɹ
+WANDER, w ˈɒ n d ə
 WANDERING, w ˈɒ n d ə ɹ ɪ ŋ
 WANDSWORTH, w ˈɒ n z w ə θ
 WANE, w ˈeɪ n
@@ -15842,7 +15852,8 @@ YE, j ˈiː
 YEAH, j ˈɛə
 YEAR(1), j ˈɪə
 YEAR(2), j ˈɜː
-YEARLY, j ˈɪə l iː
+YEARLY(1), j ˈɪə l iː
+YEARLY(2), j ˈɜː l iː
 YEARN, j ˈɜː n
 YEARS(1), j ˈɪə z
 YEARS(2), j ˈɜː z
