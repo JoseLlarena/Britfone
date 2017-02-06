@@ -1515,7 +1515,7 @@ BIOLOGICAL, b aɪ ə l ˈɒ dʒ ɪ k ə l
 BIOLOGIST, b aɪ ˈɒ l ə dʒ ɪ s t
 BIOLOGY, b aɪ ˈɒ l ə dʒ iː
 BIOPSY, b ˈaɪ ə p s iː
-BIOS, b ˈaɪ ə s
+BIOS, b ˈaɪ ɒ s
 BIOTECHNOLOGY, b ˌaɪ əʊ t ɛ k n ˈɒ l ə dʒ iː
 BIRCH, b ˈɜː tʃ
 BIRD, b ˈɜː d
@@ -2242,7 +2242,7 @@ CATCH, k ˈæ tʃ
 CATCHING, k ˈæ tʃ ɪ ŋ
 CATEGORIES, k ˈæ t ɪ g ə ɹ iː z
 CATEGORY, k ˈæ t ɪ g ə ɹ iː
-CATER, k ˈeɪ t ə ɹ
+CATER, k ˈeɪ t ə
 CATERHAM, k ˈeɪ t ə ɹ ə m
 CATERING, k ˈeɪ t ə ɹ ɪ ŋ
 CATERPILLAR, k ˈæ t ə p ˌɪ l ə
@@ -4329,7 +4329,7 @@ DIZZY, d ˈɪ z iː
 DO, d ˈuː
 DOC, d ˈɒ k
 DOCK, d ˈɒ k
-DOCS, d ˈɒ k z
+DOCS, d ˈɒ k s
 DOCTOR, d ˈɒ k t ə
 DOCTORAL, d ˈɒ k t ə ɹ ə l
 DOCTORS, d ˈɒ k t ə z
@@ -6655,7 +6655,7 @@ HEADQUARTERS, h ˌɛ d k w ˈɔː t ə z
 HEADS, h ˈɛ d z
 HEADSET, h ˈɛ d s ˌɛ t
 HEADY, h ˈɛ d iː
-HEAL, h ˈɪə l
+HEAL, h ˈiː l
 HEALING, h ˈiː l ɪ ŋ
 HEALTH, h ˈɛ l θ
 HEALTHCARE, h ˈɛ l θ k ˌɛə
@@ -9150,7 +9150,8 @@ MOLLY, m ˈɒ l iː
 MOM, m ˈɒ m
 MOMENT, m ˈəʊ m ə n t
 MOMENTS, m ˈəʊ m ə n t s
-MOMENTUM, m əʊ m ˈɛ n t ə m
+MOMENTUM(1), m ə m ˈɛ n t ə m
+MOMENTUM(2), m əʊ m ˈɛ n t ə m
 MOMMY, m ˈɐ m iː
 MOMS, m ˈɒ m z
 MONACO, m ˈɒ n ə k ˌəʊ
@@ -9200,7 +9201,8 @@ MOOSE, m ˈuː s
 MOOT, m ˈuː t
 MOP, m ˈɒ p
 MOPE, m ˈəʊ p
-MOPED, m ˈəʊ p ɛ d
+MOPED(1), m ˈəʊ p ɛ d
+MOPED(2), m ˈəʊ p t
 MORAL, m ˈɒ ɹ ə l
 MORALE, m ɒ ɹ ˈɑː l
 MORALITY, m ə ɹ ˈæ l ɪ t iː
@@ -9226,7 +9228,7 @@ MORTGAGE, m ˈɔː g ɪ dʒ
 MORTGAGES, m ˈɔː g ɪ dʒ ɪ z
 MOSAIC, m ə z ˈeɪ k
 MOSCOW, m ˈɒ s k ˌəʊ
-MOSES, m ˈəʊ z ɪ s
+MOSES, m ˈəʊ z ɪ z
 MOSQUE, m ˈɒ s k
 MOSQUITO, m ə s k ˈiː t əʊ
 MOSS, m ˈɒ s
@@ -12573,7 +12575,7 @@ SELLING, s ˈɛ l ɪ ŋ
 SELLS, s ˈɛ l z
 SELVES, s ˈɛ l v z
 SEMANTIC, s ɪ m ˈæ n t ɪ k
-SEMEN, s ˈiː m ɛ n
+SEMEN, s ˈiː m ə n
 SEMESTER, s ə m ˈɛ s t ə
 SEMI, s ˈɛ m iː
 SEMI-FINAL, s ˌɛ m ɪ f ˈaɪ n ə l
@@ -13517,7 +13519,7 @@ STEALING, s t ˈiː l ɪ ŋ
 STEAM, s t ˈiː m
 STEEL, s t ˈiː l
 STEEP, s t ˈiː p
-STEER, s t ˈɪə ɹ
+STEER, s t ˈɪə
 STEERING, s t ˈɪə ɹ ɪ ŋ
 STEM, s t ˈɛ m
 STEP, s t ˈɛ p
@@ -13533,7 +13535,7 @@ STERN, s t ˈɜː n
 STEVE, s t ˈiː v
 STEVEN, s t ˈiː v ə n
 STEVENS, s t ˈiː v ə n z
-STEW, s t ˈuː
+STEW, s t j ˈuː
 STEWARD, s t j ˈʊə d
 STEWARDS, s t j ˈʊə d z
 STEWART, s t j ˈʊə t
