@@ -1915,6 +1915,7 @@ BUFFALO, b ˈɐ f ə l ˌəʊ
 BUFFER, b ˈɐ f ə
 BUFFET(1), b ˈɐ f ɪ t
 BUFFET(2), b ˈʊ f eɪ
+BUFFET(3), b ˈɐ f eɪ
 BUG, b ˈɐ g
 BUGGER, b ˈɐ g ə
 BUGGERS, b ˈɐ g ə z
@@ -4771,7 +4772,8 @@ EM, ˈɛ m
 EMAIL, ˈiː m eɪ l
 EMAILS, ˈiː m eɪ l z
 EMBANKMENT, ɪ m b ˈæ ŋ k m ə n t
-EMBARK, ɛ m b ˈɑː k
+EMBARK(1), ɪ m b ˈɑː k
+EMBARK(2), ɛ m b ˈɑː k
 EMBARRASS, ɪ m b ˈæ ɹ ə s
 EMBARRASSED, ɪ m b ˈæ ɹ ə s t
 EMBARRASSING, ɪ m b ˈæ ɹ ə s ɪ ŋ
@@ -5245,8 +5247,10 @@ EXPLOSION, ɪ k s p l ˈəʊ ʒ ə n
 EXPLOSIVE, ɪ k s p l ˈəʊ s ɪ v
 EXPO, ˈɛ k s p əʊ
 EXPONENTIAL, ˌɛ k s p əʊ n ˈɛ n ʃ ə l
-EXPORT, ˈɛ k s p ˌɔː t
-EXPORTS, ˈɛ k s p ˌɔː t s
+EXPORT(1), ˈɛ k s p ˌɔː t
+EXPORT(2), ɪ k s p ˈɔː t
+EXPORTS(1), ˈɛ k s p ˌɔː t s
+EXPORTS(2), ɪ k s p ˈɔː t s
 EXPOSE, ɪ k s p ˈəʊ z
 EXPOSED, ɪ k s p ˈəʊ z d
 EXPOSURE, ɪ k s p ˈəʊ ʒ ə
@@ -9130,8 +9134,8 @@ MODEL, m ˈɒ d ə l
 MODELING, m ˈɒ d ə l ɪ ŋ
 MODELLING, m ˈɒ d ə l ɪ ŋ
 MODELS, m ˈɒ d ə l z
-MODEM, m ˈəʊ d ə m
-MODEMS, m ˈəʊ d ə m z
+MODEM, m ˈəʊ d ɛ m
+MODEMS, m ˈəʊ d ɛ m z
 MODERATE(1), m ˈɒ d ə ɹ ˌeɪ t
 MODERATE(2), m ˈɒ d ə ɹ ə t
 MODERATOR, m ˈɒ d ə ɹ ˌeɪ t ə
