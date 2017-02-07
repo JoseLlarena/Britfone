@@ -6122,7 +6122,7 @@ GEORGIA, dʒ ˈɔː dʒ ə
 GERALD, dʒ ˈɛ ɹ ə l d
 GERM, dʒ ɜː m
 GERMAIN, dʒ ɜː m ˈeɪ n
-GERMAINE, ʒ ɜː m ˈeɪ n
+GERMAINE, dʒ ə m ˈeɪ n
 GERMAN, dʒ ˈɜː m ə n
 GERMANS, dʒ ˈɜː m ə n z
 GERMANY, dʒ ˈɜː m ə n iː
@@ -12639,11 +12639,12 @@ SENTENCES, s ˈɛ n t ə n s ɪ z
 SENTIMENT, s ˈɛ n t ɪ m ə n t
 SENTIMENTAL, s ˌɛ n t ɪ m ˈɛ n t ə l
 SENTINEL, s ˈɛ n t ɪ n ə l
-SEPARATE(1), s ˈɛ p ɹ ə t
-SEPARATE(2), s ˈɛ p ə ɹ ˌeɪ t
+SEPARATE(1), s ˈɛ p ɹ ɪ t
+SEPARATE(2), s ˈɛ p ə ɹ ɪ t
+SEPARATE(3), s ˈɛ p ə ɹ ˌeɪ t
 SEPARATED, s ˈɛ p ə ɹ ˌeɪ t ɪ d
-SEPARATELY(1), s ˈɛ p ɹ ə t l iː
-SEPARATELY(2), s ˈɛ p ə ɹ ə t l iː
+SEPARATELY(1), s ˈɛ p ɹ ɪ t l iː
+SEPARATELY(2), s ˈɛ p ə ɹ ɪ t l iː
 SEPARATION, s ˌɛ p ə ɹ ˈeɪ ʃ ə n
 SEPTEMBER, s ɛ p t ˈɛ m b ə
 SEQUENCE, s ˈiː k w ə n s
@@ -14173,12 +14174,12 @@ TEENS, t ˈiː n z
 TEES, t ˈiː z
 TEETH, t ˈiː θ
 TEIGNMOUTH, t ˈɪ n m ə θ
-TELECOM, t ˈɛ l ə k ɒ m
+TELECOM, t ˈɛ l ɪ k ɒ m
 TELECOMMUNICATION, t ˌɛ l ɪ k ə m j uː n ɪ k ˈeɪ ʃ ə n
 TELECOMMUNICATIONS, t ˌɛ l ɪ k ə m j uː n ɪ k ˈeɪ ʃ ə n z
-TELEGRAM, t ˈɛ l ə g ɹ ˌæ m
-TELEGRAPH, t ˈɛ l ə g ɹ ˌɑː f
-TELEPHONE, t ˈɛ l ə f ˌəʊ n
+TELEGRAM, t ˈɛ l ɪ g ɹ ˌæ m
+TELEGRAPH, t ˈɛ l ɪ g ɹ ˌɑː f
+TELEPHONE, t ˈɛ l ɪ f ˌəʊ n
 TELEPHONY, t ɪ l ˈɛ f ə n iː
 TELESCOPE, t ˈɛ l ɪ s k ˌəʊ p
 TELETEXT, t ˈɛ l ɪ t ˌɛ k s t
@@ -14504,8 +14505,8 @@ TOFFEE, t ˈɒ f iː
 TOFU, t ˈəʊ f ˌuː
 TOGETHER, t ə g ˈɛ ð ə
 TOIL, t ˈɔɪ l
-TOILET, t ˈɔɪ l ə t
-TOILETS, t ˈɔɪ l ə t s
+TOILET, t ˈɔɪ l ɪ t
+TOILETS, t ˈɔɪ l ɪ t s
 TOKEN, t ˈəʊ k ə n
 TOKENS, t ˈəʊ k ə n z
 TOKYO, t ˈəʊ k ɪ əʊ
@@ -14545,7 +14546,7 @@ TOOTH, t ˈuː θ
 TOP, t ˈɒ p
 TOPIC, t ˈɒ p ɪ k
 TOPICS, t ˈɒ p ɪ k s
-TOPLESS, t ˈɒ p l ə s
+TOPLESS, t ˈɒ p l ɪ s
 TOPS, t ˈɒ p s
 TORCH, t ˈɔː tʃ
 TORE, t ˈɔː
@@ -14660,7 +14661,8 @@ TRANSFORM(1), t ɹ æ n s f ˈɔː m
 TRANSFORM(2), t ɹ ˈæ n s f ˌɔː m
 TRANSFORMATION, t ɹ ˌæ n s f ə m ˈeɪ ʃ ə n
 TRANSFORMED, t ɹ æ n s f ˈɔː m d
-TRANSIT, t ɹ ˈæ n z ɪ t
+TRANSIT(1), t ɹ ˈæ n z ɪ t
+TRANSIT(2), t ɹ ˈæ n s ɪ t
 TRANSITION, t ɹ æ n z ˈɪ ʃ ə n
 TRANSLATE, t ɹ ˌæ n s l ˈeɪ t
 TRANSLATED, t ɹ ˌæ n s l ˈeɪ t ɪ d
@@ -15331,7 +15333,7 @@ VOLUNTARY, v ˈɒ l ə n t ə ɹ iː
 VOLUNTEER, v ˌɒ l ə n t ˈɪə
 VOLUNTEERS, v ˌɒ l ə n t ˈɪə z
 VOLUPTUOUS, v ə l ˈɐ p t j ʊə s
-VOLVO, v ˈəʊ l v əʊ
+VOLVO, v ˈɒ l v əʊ
 VOMIT, v ˈɒ m ɪ t
 VOTE, v ˈəʊ t
 VOTED, v ˈəʊ t ɪ d
