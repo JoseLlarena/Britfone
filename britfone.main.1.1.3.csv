@@ -804,7 +804,7 @@ ARCHAEOLOGY, ˌɑː k ɪ ˈɒ l ə dʒ iː
 ARCHBISHOP(1), ɑː tʃ b ˈɪ ʃ ə p
 ARCHBISHOP(2), ˈɑː tʃ b ɪ ʃ ə p
 ARCHITECT, ˈɑː k ɪ t ˌɛ k t
-ARCHITECTS, ˈɑː ɹ k ɪ t ˌɛ k t s
+ARCHITECTS, ˈɑː k ɪ t ˌɛ k t s
 ARCHITECTURAL, ˌɑː k ɪ t ˈɛ k tʃ ə ɹ ə l
 ARCHITECTURE, ˈɑː k ɪ t ˌɛ k tʃ ə
 ARCHIVE, ˈɑː k ˌaɪ v
@@ -1291,7 +1291,8 @@ BATHE, b ˈeɪ ð
 BATHROOM, b ˈɑː θ ɹ ˌuː m
 BATHROOMS, b ˈɑː θ ɹ ˌuː m z
 BATHS, b ˈɑː θ s
-BATMAN, b ˈæ t m ˌæ n
+BATMAN(1), b ˈæ t m ˌæ n
+BATMAN(2), b ˈæ t m ə n
 BATTERIES, b ˈæ t ə ɹ iː z
 BATTERY, b ˈæ t ə ɹ iː
 BATTLE, b ˈæ t ə l
@@ -4092,7 +4093,8 @@ DICTIONARIES, d ˈɪ k ʃ ə n ə ɹ iː z
 DICTIONARY, d ˈɪ k ʃ ə n ə ɹ iː
 DID(1), d ɪ d
 DID(2), d ˈɪ d
-DIDCOT, d ˈɪ d k ə t
+DIDCOT(1), d ˈɪ d k ə t
+DIDCOT(2), d ˈɪ d k ɒ t
 DIDN'T, d ˈɪ d n t
 DIE, d ˈaɪ
 DIED, d ˈaɪ d
@@ -4184,7 +4186,7 @@ DIRECTORS(1), d aɪ ɹ ˈɛ k t ə z
 DIRECTORS(2), d ɪ ɹ ˈɛ k t ə z
 DIRECTORY(1), d aɪ ɹ ˈɛ k t ə ɹ iː
 DIRECTORY(2), d ɪ ɹ ˈɛ k t ə ɹ iː
-DIRGE, d ˈɜː ɹ dʒ
+DIRGE, d ˈɜː dʒ
 DIRIGIBLE, d ɪ ɹ ˈɪ dʒ ɪ b ə l
 DIRK, d ˈɜː k
 DIRT, d ˈɜː t
@@ -6016,8 +6018,10 @@ GAOL, dʒ ˈeɪ l
 GAP, g ˈæ p
 GAPE, g ˈeɪ p
 GAPS, g ˈæ p s
-GARAGE, g æ ɹ ˈɑː ʒ
-GARAGES, g æ ɹ ˈɑː ʒ ɪ z
+GARAGE(1), g ˈæ ɹ ɑː ʒ
+GARAGE(2), g ˈæ ɹ ɪ dʒ
+GARAGES(1), g ˈæ ɹ ɑː ʒ ɪ z
+GARAGES(2), g ˈæ ɹ ɪ dʒ ɪ z
 GARBAGE, g ˈɑː b ɪ dʒ
 GARDEN, g ˈɑː d ə n
 GARDENER, g ˈɑː d ə n ə
@@ -7766,8 +7770,7 @@ JONATHAN, dʒ ˈɒ n ə θ ə n
 JONES, dʒ ˈəʊ n z
 JORDAN, dʒ ˈɔː d ə n
 JOSE, h ˌəʊ z ˈeɪ
-JOSEPH(1), dʒ ˈəʊ s ə f
-JOSEPH(2), dʒ ˈəʊ z ə f
+JOSEPH, dʒ ˈəʊ z ɪ f
 JOSH, dʒ ˈɒ ʃ
 JOSHUA, dʒ ˈɒ ʃ ʊə
 JOSIE, dʒ ˈəʊ z iː
@@ -8330,7 +8333,7 @@ LINED, l ˈaɪ n d
 LINEN, l ˈɪ n ə n
 LINER, l ˌaɪ n ə
 LINES, l ˈaɪ n z
-LINGER, l ˈɪ ŋ ə
+LINGER, l ˈɪ ŋ g ə
 LINGERIE, l ˈɒ n ʒ ə ɹ iː
 LINGO, l ˈɪ ŋ g əʊ
 LINGUIST, l ɪ ŋ g w ˈɪ s t
@@ -9602,7 +9605,7 @@ NIP, n ˈɪ p
 NIPPLE, n ˈɪ p ə l
 NIPPLES, n ˈɪ p ə l z
 NIPPY, n ˈɪ p iː
-NIRVANA(1), n ɜː ɹ v ˈɑː n ə
+NIRVANA(1), n ɜː v ˈɑː n ə
 NIRVANA(2), n ɪə v ˈɑː n ə
 NISSAN(1), n ˈɪ s æ n
 NISSAN(2), n ˈiː s ɑː n
@@ -10465,7 +10468,7 @@ PETERBOROUGH, p ˈiː t ə b ə ɹ ə
 PETERSBURG, p ˈiː t ə z b ˌɜː g
 PETITE, p ə t ˈiː t
 PETITION, p ə t ˈɪ ʃ ə n
-PETROL, p ˈɛ t ɹ əʊ l
+PETROL, p ˈɛ t ɹ ə l
 PETROLEUM, p ə t ɹ ˈəʊ l ɪə m
 PETS, p ˈɛ t s
 PETTY, p ˈɛ t iː
@@ -13899,8 +13902,8 @@ SURGEONS, s ˈɜː dʒ ə n z
 SURGERY, s ˈɜː dʒ ə ɹ iː
 SURGICAL, s ˈɜː dʒ ɪ k ə l
 SURLY, s ˈɜː l iː
-SURMISE(1), s ˈɜː ɹ m aɪ z
-SURMISE(2), s ɜː ɹ m ˈaɪ z
+SURMISE(1), s ˈɜː m aɪ z
+SURMISE(2), s ɜː m ˈaɪ z
 SURNAME, s ˈɜː n ˌeɪ m
 SURPLUS, s ˈɜː p l ə s
 SURPRISE, s ə p ɹ ˈaɪ z
@@ -14608,7 +14611,7 @@ TRACTOR, t ɹ ˈæ k t ə
 TRACY, t ɹ ˈeɪ s iː
 TRADE, t ɹ ˈeɪ d
 TRADEMARK, t ɹ ˈeɪ d m ˌɑː k
-TRADEMARKS, t ɹ ˈeɪ d m ˌɑː ɹ k s
+TRADEMARKS, t ɹ ˈeɪ d m ˌɑː k s
 TRADER, t ɹ ˈeɪ d ə
 TRADERS, t ɹ ˈeɪ d ə z
 TRADES, t ɹ ˈeɪ d z
@@ -15294,9 +15297,12 @@ VISITOR, v ˈɪ z ɪ t ə
 VISITORS, v ˈɪ z ɪ t ə z
 VISITS, v ˈɪ z ɪ t s
 VISTA, v ˈɪ s t ə
-VISUAL, v ˈɪ ʒ j ʊə l
-VISUALISATION, v ˌɪ ʒ j ʊə l aɪ z ˈeɪ ʃ ə n
-VISUALIZATION, v ˌɪ ʒ j ʊə l aɪ z ˈeɪ ʃ ə n
+VISUAL(1), v ˈɪ ʒ ʊə l
+VISUAL(2), v ˈɪ z j ʊə l
+VISUALISATION(1), v ˌɪ ʒ ʊə l aɪ z ˈeɪ ʃ ə n
+VISUALISATION(2), v ˌɪ z j ʊə l aɪ z ˈeɪ ʃ ə n
+VISUALIZATION(1), v ˌɪ ʒ ʊə l aɪ z ˈeɪ ʃ ə n
+VISUALIZATION(2), v ˌɪ z j ʊə l aɪ z ˈeɪ ʃ ə n
 VITAL, v ˈaɪ t ə l
 VITAMIN, v ˈɪ t ə m ɪ n
 VITAMINS, v ˈɪ t ə m ə n z
