@@ -697,7 +697,8 @@ ANXIETY, æ ŋ z ˈaɪ ə t iː
 ANXIOUS(1), ˈæ ŋ ʃ ə s
 ANXIOUS(2), ˈæ ŋ k ʃ ə s
 ANY, ˈɛ n iː
-ANYBODY, ˈɛ n ɪ b ə d iː
+ANYBODY(1), ˈɛ n ɪ b ˌɒ d iː
+ANYBODY(2), ˈɛ n ɪ b ə d iː
 ANYHOW, ˈɛ n ɪ h ˌaʊ
 ANYMORE, ˌɛ n ɪ m ˈɔː
 ANYONE(1), ˈɛ n ɪ w ə n
@@ -4739,7 +4740,7 @@ ELEMENT, ˈɛ l ɪ m ə n t
 ELEMENTARY(1), ˌɛ l ɪ m ˈɛ n t ə ɹ iː
 ELEMENTARY(2), ˌɛ l ɪ m ˈɛ n t ɹ iː
 ELEMENTS, ˈɛ l ɪ m ə n t s
-ELEPHANT, ˈɛ l ə f ə n t
+ELEPHANT, ˈɛ l ɪ f ə n t
 ELEVATE, ˈɛ l ɪ v ˌeɪ t
 ELEVATION, ˌɛ l ə v ˈeɪ ʃ ə n
 ELEVATOR, ˈɛ l ɪ v ˌeɪ t ə
@@ -5237,8 +5238,8 @@ EXPLANATIONS, ˌɛ k s p l ə n ˈeɪ ʃ ə n z
 EXPLICIT, ɪ k s p l ˈɪ s ɪ t
 EXPLICITLY, ɪ k s p l ˈɪ s ɪ t l iː
 EXPLODE, ɪ k s p l ˈəʊ d
-EXPLOIT(1), ˌɛ k s p l ˈɔɪ t
-EXPLOIT(2), ˌɛ k s p l ˈɔɪ t
+EXPLOIT(1), ɪ k s p l ˈɔɪ t
+EXPLOIT(2), ˈɛ k s p l ˌɔɪ t
 EXPLOITATION, ˌɛ k s p l ɔɪ t ˈeɪ ʃ ə n
 EXPLORATION, ˌɛ k s p l ə ɹ ˈeɪ ʃ ə n
 EXPLORE, ɪ k s p l ˈɔː
@@ -6323,8 +6324,9 @@ GRANDE(2), g ɹ ˈæ n d
 GRANDE(3), g ɹ ˈæ n d eɪ
 GRANDFATHER(1), g ɹ ˈæ n f ˌɑː ð ə
 GRANDFATHER(2), g ɹ ˈæ n d f ˌɑː ð ə
-GRANDMA(1), g ɹ ˈæ m ɑː
-GRANDMA(2), g ɹ ˈæ n d m ɑː
+GRANDMA(1), g ɹ ˈæ m m ˌɑː
+GRANDMA(2), g ɹ ˈæ n m ˌɑː
+GRANDMA(3), g ɹ ˈæ n d m ˌɑː
 GRANDMOTHER(1), g ɹ ˈæ n m ˌɐ ð ə
 GRANDMOTHER(2), g ɹ ˈæ n d m ˌɐ ð ə
 GRANDPA(1), g ɹ ˈæ m p ˌɑː
@@ -7189,7 +7191,7 @@ IMPROVEMENT, ɪ m p ɹ ˈuː v m ə n t
 IMPROVEMENTS, ɪ m p ɹ ˈuː v m ə n t s
 IMPROVING, ɪ m p ɹ ˈuː v ɪ ŋ
 IMPULSE, ˈɪ m p ɐ l s
-IMPULSES, ˈɪ m p ɐ l s iː z
+IMPULSES, ˈɪ m p ɐ l s ɪ z
 IMPULSIVE, ɪ m p ˈɐ l s ɪ v
 IN(1), ɪ n
 IN(2), ˈɪ n
@@ -7704,7 +7706,7 @@ JENNIFER, dʒ ˈɛ n ɪ f ə
 JENNY, dʒ ˈɛ n iː
 JEOPARDISE, dʒ ˈɛ p ə d ˌaɪ z
 JEOPARDIZE, dʒ ˈɛ p ə d ˌaɪ z
-JEREMY, dʒ ˈɛ ɹ ə m iː
+JEREMY, dʒ ˈɛ ɹ ɪ m iː
 JERK, dʒ ˈɜː k
 JERRY, dʒ ˈɛ ɹ iː
 JERSEY, dʒ ˈɜː z iː
@@ -8097,7 +8099,7 @@ LAUGHTER, l ˈɑː f t ə
 LAUNCH, l ˈɔː n tʃ
 LAUNCHED, l ˈɔː n tʃ t
 LAUNCHES, l ˈɔː n tʃ ɪ z
-LAUNDRY, l ˈɒ n d ɹ iː
+LAUNDRY, l ˈɔː n d ɹ iː
 LAURA, l ˈɔː ɹ ə
 LAUREN, l ˈɔː ɹ ə n
 LAURENT, l ˈɒ ɹ ə n t
@@ -8498,7 +8500,7 @@ LOUD, l ˈaʊ d
 LOUDER, l ˈaʊ d ə
 LOUDLY, l ˈaʊ d l iː
 LOUGHBOROUGH, l ˈɐ f b ɹ ə
-LOUGHTON, l ˈəʊ t ə n
+LOUGHTON, l ˈaʊ t ə n
 LOUIS, l ˈuː iː
 LOUISE, l uː ˈiː z
 LOUISIANA, l uː ˌiː z ɪ ˈæ n ə
@@ -8858,9 +8860,9 @@ MEASURES, m ˈɛ ʒ ə z
 MEASURING, m ˈɛ ʒ ə ɹ ɪ ŋ
 MEAT, m ˈiː t
 MECCA, m ˈɛ k ə
-MECHANIC, m ə k ˈæ n ɪ k
-MECHANICAL, m ə k ˈæ n ɪ k ə l
-MECHANICS, m ə k ˈæ n ɪ k s
+MECHANIC, m ɪ k ˈæ n ɪ k
+MECHANICAL, m ɪ k ˈæ n ɪ k ə l
+MECHANICS, m ɪ k ˈæ n ɪ k s
 MECHANISM, m ˈɛ k ə n ˌɪ z ə m
 MECHANISMS, m ˈɛ k ə n ˌɪ z ə m z
 MED, m ˈɛ d
@@ -8907,7 +8909,7 @@ MEMO, m ˈɛ m ˌəʊ
 MEMORABILIA, m ˌɛ m ə ɹ ə b ˈiː l ɪə
 MEMORABLE, m ˈɛ m ə ɹ ə b ə l
 MEMORANDUM, m ˌɛ m ə ɹ ˈæ n d ə m
-MEMORIAL, m ə m ˈɒ ɹ ɪə l
+MEMORIAL, m ɪ m ˈɔː ɹ ɪə l
 MEMORIES, m ˈɛ m ə ɹ iː z
 MEMORISE, m ˈɛ m ə ɹ ˌaɪ z
 MEMORIZE, m ˈɛ m ə ɹ ˌaɪ z
@@ -9170,7 +9172,7 @@ MOMENT, m ˈəʊ m ə n t
 MOMENTS, m ˈəʊ m ə n t s
 MOMENTUM(1), m ə m ˈɛ n t ə m
 MOMENTUM(2), m əʊ m ˈɛ n t ə m
-MOMMY, m ˈɐ m iː
+MOMMY, m ˈɒ m iː
 MOMS, m ˈɒ m z
 MONACO, m ˈɒ n ə k ˌəʊ
 MONARCH, m ˈɒ n ə k
@@ -9308,7 +9310,7 @@ MOZAMBIQUE(1), m ˌəʊ z ə m b ˈiː k
 MOZAMBIQUE(2), m ˌəʊ z æ m b ˈiː k
 MOZART(1), m ˈəʊ t s ɑː t
 MOZART(2), m ˈəʊ z ɑː t
-MOZILLA, m ˌɒ z ˈɪ l ə
+MOZILLA, m ˌəʊ z ˈɪ l ə
 MPEG, ˈɛ m p ˌɛ g
 MPEGS, ˈɛ m p ˌɛ g z
 MS, m ˈɪ z
@@ -9902,7 +9904,8 @@ OPENING, ˈəʊ p ə n ɪ ŋ
 OPENINGS, ˈəʊ p ə n ɪ ŋ z
 OPENLY, ˈəʊ p ə n l iː
 OPENS, ˈəʊ p ə n z
-OPERA, ˈɒ p ɹ ə
+OPERA(1), ˈɒ p ɹ ə
+OPERA(2), ˈɒ p ə ɹ ə
 OPERATE, ˈɒ p ə ɹ ˌeɪ t
 OPERATED, ˈɒ p ə ɹ ˌeɪ t ɪ d
 OPERATES, ˈɒ p ə ɹ ˌeɪ t s
@@ -9921,7 +9924,8 @@ OPPORTUNITIES, ˌɒ p ə t j ˈuː n ɪ t iː z
 OPPORTUNITY, ˌɒ p ə t j ˈuː n ɪ t iː
 OPPOSE, ə p ˈəʊ z
 OPPOSED, ə p ˈəʊ z d
-OPPOSITE, ˈɒ p ə z ɪ t
+OPPOSITE(1), ˈɒ p ə z ɪ t
+OPPOSITE(2), ˈɒ p ə s ɪ t
 OPPOSITION, ˌɒ p ə z ˈɪ ʃ ə n
 OPT, ˈɒ p t
 OPTICAL, ˈɒ p t ɪ k ə l
@@ -10404,7 +10408,7 @@ PERFUME(2), p ə f j ˈuː m
 PERHAPS, p ə h ˈæ p s
 PERIL, p ˈɛ ɹ ə l
 PERIOD, p ˈɪə ɹ ɪə d
-PERIODIC, p ˌɪ ɹ ɪ ˈɒ d ɪ k
+PERIODIC, p ˌɪə ɹ ɪ ˈɒ d ɪ k
 PERIODICALLY, p ˌɪə ɹ ɪ ˈɒ d ɪ k ə l iː
 PERIODS, p ˈɪə ɹ ɪə d z
 PERIPHERAL(1), p ə ɹ ˈɪ f ɹ ə l
@@ -11521,7 +11525,7 @@ RAZE, ɹ ˈeɪ z
 RAZOR, ɹ ˈeɪ z ə
 RE(1), ɹ ˈeɪ
 RE(2), ɹ ˈiː
-RE-SIGN, ɹ ɪ s ˈaɪ n
+RE-SIGN, ɹ iː s ˈaɪ n
 RE-SORT, ɹ ˌiː s ˈɔː t
 REACH, ɹ ˈiː tʃ
 REACHED, ɹ ˈiː tʃ t
@@ -11766,8 +11770,8 @@ RELAY(2), ɹ ɪ l ˈeɪ
 RELEASE, ɹ ɪ l ˈiː s
 RELEASED, ɹ ɪ l ˈiː s t
 RELEASES, ɹ ɪ l ˈiː s ɪ z
-RELEVANCE, ɹ ˈɛ l ə v ə n s
-RELEVANT, ɹ ˈɛ l ə v ə n t
+RELEVANCE, ɹ ˈɛ l ɪ v ə n s
+RELEVANT, ɹ ˈɛ l ɪ v ə n t
 RELIABILITY, ɹ ɪ l ˌaɪ ə b ˈɪ l ɪ t iː
 RELIABLE, ɹ ɪ l ˈaɪ ə b ə l
 RELIANCE, ɹ ɪ l ˈaɪ ə n s
@@ -12313,8 +12317,10 @@ SALLY, s ˈæ l iː
 SALMON, s ˈæ m ə n
 SALON, s ə l ˈɒ n
 SALSA, s ˈæ l s ə
-SALT, s ˈɒ l t
-SALTY, s ˈɒ l t iː
+SALT(1), s ˈɒ l t
+SALT(2), s ˈɔː l t
+SALTY(1), s ˈɒ l t iː
+SALTY(2), s ˈɔː l t iː
 SALVADOR, s ˈæ l v ə d ˌɔː
 SALVATION, s ə l v ˈeɪ ʃ ə n
 SAM, s ˈæ m
@@ -12339,12 +12345,10 @@ SANCTIONS(2), s ˈæ ŋ k ʃ ə n z
 SANCTUARY, s ˈæ ŋ k tʃ ʊə ɹ iː
 SAND, s ˈæ n d
 SANDRA, s ˈɑː n d ɹ ə
-SANDWICH(1), s ˈæ m w ɪ tʃ
-SANDWICH(2), s ˈæ n w ɪ tʃ
-SANDWICH(3), s ˈæ n d w ɪ tʃ
-SANDWICHES(1), s ˈæ m w ɪ tʃ ɪ z
-SANDWICHES(2), s ˈæ n w ɪ tʃ ɪ z
-SANDWICHES(3), s ˈæ n d w ɪ tʃ ɪ z
+SANDWICH(1), s ˈæ n w ɪ tʃ
+SANDWICH(2), s ˈæ n w ɪ dʒ
+SANDWICHES(1), s ˈæ n w ɪ tʃ ɪ z
+SANDWICHES(2), s ˈæ n w ɪ dʒ ɪ z
 SANDY, s ˈæ n d iː
 SANE, s ˈeɪ n
 SANG, s ˈæ ŋ
@@ -12947,7 +12951,7 @@ SINGULAR, s ˈɪ ŋ g j ʊ l ə
 SINK, s ˈɪ ŋ k
 SINS, s ˈɪ n z
 SINUS, s ˈaɪ n ə s
-SINUSES, s ˈaɪ n ə s ə s
+SINUSES, s ˈaɪ n ə s ə z
 SIP, s ˈɪ p
 SIR, s ˈɜː
 SIRE, s ˈaɪ ə
