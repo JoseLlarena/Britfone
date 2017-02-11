@@ -416,7 +416,7 @@ ALEXANDER, ˌæ l ɪ g z ˈɑː n d ə
 ALEXANDRIA, ˌæ l ɪ g z ˈɑː n d ɹ ɪə
 ALFRED, ˈæ l f ɹ ɪ d
 ALGAE, ˈæ l g iː
-ALGEBRA, ˈæ l dʒ ə b ɹ ə
+ALGEBRA, ˈæ l dʒ ɪ b ɹ ə
 ALGERIA, æ l dʒ ˈɪə ɹ ɪə
 ALGORITHM, ˈæ l g ə ɹ ˌɪ ð ə m
 ALGORITHMS, ˈæ l g ə ɹ ˌɪ ð ə m z
@@ -741,7 +741,7 @@ APPEARING, ə p ˈɪə ɹ ɪ ŋ
 APPEARS, ə p ˈɪə z
 APPENDICES, ə p ˈɛ n d ɪ s ˌiː z
 APPENDIX, ə p ˈɛ n d ɪ k s
-APPENDIXES, ə p ˈɛ n d ɪ k s iː z
+APPENDIXES, ə p ˈɛ n d ɪ k s ɪ z
 APPETITE, ˈæ p ɪ t ˌaɪ t
 APPLAUSE, ə p l ˈɔː z
 APPLE, ˈæ p ə l
@@ -872,7 +872,8 @@ ARS, ˈɑː z
 ARSE, ˈɑː s
 ARSEHOLE, ˈɑː s h ˌəʊ l
 ARSENAL, ˈɑː s ə n ə l
-ARSENIC, ˈɑː s n ɪ k
+ARSENIC(1), ˈɑː s n ɪ k
+ARSENIC(2), ˈɑː s ə n ɪ k
 ARSON, ˈɑː s ə n
 ART, ˈɑː t
 ARTHRITIS, ɑː θ ɹ ˈaɪ t ɪ s
@@ -1421,8 +1422,8 @@ BENCHMARK, b ˈɛ n tʃ m ˌɑː k
 BEND, b ˈɛ n d
 BENEATH, b ɪ n ˈiː θ
 BENEFICIAL, b ˌɛ n ɪ f ˈɪ ʃ ə l
-BENEFIT, b ˈɛ n ə f ɪ t
-BENEFITS, b ˈɛ n ə f ɪ t s
+BENEFIT, b ˈɛ n ɪ f ɪ t
+BENEFITS, b ˈɛ n ɪ f ɪ t s
 BENIGN, b ɪ n ˈaɪ n
 BENJAMIN, b ˈɛ n dʒ ə m ɪ n
 BENJY, b ˈɛ n dʒ iː
@@ -1719,7 +1720,7 @@ BOTTOMS, b ˈɒ t ə m z
 BOUGH, b ˈaʊ
 BOUGHT, b ˈɔː t
 BOULDER, b ˈəʊ l d ə
-BOULEVARD, b ˈʊ l ə v ˌɑː d
+BOULEVARD, b ˈuː l ə v ˌɑː d
 BOUNCE, b ˈaʊ n s
 BOUNCING, b ˈaʊ n s ɪ ŋ
 BOUND, b ˈaʊ n d
@@ -2783,7 +2784,7 @@ COLLAR, k ˈɒ l ə
 COLLEAGUE, k ˈɒ l iː g
 COLLEAGUES, k ˈɒ l iː g z
 COLLECT, k ə l ˈɛ k t
-COLLECTABLES, k ə l ˈɛ k t ə b ə l z
+COLLECTABLES, k ə l ˈɛ k t ɪ b ə l z
 COLLECTED, k ə l ˈɛ k t ɪ d
 COLLECTIBLE, k ə l ˈɛ k t ə b ə l
 COLLECTIBLES, k ə l ˈɛ k t ə b ə l z
@@ -2900,7 +2901,7 @@ COMPARING, k ə m p ˈɛə ɹ ɪ ŋ
 COMPARISON, k ə m p ˈæ ɹ ɪ s ə n
 COMPARISONS, k ə m p ˈæ ɹ ɪ s ə n z
 COMPASS, k ˈɐ m p ə s
-COMPATIBILITY, k ə m p ˌæ t ə b ˈɪ l ɪ t iː
+COMPATIBILITY, k ə m p ˌæ t ɪ b ˈɪ l ɪ t iː
 COMPATIBLE, k ə m p ˈæ t ɪ b ə l
 COMPEL, k ə m p ˈɛ l
 COMPELLING, k ə m p ˈɛ l ɪ ŋ
@@ -4073,8 +4074,8 @@ DIAGONAL, d aɪ ˈæ g ə n ə l
 DIAGRAM, d ˈaɪ ə g ɹ ˌæ m
 DIAL(1), d ˈaɪ l
 DIAL(2), d ˈaɪ ə l
-DIALECT, d ˈaɪ l ɛ k t
-DIALECTS, d ˈaɪ l ɛ k t s
+DIALECT, d ˈaɪ ə l ɛ k t
+DIALECTS, d ˈaɪ ə l ɛ k t s
 DIALOG, d ˈaɪ ə l ɒ g
 DIALOGUE, d ˈaɪ ə l ˌɒ g
 DIAMETER, d aɪ ˈæ m ɪ t ə
@@ -4603,8 +4604,8 @@ EARS, ˈɪə z
 EARTH, ˈɜː θ
 EARTHQUAKE, ˈɜː θ k w ˌeɪ k
 EASE, ˈiː z
-EASIER, ˈiː z ɪə
-EASIEST, ˈiː z ɪə s t
+EASIER, ˈiː z iː ə
+EASIEST, ˈiː z iː ɪ s t
 EASILY, ˈiː z ɪ l iː
 EAST, ˈiː s t
 EASTBOURNE, ˈiː s t b ˌɔː n
@@ -4744,7 +4745,7 @@ ELEMENTARY(2), ˌɛ l ɪ m ˈɛ n t ɹ iː
 ELEMENTS, ˈɛ l ɪ m ə n t s
 ELEPHANT, ˈɛ l ɪ f ə n t
 ELEVATE, ˈɛ l ɪ v ˌeɪ t
-ELEVATION, ˌɛ l ə v ˈeɪ ʃ ə n
+ELEVATION, ˌɛ l ɪ v ˈeɪ ʃ ə n
 ELEVATOR, ˈɛ l ɪ v ˌeɪ t ə
 ELEVEN, ɪ l ˈɛ v ə n
 ELEVENSES, ɪ l ˈɛ v ə n z ɪ z
@@ -5957,7 +5958,7 @@ FUNDAMENTALLY, f ˌɐ n d ə m ˈɛ n t ə l iː
 FUNDAMENTALS, f ˌɐ n d ə m ˈɛ n t ə l z
 FUNDED, f ˈɐ n d ɪ d
 FUNDING, f ˈɐ n d ɪ ŋ
-FUNDRAISING, f ˈɐ n d ɹ ˌeɪ s ɪ ŋ
+FUNDRAISING, f ˈɐ n d ɹ ˌeɪ z ɪ ŋ
 FUNDS, f ˈɐ n d z
 FUNERAL, f j ˈuː n ə ɹ ə l
 FUNGI, f ˈɐ ŋ g aɪ
@@ -7120,7 +7121,7 @@ IGNORED, ɪ g n ˈɔː d
 IGNORING, ɪ g n ˈɔː ɹ ɪ ŋ
 ILL, ˈɪ l
 ILLEGAL, ɪ l ˈiː g ə l
-ILLEGITIMATE, ɪ l ə dʒ ˈɪ t ɪ m ɪ t
+ILLEGITIMATE, ɪ l ɪ dʒ ˈɪ t ɪ m ɪ t
 ILLICIT, ɪ l ˈɪ s ɪ t
 ILLINOIS, ˌɪ l ɪ n ˈɔɪ
 ILLNESS, ˈɪ l n ɪ s
@@ -7237,8 +7238,8 @@ INCREASED, ɪ n k ɹ ˈiː s t
 INCREASES, ɪ n k ɹ ˈiː s ɪ z
 INCREASING, ɪ n k ɹ ˈiː s ɪ ŋ
 INCREASINGLY, ɪ n k ɹ ˈiː s ɪ ŋ l iː
-INCREDIBLE, ɪ n k ɹ ˈɛ d ə b ə l
-INCREDIBLY, ɪ n k ɹ ˈɛ d ə b l iː
+INCREDIBLE, ɪ n k ɹ ˈɛ d ɪ b ə l
+INCREDIBLY, ɪ n k ɹ ˈɛ d ɪ b l iː
 INCUMBENT, ɪ n k ˈɐ m b ə n t
 INCUR, ɪ n k ˈɜː
 INCURRED, ɪ n k ˈɜː d
@@ -7250,6 +7251,7 @@ INDEPENDENTLY, ˌɪ n d ɪ p ˈɛ n d ə n t l iː
 INDEX, ˈɪ n d ɛ k s
 INDEXED, ˈɪ n d ɛ k s t
 INDEXES, ˈɪ n d ɛ k s ɪ z
+INDICES, ˈɪ n d ɪ k s iː z
 INDIA, ˈɪ n d ɪə
 INDIAN, ˈɪ n d ɪə n
 INDIANA, ˌɪ n d ɪ ˈæ n ə
@@ -7414,7 +7416,7 @@ INSPECTION, ɪ n s p ˈɛ k ʃ ə n
 INSPECTIONS, ɪ n s p ˈɛ k ʃ ə n z
 INSPECTOR, ɪ n s p ˈɛ k t ə
 INSPECTORS, ɪ n s p ˈɛ k t ə z
-INSPIRATION, ˌɪ n s p ə ɹ ˈeɪ ʃ ə n
+INSPIRATION, ˌɪ n s p ɪ ɹ ˈeɪ ʃ ə n
 INSPIRE, ɪ n s p ˈaɪ ə
 INSPIRED, ɪ n s p ˈaɪ ə d
 INSTABILITY, ˌɪ n s t ə b ˈɪ l ɪ t iː
@@ -7445,7 +7447,7 @@ INSTRUMENTAL, ˌɪ n s t ɹ ə m ˈɛ n t ə l
 INSTRUMENTATION, ˌɪ n s t ɹ ə m ɛ n t ˈeɪ ʃ ə n
 INSTRUMENTS, ˈɪ n s t ɹ ə m ə n t s
 INSUFFICIENT, ɪ n s ə f ˈɪ ʃ ə n t
-INSULATION, ˌɪ n s ə l ˈeɪ ʃ ə n
+INSULATION, ˌɪ n s j ʊ l ˈeɪ ʃ ə n
 INSULIN, ˈɪ n s j ʊ l ɪ n
 INSULT(1), ɪ n s ˈɐ l t
 INSULT(2), ˈɪ n s ˌɐ l t
@@ -7564,8 +7566,8 @@ INVEST, ɪ n v ˈɛ s t
 INVESTIGATE, ɪ n v ˈɛ s t ɪ g ˌeɪ t
 INVESTIGATED, ɪ n v ˈɛ s t ɪ g ˌeɪ t ɪ d
 INVESTIGATING, ɪ n v ˈɛ s t ɪ g ˌeɪ t ɪ ŋ
-INVESTIGATION, ɪ n v ə s t ɪ g ˈeɪ ʃ ə n
-INVESTIGATIONS, ɪ n v ə s t ɪ g ˈeɪ ʃ ə n z
+INVESTIGATION, ɪ n v ˌɛ s t ɪ g ˈeɪ ʃ ə n
+INVESTIGATIONS, ɪ n v ˌɛ s t ɪ g ˈeɪ ʃ ə n z
 INVESTIGATOR, ɪ n v ˈɛ s t ɪ g ˌeɪ t ə
 INVESTIGATORS, ɪ n v ˈɛ s t ɪ g ˌeɪ t ə z
 INVESTING, ɪ n v ˈɛ s t ɪ ŋ
@@ -8172,15 +8174,15 @@ LEGACY, l ˈɛ g ə s iː
 LEGAL, l ˈiː g ə l
 LEGALLY, l ˈiː g ə l iː
 LEGEND, l ˈɛ dʒ ə n d
-LEGENDARY, l ˈɛ dʒ ɪ n d ə ɹ iː
+LEGENDARY, l ˈɛ dʒ ə n d ə ɹ iː
 LEGENDS, l ˈɛ dʒ ə n d z
 LEGGINGS, l ˈɛ g ɪ ŋ z
 LEGION, l ˈiː dʒ ə n
 LEGISLATION, l ˌɛ dʒ ɪ s l ˈeɪ ʃ ə n
 LEGISLATIVE, l ˈɛ dʒ ɪ s l ə t ɪ v
 LEGISLATURE, l ˈɛ dʒ ɪ s l ˌeɪ tʃ ə
-LEGITIMACY, l ə dʒ ˈɪ t ɪ m ə s iː
-LEGITIMATE, l ə dʒ ˈɪ t ɪ m ɪ t
+LEGITIMACY, l ɪ dʒ ˈɪ t ɪ m ə s iː
+LEGITIMATE, l ɪ dʒ ˈɪ t ɪ m ɪ t
 LEGO, l ˈɛ g əʊ
 LEGS, l ˈɛ g z
 LEICESTER, l ˈɛ s t ə
@@ -8804,7 +8806,7 @@ MATHS, m ˈæ θ s
 MATING, m ˈeɪ t ɪ ŋ
 MATRICES, m ˈeɪ t ɹ ɪ s ˌiː z
 MATRIX, m ˈeɪ t ɹ ɪ k s
-MATRIXES, m ˈeɪ t ɹ ɪ k s iː z
+MATRIXES, m ˈeɪ t ɹ ɪ k s ɪ z
 MATRON, m ˈeɪ t ɹ ə n
 MATS, m ˈæ t s
 MATT, m ˈæ t
@@ -9473,7 +9475,7 @@ NECESSARILY, n ˌɛ s ə s ˈɛ ɹ ɪ l iː
 NECESSARY, n ˈɛ s ə s ə ɹ iː
 NECESSITY, n ɪ s ˈɛ s ɪ t iː
 NECK, n ˈɛ k
-NECKLACE, n ˈɛ k l ə s
+NECKLACE, n ˈɛ k l ɪ s
 NEE, n ˈeɪ
 NEED, n ˈiː d
 NEEDED, n ˈiː d ɪ d
@@ -10445,7 +10447,7 @@ PERSONNEL, p ˌɜː s ə n ˈɛ l
 PERSONS, p ˈɜː s ə n z
 PERSPECTIVE, p ə s p ˈɛ k t ɪ v
 PERSPECTIVES, p ə s p ˈɛ k t ɪ v z
-PERSPIRATION, p ˌɜː s p ə ɹ ˈeɪ ʃ ə n
+PERSPIRATION, p ˌɜː s p ɪ ɹ ˈeɪ ʃ ə n
 PERSPIRE, p ə s p ˈaɪ ə
 PERSUADE, p ə s w ˈeɪ d
 PERSUADED, p ə s w ˈeɪ d ɪ d
@@ -10924,7 +10926,7 @@ PREACH, p ɹ ˈiː tʃ
 PRECAUTION, p ɹ ɪ k ˈɔː ʃ ə n
 PRECEDE, p ɹ ɪ s ˈiː d
 PRECEDED, p ɹ ɪ s ˈiː d ɪ d
-PRECEDENT, p ɹ ˈɛ s ə d ə n t
+PRECEDENT, p ɹ ˈɛ s ɪ d ə n t
 PRECEDING, p ɹ ɪ s ˈiː d ɪ ŋ
 PRECIOUS, p ɹ ˈɛ ʃ ə s
 PRECIPITATE(1), p ɹ ɪ s ˈɪ p ɪ t ˌeɪ t
@@ -11869,7 +11871,7 @@ REPORTING, ɹ ɪ p ˈɔː t ɪ ŋ
 REPORTS, ɹ ɪ p ˈɔː t s
 REPOSITORY, ɹ ɪ p ˈɒ z ɪ t ə ɹ iː
 REPRESENT, ɹ ˌɛ p ɹ ɪ z ˈɛ n t
-REPRESENTATION, ɹ ˌɛ p ɹ ə z ɛ n t ˈeɪ ʃ ə n
+REPRESENTATION, ɹ ˌɛ p ɹ ɪ z ɛ n t ˈeɪ ʃ ə n
 REPRESENTATIONS, ɹ ˌɛ p ɹ ɪ z ɛ n t ˈeɪ ʃ ə n z
 REPRESENTATIVE, ɹ ˌɛ p ɹ ɪ z ˈɛ n t ə t ɪ v
 REPRESENTATIVES, ɹ ˌɛ p ɹ ɪ z ˈɛ n t ə t ɪ v z
@@ -11939,7 +11941,8 @@ RESORTS, ɹ ɪ z ˈɔː t s
 RESOURCE(1), ɹ ɪ s ˈɔː s
 RESOURCE(2), ɹ ɪ z ˈɔː s
 RESOURCE(3), ɹ ˈiː s ɔː s
-RESOURCES, ɹ ɪ s ˈɔː s ɪ z
+RESOURCES(1), ɹ ɪ s ˈɔː s ɪ z
+RESOURCES(2), ɹ ɪ z ˈɔː s ɪ z
 RESPECT, ɹ ɪ s p ˈɛ k t
 RESPECTABLE, ɹ ɪ s p ˈɛ k t ə b ə l
 RESPECTED, ɹ ɪ s p ˈɛ k t ɪ d
@@ -12545,8 +12548,8 @@ SECONDS(1), s ˈɛ k ə n d z
 SECONDS(2), s ɪ k ˈɒ n d z
 SECRET, s ˈiː k ɹ ɪ t
 SECRETARIAT, s ˌɛ k ɹ ɪ t ˈɛə ɹ ɪə t
-SECRETARIES, s ˈɛ k ɹ ə t ə ɹ iː z
-SECRETARY, s ˈɛ k ɹ ə t ə ɹ iː
+SECRETARIES, s ˈɛ k ɹ ɪ t ə ɹ iː z
+SECRETARY, s ˈɛ k ɹ ɪ t ə ɹ iː
 SECRETE, s ɪ k ɹ ˈiː t
 SECRETION, s ɪ k ɹ ˈiː ʃ ə n
 SECRETS, s ˈiː k ɹ ɪ t s
@@ -12589,12 +12592,12 @@ SEIZE, s ˈiː z
 SEIZURE, s ˈiː ʒ ə
 SELBY, s ˈɛ l b iː
 SELDOM, s ˈɛ l d ə m
-SELECT, s ə l ˈɛ k t
-SELECTED, s ə l ˈɛ k t ɪ d
-SELECTING, s ə l ˈɛ k t ɪ ŋ
+SELECT, s ɪ l ˈɛ k t
+SELECTED, s ɪ l ˈɛ k t ɪ d
+SELECTING, s ɪ l ˈɛ k t ɪ ŋ
 SELECTION, s ɪ l ˈɛ k ʃ ə n
-SELECTIONS, s ə l ˈɛ k ʃ ə n z
-SELECTIVE, s ə l ˈɛ k t ɪ v
+SELECTIONS, s ɪ l ˈɛ k ʃ ə n z
+SELECTIVE, s ɪ l ˈɛ k t ɪ v
 SELF, s ˈɛ l f
 SELFISH, s ˈɛ l f ɪ ʃ
 SELL, s ˈɛ l
@@ -13273,7 +13276,7 @@ SOUTHWEST, s ˌaʊ θ w ˈɛ s t
 SOUVENIR(1), s ˈuː v ə n ˌɪə
 SOUVENIR(2), s ˌuː v ə n ˈɪə
 SOVEREIGN, s ˈɒ v ɹ ɪ n
-SOVEREIGNTY, s ˈɒ v ɹ ə n t iː
+SOVEREIGNTY, s ˈɒ v ɹ ɪ n t iː
 SOVIET, s ˈəʊ v ɪə t
 SOW(1), s ˈəʊ
 SOW(2), s ˈaʊ
@@ -13869,7 +13872,7 @@ SUPERVISORS, s ˈuː p ə v ˌaɪ z ə z
 SUPPER, s ˈɐ p ə
 SUPPLEMENT(1), s ˈɐ p l ɪ m ə n t
 SUPPLEMENT(2), s ɐ p l ɪ m ˈɛ n t
-SUPPLEMENTAL, s ˌɐ p l ə m ˈɛ n t ə l
+SUPPLEMENTAL, s ˌɐ p l ɪ m ˈɛ n t ə l
 SUPPLEMENTS(1), s ˈɐ p l ɪ m ə n t s
 SUPPLEMENTS(2), s ɐ p l ɪ m ˈɛ n t s
 SUPPLIED, s ə p l ˈaɪ d
@@ -13895,7 +13898,7 @@ SURE, ʃ ˈɔː
 SURELY, ʃ ˈɔː l iː
 SURF, s ˈɜː f
 SURFACE, s ˈɜː f ɪ s
-SURFACES, s ˈɜː f ə s ɪ z
+SURFACES, s ˈɜː f ɪ s ɪ z
 SURFING, s ˈɜː f ɪ ŋ
 SURGE, s ˈɜː dʒ
 SURGEON, s ˈɜː dʒ ə n
@@ -14903,7 +14906,7 @@ UM(2), ɐ m
 UMBRELLA, ɐ m b ɹ ˈɛ l ə
 UN-PARENTHESES, ɐ n p ə ɹ ˈɛ n θ ə s ˌiː z
 UNABLE, ɐ n ˈeɪ b ə l
-UNACCEPTABLE, ˌɐ n æ k s ˈɛ p t ə b ə l
+UNACCEPTABLE, ˌɐ n ə k s ˈɛ p t ə b ə l
 UNADORNED, ɐ n ə d ˈɔː n d
 UNANIMOUS, j uː n ˈæ n ɪ m ə s
 UNAUTHORIZED, ɐ n ˈɔː θ ə ɹ ˌaɪ z d
