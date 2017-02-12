@@ -1903,6 +1903,7 @@ BUCK, b ˈɐ k
 BUCKET, b ˈɐ k ɪ t
 BUCKINGHAM, b ˈɐ k ɪ ŋ ə m
 BUCKINGHAMSHIRE, b ˈɐ k ɪ ŋ ə m ʃ ə
+BUCKLE, b ˈɐ k ə l
 BUCKLEY, b ˈɐ k l iː
 BUCKS, b ˈɐ k s
 BUD, b ˈɐ d
@@ -1985,6 +1986,7 @@ BURP, b ˈɜː p
 BURST, b ˈɜː s t
 BURT, b ˈɜː t
 BURTON, b ˈɜː t ə n
+BURUNDI, b ʊ ɹ ˈʊ n d iː
 BURY, b ˈɛ ɹ iː
 BUS, b ˈɐ s
 BUSES, b ˈɐ s ɪ z
@@ -6042,6 +6044,8 @@ GARDENS, g ˈɑː d ə n z
 GARETH, g ˈæ ɹ ɪ θ
 GARLIC, g ˈɑː l ɪ k
 GARMENT, g ˈɑː m ə n t
+GARNER, g ˈɑː n ə
+GARNET, g ˈɑː n ɪ t
 GARY, g ˈæ ɹ iː
 GAS, g ˈæ s
 GASES, g ˈæ s ɪ z
@@ -7141,6 +7145,7 @@ ILLUSTRATES, ˈɪ l ə s t ɹ ˌeɪ t s
 ILLUSTRATION, ˌɪ l ə s t ɹ ˈeɪ ʃ ə n
 ILLUSTRATIONS, ˌɪ l ə s t ɹ ˈeɪ ʃ ə n z
 IMAGE, ˈɪ m ɪ dʒ
+IMAGERY, ˈɪ m ɪ dʒ ɹ iː
 IMAGES, ˈɪ m ɪ dʒ ɪ z
 IMAGINARY, ɪ m ˈæ dʒ ɪ n ə ɹ iː
 IMAGINATION, ɪ m ˌæ dʒ ɪ n ˈeɪ ʃ ə n
@@ -7214,6 +7219,8 @@ INAPPROPRIATE, ˌɪ n ə p ɹ ˈəʊ p ɹ ɪə t
 INBOX, ˈɪ n b ˌɒ k s
 INC, ˈɪ ŋ k
 INCAPABLE, ɪ n k ˈeɪ p ə b ə l
+INCARNATE(1), ɪ n k ˈɑː n eɪ t
+INCARNATE(2), ɪ n k ˈɑː n ɪ t
 INCENTIVE, ɪ n s ˈɛ n t ɪ v
 INCENTIVES, ɪ n s ˈɛ n t ɪ v z
 INCEST, ˈɪ n s ˌɛ s t
@@ -7800,6 +7807,7 @@ JUDGES, dʒ ˈɐ dʒ ɪ z
 JUDGING, dʒ ˈɐ dʒ ɪ ŋ
 JUDGMENT, dʒ ˈɐ dʒ m ə n t
 JUDICIAL, dʒ uː d ˈɪ ʃ ə l
+JUDICIARY, dʒ uː d ˈɪ ʃ ə ɹ iː
 JUDITH, dʒ ˈuː d ɪ θ
 JUDO, dʒ ˈuː d əʊ
 JUDY, dʒ ˈuː d iː
@@ -8225,6 +8233,7 @@ LESBIAN, l ˈɛ z b ɪə n
 LESBIANS, l ˈɛ z b ɪə n z
 LESLEY, l ˈɛ z l iː
 LESLIE, l ˈɛ z l iː
+LESOTHO, l ɪ s ˈuː t ʊ
 LESS, l ˈɛ s
 LESSEN, l ˈɛ s ə n
 LESSER, l ˈɛ s ə
@@ -8954,6 +8963,7 @@ MERRILY, m ˈɛ ɹ ɪ l iː
 MERRY, m ˈɛ ɹ iː
 MERSEYSIDE, m ˈɜː z ɪ s ˌaɪ d
 MERTON, m ˈɜː t ə n
+MESA, m ˈeɪ s ə
 MESH, m ˈɛ ʃ
 MESS, m ˈɛ s
 MESSAGE, m ˈɛ s ɪ dʒ
@@ -9393,6 +9403,7 @@ MY, m ˈaɪ
 MYANMAR(1), m j ˈæ n m ɑː
 MYANMAR(2), m ˈaɪ æ n m ɑː
 MYERS, m ˈaɪ ə z
+MYRTLE, m ˈɜː t ə l
 MYSELF, m ˌaɪ s ˈɛ l f
 MYSTERIOUS, m ɪ s t ˈɪə ɹ ɪə s
 MYSTERY, m ˈɪ s t ə ɹ iː
@@ -9549,6 +9560,8 @@ NEWCOMER, n j ˈuː k ˌɐ m ə
 NEWCOMERS, n j ˈuː k ˌɐ m ə z
 NEWER, n j ˈuː ə
 NEWEST, n j ˈuː ɪ s t
+NEWFOUNDLAND(1), n j uː f ˈaʊ n d l ə n d
+NEWFOUNDLAND(2), n j ˈuː f ə n d l ə n d
 NEWHAM, n j ˈuː ə m
 NEWLY, n j ˈuː l iː
 NEWPORT, n j ˈuː p ˌɔː t
@@ -10293,6 +10306,8 @@ PATIENTS, p ˈeɪ ʃ ə n t s
 PATIO, p ˈæ t ɪ ˌəʊ
 PATRICIA, p ə t ɹ ˈɪ ʃ ə
 PATRICK, p ˈæ t ɹ ɪ k
+PATRIOT(1), p ˈeɪ t ɹ ɪə t
+PATRIOT(2), p ˈæ t ɹ ɪə t
 PATROL, p ə t ɹ ˈəʊ l
 PATRON, p ˈeɪ t ɹ ə n
 PATRONAGE(1), p ˈæ t ɹ ə n ɪ dʒ
@@ -11027,6 +11042,7 @@ PREVENT, p ɹ ɪ v ˈɛ n t
 PREVENTED, p ɹ ɪ v ˈɛ n t ɪ d
 PREVENTING, p ɹ ɪ v ˈɛ n t ɪ ŋ
 PREVENTION, p ɹ ɪ v ˈɛ n ʃ ə n
+PREVENTS, p ɹ ɪ v ˈɛ n t s
 PREVIEW, p ɹ ˈiː v j ˌuː
 PREVIEWS, p ɹ ˈiː v j ˌuː z
 PREVIOUS, p ɹ ˈiː v ɪə s
@@ -11380,6 +11396,7 @@ QUARTER(1), k w ˈɔː t ə
 QUARTER(2), k ˈɔː t ə
 QUARTERLY, k w ˈɔː t ə l iː
 QUARTERS, k w ˈɔː t ə z
+QUARTZ, k w ˈɔː t s
 QUASH, k w ˈɒ ʃ
 QUAY, k ˈiː
 QUEBEC, k w ɪ b ˈɛ k
@@ -12002,6 +12019,7 @@ RESUMES(2), ɹ ˈɛ z ə m ˌeɪ z
 RETAIL, ɹ ˈiː t ˌeɪ l
 RETAILER, ɹ ˈiː t ˌeɪ l ə
 RETAILERS, ɹ ˈiː t ˌeɪ l ə z
+RETAILING, ɹ ˈiː t ˌeɪ l ɪ ŋ
 RETAIN, ɹ ɪ t ˈeɪ n
 RETAINED, ɹ ɪ t ˈeɪ n d
 RETCH, ɹ ˈɛ tʃ
@@ -12708,6 +12726,7 @@ SEVERAL(1), s ˈɛ v ɹ ə l
 SEVERAL(2), s ˈɛ v ə ɹ ə l
 SEVERE, s ə v ˈɪə
 SEVERELY, s ə v ˈɪə l iː
+SEVERITY, s ə v ˈɛ ɹ ɪ t iː
 SEW, s ˈəʊ
 SEWED, s ˈəʊ d
 SEWER, s ˈuː ə
@@ -13743,6 +13762,7 @@ STUNK, s t ˈɐ ŋ k
 STUNNING, s t ˈɐ n ɪ ŋ
 STUNT, s t ˈɐ n t
 STUPID, s t j ˈuː p ɪ d
+STURDY, s t ˈɜː d iː
 STYLE, s t ˈaɪ l
 STYLES, s t ˈaɪ l z
 STYLISH, s t ˈaɪ l ɪ ʃ
@@ -14449,6 +14469,7 @@ TIE, t ˈaɪ
 TIED, t ˈaɪ d
 TIER, t ˈɪə
 TIES, t ˈaɪ z
+TIFFANY, t ˈɪ f ə n iː
 TIGER, t ˈaɪ g ə
 TIGERS, t ˈaɪ g ə z
 TIGHT, t ˈaɪ t
@@ -14618,6 +14639,8 @@ TOYS, t ˈɔɪ z
 TRACE, t ɹ ˈeɪ s
 TRACEY, t ɹ ˈeɪ s iː
 TRACK, t ɹ ˈæ k
+TRACKBACK, t ɹ ˈæ k b ˈæ k
+TRACKBACKS, t ɹ ˈæ k b ˈæ k s
 TRACKED, t ɹ ˈæ k t
 TRACKER, t ɹ ˈæ k ə
 TRACKING, t ɹ ˈæ k ɪ ŋ
@@ -14721,6 +14744,7 @@ TRAVIS, t ɹ ˈæ v ɪ s
 TRAWL, t ɹ ˈɔː l
 TRAY, t ɹ ˈeɪ
 TRAYS, t ɹ ˈeɪ z
+TREACLE, t ɹ ˈiː k ə l
 TREAD, t ɹ ˈɛ d
 TREASURE, t ɹ ˈɛ ʒ ə
 TREASURER, t ɹ ˈɛ ʒ ə ɹ ə
@@ -14756,10 +14780,12 @@ TRIBUNAL(2), t ɹ ɪ b j ˈuː n ə l
 TRIBUNE, t ɹ ˈɪ b j uː n
 TRIBUTE, t ɹ ˈɪ b j uː t
 TRICK, t ɹ ˈɪ k
+TRICKLE, s t ɹ ˈɪ k ə l
 TRICKS, t ɹ ˈɪ k s
 TRICKY, t ɹ ˈɪ k iː
 TRIED, t ɹ ˈaɪ d
 TRIES, t ɹ ˈaɪ z
+TRIFLE, t ɹ ˈaɪ f ə l
 TRIGGER, t ɹ ˈɪ g ə
 TRILL, t ɹ ˈɪ l
 TRIM, t ɹ ˈɪ m
@@ -14774,6 +14800,7 @@ TRIPS, t ɹ ˈɪ p s
 TRISH, t ɹ ˈɪ ʃ
 TRITE, t ɹ ˈaɪ t
 TRIUMPH, t ɹ ˈaɪ ə m f
+TRIVIA, t ɹ ˈɪ v ɪə
 TRIVIAL, t ɹ ˈɪ v ɪə l
 TROD, t ɹ ˈɒ d
 TRODDEN, t ɹ ˈɒ d ə n
