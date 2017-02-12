@@ -1578,6 +1578,7 @@ BLESSING, b l ˈɛ s ɪ ŋ
 BLEW, b l ˈuː
 BLIGHT, b l ˈaɪ t
 BLIMEY, b l ˈaɪ m iː
+BLIMP, b l ˈɪ m p
 BLIND, b l ˈaɪ n d
 BLINK, b l ˈɪ ŋ k
 BLINKING, b l ˈɪ ŋ k ɪ ŋ
@@ -1991,8 +1992,9 @@ BUSH, b ˈʊ ʃ
 BUSHES, b ˈʊ ʃ ɪ z
 BUSINESS, b ˈɪ z n ɪ s
 BUSINESSES, b ˈɪ z n ɪ s ɪ z
-BUSINESSMAN, b ˈɪ z n ɪ s m ˌæ n
-BUSINESSMEN, b ˈɪ z n ɪ s m ˌɛ n
+BUSINESSMAN(1), b ˈɪ z n ɪ s m ˌæ n
+BUSINESSMAN(2), b ˈɪ z n ɪ s m ə n
+BUSINESSMEN, b ˈɪ z n ɪ s m ə n
 BUSK, b ˈɐ s k
 BUST, b ˈɐ s t
 BUSTED, b ˈɐ s t ɪ d
@@ -2928,7 +2930,7 @@ COMPLAINING, k ə m p l ˈeɪ n ɪ ŋ
 COMPLAINT, k ə m p l ˈeɪ n t
 COMPLAINTS, k ə m p l ˈeɪ n t s
 COMPLEMENT, k ˈɒ m p l ɪ m ə n t
-COMPLEMENTARY, k ˌɒ m p l ɪ m ˈɛ n t ɹ iː
+COMPLEMENTARY, k ˌɒ m p l ɪ m ˈɛ n t ə ɹ iː
 COMPLETE, k ə m p l ˈiː t
 COMPLETED, k ə m p l ˈiː t ɪ d
 COMPLETELY, k ə m p l ˈiː t l iː
@@ -4234,7 +4236,8 @@ DISCOVERY(1), d ɪ s k ˈɐ v ɹ iː
 DISCOVERY(2), d ɪ s k ˈɐ v ə ɹ iː
 DISCRETE, d ɪ s k ɹ ˈiː t
 DISCRETION, d ɪ s k ɹ ˈɛ ʃ ə n
-DISCRIMINATE, d ɪ s k ɹ ˈɪ m ɪ n ˌeɪ t
+DISCRIMINATE(1), d ɪ s k ɹ ˈɪ m ɪ n ˌeɪ t
+DISCRIMINATE(2), d ɪ s k ɹ ˈɪ m ɪ n ɪ t
 DISCRIMINATION, d ɪ s k ɹ ˌɪ m ɪ n ˈeɪ ʃ ə n
 DISCS, d ˈɪ s k s
 DISCUSS, d ɪ s k ˈɐ s
@@ -4347,11 +4350,13 @@ DOCTOR, d ˈɒ k t ə
 DOCTORAL, d ˈɒ k t ə ɹ ə l
 DOCTORS, d ˈɒ k t ə z
 DOCTRINE, d ˈɒ k t ɹ ɪ n
-DOCUMENT, d ˈɒ k j ʊ m ɛ n t
+DOCUMENT(1), d ˈɒ k j ʊ m ɛ n t
+DOCUMENT(2), d ˈɒ k j ʊ m ə n t
 DOCUMENTARY, d ˌɒ k j ʊ m ˈɛ n t ə ɹ iː
 DOCUMENTATION, d ˌɒ k j ʊ m ɛ n t ˈeɪ ʃ ə n
 DOCUMENTED, d ˈɒ k j ʊ m ˌɛ n t ɪ d
-DOCUMENTS, d ˈɒ k j ʊ m ə n t s
+DOCUMENTS(1), d ˈɒ k j ʊ m ɛ n t s
+DOCUMENTS(2), d ˈɒ k j ʊ m ə n t s
 DODGE, d ˈɒ dʒ
 DODGY, d ˈɒ dʒ iː
 DODO, d ˈəʊ d əʊ
@@ -4895,7 +4900,8 @@ ENGAGE(2), ɛ n g ˈeɪ dʒ
 ENGAGED(1), ɪ n g ˈeɪ dʒ d
 ENGAGED(2), ɛ n g ˈeɪ dʒ d
 ENGAGEMENT, ɪ n g ˈeɪ dʒ m ə n t
-ENGAGING, ɛ n g ˈeɪ dʒ ɪ ŋ
+ENGAGING(1), ɛ n g ˈeɪ dʒ ɪ ŋ
+ENGAGING(2), ɪ n g ˈeɪ dʒ ɪ ŋ
 ENGINE, ˈɛ n dʒ ɪ n
 ENGINEER, ˌɛ n dʒ ɪ n ˈɪə
 ENGINEERING, ˌɛ n dʒ ɪ n ˈɪə ɹ ɪ ŋ
@@ -5285,8 +5291,10 @@ EXTRACTION, ɛ k s t ɹ ˈæ k ʃ ə n
 EXTRAORDINARY(1), ɪ k s t ɹ ˈɔː d ɪ n ə ɹ iː
 EXTRAORDINARY(2), ˌɛ k s t ɹ ə ˈɔː d ɪ n ə ɹ iː
 EXTRAS, ˈɛ k s t ɹ ə z
-EXTREME, ɛ k s t ɹ ˈiː m
-EXTREMELY, ɛ k s t ɹ ˈiː m l iː
+EXTREME(1), ɪ k s t ɹ ˈiː m
+EXTREME(2), ɛ k s t ɹ ˈiː m
+EXTREMELY(1), ɪ k s t ɹ ˈiː m l iː
+EXTREMELY(2), ɛ k s t ɹ ˈiː m l iː
 EXUDE, ɪ g z j ˈuː d
 EYE, ˈaɪ
 EYEBROW, ˈaɪ b ɹ ˌaʊ
@@ -7489,7 +7497,7 @@ INTERESTED(1), ˈɪ n t ɹ ɪ s t ɪ d
 INTERESTED(2), ˈɪ n t ə ɹ ɪ s t ɪ d
 INTERESTING(1), ˈɪ n t ɹ ɪ s t ɪ ŋ
 INTERESTING(2), ˈɪ n t ə ɹ ɪ s t ɪ ŋ
-INTERESTINGLY, ˈɪ n t ɹ ə s t ɪ ŋ l iː
+INTERESTINGLY, ˈɪ n t ɹ ɪ s t ɪ ŋ l iː
 INTERESTS(1), ˈɪ n t ɹ ɪ s t s
 INTERESTS(2), ˈɪ n t ə ɹ ɪ s t s
 INTERFACE, ˈɪ n t ə f ˌeɪ s
@@ -11142,7 +11150,7 @@ PROGRESS(1), p ɹ ˈəʊ g ɹ ˌɛ s
 PROGRESS(2), p ɹ ə g ɹ ˈɛ s
 PROGRESSION, p ɹ ə g ɹ ˈɛ ʃ ə n
 PROGRESSIVE, p ɹ ə g ɹ ˈɛ s ɪ v
-PROGRESSIVELY, p ɹ ɒ g ɹ ˈɛ s ɪ v l iː
+PROGRESSIVELY, p ɹ ə g ɹ ˈɛ s ɪ v l iː
 PROHIBIT, p ɹ əʊ h ˈɪ b ɪ t
 PROHIBITED, p ɹ əʊ h ˈɪ b ɪ t ɪ d
 PROJECT(1), p ɹ ˈɒ dʒ ɛ k t
@@ -11904,8 +11912,10 @@ REQUIRING, ɹ ɪ k w ˈaɪ ə ɹ ɪ ŋ
 RESCUE, ɹ ˈɛ s k j uː
 RESEARCH(1), ɹ ɪ s ˈɜː tʃ
 RESEARCH(2), ɹ ˈiː s ɜː tʃ
-RESEARCHER, ɹ ɪ s ˈɜː tʃ ə
-RESEARCHERS, ɹ ˈiː s ɜː tʃ ə z
+RESEARCHER(1), ɹ ɪ s ˈɜː tʃ ə
+RESEARCHER(2), ɹ ˈiː s ɜː t ə
+RESEARCHERS(1), ɹ ɪ s ˈɜː tʃ ə z
+RESEARCHERS(2), ɹ ˈiː s ɜː t ə z
 RESELLER, ɹ iː s ˈɛ l ə
 RESEMBLE, ɹ ɪ z ˈɛ m b ə l
 RESENT, ɹ ɪ z ˈɛ n t
@@ -13329,9 +13339,8 @@ SPECIALS, s p ˈɛ ʃ ə l z
 SPECIALTIES, s p ˈɛ ʃ ə l t iː z
 SPECIALTY, s p ˈɛ ʃ ə l t iː
 SPECIES, s p ˈiː ʃ iː z
-SPECIFIC(1), s p ə s ˈɪ f ɪ k
-SPECIFIC(2), s p ɪ s ˈɪ f ɪ k
-SPECIFICALLY, s p ə s ˈɪ f ɪ k l iː
+SPECIFIC, s p ɪ s ˈɪ f ɪ k
+SPECIFICALLY, s p ɪ s ˈɪ f ɪ k l iː
 SPECIFICATION, s p ˌɛ s ɪ f ɪ k ˈeɪ ʃ ə n
 SPECIFICATIONS, s p ˌɛ s ɪ f ɪ k ˈeɪ ʃ ə n z
 SPECIFICS, s p ɪ s ˈɪ f ɪ k s
@@ -14583,8 +14592,10 @@ TOURING, t ˈʊə ɹ ɪ ŋ
 TOURISM, t ˈʊə ɹ ˌɪ z ə m
 TOURIST, t ˈʊə ɹ ɪ s t
 TOURISTS, t ˈʊə ɹ ɪ s t s
-TOURNAMENT, t ˈɔː n ə m ə n t
-TOURNAMENTS, t ˈɜː n ə m ə n t s
+TOURNAMENT(1), t ˈɔː n ə m ə n t
+TOURNAMENT(2), t ˈʊə n ə m ə n t
+TOURNAMENTS(1), t ˈɔː n ə m ə n t s
+TOURNAMENTS(2), t ˈʊə n ə m ə n t s
 TOURS, t ˈʊə z
 TOUT, t ˈaʊ t
 TOW, t ˈəʊ
@@ -15287,7 +15298,6 @@ VIRTUALLY, v ˈɜː tʃ ʊə l iː
 VIRTUE, v ˈɜː tʃ uː
 VIRUS, v ˈaɪ ɹ ə s
 VIRUSES, v ˈaɪ ɹ ə s ɪ z
-VIS, v ˈɪ s
 VISA, v ˈiː z ə
 VISCERAL, v ˈɪ s ə ɹ ə l
 VISIBILITY, v ˌɪ z ɪ b ˈɪ l ɪ t iː
