@@ -13,8 +13,8 @@ British English (RP/Standard Southern British ) pronunciation dictionary:
 * all UK counties
 * all London boroughs
 * all major UK towns
-* most common irregular plurals
-* most common irregular verbs
+* all common irregular plurals
+* all common irregular verbs
 
 ## Format
 
@@ -60,15 +60,15 @@ they have traditionally been used in many dictionaries and the language learning
   - /ɜː/ instead of traditional /əː/
 
 * **unstressed vowels as /ə/ and /ɪ/**: due to the diversity of the sources for phonetic transcription, there's some inconsistency in how [weak vowels](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Weak-vowel_merger)
- are transcribed; however in most cases /ɪ/ is used, following the Collins Dictionary.
+ are transcribed, though in most cases /ɪ/ is used, following the Collins Dictionary.
 
 * **final _i_**: final unstressed _i's_ are given the "long i" /iː/ phoneme to reflect [happy-tensing](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Happy-tensing). However
 most dictionaries show either a tense but [short /i/](https://en.wikipedia.org/wiki/English_phonology), different from both /iː/ and /ɪ/, or the short tense /ɪ/. The plan is to represent this sound separately as /i/ in the next version of Britfone.
-Additionally, there's some inconsistency in the transcription as happy-tensing is preserved in inflected variants (study-studied) but this is not reflected as of yet.
+Additionally, there's some inconsistency in the transcription as happy-tensing is preserved in inflected variants in spoken English (e.g., _studied_ derives it from _study_, and it contrasts with _studded_) yet this is not always reflected in the dictionary.
 
 * **secondary stress**: secondary stress is not always marked (the primary always is).
 
-* **stems and inflections**: not all inflected words (noun, verbs, adjectives and adverbs) have all their inflected variants, and not all variants show all of the alternative pronunciations. The possessive form _-'s_
+* **stems and inflections**: not all inflected open-class words (noun, verbs, adjectives and adverbs) have all their inflected variants, and not all variants show all of the alternative pronunciations. The possessive form _-'s_
 of nouns is not included, and neither is the superlative form of most adjectives and adverbs.
 
 * **acronyms vs initialisms**: The expansions dictionary only contains _acronyms_, i.e., words that are _not_ pronounced by spelling
