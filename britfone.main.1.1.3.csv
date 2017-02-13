@@ -830,6 +830,7 @@ ARGYLL, ɑː g ˈaɪ l
 ARIA, ˈɑː ɹ ɪə
 ARID, ˈæ ɹ ɪ d
 ARISE, ə ɹ ˈaɪ z
+ARISEN, ə ɹ ˈɪ z ə n
 ARISES, ə ɹ ˈaɪ z ɪ z
 ARISING, ə ɹ ˈaɪ z ɪ ŋ
 ARITHMETIC(1), ə ɹ ˈɪ θ m ə t ɪ k
@@ -2351,6 +2352,7 @@ CHAIN, tʃ ˈeɪ n
 CHAINS, tʃ ˈeɪ n z
 CHAIR, tʃ ˈɛə
 CHAIRMAN, tʃ ˈɛə m ə n
+CHAIRMEN, tʃ ˈɛə m ə n
 CHAIRS, tʃ ˈɛə z
 CHALK, tʃ ˈɔː k
 CHALLENGE, tʃ ˈæ l ɪ n dʒ
@@ -3351,6 +3353,7 @@ CORNWALL, k ˈɔː n w ɔː l
 CORONARY, k ˈɒ ɹ ə n ə ɹ iː
 CORONATION, k ˌɒ ɹ ə n ˈeɪ ʃ ə n
 CORP, k ˈɔː p
+CORPORA, k ˈɔː p ə ɹ ə
 CORPORAL(1), k ˈɔː p ə ɹ ə l
 CORPORAL(2), k ˈɔː p ɹ ə l
 CORPORATE(1), k ˈɔː p ɹ ɪ t
@@ -3646,6 +3649,7 @@ CURRENCIES, k ˈɐ ɹ ə n s iː z
 CURRENCY, k ˈɐ ɹ ə n s iː
 CURRENT, k ˈɐ ɹ ə n t
 CURRENTLY, k ˈɐ ɹ ə n t l iː
+CURRICULA, k ə ɹ ˈɪ k j ʊ l ə
 CURRICULUM, k ə ɹ ˈɪ k j ʊ l ə m
 CURRY, k ˈɐ ɹ iː
 CURSE, k ˈɜː s
@@ -3743,6 +3747,7 @@ DATE, d ˈeɪ t
 DATED, d ˈeɪ t ɪ d
 DATES, d ˈeɪ t s
 DATING, d ˈeɪ t ɪ ŋ
+DATUM, d ˈeɪ t ə m
 DAUB, d ˈɔː b
 DAUGHTER, d ˈɔː t ə
 DAUGHTERS, d ˈɔː t ə z
@@ -4098,6 +4103,7 @@ DEVOTES, d ɪ v ˈəʊ t s
 DEW, d j ˈuː
 DIABETES, d ˌaɪ ə b ˈiː t iː z
 DIAGNOSE, d ˈaɪ ə g n ˌəʊ z
+DIAGNOSES, d ˌaɪ ə g n ˈəʊ s iː z
 DIAGNOSIS, d ˌaɪ ə g n ˈəʊ s ɪ s
 DIAGNOSTIC, d ˌaɪ ə g n ˈɒ s t ɪ k
 DIAGONAL, d aɪ ˈæ g ə n ə l
@@ -4801,6 +4807,7 @@ ELLEN, ˈɛ l ə n
 ELLIE, ˈɛ l iː
 ELLIOTT, ˈɛ l ɪə t
 ELLIPSE, ɪ l ˈɪ p s
+ELLIPSES, ɪ l ˈɪ p s iː z
 ELLIPSIS, ɪ l ˈɪ p s ɪ s
 ELM, ˈɛ l m
 ELS, ˈɛ l z
@@ -4940,6 +4947,7 @@ ENGINES, ˈɛ n dʒ ɪ n z
 ENGLAND, ˈɪ ŋ g l ə n d
 ENGLISH, ˈɪ ŋ g l ɪ ʃ
 ENGLISHMAN, ˈɪ ŋ g l ɪ ʃ m ə n
+ENGLISHMEN, ˈɪ ŋ g l ɪ ʃ m ə n
 ENHANCE(1), ɪ n h ˈɑː n s
 ENHANCE(2), ɛ n h ˈɑː n s
 ENHANCED(1), ɪ n h ˈɑː n s t
@@ -5802,10 +5810,12 @@ FORESTS, f ˈɒ ɹ ɪ s t s
 FOREVER, f ə ɹ ˈɛ v ə
 FOREWENT, f ɔː w ˈɛ n t
 FORFEIT, f ˈɔː f ɪ t
+FORGAVE, f ə g ˈeɪ v
 FORGE, f ˈɔː dʒ
 FORGET, f ə g ˈɛ t
 FORGETTING, f ə g ˈɛ t ɪ ŋ
 FORGIVE, f ə g ˈɪ v
+FORGIVEN, f ə g ˈɪ v ə n
 FORGIVENESS, f ə g ˈɪ v n ɪ s
 FORGO, f ɔː g ˈəʊ
 FORGONE, f ɔː g ˈɒ n
@@ -5828,6 +5838,8 @@ FORMIDABLE(2), f ˌɔː m ˈɪ d ə b ə l
 FORMING, f ˈɔː m ɪ ŋ
 FORMS, f ˈɔː m z
 FORMULA, f ˈɔː m j ʊ l ə
+FORMULAE, f ˈɔː m j ʊ l iː
+FORMULAS, f ˈɔː m j ʊ l ə z
 FORMULATE, f ˈɔː m j ʊ l ˈeɪ t
 FORMULATION, f ˌɔː m j ʊ l ˈeɪ ʃ ə n
 FORSAKE, f ə s ˈeɪ k
@@ -7125,6 +7137,7 @@ HYMN, h ˈɪ m
 HYPE, h ˈaɪ p
 HYPERBOLE, h aɪ p ˈɜː b ə l iː
 HYPHEN, h ˈaɪ f ə n
+HYPOTHESES, h aɪ p ˈɒ θ ɪ s iː z
 HYPOTHESIS, h aɪ p ˈɒ θ ɪ s ɪ s
 HYPOTHETICAL, h ˌaɪ p ə θ ˈɛ t ɪ k ə l
 HYUNDAI(1), h aɪ ˈuː n d aɪ
@@ -8902,6 +8915,7 @@ MAVEN, m ˈeɪ v ə n
 MAVERICK, m ˈæ v ə ɹ ɪ k
 MAX, m ˈæ k s
 MAXIM, m ˈæ k s ɪ m
+MAXIMA, m ˈæ k s ɪ m ə
 MAXIMIZE, m ˈæ k s ɪ m ˌaɪ z
 MAXIMUM, m ˈæ k s ɪ m ə m
 MAXINE, m ˈæ k s iː n
@@ -8983,7 +8997,9 @@ MEMBRANE, m ˈɛ m b ɹ ˌeɪ n
 MEMO, m ˈɛ m ˌəʊ
 MEMORABILIA, m ˌɛ m ə ɹ ə b ˈiː l ɪə
 MEMORABLE, m ˈɛ m ə ɹ ə b ə l
+MEMORANDA, m ˌɛ m ə ɹ ˈæ n d ə
 MEMORANDUM, m ˌɛ m ə ɹ ˈæ n d ə m
+MEMORANDUMS, m ˌɛ m ə ɹ ˈæ n d ə m z
 MEMORIAL, m ɪ m ˈɔː ɹ ɪə l
 MEMORIES, m ˈɛ m ə ɹ iː z
 MEMORISE, m ˈɛ m ə ɹ ˌaɪ z
@@ -9076,6 +9092,7 @@ MIDDLESBROUGH, m ˈɪ d ə l z b ɹ ə
 MIDDLESEX, m ˈɪ d ə l s ɛ k s
 MIDGET, m ˈɪ dʒ ɪ t
 MIDI, m ˈɪ d iː
+MIDLAND, m ˈɪ d l ə n d
 MIDLANDS, m ˈɪ d l ə n d z
 MIDLOTHIAN, m ɪ d l ˈəʊ ð ɪə n
 MIDNIGHT, m ˈɪ d n ˌaɪ t
@@ -9127,6 +9144,7 @@ MINES, m ˈaɪ n z
 MINI, m ˈɪ n iː
 MINIATURE, m ˈɪ n ɪ tʃ ə
 MINIBUS, m ˈɪ n ɪ b ˌɐ s
+MINIMA, m ˈɪ n ɪ m ə
 MINIMAL, m ˈɪ n ɪ m ə l
 MINIMIZE, m ˈɪ n ɪ m ˌaɪ z
 MINIMUM, m ˈɪ n ɪ m ə m
@@ -9184,6 +9202,7 @@ MISTAKE, m ɪ s t ˈeɪ k
 MISTAKEN, m ɪ s t ˈeɪ k ə n
 MISTAKES, m ɪ s t ˈeɪ k s
 MISTER, m ˈɪ s t ə
+MISTOOK, m ɪ s t ˈʊ k
 MISTRESS, m ˈɪ s t ɹ ɪ s
 MISTY, m ˈɪ s t iː
 MISUNDERSTAND, m ˌɪ s ɐ n d ə s t ˈæ n d
@@ -9676,6 +9695,7 @@ NINES, n ˈaɪ n z
 NINETEEN(1), n ˈaɪ n t iː n
 NINETEEN(2), n aɪ n t ˈiː n
 NINETEENTH, n aɪ n t ˈiː n θ
+NINETEENTH-CENTURY, n ˌaɪ n t iː n θ s ˈɛ n tʃ ə ɹ iː
 NINETIES, n ˈaɪ n t iː z
 NINETY, n ˈaɪ n t iː
 NINJA, n ɪ n dʒ ə
@@ -10138,6 +10158,7 @@ OVAL, ˈəʊ v ə l
 OVEN, ˈɐ v ə n
 OVER, ˈəʊ v ə
 OVERALL, ˈəʊ v ə ɹ ɔː l
+OVERCAME, ˈəʊ v ə k ˌeɪ m
 OVERCOME, ˈəʊ v ə k ˌɐ m
 OVERHEAD(1), ˈəʊ v ə h ˌɛ d
 OVERHEAD(2), ˌəʊ v ə h ˈɛ d
@@ -11296,6 +11317,7 @@ PROSECUTION, p ɹ ˌɒ s ɪ k j ˈuː ʃ ə n
 PROSPECT, p ɹ ˈɒ s p ɛ k t
 PROSPECTIVE, p ɹ ə s p ˈɛ k t ɪ v
 PROSPECTS, p ɹ ˈɒ s p ɛ k t s
+PROSPECTUS, p ɹ ə s p ˈɛ k t ə s
 PROSPERITY, p ɹ ɒ s p ˈɛ ɹ ɪ t iː
 PROSTATE, p ɹ ˈɒ s t ˌeɪ t
 PROSTITUTE, p ɹ ˈɒ s t ɪ t j ˌuː t
@@ -11683,6 +11705,7 @@ REBELS(2), ɹ ˈɛ b ə l z
 REBOUND(1), ɹ ɪ b ˈaʊ n d
 REBOUND(2), ɹ ˈiː b aʊ n d
 REBUILD, ɹ iː b ˈɪ l d
+REBUILT, ɹ iː b ˈɪ l t
 RECALL(1), ɹ ɪ k ˈɔː l
 RECALL(2), ɹ ˈiː k ɔː l
 RECALLED, ɹ ɪ k ˈɔː l d
@@ -11776,6 +11799,7 @@ REFERENCED(1), ɹ ˈɛ f ɹ ə n s t
 REFERENCED(2), ɹ ˈɛ f ə ɹ ə n s t
 REFERENCES(1), ɹ ˈɛ f ɹ ə n s ɪ z
 REFERENCES(2), ɹ ˈɛ f ə ɹ ə n s ɪ z
+REFERENDA, ɹ ˌɛ f ə ɹ ˈɛ n d ə
 REFERENDUM, ɹ ˌɛ f ə ɹ ˈɛ n d ə m
 REFERRAL, ɹ ɪ f ˈɛ ɹ ə l
 REFERRALS, ɹ ɪ f ˈɛ ɹ ə l z
@@ -11941,6 +11965,7 @@ RENT, ɹ ˈɛ n t
 RENTAL, ɹ ˈɛ n t ə l
 RENTALS, ɹ ˈɛ n t ə l z
 REP, ɹ ˈɛ p
+REPAID, ɹ ɪ p ˈeɪ d
 REPAIR, ɹ ɪ p ˈɛə
 REPAIRS, ɹ ɪ p ˈɛə z
 REPAY, ɹ ɪ p ˈeɪ
@@ -12827,6 +12852,7 @@ SHADOWS, ʃ ˈæ d ˌəʊ z
 SHADY, ʃ ˈeɪ d iː
 SHAFT, ʃ ˈɑː f t
 SHAG, ʃ ˈæ g
+SHAH, ʃ ˈɑː
 SHAKE, ʃ ˈeɪ k
 SHAKEN, ʃ ˈeɪ k ə n
 SHAKESPEARE, ʃ ˈeɪ k s p ɪə
@@ -13457,6 +13483,7 @@ SPECTACLE, s p ˈɛ k t ə k ə l
 SPECTACULAR, s p ɛ k t ˈæ k j ʊ l ə
 SPECTATOR, s p ɛ k t ˈeɪ t ə
 SPECTATORS, s p ɛ k t ˈeɪ t ə z
+SPECTRA, s p ˈɛ k t ɹ ə
 SPECTRUM, s p ˈɛ k t ɹ ə m
 SPECULATION, s p ˌɛ k j ʊ l ˈeɪ ʃ ə n
 SPED, s p ˈɛ d
@@ -13511,6 +13538,7 @@ SPOILT, s p ˈɔɪ l t
 SPOKE, s p ˈəʊ k
 SPOKEN, s p ˈəʊ k ə n
 SPOKESMAN, s p ˈəʊ k s m ə n
+SPOKESMEN, s p ˈəʊ k s m ə n
 SPONGE, s p ˈɐ n dʒ
 SPONSOR, s p ˈɒ n s ə
 SPONSORED, s p ˈɒ n s ə d
@@ -13580,6 +13608,7 @@ STABILIZE, s t ˈeɪ b ɪ l ˌaɪ z
 STABLE, s t ˈeɪ b ə l
 STACEY, s t ˈeɪ s iː
 STACK, s t ˈæ k
+STADIA, s t ˈeɪ d ɪə
 STADIUM, s t ˈeɪ d ɪə m
 STAFF, s t ˈɑː f
 STAFFING, s t ˈɑː f ɪ ŋ
@@ -13590,6 +13619,7 @@ STAGE, s t ˈeɪ dʒ
 STAGES, s t ˈeɪ dʒ ɪ z
 STAIN, s t ˈeɪ n
 STAINLESS, s t ˈeɪ n l ɪ s
+STAIR, s t ˈɛə
 STAIRCASE, s t ˈɛə k ˌeɪ s
 STAIRS, s t ˈɛə z
 STAKE, s t ˈeɪ k
@@ -13650,6 +13680,7 @@ STATS, s t ˈæ t s
 STATUE(1), s t ˈæ tʃ uː
 STATUE(2), s t ˈæ t j uː
 STATUS, s t ˈeɪ t ə s
+STATUSES, s t ˈeɪ t ə s ɪ z
 STATUTE, s t ˈæ tʃ uː t
 STATUTES, s t ˈæ tʃ uː t s
 STATUTORY, s t ˈæ tʃ ʊ t ə ɹ iː
@@ -13706,6 +13737,7 @@ STILT, s t ˈɪ l t
 STILTS, s t ˈɪ l t s
 STIMULATE, s t ˈɪ m j ʊ l ˌeɪ t
 STIMULATION, s t ˌɪ m j ʊ l ˈeɪ ʃ ə n
+STIMULI, s t ˈɪ m j ʊ l ˌaɪ
 STIMULUS, s t ˈɪ m j ʊ l ə s
 STING, s t ˈɪ ŋ
 STINK, s t ˈɪ ŋ k
@@ -14159,9 +14191,11 @@ SYNDROME, s ˈɪ n d ɹ ˌəʊ m
 SYNERGY, s ˈɪ n ə dʒ iː
 SYNOD, s ˈɪ n ə d
 SYNONYMOUS, s ɪ n ˈɒ n ɪ m ə s
+SYNOPSES, s ɪ n ˈɒ p s iː z
 SYNOPSIS, s ɪ n ˈɒ p s ɪ s
 SYNTACTIC, s ˈɪ n t ˌæ k t ɪ k
 SYNTAX, s ˈɪ n t ˌæ k s
+SYNTHESES, s ˈɪ n θ ɪ s iː z
 SYNTHESIS, s ˈɪ n θ ɪ s ɪ s
 SYNTHETIC, s ɪ n θ ˈɛ t ɪ k
 SYRACUSE, s ˈɪ ɹ ə k j ˌuː z
@@ -15006,6 +15040,7 @@ TWELVE, t w ˈɛ l v
 TWENTIES, t w ˈɛ n t iː z
 TWENTIETH, t w ˈɛ n t iː ɪ θ
 TWENTY, t w ˈɛ n t iː
+TWENTY-FIVE, t w ˌɛ n t iː f ˈaɪ v
 TWICE, t w ˈaɪ s
 TWIG, t w ˈɪ g
 TWIN, t w ˈɪ n
@@ -15067,6 +15102,7 @@ UNCOVER, ɐ n k ˈɐ v ə
 UNDEFINED, ˌɐ n d ɪ f ˈaɪ n d
 UNDER, ˈɐ n d ə
 UNDERGO, ˌɐ n d ə g ˈəʊ
+UNDERGONE, ˌɐ n d ə g ˈɒ n
 UNDERGRADUATE, ˌɐ n d ə g ɹ ˈæ d j ʊə t
 UNDERGROUND, ˈɐ n d ə g ɹ ˌaʊ n d
 UNDERLIE, ˌɐ n d ə l ˈaɪ
@@ -15084,6 +15120,7 @@ UNDERTAKE, ˈɐ n d ə t ˌeɪ k
 UNDERTAKEN, ˈɐ n d ə t ˌeɪ k ə n
 UNDERTAKING, ˈɐ n d ə t ˌeɪ k ɪ ŋ
 UNDERWEAR, ˈɐ n d ə w ˌɛə
+UNDERWENT, ˌɐ n d ə w ˈɛ n t
 UNDO, ɐ n d ˈuː
 UNDONE, ɐ n d ˈɐ n
 UNDOUBTEDLY, ɐ n d ˈaʊ t ɪ d l iː
@@ -15617,6 +15654,7 @@ WATCHED, w ˈɒ tʃ t
 WATCHES, w ˈɒ tʃ ɪ z
 WATCHING, w ˈɒ tʃ ɪ ŋ
 WATER, w ˈɔː t ə
+WATERCRAFT, w ˈɔː t ə k ɹ ˌɑː f t
 WATERMELON, w ˈɔː t ə m ˌɛ l ə n
 WATERPROOF, w ˈɔː t ə p ɹ ˌuː f
 WATERS, w ˈɔː t ə z
