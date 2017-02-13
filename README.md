@@ -4,12 +4,17 @@
 
 British English (RP/Standard Southern British ) pronunciation dictionary:
 
-* +12,000 entries including the top 10,000 most frequent words as per [BNC](http://www.kilgarriff.co.uk/bnc-readme.html)
+* +16,000 entries including the top 10,000 most frequent words as per [BNC](http://www.kilgarriff.co.uk/bnc-readme.html)
  and [Google Web Corpus](http://norvig.com/ngrams)
 * IPA transcription including primary and secondary stress
 * MIT license
 * separate expansion dictionary spelling out punctuation and abbreviations
 * both American and British spelling variants
+* all UK counties
+* all London boroughs
+* all major UK towns
+* most common irregular plurals
+* most common irregular verbs
 
 ## Format
 
@@ -28,7 +33,7 @@ RALEIGH(1), ɹ ˈɑː l iː
 RALEIGH(2), ɹ ˈɔː l iː
 ```
 
-Stress marks are attached to the stressed vowel.
+Stress marks are attached to the stressed vowel/diphthong.
 
 In the expansions dictionary entries are also in upper case, tab-separated from their expansions:
 
@@ -43,27 +48,28 @@ MR.	MISTER
 MRS	MISSIS
 MRS.	MISSIS
 ```
-## Issues
+## Issues and remarks
 
 
 * **strict IPA versus traditional phonetic symbols**: the phonetic symbols are strictly as defined by the IPA, as opposed to how
-they have traditionally been used in the linguistic literature. In particular:
+they have traditionally been used in many dictionaries and the language learning literature. In particular:
 
   - /ɐ/ instead of traditional /ʌ/
   - /ɹ/ instead of traditional /r/
   - /ɛ/ instead of traditional /e/
   - /ɜː/ instead of traditional /əː/
 
-* **unstressed vowels as  /ə/ and  /ɪ/**: due to the diversity of the sources for phonetic transcription, there's a fair amount of inconsistency in how [weak vowels](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Weak-vowel_merger)
- are transcribed.
+* **unstressed vowels as /ə/ and /ɪ/**: due to the diversity of the sources for phonetic transcription, there's some inconsistency in how [weak vowels](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Weak-vowel_merger)
+ are transcribed; however in most cases /ɪ/ is used, following the Collins Dictionary.
 
-* **final _i_**: final _i's_ are given the "long i" /iː/ phoneme to reflect [happy-tensing](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Happy-tensing), even
-though some dictionaries show a tense but [short /i/](https://en.wikipedia.org/wiki/English_phonology), different from both /iː/ and /ɪ/.
+* **final _i_**: final unstressed _i's_ are given the "long i" /iː/ phoneme to reflect [happy-tensing](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Happy-tensing). However
+most dictionaries show either a tense but [short /i/](https://en.wikipedia.org/wiki/English_phonology), different from both /iː/ and /ɪ/, or the short tense /ɪ/. The plan is to represent this sound separately as /i/ in the next version of Britfone.
+Additionally, there's some inconsistency in the transcription as happy-tensing is preserved in inflected variants (study-studied) but this is not reflected as of yet.
 
 * **secondary stress**: secondary stress is not always marked (the primary always is).
 
-* **stems and inflections**: not all inflected words have all their inflected variants, and not all variants show all of the alternative pronunciations. The possessive form _-'s_
-of nouns is not included.
+* **stems and inflections**: not all inflected words (noun, verbs, adjectives and adverbs) have all their inflected variants, and not all variants show all of the alternative pronunciations. The possessive form _-'s_
+of nouns is not included, and neither is the superlative form of most adjectives and adverbs.
 
 * **acronyms vs initialisms**: The expansions dictionary only contains _acronyms_, i.e., words that are _not_ pronounced by spelling
  out the individual letters, i.e.,  _initialisms_ (e.g. _BBC_, _NHS_) are excluded. The pronunciation of these can
@@ -72,15 +78,15 @@ of nouns is not included.
 
 ## Sources
 
-The initial source of the phonetic transcriptions is [cmudict](https://github.com/cmusphinx/cmudict), plus a number of online sources for  British English specifics.
+The initial source of the phonetic transcriptions is [cmudict](https://github.com/cmusphinx/cmudict), plus a number of other sources for British English specifics: Wiktionary, Wikipedia, the Collins Dictionary, the Oxford Dictionary, the Cambridge Dictionary and the MacMillan Dictionary.
 
-The main sources of the word frequency-filtered vocabulary are the top 10K in the British National Corpus and the Google Web Corpus. Not all words in these lists are included
+The main sources of the word frequency-filtered vocabulary are the top 10K in the British National Corpus, the Google Web Corpus and the New General Service Lists. Not all words in these lists are included
 since due to sampling bias there are uncommon words like _athelstan_ or _phentermine_, as well as foreign words. Also excluded are initialisms.
 
 
 ## MIT License (MIT)
 
-Copyright (c) 2015 by Jose Llarena
+Copyright (c) 2017 by Jose Llarena
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of
 this software and associated documentation files (the "Software"), to deal in
