@@ -63,7 +63,7 @@ they have traditionally been used in many dictionaries and the language learning
  are transcribed, though in most cases /ɪ/ is used, following the Collins Dictionary.
 
 * **final _i_**: final unstressed _i's_ are given the "long i" /iː/ phoneme to reflect [happy-tensing](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Happy-tensing). However
-most dictionaries show either a tense but [short /i/](https://en.wikipedia.org/wiki/English_phonology), different from both /iː/ and /ɪ/, or the short tense /ɪ/. The plan is to represent this sound separately as /i/ in the next version of Britfone.
+most dictionaries show either a tense but [short /i/](https://en.wikipedia.org/wiki/English_phonology), different from both /iː/ and /ɪ/, or the short tense /ɪ/. This sound will be represented separately as /i/ in the next version of Britfone.
 Additionally, there's some inconsistency in the transcription as happy-tensing is preserved in inflected variants in spoken English (e.g., _studied_ derives it from _study_, and it contrasts with _studded_) yet this is not always reflected in the dictionary.
 
 * **secondary stress**: secondary stress is not always marked (the primary always is).
@@ -78,14 +78,15 @@ of nouns is not included, and neither is the superlative form of most adjectives
 
 ## Sources
 
-The initial source of the phonetic transcriptions is [cmudict](https://github.com/cmusphinx/cmudict), plus a number of other sources for British English specifics: Wiktionary, Wikipedia, the Collins Dictionary, the Oxford Dictionary, the Cambridge Dictionary and the MacMillan Dictionary.
+The initial source of the phonetic transcriptions is [cmudict](https://github.com/cmusphinx/cmudict), plus a number of other sources for British English specifics:
+Wiktionary, Wikipedia, the Collins Dictionary, the Oxford Dictionary, the Cambridge Dictionary and the MacMillan Dictionary.
 
-The main sources of the word frequency-filtered vocabulary are the top 10K in the British National Corpus, the Google Web Corpus and the New General Service Lists. Not all words in these lists are included
-since due to sampling bias there are uncommon words like _athelstan_ or _phentermine_, as well as foreign words. Also excluded are initialisms.
+The main sources of the word frequency-filtered vocabulary are the top 10K in the British National Corpus, the Google Web Corpus and the [New General Service Lists](http://www.newgeneralservicelist.org).
+Not all words in these lists are included since due to sampling bias there are uncommon words like _athelstan_ or _phentermine_, as well as foreign words. Also excluded are initialisms.
 
 ## Changelog
 
-See commit history
+See [commit history](https://github.com/JoseLlarena/Britfone/commits/master)
 
 ## MIT License (MIT)
 
