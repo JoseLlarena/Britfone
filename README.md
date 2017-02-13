@@ -83,6 +83,9 @@ The initial source of the phonetic transcriptions is [cmudict](https://github.co
 The main sources of the word frequency-filtered vocabulary are the top 10K in the British National Corpus, the Google Web Corpus and the New General Service Lists. Not all words in these lists are included
 since due to sampling bias there are uncommon words like _athelstan_ or _phentermine_, as well as foreign words. Also excluded are initialisms.
 
+## Changelog
+
+See commit history
 
 ## MIT License (MIT)
 
