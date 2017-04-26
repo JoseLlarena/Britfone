@@ -62,9 +62,8 @@ they have traditionally been used in many dictionaries and the language learning
 * **unstressed vowels as /ə/ and /ɪ/**: due to the diversity of the sources for phonetic transcription, there's some inconsistency in how [weak vowels](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Developments_involving_weak_vowels)
  are transcribed, though in most cases /ɪ/ is used, following the Collins Dictionary.
 
-* **final _i_**: final unstressed _i's_ are given the "long i" /iː/ phoneme to reflect [happy-tensing](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Happy-tensing). However
-most dictionaries show either a tense but [short /i/](https://en.wikipedia.org/wiki/English_phonology), different from both /iː/ and /ɪ/, or the short tense /ɪ/. This sound will be represented separately as /i/ in the next version of Britfone.
-Additionally, there's some inconsistency in the transcription as happy-tensing is preserved in inflected variants in spoken English (e.g., _studied_ derives it from _study_, and it contrasts with _studded_) yet this is not always reflected in the dictionary.
+* **final _i_**: final unstressed _i's_ are given a short tense "i" phoneme /i/, different from both /iː/ and /ɪ/, to reflect [happy-tensing](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Happy-tensing). Most dictionaries show this vowel (https://en.wikipedia.org/wiki/English_phonology) or the short tense /ɪ/.
+There might be some inconsistency in the transcription as happy-tensing is preserved in inflected variants in spoken English (e.g., _studied_ derives it from _study_, and it contrasts with _studded_) yet this might not always be reflected in the dictionary.
 
 * **secondary stress**: secondary stress is not always marked (the primary always is).
 
