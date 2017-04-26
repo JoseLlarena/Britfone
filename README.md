@@ -13,6 +13,8 @@ British English (RP/Standard Southern British ) pronunciation dictionary:
 * all UK counties
 * all London boroughs
 * all major UK towns
+* all European capitals
+* all US states
 * all common irregular plurals
 * all common irregular verbs
 
@@ -86,6 +88,10 @@ Not all words in these lists are included since due to sampling bias there are u
 ## Changelog
 
 See [commit history](https://github.com/JoseLlarena/Britfone/commits/master)
+
+## Contribuiting
+
+If you'd like to contribute a correction or an addition, or make a request for an addition, you can make a pull request or open an issue.
 
 ## MIT License (MIT)
 
