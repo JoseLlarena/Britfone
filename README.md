@@ -59,7 +59,7 @@ they have traditionally been used in many dictionaries and the language learning
   - /ɛ/ instead of traditional /e/
   - /ɜː/ instead of traditional /əː/
 
-* **unstressed vowels as /ə/ and /ɪ/**: due to the diversity of the sources for phonetic transcription, there's some inconsistency in how [weak vowels](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Weak-vowel_merger)
+* **unstressed vowels as /ə/ and /ɪ/**: due to the diversity of the sources for phonetic transcription, there's some inconsistency in how [weak vowels](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Developments_involving_weak_vowels)
  are transcribed, though in most cases /ɪ/ is used, following the Collins Dictionary.
 
 * **final _i_**: final unstressed _i's_ are given the "long i" /iː/ phoneme to reflect [happy-tensing](https://en.wikipedia.org/wiki/Phonological_history_of_English_high_front_vowels#Happy-tensing). However
