@@ -91,7 +91,7 @@ See [commit history](https://github.com/JoseLlarena/Britfone/commits/master)
 
 ## Contribuiting
 
-If you'd like to contribute a correction or an addition, or make a request for an addition, you can make a pull request or open an issue.
+If you'd like to contribute a correction or an addition, or make a request for an addition, you can make a [pull request](https://github.com/JoseLlarena/Britfone/pulls) or open an [issue](https://github.com/JoseLlarena/Britfone/issues).
 
 ## MIT License (MIT)
 
