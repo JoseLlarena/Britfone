@@ -31,8 +31,8 @@ RAISED, ɹ ˈeɪ z d
 RAISES, ɹ ˈeɪ z ɪ z
 RAISING, ɹ ˈeɪ z ɪ ŋ
 RAISINS, ɹ ˈeɪ z ɪ n z
-RALEIGH(1), ɹ ˈɑː l iː
-RALEIGH(2), ɹ ˈɔː l iː
+RALEIGH(1), ɹ ˈɑː l i
+RALEIGH(2), ɹ ˈɔː l i
 ```
 
 Stress marks are attached to the stressed vowel/diphthong.
