@@ -98,9 +98,9 @@ ACCIDENTS, ˈæ k s ɪ d ə n t s
 ACCOMMODATE, ə k ˈɒ m ə d ˌeɪ t
 ACCOMMODATION, ə k ˌɒ m ə d ˈeɪ ʃ ə n
 ACCOMMODATIONS, ə k ˌɒ m ə d ˈeɪ ʃ ə n z
-ACCOMPANIED, ə k ˈɐ m p ə n iː d
+ACCOMPANIED, ə k ˈɐ m p ə n i d
 ACCOMPANY, ə k ˈɐ m p ə n i
-ACCOMPANYING, ə k ˈɐ m p ə n iː ɪ ŋ
+ACCOMPANYING, ə k ˈɐ m p ə n i ɪ ŋ
 ACCOMPLISH, ə k ˈɒ m p l ɪ ʃ
 ACCOMPLISHED, ə k ˈɒ m p l ɪ ʃ t
 ACCORD, ə k ˈɔː d
@@ -2228,7 +2228,7 @@ CARROLL, k ˈæ ɹ ə l
 CARROT, k ˈæ ɹ ə t
 CARROTS, k ˈæ ɹ ə t s
 CARRY, k ˈæ ɹ i
-CARRYING, k ˈæ ɹ iː ɪ ŋ
+CARRYING, k ˈæ ɹ i ɪ ŋ
 CARS, k ˈɑː z
 CART, k ˈɑː t
 CARTER, k ˈɑː t ə
@@ -3346,7 +3346,7 @@ COPIES, k ˈɒ p i z
 COPPER, k ˈɒ p ə
 COPS, k ˈɒ p s
 COPY, k ˈɒ p i
-COPYING, k ˈɒ p iː ɪ ŋ
+COPYING, k ˈɒ p i ɪ ŋ
 COPYRIGHT, k ˈɒ p iː ɹ ˌaɪ t
 COPYRIGHTED, k ˈɒ p iː ɹ ˌaɪ t ɪ d
 COPYRIGHTS, k ˈɒ p iː ɹ ˌaɪ t s
@@ -3403,7 +3403,7 @@ COSMIC, k ˈɒ z m ɪ k
 COSMOS, k ˈɒ z m ɒ s
 COST, k ˈɒ s t
 COSTA, k ˈɒ s t ə
-COSTA RICA, k ˌɒ s t ə ɹ ˈiː k ə
+COSTA_RICA, k ˌɒ s t ə ɹ ˈiː k ə
 COSTING, k ˈɒ s t ɪ ŋ
 COSTLY, k ˈɒ s t l i
 COSTS, k ˈɒ s t s
@@ -4663,7 +4663,7 @@ EARTH, ˈɜː θ
 EARTHQUAKE, ˈɜː θ k w ˌeɪ k
 EASE, ˈiː z
 EASIER, ˈiː z iː ə
-EASIEST, ˈiː z iː ɪ s t
+EASIEST, ˈiː z i ɪ s t
 EASILY, ˈiː z ɪ l i
 EAST, ˈiː s t
 EASTBOURNE, ˈiː s t b ˌɔː n
@@ -8588,7 +8588,6 @@ LORNA, l ˈɔː n ə
 LORRAINE, l ɒ ɹ ˈeɪ n
 LORRIES, l ˈɒ ɹ i z
 LORRY, l ˈɒ ɹ i
-LOS ANGELES, l ɒ s ˈæ n dʒ ɪ l ˌiː z
 LOSE, l ˈuː z
 LOSER, l ˈuː z ə
 LOSES, l ˈuː z ɪ z
@@ -8596,6 +8595,7 @@ LOSING, l ˈuː z ɪ ŋ
 LOSS, l ˈɒ s
 LOSSES, l ˈɒ s ɪ z
 LOST, l ˈɒ s t
+LOS_ANGELES, l ɒ s ˈæ n dʒ ɪ l ˌiː z
 LOT, l ˈɒ t
 LOTHIAN, l ˈəʊ ð ɪə n
 LOTION, l ˈəʊ ʃ ə n
@@ -8857,7 +8857,7 @@ MARRIED, m ˈæ ɹ iː d
 MARRIOTT, m ˈæ ɹ ɪə t
 MARROW, m ˈæ ɹ əʊ
 MARRY, m ˈæ ɹ i
-MARRYING, m ˈæ ɹ iː ɪ ŋ
+MARRYING, m ˈæ ɹ i ɪ ŋ
 MARS, m ˈɑː z
 MARSH, m ˈɑː ʃ
 MARSHAL, m ˈɑː ʃ ə l
@@ -10269,8 +10269,8 @@ PALACE, p ˈæ l ɪ s
 PALE, p ˈeɪ l
 PALESTINE, p ˈæ l ə s t ˌaɪ n
 PALESTINIAN, p ˌæ l ɪ s t ˈɪ n ɪə n
-PALL MALL, p ˈæ l m ˈæ l
 PALLET, p ˈæ l ɪ t
+PALL_MALL, p ˈæ l m ˈæ l
 PALM, p ˈɑː m
 PALMER, p ˈɑː m ə
 PALSY, p ˈɔː l z i
@@ -12503,7 +12503,6 @@ SAMUEL, s ˈæ m j ʊə l
 SAMURAI(1), s ˈæ m j ʊ ɹ ˌaɪ
 SAMURAI(2), s ˈæ m ʊ ɹ ˌaɪ
 SAN, s ˈæ n
-SAN MARINO, s ˌæ n m ə ɹ ˈiː n ə
 SANCTION(1), s ˈæ ŋ ʃ ə n
 SANCTION(2), s ˈæ ŋ k ʃ ə n
 SANCTIONS(1), s ˈæ ŋ ʃ ə n z
@@ -12522,6 +12521,7 @@ SANK, s ˈæ ŋ k
 SANS, s ˈæ n z
 SANTA, s ˈæ n t ə
 SANYO, s ˈæ n j əʊ
+SAN_MARINO, s ˌæ n m ə ɹ ˈiː n ə
 SAP, s ˈæ p
 SAPPHIRE, s ˈæ f aɪ ə
 SARA, s ˈɛə ɹ ə
@@ -13636,7 +13636,7 @@ SQUID, s k w ˈɪ d
 SQUIRREL, s k w ˈɪ ɹ ə l
 SQUIRT, s k w ˈɜː t
 SQUIRTING, s k w ˈɜː t ɪ ŋ
-SRI LANKA, s ɹ ˌiː l ˈæ ŋ k ə
+SRI_LANKA, s ɹ ˌiː l ˈæ ŋ k ə
 STAB, s t ˈæ b
 STABBED, s t ˈæ b d
 STABILISE, s t ˈeɪ b ɪ l ˌaɪ z
@@ -13911,7 +13911,7 @@ STUDIES, s t ˈɐ d i z
 STUDIO, s t j ˈuː d ɪ ˌəʊ
 STUDIOS, s t j ˈuː d ɪ ˌəʊ z
 STUDY, s t ˈɐ d i
-STUDYING, s t ˈɐ d iː ɪ ŋ
+STUDYING, s t ˈɐ d i ɪ ŋ
 STUFF, s t ˈɐ f
 STUFFED, s t ˈɐ f t
 STUMBLE, s t ˈɐ m b ə l
@@ -14562,7 +14562,7 @@ THIRTEEN(1), θ ˈɜː t ˌiː n
 THIRTEEN(2), θ ɜː t ˈiː n
 THIRTEENTH, θ ɜː t ˈiː n θ
 THIRTIES, θ ˈɜː t i z
-THIRTIETH, θ ˈɜː t iː ɪ θ
+THIRTIETH, θ ˈɜː t i ɪ θ
 THIRTY, θ ˈɜː t i
 THIS(1), ð ɪ s
 THIS(2), ð ˈɪ s
@@ -15078,7 +15078,7 @@ TWELFTH, t w ˈɛ l f θ
 TWELFTHS, t w ˈɛ l f θ s
 TWELVE, t w ˈɛ l v
 TWENTIES, t w ˈɛ n t i z
-TWENTIETH, t w ˈɛ n t iː ɪ θ
+TWENTIETH, t w ˈɛ n t i ɪ θ
 TWENTY, t w ˈɛ n t i
 TWENTY-FIVE, t w ˌɛ n t iː f ˈaɪ v
 TWICE, t w ˈaɪ s
@@ -15368,7 +15368,7 @@ VARIETY, v ə ɹ ˈaɪ ə t i
 VARIOUS, v ˈɛə ɹ ɪə s
 VARNISH, v ˈɑː n ɪ ʃ
 VARY, v ˈɛə ɹ i
-VARYING, v ˈɛə ɹ iː ɪ ŋ
+VARYING, v ˈɛə ɹ i ɪ ŋ
 VASE, v ˈɑː s
 VAST, v ˈɑː s t
 VASTLY, v ˈɑː s t l i
@@ -15451,8 +15451,8 @@ VIBRATOR, v ˈaɪ b ɹ eɪ t ə
 VIBRATORS, v ˈaɪ b ɹ eɪ t ə z
 VICAR, v ˈɪ k ə
 VICE, v ˈaɪ s
-VICE VERSA, v ˈaɪ s ɪ v ˈɜː s ə
 VICE-PRESIDENT, v ˌaɪ s p ɹ ˈɛ z ɪ d ə n t
+VICE_VERSA, v ˈaɪ s ɪ v ˈɜː s ə
 VICIOUS, v ˈɪ ʃ ə s
 VICKI, v ˈɪ k i
 VICKY, v ˈɪ k i
@@ -16034,7 +16034,7 @@ WORN, w ˈɔː n
 WORRIED, w ˈɐ ɹ iː d
 WORRIES, w ˈɐ ɹ i z
 WORRY, w ˈɐ ɹ i
-WORRYING, w ˈɐ ɹ iː ɪ ŋ
+WORRYING, w ˈɐ ɹ i ɪ ŋ
 WORSE, w ˈɜː s
 WORSEN, w ˈɜː s ə n
 WORSHIP, w ˈɜː ʃ ɪ p
