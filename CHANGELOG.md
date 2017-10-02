@@ -1,5 +1,13 @@
 ## Change Log
 
+### v3.0.0 (2017/10/02 19:41 +00:00)
+- [5f7f7d7](https://github.com/JoseLlarena/Britfone/commit/5f7f7d7c8eb4a207d4e7ac288b6b647472bb207c) build: update version number (@JoseLlarena)
+- [b2b4242](https://github.com/JoseLlarena/Britfone/commit/b2b4242cef34c8aa0fad45abb0b8eca3656d9168) doc: add changelog; update readme accordingly (@JoseLlarena)
+- [f871071](https://github.com/JoseLlarena/Britfone/commit/f871071217ea85cca8161bba29cbf504c047df22) feat: replace space with underscore (@JoseLlarena)
+- [7046142](https://github.com/JoseLlarena/Britfone/commit/7046142268e2494959f595e5f2a3825cadad0bf4) fix: replace long with short i in derived verb forms (@JoseLlarena)
+- [af4eb31](https://github.com/JoseLlarena/Britfone/commit/af4eb31c62bacde8b07c7c5aca976be06d46c907) fix: happy-tensing for -ing forms of verbs; feat: replacement of space with underscore (@JoseLlarena)
+- [6690946](https://github.com/JoseLlarena/Britfone/commit/6690946053d98d0b32a2afef975f1ad0e266a363) fix: kayak, trans(s)exual, trickle, qualitative, bras, dumfries; feat: add stickler, noodle, propagat(e,ed,es,ing,ion) (@JoseLlarena)
+
 ### v2.0.1 (2017/04/30 07:14 +00:00)
 - [449a9c7](https://github.com/JoseLlarena/Britfone/commit/449a9c741ba1b5559fbf475904980c83be98ea4d) ref: rename after version bump (@JoseLlarena)
 - [84c1013](https://github.com/JoseLlarena/Britfone/commit/84c1013583e17e78c38f2fddb10ac9c156649902) doc: fix examples (@JoseLlarena)
