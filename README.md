@@ -87,7 +87,7 @@ Not all words in these lists are included since due to sampling bias there are u
 
 ## Changelog
 
-See [commit history](https://github.com/JoseLlarena/Britfone/commits/master)
+See [Changelog](https://github.com/JoseLlarena/britfone /blob/master/CHANGELOG.md)
 
 ## Contribuiting
 
