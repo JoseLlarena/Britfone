@@ -37,6 +37,13 @@ RALEIGH(2), ɹ ˈɔː l i
 
 Stress marks are attached to the stressed vowel/diphthong.
 
+Multi-unit words are separated by the underscore `_`, which stands for an actual space ` `. This is to ease further
+processing:
+
+```
+COSTA_RICA, k ˌɒ s t ə ɹ ˈiː k ə
+```
+
 In the expansions dictionary entries are also in upper case, tab-separated from their expansions:
 
 
@@ -73,7 +80,7 @@ There might be some inconsistency in the transcription as happy-tensing is prese
 of nouns is not included, and neither is the superlative form of most adjectives and adverbs.
 
 * **acronyms vs initialisms**: The expansions dictionary only contains _acronyms_, i.e., words that are _not_ pronounced by spelling
- out the individual letters, i.e.,  _initialisms_ (e.g. _BBC_, _NHS_) are excluded. The pronunciation of these can
+ out the individual letters (e.g. NATO). _Initialisms_, on the other hand, (e.g. _BBC_, _NHS_) are excluded. The pronunciation of these can
  be obtained by looking up the [names of the individual letters](https://en.wikipedia.org/wiki/English_alphabet)
  in the main dictionary, then concatenating them.
 
@@ -87,7 +94,7 @@ Not all words in these lists are included since due to sampling bias there are u
 
 ## Changelog
 
-See [Changelog](https://github.com/JoseLlarena/britfone /blob/master/CHANGELOG.md)
+See [Changelog](https://github.com/JoseLlarena/britfone/blob/master/CHANGELOG.md)
 
 ## Contribuiting
 
