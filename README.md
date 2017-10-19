@@ -1,5 +1,7 @@
 ## Britfone
 
+[![Join the chat at https://gitter.im/Britfone/Lobby](https://badges.gitter.im/Britfone/Lobby.svg)](https://gitter.im/Britfone/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 
 British English (RP/Standard Southern British ) pronunciation dictionary:
